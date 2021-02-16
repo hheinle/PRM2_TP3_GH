@@ -1,96 +1,103 @@
-import java.io.*;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
-
 import com.itextpdf.text.exceptions.InvalidPdfException;
 import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.parser.PdfReaderContentParser;
-import com.itextpdf.text.pdf.parser.PdfTextExtractor;
 import com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy;
 import com.itextpdf.text.pdf.parser.TextExtractionStrategy;
+
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.nio.charset.Charset;
+import java.nio.charset.StandardCharsets;
+import java.nio.file.DirectoryStream;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class DoublonAnalyser {
 
     ArrayList<String> wordsList;
-    Map<String, Integer[]> fileScoresMap;
+    HashMap<String, HashMap<String, Integer>> fileScoresMap;
+
+    /**
+     *
+     */
     public DoublonAnalyser() {
         wordsList = new ArrayList<>();
         fileScoresMap = new HashMap<>();
     }
 
+    /**
+     *
+     */
     public void launch() {
-        this.getWords();
+        this.getReferenceWords();
         this.browseFiles();
     }
 
-    private void getWords() {
-        File file = new File("lexical_data/words");
+    /**
+     *
+     */
+    private void getReferenceWords() {
         try {
-            BufferedReader br = new BufferedReader(new FileReader(file));
-            String str;
-            while ((str = br.readLine()) != null) {
-                wordsList.add(str);
-            }
-    }
-        catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
-        catch (IOException e) {
+            Charset charset = StandardCharsets.UTF_8;
+            wordsList = (ArrayList<String>) Files.readAllLines(Paths.get("lexical_data/words"), charset);
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
+    /**
+     *
+     */
     private void browseFiles() {
-        String[] pathNames;
-        File file = new File("work_data");
-        pathNames = file.list();
-        for(String fileName: pathNames) {
-            fileScoresMap.put(fileName, this.computeScore(fileName));
-        }
-
-    }
-
-    private Integer[] computeScore(String fileName) {
-        Integer[] scoreVector = new Integer[wordsList.size()];
-        String fileString = this.parsePdf(fileName);
-        String[] arr = fileString.split(" ");
-        for(String str : arr) {
-            str.replaceAll(",|;|:","");
-            if(wordsList.contains(str)) {
-                int index = wordsList.indexOf(str);
-                if(scoreVector[index] != null) {
-                    scoreVector[index]++;
-                }
-                else {
-                    scoreVector[index]=0;
-                }
-
+        Path dir = Paths.get("work_data");
+        try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
+            for (Path aFile : stream) {
+                System.out.println("========================================");
+                String fileString = this.parsePdf(aFile.toFile().toString());
+                Map<String, Integer> map = fileString.lines()
+                        .flatMap(line -> Stream.of(line.split("\\s+")))//TODO : changer le splittage
+                        .map(String::toLowerCase)//TODO : pas de maj dans la wordList
+                        .filter(wordsList::contains)
+                        .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum));
+                // TODO : verifier que la clef n'est pas deja dans la map
+                fileScoresMap.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
             }
+            fileScoresMap.entrySet().forEach(entry -> {
+                System.out.println(entry.getKey() + " " + entry.getValue());
+            });
+            //TODO : enelever les doublons de la map
+
+        } catch (IOException e) {
+            e.printStackTrace();
         }
-        return scoreVector;
     }
 
+    /**
+     * @param fileName
+     * @return
+     */
     private String parsePdf(String fileName) {
         StringBuilder textFromPdf = new StringBuilder();
         try {
-            PdfReader reader = new PdfReader("work_data\\"+fileName);
+            PdfReader reader = new PdfReader(fileName);
             PdfReaderContentParser parser = new PdfReaderContentParser(reader);
             TextExtractionStrategy strategy;
             for (int i = 1; i <= reader.getNumberOfPages(); i++) {
                 strategy = parser.processContent(i, new SimpleTextExtractionStrategy());
-                textFromPdf.append(" "+strategy.getResultantText());
+                textFromPdf.append(" " + strategy.getResultantText());
             }
             reader.close();
-        }
-        catch (InvalidPdfException e) {
+        } catch (InvalidPdfException e) {
             e.printStackTrace();
-        }
-        catch (FileNotFoundException e) {
+        } catch (FileNotFoundException e) {
             e.printStackTrace();
-        }
-        catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         }
         return textFromPdf.toString();
