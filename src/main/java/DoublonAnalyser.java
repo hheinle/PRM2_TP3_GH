@@ -20,6 +20,10 @@ import java.util.stream.Stream;
 
 public class DoublonAnalyser {
 
+    /**
+     * Vocabulaire de référence
+     * sur les stages.
+     */
     ArrayList<String> wordsList;
     HashMap<String, HashMap<String, Integer>> fileScoresMap;
 
