@@ -12,9 +12,7 @@ import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -26,6 +24,8 @@ public class DoublonAnalyser {
      */
     ArrayList<String> wordsList;
     HashMap<String, HashMap<String, Integer>> fileScoresMap;
+    HashMap<String, HashMap<String, Integer>> doublons;
+    HashMap<String, HashMap<String, Integer>> cleanData;
 
     /**
      *
@@ -33,6 +33,8 @@ public class DoublonAnalyser {
     public DoublonAnalyser() {
         wordsList = new ArrayList<>();
         fileScoresMap = new HashMap<>();
+        doublons = new HashMap<>();
+        cleanData = new HashMap<>();
     }
 
     /**
@@ -61,21 +63,47 @@ public class DoublonAnalyser {
     private void browseFiles() {
         Path dir = Paths.get("work_data");
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
+            int count = 0;
             for (Path aFile : stream) {
-                System.out.println("========================================");
+                System.out.println("Analyse fichier n°: " + count++);
                 String fileString = this.parsePdf(aFile.toFile().toString());
                 Map<String, Integer> map = fileString.lines()
                         .flatMap(line -> Stream.of(line.split("\\s+")))//TODO : changer le splittage
                         .map(String::toLowerCase)//TODO : pas de maj dans la wordList
                         .filter(wordsList::contains)
-                        .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum));
-                // TODO : verifier que la clef n'est pas deja dans la map
+                        .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum))
+                        ;
+
+                Set<Map.Entry<String, HashMap<String, Integer>>> entries = fileScoresMap.entrySet();
+                Stream<Map.Entry<String, HashMap<String, Integer>>> entriesStream = entries.stream();
+
+
+                Optional<HashMap<String, Integer>> optionalIsbn = fileScoresMap.values().stream()
+                        .filter(stringIntegerHashMap -> stringIntegerHashMap.equals(map))
+                        .findFirst();
+
+                if (optionalIsbn.isPresent()) {
+                    doublons.put(aFile.getFileName().toString(), optionalIsbn.get());
+                } else {
+                    cleanData.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
+                }
                 fileScoresMap.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
             }
+
+            System.out.println("####### SCORES : #######");
             fileScoresMap.entrySet().forEach(entry -> {
                 System.out.println(entry.getKey() + " " + entry.getValue());
             });
-            //TODO : enelever les doublons de la map
+
+            System.out.println("####### DOUBLONS : #######");
+            doublons.entrySet().forEach(entry -> {
+                System.out.println(entry.getKey() + " " + entry.getValue());
+            });
+
+            System.out.println("####### CLEAN DATA : #######");
+            cleanData.entrySet().forEach(entry -> {
+                System.out.println(entry.getKey() + " " + entry.getValue());
+            });
 
         } catch (IOException e) {
             e.printStackTrace();
