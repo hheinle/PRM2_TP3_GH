@@ -12,7 +12,10 @@ import java.nio.file.DirectoryStream;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -71,12 +74,7 @@ public class DoublonAnalyser {
                         .flatMap(line -> Stream.of(line.split("\\s+")))//TODO : changer le splittage
                         .map(String::toLowerCase)//TODO : pas de maj dans la wordList
                         .filter(wordsList::contains)
-                        .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum))
-                        ;
-
-                Set<Map.Entry<String, HashMap<String, Integer>>> entries = fileScoresMap.entrySet();
-                Stream<Map.Entry<String, HashMap<String, Integer>>> entriesStream = entries.stream();
-
+                        .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum));
 
                 Optional<HashMap<String, Integer>> optionalIsbn = fileScoresMap.values().stream()
                         .filter(stringIntegerHashMap -> stringIntegerHashMap.equals(map))
@@ -90,20 +88,24 @@ public class DoublonAnalyser {
                 fileScoresMap.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
             }
 
-            System.out.println("####### SCORES : #######");
-            fileScoresMap.entrySet().forEach(entry -> {
-                System.out.println(entry.getKey() + " " + entry.getValue());
-            });
+//            System.out.println("####### SCORES : #######");
+//            fileScoresMap.entrySet().forEach(entry -> {
+//                System.out.println(entry.getKey() + " " + entry.getValue());
+//            });
+//
+//
+//
+//            System.out.println("####### CLEAN DATA : #######");
+//            cleanData.entrySet().forEach(entry -> {
+//                System.out.println(entry.getKey() + " " + entry.getValue());
+//            });
 
             System.out.println("####### DOUBLONS : #######");
+            System.out.println("Taille liste doublons = " + doublons.size());
             doublons.entrySet().forEach(entry -> {
                 System.out.println(entry.getKey() + " " + entry.getValue());
             });
-
-            System.out.println("####### CLEAN DATA : #######");
-            cleanData.entrySet().forEach(entry -> {
-                System.out.println(entry.getKey() + " " + entry.getValue());
-            });
+            System.out.println("####### FIN DOUBLONS : #######");
 
         } catch (IOException e) {
             e.printStackTrace();
