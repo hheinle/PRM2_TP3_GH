@@ -1,7 +1,13 @@
+import java.io.IOException;
+
 public class Main {
 
     public static void main(String[] args) {
         DoublonAnalyser doublonAnalyser = new DoublonAnalyser();
-        doublonAnalyser.launch();
+        try {
+            doublonAnalyser.launch();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }
