@@ -19,7 +19,7 @@ import java.util.stream.Stream;
 
 public class DoublonAnalyser {
 
-    public static final String PATH_BUFFER_IN = "work_data_test";
+    public static final String PATH_BUFFER_IN = "work_data";
     public static final String PATH_DOUBLONS = "doublons";
     public static final String PATH_CORPUS = "lexical_data/words";
 
@@ -81,12 +81,13 @@ public class DoublonAnalyser {
                 System.out.println("Analyse fichier n°: " + count++);
                 String fileString = this.parsePdf(aFile.toFile().toString());
                 Map<String, Integer> map = fileString.lines()
-                        .flatMap(line -> Stream.of(line.split("\\s+")))//TODO : changer le splittage
-                        .map(String::toLowerCase)//TODO : pas de maj dans la wordList
+                        .flatMap(line -> Stream.of(line.split("\\s+")))
+                        .map(String::toLowerCase)
                         .filter(wordsList::contains)
                         .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum));
 
                 Optional<Map.Entry<String, HashMap<String, Integer>>> optionalOriginal = fileScoresMap.entrySet().stream()
+                        .filter(stringIntegerHashMap -> (!map.isEmpty()) && (aFile.toFile().length() != 0))
                         .filter(stringIntegerHashMap -> stringIntegerHashMap.getValue().equals(map))
                         .findFirst();
 
