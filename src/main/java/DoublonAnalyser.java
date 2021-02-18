@@ -92,8 +92,9 @@ public class DoublonAnalyser {
                         .findFirst();
 
                 if (optionalOriginal.isPresent()) {
-                    doublons.put(aFile.getFileName().toString() + " doublon de : " + optionalOriginal.get().getKey(),
-                            (HashMap<String, Integer>) map);
+                    // putting the second file
+                    doublons.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
+                    // putting the "original" file
                     doublons.put(optionalOriginal.get().getKey(), optionalOriginal.get().getValue());
                     Files.copy(aFile, Paths.get(PATH_DOUBLONS + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
                     Files.copy(Path.of(PATH_BUFFER_IN + "/" + Path.of(optionalOriginal.get().getKey())),
@@ -104,20 +105,20 @@ public class DoublonAnalyser {
                 fileScoresMap.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
             }
 
-            System.out.println("####### SCORES : #######");
-            fileScoresMap.entrySet().forEach(entry -> {
-                System.out.println(entry.getKey() + " " + entry.getValue());
-            });
-            System.out.println("####### FIN SCORES : #######");
-
-            System.out.println("####### CLEAN DATA : #######");
-            cleanData.entrySet().forEach(entry -> {
-                System.out.println(entry.getKey() + " " + entry.getValue());
-            });
-            System.out.println("####### FIN CLEAN DATA : #######");
+//            System.out.println("####### SCORES : #######");
+//            fileScoresMap.entrySet().forEach(entry -> {
+//                System.out.println(entry.getKey() + " " + entry.getValue());
+//            });
+//            System.out.println("####### FIN SCORES : #######");
+//
+//            System.out.println("####### CLEAN DATA : #######");
+//            cleanData.entrySet().forEach(entry -> {
+//                System.out.println(entry.getKey() + " " + entry.getValue());
+//            });
+//            System.out.println("####### FIN CLEAN DATA : #######");
 
             System.out.println("####### DOUBLONS : #######");
-            System.out.println("Taille liste " + PATH_DOUBLONS + " = " + doublons.size());
+//            System.out.println("Taille liste " + PATH_DOUBLONS + " = " + doublons.size());
             doublons.entrySet().forEach(entry -> {
                 System.out.println(entry.getKey() + " " + entry.getValue());
             });
