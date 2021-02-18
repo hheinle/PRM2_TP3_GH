@@ -94,6 +94,7 @@ public class DoublonAnalyser {
                 if (optionalOriginal.isPresent()) {
                     doublons.put(aFile.getFileName().toString() + " doublon de : " + optionalOriginal.get().getKey(),
                             (HashMap<String, Integer>) map);
+                    doublons.put(optionalOriginal.get().getKey(), optionalOriginal.get().getValue());
                     Files.copy(aFile, Paths.get(PATH_DOUBLONS + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
                     Files.copy(Path.of(PATH_BUFFER_IN + "/" + Path.of(optionalOriginal.get().getKey())),
                             Paths.get(PATH_DOUBLONS + "/" + Path.of(optionalOriginal.get().getKey())), StandardCopyOption.REPLACE_EXISTING);
