@@ -3,9 +3,9 @@ import java.io.IOException;
 public class Main {
 
     public static void main(String[] args) {
-        DoublonAnalyser doublonAnalyser = new DoublonAnalyser();
+        MailAnalyzer mailAnalyzer = new MailAnalyzer();
         try {
-            doublonAnalyser.launch();
+            mailAnalyzer.launch();
         } catch (IOException e) {
             e.printStackTrace();
         }

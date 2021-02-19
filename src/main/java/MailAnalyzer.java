@@ -17,28 +17,32 @@ import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class DoublonAnalyser {
+public class MailAnalyzer {
 
-    public static final String PATH_BUFFER_IN = "work_data";
-    public static final String PATH_DOUBLONS = "doublons";
-    public static final String PATH_CORPUS = "lexical_data/words";
+    public static final String PATH_EML_A_TRIER = "work_data";
+    public static final String PATH_MAILS_OK = "ok";
+    public static final String PATH_MAILS_KO = "ko";
+    public static final String PATH_CORPUS_STAGE = "lexical_data/words";
+    public static final String PATH_CORPUS_SPAM = "lexical_data/spam_words";
 
     /**
      * Vocabulaire de référence
      * sur les stages.
      */
     ArrayList<String> wordsList;
+    ArrayList<String> spamWordsList;
     HashMap<String, HashMap<String, Integer>> fileScoresMap;
-    HashMap<String, HashMap<String, Integer>> doublons;
+    HashMap<String, HashMap<String, Integer>> ok;
+    HashMap<String, HashMap<String, Integer>> ko;
     HashMap<String, HashMap<String, Integer>> cleanData;
 
     /**
      * Constructor.
      */
-    public DoublonAnalyser() {
+    public MailAnalyzer() {
         wordsList = new ArrayList<>();
         fileScoresMap = new HashMap<>();
-        doublons = new HashMap<>();
+        ok = new HashMap<>();
         cleanData = new HashMap<>();
     }
 
@@ -46,7 +50,7 @@ public class DoublonAnalyser {
      * Launch the analyse.
      */
     public void launch() throws IOException {
-        this.cleanDoublonsDirectory();
+        this.cleanOkKoDirectory();
         this.getReferenceWords();
         this.browseFiles();
     }
@@ -54,8 +58,9 @@ public class DoublonAnalyser {
     /**
      * Clear the directory that will contains the doubons.
      */
-    private void cleanDoublonsDirectory() throws IOException {
-        FileUtils.cleanDirectory(Paths.get(PATH_DOUBLONS).toFile());
+    private void cleanOkKoDirectory() throws IOException {
+        FileUtils.cleanDirectory(Paths.get(PATH_MAILS_OK).toFile());
+        FileUtils.cleanDirectory(Paths.get(PATH_MAILS_KO).toFile());
     }
 
     /**
@@ -64,7 +69,8 @@ public class DoublonAnalyser {
     private void getReferenceWords() {
         try {
             Charset charset = StandardCharsets.UTF_8;
-            wordsList = (ArrayList<String>) Files.readAllLines(Paths.get(PATH_CORPUS), charset);
+            wordsList = (ArrayList<String>) Files.readAllLines(Paths.get(PATH_CORPUS_STAGE), charset);
+            spamWordsList = (ArrayList<String>) Files.readAllLines(Paths.get(PATH_CORPUS_SPAM), charset);
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -74,7 +80,7 @@ public class DoublonAnalyser {
      * Dedoublonnage.
      */
     private void browseFiles() {
-        Path dir = Paths.get(PATH_BUFFER_IN);
+        Path dir = Paths.get(PATH_EML_A_TRIER);
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
             int count = 0;
             for (Path aFile : stream) {
@@ -93,12 +99,12 @@ public class DoublonAnalyser {
 
                 if (optionalOriginal.isPresent()) {
                     // putting the second file
-                    doublons.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
+                    ok.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
                     // putting the "original" file
-                    doublons.put(optionalOriginal.get().getKey(), optionalOriginal.get().getValue());
-                    Files.copy(aFile, Paths.get(PATH_DOUBLONS + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
-                    Files.copy(Path.of(PATH_BUFFER_IN + "/" + Path.of(optionalOriginal.get().getKey())),
-                            Paths.get(PATH_DOUBLONS + "/" + Path.of(optionalOriginal.get().getKey())), StandardCopyOption.REPLACE_EXISTING);
+                    ok.put(optionalOriginal.get().getKey(), optionalOriginal.get().getValue());
+//                    Files.copy(aFile, Paths.get(PATH_DOUBLONS + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
+//                    Files.copy(Path.of(PATH_EML_A_TRIER + "/" + Path.of(optionalOriginal.get().getKey())),
+//                            Paths.get(PATH_DOUBLONS + "/" + Path.of(optionalOriginal.get().getKey())), StandardCopyOption.REPLACE_EXISTING);
                 } else {
                     cleanData.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
                 }
@@ -119,7 +125,7 @@ public class DoublonAnalyser {
 
             System.out.println("####### DOUBLONS : #######");
 //            System.out.println("Taille liste " + PATH_DOUBLONS + " = " + doublons.size());
-            doublons.entrySet().forEach(entry -> {
+            ok.entrySet().forEach(entry -> {
                 System.out.println(entry.getKey() + " " + entry.getValue());
             });
             System.out.println("####### FIN DOUBLONS : #######");
