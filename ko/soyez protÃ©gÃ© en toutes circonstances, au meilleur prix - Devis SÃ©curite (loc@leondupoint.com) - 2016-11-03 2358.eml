@@ -1,0 +1,187 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@leondupoint.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 03 Nov 2016 23:58:26 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id A875F42
+	for <resp-m2-miage@univ-rennes1.fr>; Thu,  3 Nov 2016 23:58:26 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id A66BD60033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu,  3 Nov 2016 23:58:26 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id HKbBERxykkEI for <resp-m2-miage@univ-rennes1.fr>;
+	Thu,  3 Nov 2016 23:58:26 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 919456000C
+	for <resp-m2-miage@univ-rennes1.fr>; Thu,  3 Nov 2016 23:58:26 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 8BF6E20033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu,  3 Nov 2016 23:58:26 +0100 (CET)
+Received: from smtp-a62.mymdc-media.com (smtp-a62.mymdc-media.com [82.97.45.161])
+	(using TLSv1 with cipher ADH-DES-CBC3-SHA (168/168 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id 4DEFC6000DA
+	for <resp-m2-miage@univ-rennes1.fr>; Thu,  3 Nov 2016 23:58:26 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=leondupoint.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp6; bh=OERCowTtM8IhRvC6XYbDe17t
+	Va4=; b=OsfC4FaW7zHezkgxHOI2tg0HFZXezoBwHU2PBHnv6gbz9tiF4u379YxN
+	6yqqpzR2sMvzu/QI/Ggmxcckw5MTmjCKncB/h2iTD5imASjw9t1JcSl4G6JVS26y
+	4AhM3sg4Y5xmQMghP0cRNM/LyCY6pagat9neuC2PkjMLDvEgPP8=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=leondupoint.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp6; b=V169JQsJft9PeaLTIq
+	nvmQFInfj//yFcEPCSPFHrrmcnBdJ+PvTP+H45qqoaXabAFx7vZiJX06CIRCcIgs
+	mspWx5CntWmV74M90Q0l7WxufzjgA2M4tI6MATnkJcHrpom7mnG6ApUzyNl/mq7v
+	nSiVzuP/GXnau9cz/RP39jygE=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?soyez_prot=C3=A9g=C3=A9_en_toutes_circonstances,_au_meilleur_pr?=  =?utf-8?Q?ix?=
+Date: Thu, 3 Nov 2016 23:58:14 +0100
+From: =?utf-8?Q?Devis_S=C3=A9curite?= <loc@leondupoint.com>
+Reply-to: =?utf-8?Q?Devis_S=C3=A9curite?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@leondupoint.com>
+X-campaign_id: 94945479382030_13
+X-uid_id_m: <cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==418>
+List-Unsubscribe: <http://app.leondupoint.com/d/?camp=94945479382030_13&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <fee913609644b7a5a1a6a18901a47719@leondupoint.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_fee913609644b7a5a1a6a18901a47719"
+X-Original-Source-IP: 82.97.45.161
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrkeekgddtlecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpeffvghvihhspgfurogtuhhrihhtvgcuoehlohgtsehlvghonhguuhhpohhinhhtrdgtohhmqeenucffohhmrghinheplhgvohhnughuphhoihhnthdrtghomhenucfkphepkedvrdeljedrgeehrdduiedunecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqrgeivddrmhihmhgutgdqmhgvughirgdrtghomhdpihhnvghtpeekvddrleejrdeghedrudeiuddpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsehlvghonhguuhhpohhinhhtrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--Part1_fee913609644b7a5a1a6a18901a47719
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.leondupoint.com/v/?camp=3D94945479382030_13&ms=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_fee913609644b7a5a1a6a18901a47719
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>soyez prot=C3=A9g=C3=A9 en toutes circonstances, au meilleur prix<=
+/title>
+</head><body marginwidth=3D"0" topmargin=3D"0" leftmargin=3D"0" style=3D"=
+margin:0px; -moz-text-size-adjust:none; text-size-adjust:none; -ms-text-s=
+ize-adjust:none; padding:0px; -webkit-text-size-adjust:none;" marginheigh=
+t=3D"0">
+<center><p>
+<a href=3D"http://app.leondupoint.com/v/?camp=3D94945479382030_13&ms=3Dcm=
+VzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si c=
+et e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"color:=
+#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Si=
+ cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p>  =
+                          Obtenez gratuitement une &eacute;tude personnal=
+is&eacute;e        <img src=3D"http://app.leondupoint.com/r/?rc=3DaHR0cDo=
+vL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvcHgvTXpJelgzeGZNalV6WDN4Zk1qZGZm=
+Rjh3WDN4Zk1BL2FIUjBjRG92TDNObFkzVnlhWFJsTFd4dlkyRjFlQzV5WldGamRHbHZiaTFsY=
+m5SeVpYQnlhWE5sTG1OdmJTOA=3D=3D" width=3D"1" height=3D"1" border=3D"0"> <=
+center> <!-- Save for Web Slices (s&eacute;curit&eacute; locaux.psd) --> =
+<table id=3D"Tableau_01" style=3D"border:solid 1px #E6E6E6; margin: 20px =
+auto;" width=3D"600" height=3D"878" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0"> 	<tbody><tr> 		<td> 			<a href=3D"http://app.leondupoint.com=
+/s/?m=3DcmVzcC1tMi1taW
+ FnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D94945479382030_13&rc=3DaHR0cDovL2FmZmls=
+aWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016SXpYM3hmTWpVelgzeGZNamRmZkY4d1gze=
+GZNQS9hSFIwY0RvdkwzTmxZM1Z5YVhSbExXeHZZMkYxZUM1eVpXRmpkR2x2YmkxbGJuUnlaWE=
+J5YVhObExtTnZiUzg=3D" target=3D"_blank"> 				<img src=3D"http://app.leond=
+upoint.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1lbnRyZXByaXNlLmNvbS9tYWlsaW=
+5nL3NlY3VyaXRlLWxvY2F1eC9pbWFnZXMvc2VjdXJpdGUtbG9jYXV4LmpwZw=3D=3D" alt=3D=
+"S&eacute;curit&eacute; des locaux" width=3D"600" height=3D"145" border=3D=
+"0"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.leondupoint.co=
+m/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D94945479382030_13=
+&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016SXpYM3hmTWp=
+VelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTmxZM1Z5YVhSbExXeHZZMkYxZUM1eVpX=
+RmpkR2x2YmkxbGJuUnlaWEJ5YVhObExtTnZiUzg=3D" target=3D"_blank"> 				<img s=
+rc=3D"http://app.leondupoint.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1lbnRy=
+ZXByaXNlLmNvbS9tYWlsaW5nL3NlY3VyaXRlLWxvY2F1eC9pbWFnZXMvc2VjdXJpdGUtbG9jY=
+XV4LTAyLmpwZw=3D=3D" a
+ lt=3D"S&eacute;curit&eacute; des locaux" width=3D"600" height=3D"206" bo=
+rder=3D"0"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.leondup=
+oint.com/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D9494547938=
+2030_13&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016SXpY=
+M3hmTWpVelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTmxZM1Z5YVhSbExXeHZZMkYxZ=
+UM1eVpXRmpkR2x2YmkxbGJuUnlaWEJ5YVhObExtTnZiUzg=3D" target=3D"_blank"> 			=
+	<img src=3D"http://app.leondupoint.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvb=
+i1lbnRyZXByaXNlLmNvbS9tYWlsaW5nL3NlY3VyaXRlLWxvY2F1eC9pbWFnZXMvc2VjdXJpdG=
+UtbG9jYXV4LTAzLmpwZw=3D=3D" alt=3D"S&eacute;curit&eacute; des locaux" wid=
+th=3D"600" height=3D"163" border=3D"0"></a></td> 	</tr> 	<tr> 		<td> 			<=
+a href=3D"http://app.leondupoint.com/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlb=
+m5lczEuZnI=3D&c=3D94945479382030_13&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1k=
+ZXZpcy5jb20vYWYvY2xjL016SXpYM3hmTWpVelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0Rvd=
+kwzTmxZM1Z5YVhSbExXeHZZMkYxZUM1eVpXRmpkR2x2YmkxbGJuUnlaWEJ5YVhObExtTnZiUz=
+g=3D" target=3D"_blank"> 		=09
+ 	<img src=3D"http://app.leondupoint.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlv=
+bi1lbnRyZXByaXNlLmNvbS9tYWlsaW5nL3NlY3VyaXRlLWxvY2F1eC9pbWFnZXMvc2VjdXJpd=
+GUtbG9jYXV4LTA0LmpwZw=3D=3D" alt=3D"S&eacute;curit&eacute; des locaux" wi=
+dth=3D"600" height=3D"129" border=3D"0"></a></td> 	</tr> 	<tr> 		<td> 			=
+<a href=3D"http://app.leondupoint.com/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJl=
+bm5lczEuZnI=3D&c=3D94945479382030_13&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1=
+kZXZpcy5jb20vYWYvY2xjL016SXpYM3hmTWpVelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0Rv=
+dkwzTmxZM1Z5YVhSbExXeHZZMkYxZUM1eVpXRmpkR2x2YmkxbGJuUnlaWEJ5YVhObExtTnZiU=
+zg=3D" target=3D"_blank"> 				<img src=3D"http://app.leondupoint.com/r/?r=
+c=3DaHR0cDovL3d3dy5yZWFjdGlvbi1lbnRyZXByaXNlLmNvbS9tYWlsaW5nL3NlY3VyaXRlL=
+WxvY2F1eC9pbWFnZXMvc2VjdXJpdGUtbG9jYXV4LTA1LmpwZw=3D=3D" alt=3D"S&eacute;=
+curit&eacute; des locaux" width=3D"600" height=3D"126" border=3D"0"></a><=
+/td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.leondupoint.com/s/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D94945479382030_13&rc=3DaHR=
+0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZ
+ pcy5jb20vYWYvY2xjL016SXpYM3hmTWpVelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0Rvdkw=
+zTmxZM1Z5YVhSbExXeHZZMkYxZUM1eVpXRmpkR2x2YmkxbGJuUnlaWEJ5YVhObExtTnZiUzg=3D=
+" target=3D"_blank"> 				<img src=3D"http://app.leondupoint.com/r/?rc=3Da=
+HR0cDovL3d3dy5yZWFjdGlvbi1lbnRyZXByaXNlLmNvbS9tYWlsaW5nL3NlY3VyaXRlLWxvY2=
+F1eC9pbWFnZXMvc2VjdXJpdGUtbG9jYXV4LTA2LmpwZw=3D=3D" alt=3D"S&eacute;curit=
+&eacute; des locaux" width=3D"600" height=3D"109" border=3D"0"></a></td> =
+	</tr> </tbody></table> <!-- End Save for Web Slices --> </center>       =
+           <img src=3D"http://app.leondupoint.com/t/?i=3D94945479382030_1=
+3&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.leondup=
+oint.com/images/blank.jpg" alt=3D"_pspacer"  /><p>
+<a href=3D"http://app.leondupoint.com/d/?camp=3D94945479382030_13&ms=3Dcm=
+VzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne p=
+lus recevoir d'informations de notre part" style=3D"color:#00F; font-fami=
+ly:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute;=
+sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un =
+quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_fee913609644b7a5a1a6a18901a47719--
+

@@ -1,0 +1,153 @@
+Return-Path: <bounce+1CQN-2UdKj7-eD9K@my.lemaildelire.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sat, 17 Dec 2016 07:14:32 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 1D50747
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 07:14:32 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 1AE1860068
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 07:14:32 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id Fq2JSVTiD8VK for <resp-m2-miage@univ-rennes1.fr>;
+	Sat, 17 Dec 2016 07:14:31 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id EBC9960006
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 07:14:31 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id E4B4B20033
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 07:14:31 +0100 (CET)
+Received: from smtp254.my.lemaildelire.fr (smtp254.my.lemaildelire.fr [88.212.145.254])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb1-2.relay.renater.fr (asm) with ESMTPS id 91EED280024
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 07:14:20 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=s2c; d=my.lemaildelire.fr;
+ h=Date:To:From:Reply-to:Subject:Message-ID:List-Unsubscribe:MIME-Version:Content-Type; i=news@my.lemaildelire.fr;
+ bh=jEgqPxzuHOE2L0BHO6wk5INtJg4=;
+ b=H7PZEwHUjLgvEhfInCHauqDHdYZyWP5jaRberGFJ38Ew8wEvDgKrAC33ZCsw665ZNTvnrcZ8CBKz
+   WfiI1L7wfDuvnHJv+jhBqx80Drj8/0wvwVfBYUtN74ROtpEBzbGnKsE9JL3pidJEdxfX7SXRos2d
+   UUNC/SQ7bo0ykraHuIk=
+Received: by smtp254.my.lemaildelire.fr id hajbsg1vjtgf for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 07:14:32 +0100 (envelope-from <bounce+1CQN-2UdKj7-eD9K@my.lemaildelire.fr>)
+Date: Sat, 17 Dec 2016 07:14:33 +0100
+To: resp-m2-miage@univ-rennes1.fr
+From: Ikks - Espace Promos <news@my.lemaildelire.fr>
+Reply-to: Equipe <ep@zebigmail.com>
+Subject: =?UTF-8?Q?Journ=C3=A9es_Privil=C3=A8ges_:_TOUT_=C3=A0_-40%?=
+Message-ID: <bounce+1CQN-2UdKj7-eD9K@my.lemaildelire.fr>
+List-Unsubscribe: <mailto:bounce+1CQN-2UdKj7-eD9K@my.lemaildelire.fr?subject=unsubscribe-1CQN-2UdKj7>,<http://trk.my.lemaildelire.fr/usb/1CQN-2UdKj7.php>
+X-Tor-Base: TOR-593d51759b8c470aca863d0748060307
+X-VR-Whitelist: MAILDROP-81eb63f493d035ec4e6d2c79c5b3f9b4
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_5fb2eed62f28d86442ad4330f9bcd18b"
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 88.212.145.254
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrjedvgddutddtucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepfffvhfhruffkjfggtgesrgdtrehptddtjeenucfhrhhomhepkfhkkhhsucdqucfgshhprggtvgcurfhrohhmohhsuceonhgvfihssehmhidrlhgvmhgrihhluggvlhhirhgvrdhfrheqnecuffhomhgrihhnpehlvghmrghilhguvghlihhrvgdrfhhrpdhikhhkshdrtghomhenucfkphepkeekrddvuddvrddugeehrddvheegnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdvheegrdhmhidrlhgvmhgrihhluggvlhhirhgvrdhfrhdpihhnvghtpeekkedrvdduvddrudeghedrvdehgedpmhgrihhlfhhrohhmpegsohhunhgtvgdoudevsffpqddvfggumfhjjedqvgfflefmsehmhidrlhgvmhgrihhluggvlhhirhgvrdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+
+--b1_5fb2eed62f28d86442ad4330f9bcd18b
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Afficher la version en ligne (http://trk.my.lemaildelire.fr/view/1CQN-2UdKj7.php) | Je me désinscris (http://trk.my.lemaildelire.fr/usb/1CQN-2UdKj7.php) | Signaler comme spam (http://trk.my.lemaildelire.fr/usb/1CQN-2UdKj7.php)
+
+
+-40% sur la collection Hiver 2016
+
+
+http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEo.phpresp-m2-miage@univ-rennes1.fr
+
+DU 14 AU 18 DÉCEMBRE 2016
+
+
+http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEl.phpresp-m2-miage@univ-rennes1.fr
+
+TOUT À -40%*
+
+-10% SUPPLÉMENTAIRES
+DÈS 3 ARTICLES TEXTILE ACHETÉS**
+
+http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEm.phpresp-m2-miage@univ-rennes1.fr
+
+
+PROFITEZ DE CETTE OFFRE EN VALIDANT VOTRE ADRESSE
+
+resp-m2-miage@univ-rennes1.fr (http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEn.phpresp-m2-miage@univ-rennes1.fr)
+
+J'EN PROFITE (http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEk.phpresp-m2-miage@univ-rennes1.fr)
+
+
+Présentez cet email dans votre boutique IKKS, I.CODE et XandO (http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEj.phpresp-m2-miage@univ-rennes1.fr)
+Offre valable en France, Luxembourg et Espagne
+
+http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEh.phpresp-m2-miage@univ-rennes1.fr
+
+* Offre valable du 14 au 18 décembre 2016, sur présentation de cet e-mail uniquement dans les boutiques IKKS, XandO et I.CODE participantes mentionnées dans cet e-mail. Remise faite par escompte de caisse sur le prix conseillé sur les collections Hiver 2016 IKKS Women, Men, Junior, Kid, Baby, I.CODE et One Step Homme et Femme (hors produits signalés par une pastille bleue, parfums et collections ETE 2017).
+
+Offre valable sur ikks.com (http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEi.phpresp-m2-miage@univ-rennes1.fr) du 13 décembre à 19h jusqu’au 18 décembre 2016, sous réserve d’être connecté à votre compte client eshop : -40% sur les prix signalés par une remise.
+** À partir de 3 articles TEXTILE achetés simultanément et concernés par l’offre, une remise supplémentaire de 10% sur le prix conseillé sera effectuée en caisse sur l’ensemble des articles TEXTILE déjà remisés. Les sacs IKKS Women, les sous-vêtements enfant et les chaussures sont considérés comme des articles TEXTILE.
+Cette invitation est strictement personnelle, exigée à l'entrée du magasin, valable uniquement dans les boutiques IKKS, I.CODE et XandO.
+
+(http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEg.phpresp-m2-miage@univ-rennes1.fr)
+
+Espace Promos, 12 rue Camille Desmoulins, 92300 Levallois Perret.
+Conformément à l'article 34 de la loi Informatique et Liberté du 6 janvier 1978, vous disposez d'un droit d'accès, de modification, de rectification et de suppression des données vous concernant.
+Déclaration CNIL - 1642645
+Je ne veux plus recevoir de newsletter de votre part.Désinscrivez-moi. (http://trk.my.lemaildelire.fr/usb/1CQN-2UdKj7.php)
+
+
+--b1_5fb2eed62f28d86442ad4330f9bcd18b
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"> <html style="width: 100%;"><body style="-webkit-font-smoothing: antialiased; background-color: #ffffff; margin: 0; mso-margin-bottom-alt: 0px; mso-margin-top-alt: 0px; mso-padding-alt: 0px 0px 0px 0px; padding: 0; width: 100%;"><div align="center" style="color:#000; font-family:Arial,Helvetica,sans-serif; font-size:11px;"> <table border="0" cellspacing="0" cellpadding="0" align="center" style="border: 0; font-size: 14px;"><tr><td width="0" valign="top" align="center"><table width="auto" align="center" border="0" cellpadding="0" cellspacing="0" style="border: 0; font-size: 14px;"><tr><td width="auto" style="padding: 5px; text-align:left;"><a href="http://trk.my.lemaildelire.fr/view/1CQN-2UdKj7.php" style="color:#000; text-decoration:underline; font-family:Arial,Helvetica,sans-serif; font-size:11px; text-align:left; font-weight:bold;">Afficher la version en ligne</a></td><
+ td
+width="6">|</td><td width="auto" style="padding: 5px; text-align:center;"><a href="http://trk.my.lemaildelire.fr/usb/1CQN-2UdKj7.php" style="color:#000; text-decoration:underline; font-family:Arial,Helvetica,sans-serif; font-size:11px; text-align:center; font-weight:bold;">Je me d&eacute;sinscris</a></td><td width="6">|</td><td width="auto" style="padding: 5px; text-align:right;"><a href="http://trk.my.lemaildelire.fr/usb/1CQN-2UdKj7.php" style="color:blue; text-decoration:underline; font-family:Arial,Helvetica,sans-serif; font-size:11px; text-align:center; font-weight:bold;">Signaler comme spam</a></td></tr></table></td></tr><tr><td width="0" align="center"></td></tr></table></div><p style="margin-bottom: 0; margin-top: 0; padding-bottom: 0; padding-top: 0;">  </p> <!-- Define Charset --> <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!-- Responsive Meta Tag --><meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
+
+<style type="text/css"> body{ width: 100%; background-color: #ffffff; margin:0; padding:0; -webkit-font-smoothing: antialiased; mso-margin-top-alt:0px; mso-margin-bottom-alt:0px; mso-padding-alt: 0px 0px 0px 0px; } p,h1,h2,h3,h4{ margin-top:0; margin-bottom:0; padding-top:0; padding-bottom:0; } span.preheader{display: none; font-size: 1px;} html{ width: 100%; } table{ font-size: 14px; border: 0; } #active-tg{ list-style: none; margin: 0; padding: 0; } #active-tg li{ position: relative; cursor: n-resize; } .test{ width: 100%; position: relative; } .test .icon { position: absolute; top: 2px; right: 2px; } #active-tg .test .icon img{width: 35px !important; height: 27px !important;} /* ----------- responsivity ----------- */ @media only screen and (max-width: 640px){ /*------ top header ------ */ body[yahoo] .main-header{font-size: 22px !important;} body[yahoo] .main-section-header{font-size: 25px !important;} body[yahoo] .show{display: block !important;} body[yahoo] .hide{displa
+ y: none
+!important;} body[yahoo] .centerme{text-align: center !important;} body[yahoo] .spacer img{height: 140px !important;} body[yahoo] .blanc1{height: 10px !important; font-size: 10px !important; line-height: 10px !important;} body[yahoo] .blanc2{height: 20px !important; font-size: 20px !important; line-height: 20px !important;} body[yahoo] .blanc3{height: 30px !important; font-size: 30px !important; line-height: 30px !important;} body[yahoo] .blanc4{height: 40px !important; font-size: 40px !important; line-height: 40px !important;} body[yahoo] .blanc5{height: 50px !important; font-size: 50px !important; line-height: 50px !important;} body[yahoo] .blanc6{height: 60px !important; font-size: 60px !important; line-height: 60px !important;} body[yahoo] .blanc7{height: 70px !important; font-size: 70px !important; line-height: 70px !important;} body[yahoo] .blanc8{height: 80px !important; font-size: 80px !important; line-height: 80px !important;} body[yahoo] .blanc9{height: 90px !import
+ ant;
+font-size: 90px !important; line-height: 90px !important;} /*----- texte -------*/ body[yahoo] .head{text-align: left !important;} body[yahoo] .texte{font-size: 15px !important; letter-spacing: 3px !important; line-height: 26px !important;} body[yahoo] .texte2{font-size: 14px !important; letter-spacing: 2px !important; line-height: 26px !important;} body[yahoo] .texte3{font-size: 12px !important;} body[yahoo] .conditions{width: 400px !important;} /*----- main image -------*/ body[yahoo] .main-image img{width: 440px !important; height: auto !important;} /* ====== divider ====== */ body[yahoo] .divider img{width: 440px !important;} /*--------- banner ----------*/ body[yahoo] .banner img{width: 440px !important; height: auto !important;} /*-------- container --------*/ body[yahoo] .container750{width: 440px !important;} body[yahoo] .separator{visibility: hidden !important;} body[yahoo] .links a{display: block !important;} /*-------- secions ----------*/ body[yahoo] .section-item
+ {width:
+440px !important;} body[yahoo] .section-img img{width: 360px !important; height: auto !important;} } @media only screen and (max-width: 479px){ /*------ top header ------ */ body[yahoo] .main-header{font-size: 20px !important;} body[yahoo] .centerme{text-align: center !important;} body[yahoo] .spacer img{height: 100px !important;} body[yahoo] .blanc1{height: 10px !important; font-size: 10px !important; line-height: 10px !important;} body[yahoo] .blanc2{height: 20px !important; font-size: 20px !important; line-height: 20px !important;} body[yahoo] .blanc3{height: 30px !important; font-size: 30px !important; line-height: 30px !important;} body[yahoo] .blanc4{height: 40px !important; font-size: 40px !important; line-height: 40px !important;} body[yahoo] .blanc5{height: 50px !important; font-size: 50px !important; line-height: 50px !important;} body[yahoo] .blanc6{height: 60px !important; font-size: 60px !important; line-height: 60px !important;} body[yahoo] .blanc7{height: 70px
+!important; font-size: 70px !important; line-height: 70px !important;} body[yahoo] .blanc8{height: 80px !important; font-size: 80px !important; line-height: 80px !important;} body[yahoo] .blanc9{height: 90px !important; font-size: 90px !important; line-height: 90px !important;} /*----- texte -------*/ body[yahoo] .head{text-align: left !important;} body[yahoo] .texte{font-size: 13px !important; letter-spacing: 1px !important; line-height: 22px !important;} body[yahoo] .texte2{font-size: 12px !important; letter-spacing: 1px !important; line-height: 22px !important;} body[yahoo] .texte3{font-size: 10px !important;} body[yahoo] .conditions{width: 300px !important;} /*----- main image -------*/ body[yahoo] .main-image img{width: 300px !important; height: auto !important;} /* ====== divider ====== */ body[yahoo] .divider img{width: 300px !important;} /*--------- banner ----------*/ body[yahoo] .banner img{width: 300px !important; height: auto !important;} /*-------- container ----
+ ----*/
+body[yahoo] .container750{width: 300px !important;} body[yahoo] .separator{visibility: hidden !important;} body[yahoo] .links a{display: block !important;} body[yahoo] .iphone-container{width: 300px !important;} /*-------- secions ----------*/ body[yahoo] .section-item{width: 300px !important;} body[yahoo] .section-item-iphone{width: 300px !important;} body[yahoo] .section-img img{width: 300px !important; height: auto !important;} body[yahoo] .section-iphone-img img{width: 300px !important; height: auto !important;} /*------- CTA -------------*/ body[yahoo] .cta-btn img{width: 260px !important; height: auto !important;} } </style>
+
+<ul id="active-tg" style="list-style: none; margin: 0; padding: 0;"><!-- ======= HEADER ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><tr><td height="15" style="font-size: 15px; line-height: 15px;">&nbsp;</td></tr><tr><td> <!-- ======= PRE HEADER ======= --> <table border="0" width="400" align="left" cellpadding="0" cellspacing="0" style="border: 0; font-size: 14px; border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;" class="section-item"><tr><td align="left" style="color:#c0c0c0; font-size: 9px; font-family:'Helvetica Neue', Arial, sans-serif; mso-line-height-rule: exactly;"> <div class="head"> <!-- ======= section text ======= --> <multiline> -40% sur la collection Hiver 2016 </multiline></div> </td> </tr></table></td> </tr></table><
+ /td>
+</tr></table><!-- ======= /HEADER ======= --><!-- ======= LOGO ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><tr><td height="50" style="font-size: 50px; line-height: 50px;">&nbsp;</td></tr><tr><!-- ======= logo ======= --><td> <table cellpadding="0" cellspacing="0" border="0" align="left" style="border: 0; font-size: 14px;"><tr><td align="left" style="line-height: 30px;"> <a href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KE7.php" style="display: block; border-style: none !important; border: 0 !important;"><img width="113" border="0" style="display: block; width: 113px;" src="http://d30bh0erymzgco.cloudfront.net/Ikks_EP_013122016/467aee36a34a4b19e24743a6341cd26e.gif" alt="IKKS"></a> </td> </tr></table></td> </tr><tr><td class="blanc6" height="80"
+style="font-size: 80px; line-height: 80px;">&nbsp;</td></tr></table></td> </tr></table><!-- ======= /LOGO ======= --><!-- ======= DATES ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><tr><td align="center" style="color: #000000; font-size: 16px; letter-spacing: 5px; font-family: Arial, sans-serif; font-weight: bold; mso-line-height-rule: exactly; line-height: 28px;"> <div class="texte"> <!-- ======= section text ======= --> <multiline> DU 14 AU 18 D&Eacute;CEMBRE 2016 </multiline></div> </td> </tr></table></td> </tr></table><!-- ======= /DATES ======= --><!-- ======= TITRE ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750"
+cellpadding="0" cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><tr><td height="18" style="font-size: 18px; line-height: 18px;">&nbsp;</td></tr><!-- ======= section image 360 X any height ====== --><tr><td align="center" class="section-img"> <a href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KE8.php" style=" border-style: none !important; border: 0 !important;"><img src="http://d30bh0erymzgco.cloudfront.net/Ikks_EP_013122016/4f38299c57798b6649f910ac3a9e550c.gif" style="display: block; width: 360px;" width="360" border="0" alt="JOURNEES PRIVILEGES"></a> </td> </tr><tr><td height="18" style="font-size: 18px; line-height: 18px;">&nbsp;</td></tr></table></td> </tr></table><!-- ======= /TITRE ======= --><!-- ======= OFFRE ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="container750"
+style="border: 0; font-size: 14px;"><tr><td align="center" style="color: #000000; font-size: 16px; letter-spacing: 5px; font-family: Arial, sans-serif; font-weight: bold; mso-line-height-rule: exactly; line-height: 28px;"> <div class="texte"> <!-- ======= section text ======= --> <multiline> TOUT &Agrave; -40%*<br><br>-10% SUPPL&Eacute;MENTAIRES<br>D&Egrave;S 3 ARTICLES TEXTILE ACHET&Eacute;S** </multiline></div> </td> </tr><tr><td class="blanc4" height="70" style="font-size: 70px; line-height: 70px;">&nbsp;</td></tr></table></td> </tr></table><!-- ======= /OFFRE ======= --><!-- ======= ANIM 1 ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><!-- ======= section image 750 X any height ====== --><tr><td align="center" class="main-image"> <a
+href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KE9.php" style=" border-style: none !important; border: 0 !important;"><img src="http://d30bh0erymzgco.cloudfront.net/Ikks_EP_013122016/86713f30f03bd583db9db38b1131c59f.gif" style="display: block; width: 750px;" width="750" border="0" alt="JOURNEES PRIVILEGES"></a> </td> </tr></table></td> </tr></table><!-- ======= /ANIM 1 ======= --><!-- ======= CHAMPS ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><tr><td class="blanc4" height="70" style="font-size: 70px; line-height: 70px;">&nbsp;</td></tr><tr><td align="center" style="color: #000000; font-size: 12px; letter-spacing: 1px; font-family: Arial, sans-serif; mso-line-height-rule: exactly; line-height: 22px;"> <div> <!-- ======= section text ======= --> <mult
+ iline>
+PROFITEZ DE CETTE OFFRE EN VALIDANT VOTRE ADRESSE </multiline></div> </td> </tr><tr><td height="25" style="font-size: 25px; line-height: 25px;">&nbsp;</td></tr><!-- ======= champ newsletter ====== --><tr><td> <table border="0" align="center" width="300" cellpadding="0" cellspacing="0" style="border: solid 1px #000000; font-size: 14px;"><tr><td align="center" style="color: #000000; font-size: 11px; font-family: Arial, Helvetica, Geneva, sans-serif;"> <div style="line-height: 35px;"> <a href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEa.php" title="resp-m2-miage@univ-rennes1.fr" target="_blank" style="text-decoration: none; color: #010101;"> <singleline>resp-m2-miage@univ-rennes1.fr</singleline></a> </div> </td> </tr></table></td> </tr><!-- ======= /champ newsletter ====== --><tr><td height="10" style="font-size: 10px; line-height: 10px;">&nbsp;</td></tr><!-- ======= bouton validation ====== --><tr><td> <table border="0" align="center" width="300" cellpadding="0" bgcolor="
+ 000000"
+cellspacing="0" style="border: 0; font-size: 14px; background-color: #000000;"><tr><td align="center" style="color: #ffffff; font-size: 12px; letter-spacing: 1px; font-family: Arial, Helvetica, Geneva, sans-serif; font-weight: bold;"> <div style="line-height: 35px;"> <singleline><a href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEb.php" style=" color: #ffffff; border-style: none !important; border: 0 !important; text-decoration: none;">J'EN PROFITE</a></singleline></div> </td> </tr></table></td> </tr><!-- ======= /bouton validation ====== --></table></td> </tr></table><!-- ======= /CHAMPS ======= --><!-- ======= MENTIONS LEGALES ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><tr><td class="blanc7" height="120" style="font-size: 120px; line-height:
+120px;">&nbsp;</td></tr><tr><td align="justify" style="color: #000000; font-size: 10px; font-family: Arial, sans-serif; mso-line-height-rule: exactly;"> <div class="conditions" style="width: 560px;"> <!-- ======= section text ======= --> <multiline><a href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEc.php" style="display: inline; color: #000000; border-style: none !important; border: 0 !important; text-decoration: underline;"><span style="color:#000000;">Pr&eacute;sentez cet email dans votre boutique IKKS, I.CODE et XandO</span></a><br>Offre valable en France, Luxembourg et Espagne </multiline></div> </td> </tr><tr><td height="20" style="font-size: 20px; line-height: 20px;">&nbsp;</td></tr></table></td> </tr></table><!-- ======= /MENTIONS LEGALES ======= --><!-- ======= CODE BARRES ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding
+ ="0"
+cellspacing="0" class="container750" style="border: 0; font-size: 14px;"><tr><td> <table cellpadding="0" cellspacing="0" border="0" align="left" style="border: 0; font-size: 14px;"><tr><td align="left" style="line-height: 30px;"> <a href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEd.php" style="display: block; border-style: none !important; border: 0 !important;"><img width="184" border="0" style="display: block; width: 184px;" src="http://d30bh0erymzgco.cloudfront.net/Ikks_EP_013122016/03ea940640bf07aaefbbc8555bbb2f20.gif" alt="code barres"></a> </td> </tr></table></td> </tr><tr><td height="40" style="font-size: 40px; line-height: 40px;">&nbsp;</td></tr></table></td> </tr></table><!-- ======= /CODE BARRES ======= --><!-- ======= MENTIONS LEGALES ======= --><table border="0" width="100%" cellpadding="0" cellspacing="0" bgcolor="ffffff" style="border: 0; font-size: 14px;"><tr><td> <table border="0" align="center" width="750" cellpadding="0" cellspacing="0" class="containe
+ r750"
+style="border: 0; font-size: 14px;"><tr><td align="justify" style="color: #000000; font-size: 10px; font-family: Arial, sans-serif; mso-line-height-rule: exactly;"> <div class="conditions" style="width: 560px;"> <!-- ======= section text ======= --> <multiline> * Offre valable du 14 au 18 d&eacute;cembre 2016, sur pr&eacute;sentation de cet e-mail uniquement dans les boutiques IKKS, XandO et I.CODE participantes mentionn&eacute;es dans cet e-mail. Remise faite par escompte de caisse sur le prix conseill&eacute; sur les collections Hiver 2016 IKKS Women, Men, Junior, Kid, Baby, I.CODE et One Step Homme et Femme (hors produits signal&eacute;s par une pastille bleue, parfums et collections ETE 2017).<br><br>Offre valable <a href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEe.php" style="display: inline; color: #000000; border-style: none !important; border: 0 !important; text-decoration: none;"><span style="color:#000000;">sur ikks.com</span></a> du 13 d&eacute;cembre &agrav
+ e; 19h
+jusqu&rsquo;au 18 d&eacute;cembre 2016, sous r&eacute;serve d&rsquo;&ecirc;tre connect&eacute; &agrave; votre compte client eshop : -40% sur les prix signal&eacute;s par une remise.<br><br> ** &Agrave; partir de 3 articles TEXTILE achet&eacute;s simultan&eacute;ment et concern&eacute;s par l&rsquo;offre, une remise suppl&eacute;mentaire de 10% sur le prix conseill&eacute; sera effectu&eacute;e en caisse sur l&rsquo;ensemble des articles TEXTILE d&eacute;j&agrave; remis&eacute;s. Les sacs IKKS Women, les sous-v&ecirc;tements enfant et les chaussures sont consid&eacute;r&eacute;s comme des articles TEXTILE.<br><br> Cette invitation est strictement personnelle, exig&eacute;e &agrave; l'entr&eacute;e du magasin, valable uniquement dans les boutiques IKKS, I.CODE et XandO. </multiline></div> </td> </tr><tr><td height="40" style="font-size: 40px; line-height: 40px;">&nbsp;</td></tr></table></td> </tr></table><!-- ======= /MENTIONS LEGALES ======= --></ul><a
+href="http://trk.my.lemaildelire.fr/tk/1CQN-2UdKj7-1KEf.php" target="_blank" style="text-decoration:none;">&nbsp; &nbsp;</a><img src="http://tracker.trackadvc.fr/open/?u=ch0bb0bbcg0diac0ffeea" width="1" height="1"><div style="height:0px;width:0px;"><img src="http://ouv.orange54000.fr/pixel/1813172/1506" style="width:1px; height:1px; display:none;"></div><div align="center" style="color:#000; font-family:Arial,Helvetica,sans-serif; font-size:11px;"> <br>Espace Promos, 12 rue Camille Desmoulins, 92300 Levallois Perret.<br> Conform&eacute;ment &agrave; l'article 34 de la loi Informatique et Libert&eacute; du 6 janvier 1978, vous disposez d'un droit d'acc&egrave;s, de modification, de rectification et de suppression des donn&eacute;es vous concernant.<br> D&eacute;claration CNIL - 1642645 <table border="0" cellspacing="0" cellpadding="0" align="center" style="border: 0; font-size: 10px; font-family: Arial, Helvetica, sans-serif; color: black; text-align: center;"><br><tr><td> Je 
+ ne veux
+plus recevoir de newsletter de votre part.<a href="http://trk.my.lemaildelire.fr/usb/1CQN-2UdKj7.php" style="color: #000; text-decoration:underline; font-size: 11px;">D&eacute;sinscrivez-moi.</a></td></tr><br></table></div><img src="http://trk.my.lemaildelire.fr/pg/1CQN-2UdKj7.php" width="1" height="1" alt="" /></body></html> 
+
+
+
+--b1_5fb2eed62f28d86442ad4330f9bcd18b--
+
+

@@ -1,0 +1,139 @@
+Return-Path: <clement@maisqui.ovh>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sat, 07 Jan 2017 12:55:40 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id D708F2C0
+	for <resp-m2-miage@univ-rennes1.fr>; Sat,  7 Jan 2017 12:55:40 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D520C600D7
+	for <resp-m2-miage@univ-rennes1.fr>; Sat,  7 Jan 2017 12:55:40 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id A83ALcZ4sF35 for <resp-m2-miage@univ-rennes1.fr>;
+	Sat,  7 Jan 2017 12:55:40 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id C30C66000A
+	for <resp-m2-miage@univ-rennes1.fr>; Sat,  7 Jan 2017 12:55:40 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id BD67F20033
+	for <resp-m2-miage@univ-rennes1.fr>; Sat,  7 Jan 2017 12:55:40 +0100 (CET)
+Received: from smtp1-g21.free.fr (smtp1-g21.free.fr [IPv6:2a01:e0c:1:1599::10])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id 96096600288
+	for <resp-m2-miage@univ-rennes1.fr>; Sat,  7 Jan 2017 12:55:40 +0100 (CET)
+Received: from Vostro (unknown [37.164.95.76])
+	by smtp1-g21.free.fr (Postfix) with ESMTP id 618A8B0054E
+	for <resp-m2-miage@univ-rennes1.fr>; Sat,  7 Jan 2017 12:55:40 +0100 (CET)
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal)
+X-Mailer: Microsoft Outlook IMO Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+From: "Dernieres Places" <clement@maisqui.ovh>
+Sender: "Dernieres Places" <clement@maisqui.ovh>
+To: resp-m2-miage@univ-rennes1.fr
+Reply-To: "Dernieres Places" <clement@maisqui.ovh>
+Date: 7 Jan 2017 12:55:25 +0100
+Content-Type: multipart/alternative;
+ boundary=--boundary_85208_1ec664c5-1717-4572-b728-354bae2aa873
+X-Antivirus: avast! (VPS 170106-1, 06/01/2017), Outbound message
+X-Antivirus-Status: Clean
+Message-Id: <20170107115540.96096600288@mxb2-2.relay.renater.fr>
+X-Original-Source-IP: 2a01:e0c:1:1599::10
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 0
+X-Renater-SpamScore: 40
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelgedrvddvgdefjecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecugfhmphhthicushhusghjvggtthculddutddmnegotffhvedqqdeurgguigdqoffuofgrihhlqdfrrhhiohhrihhthiculdeftddmnecujfgurheprfgiofgghfhsvfhrffgtkfesrgdtfeervddtjeenucfhrhhomhepfdffvghrnhhivghrvghsucfrlhgrtggvshdfuceotghlvghmvghnthesmhgrihhsqhhuihdrohhvhheqnecuffhomhgrihhnpegrvhgrshhtrdgtohhmnecukfhppedvrgdtudemvgdttgemudemudehleelmeemuddtpdefjedrudeigedrleehrdejieenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpuddqghdvuddrfhhrvggvrdhfrhdpihhnvghtpedvrgdtudemvgdttgemudemudehleelmeemuddtpdhmrghilhhfrhhomheptghlvghmvghnthesmhgrihhsqhhuihdrohhvhhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+----boundary_85208_1ec664c5-1717-4572-b728-354bae2aa873
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+
+DIV>
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+Si vous ne voullez plus recevoir nos courriels, merci de r&eacute;pondre &a=
+grave; ce mail 
+en &eacute;crivant STOP dans l'objet
+&nbsp;
+
+
+---
+L'absence de virus dans ce courrier =E9lectronique a =E9t=E9 v=E9rifi=E9e p=
+ar le logiciel antivirus Avast.
+https://www.avast.com/antivirus
+
+----boundary_85208_1ec664c5-1717-4572-b728-354bae2aa873
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+</head>
+<body>
+DIV><IMG 
+style=3D"BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid; BORDER-BOTTOM: 0px=
+ solid; BORDER-LEFT: 0px solid; user-select: none" 
+border=3D0 alt=3D"Institut Fran=E7ais des Th=E9rapies Alternatives" src=3D"=
+http://img.ymlp43.com/m75n_lehaut.jpg" width=3D1048 
+height=3D181 unselectable=3D"on"></DIV>
+<DIV><IMG 
+style=3D"BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid; BORDER-BOTTOM: 0px=
+ solid; BORDER-LEFT: 0px solid; user-select: none" 
+border=3D0 alt=3D"nos derni=E8res places =E0 des conditions privil=E9gi=E9e=
+s" src=3D"http://img.ymlp43.com/m75n_lemilieu.jpg" width=3D1048 
+height=3D297 unselectable=3D"on"></DIV>
+<DIV><IMG 
+style=3D"BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid; BORDER-BOTTOM: 0px=
+ solid; BORDER-LEFT: 0px solid; user-select: none" 
+border=3D0 alt=3D"" src=3D"http://img.ymlp43.com/m75n_bas--1.jpg" width=3D1=
+050 
+height=3D195 unselectable=3D"on"></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Si vous ne voullez plus recevoir nos courriels, merci de r=E9pondre =
+=E0 ce mail 
+en =E9crivant STOP dans l'objet</DIV>
+<DIV>&nbsp;</DIV>
+<br /><br />
+<hr style=3D'border:none; color:#909090; background-color:#B0B0B0; height: =
+1px; width: 99%;' />
+<table style=3D'border-collapse:collapse;border:none;'>
+	<tr>
+		<td style=3D'border:none;padding:0px 15px 0px 8px'>
+			<a href=3D"https://www.avast.com/antivirus">
+				<img border=3D0 src=3D"http://static.avast.com/emails/avast-mail-stamp.=
+png" alt=3D"Avast logo" />
+			</a>
+		</td>
+		<td>
+			<p style=3D'color:#3d4d5a; font-family:"Calibri","Verdana","Arial","Helv=
+etica"; font-size:12pt;'>
+				L'absence de virus dans ce courrier =E9lectronique a =E9t=E9 v=E9rifi=
+=E9e par le logiciel antivirus Avast.
+				<br><a href=3D"https://www.avast.com/antivirus">www.avast.com</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br />
+</BODY></HTML>
+
+----boundary_85208_1ec664c5-1717-4572-b728-354bae2aa873--
+
+

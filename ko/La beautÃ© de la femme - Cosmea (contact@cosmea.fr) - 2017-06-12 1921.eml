@@ -1,0 +1,134 @@
+Return-Path: <noreply@newsletters.ka-deau.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 12 Jun 2017 19:21:36 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id E6E362AF
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Jun 2017 19:21:35 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E3B016002B
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Jun 2017 19:21:35 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id yl0T3DjcJww3 for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 12 Jun 2017 19:21:35 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id C5897601AD
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Jun 2017 19:21:35 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id C00BA20033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Jun 2017 19:21:35 +0200 (CEST)
+Received: from newsletters.ka-deau.fr (newsletters.ka-deau.fr [185.24.145.12])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 0D435607D9
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Jun 2017 19:21:56 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=newsletters.ka-deau.fr;
+ q=dns/txt; s=mail; bh=kSozC2czvum4yFXu2wwtsCcqix9JtqwH8975tS0KzWA=;
+ h=from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe;
+        b=hJtKwNNMXbo1VQqN9TZGO9xr//jGBmv2U3B5jiCyt6zVb1NgKoNOG2SAEOWu+EQvB1y1PXefxdAH
+        O0TyoTV7jii9yg6yVnByiv8Ln86bk1Spe5cVxMbv/DfYtvkBvyiPGaF84DXFP7sM1SrJDeD3awTe
+        Lx0c5Wj/1NrVDsHaKeA=
+To: <resp-m2-miage@univ-rennes1.fr>
+Subject: =?UTF-8?Q?La_beaut=C3=A9_de_la_femme?=
+From: =?UTF-8?Q?Cosmea?= <contact@cosmea.fr>
+List-Id: MTAxNjA4MC04NjgwMzc5LTE3Ng== <MTAxNjA4MC04NjgwMzc5LTE3Ng==.list-id.newsletters.ka-deau.fr>
+List-Unsubscribe: <mailto:unsubscribe@newsletters.ka-deau.fr?subject=unsub-5a8je4kfh8ioarj&body=5a8je4kfh8ioarj>,<http://r.newsletters.ka-deau.fr/5cabqwbcd8ioarg.html>
+Content-Type: multipart/alternative; boundary="-------?=_46527-8540295287966"
+MIME-Version: 1.0
+Precedence: bulk
+Feedback-ID: ded_185.24.145.12:1016080:1016080_856:Sendinblue
+X-Mailer: Sendinblue
+X-Mailin-Client: 1016080
+X-Mailin-Campaign: 856
+Reply-To: contact@cosmea.fr
+Message-Id: <201706121921.5a8je4kfh8ioarj@newsletters.ka-deau.fr>
+Date: Mon, 12 Jun 2017 19:21:10 +0200
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 185.24.145.12
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrjedugdduudefucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepvffuhfejjfgtgghpofhrkfffsegrtderreertdejnecuhfhrohhmpeevohhsmhgvrgcuoegtohhnthgrtghtsegtohhsmhgvrgdrfhhrqeenucffohhmrghinhepkhgrqdguvggruhdrfhhrnecukfhppedukeehrddvgedrudeghedruddvnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehnvgifshhlvghtthgvrhhsrdhkrgdquggvrghurdhfrhdpihhnvghtpedukeehrddvgedrudeghedruddvpdhmrghilhhfrhhomhepnhhorhgvphhlhiesnhgvfihslhgvthhtvghrshdrkhgrqdguvggruhdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+---------?=_46527-8540295287966
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Si vous ne parvenez pas =C3=A0 lire cet e-mail, cliquez http://r.newsletter=
+s.ka-deau.fr/5cabqwbcd8ioarf.html[  ]( http://r.newsletters.ka-deau.fr/clic=
+k/ld5azl9dgt8ioard.html )  [  ]( http://r.newsletters.ka-deau.fr/click/ld5a=
+zl9dhloioard.html )  [  ]( http://r.newsletters.ka-deau.fr/click/ld5azl9die=
+4ioard.html )  [  ]( http://r.newsletters.ka-deau.fr/click/ld5azl9dj6kioard=
+.html )  [  ]( http://r.newsletters.ka-deau.fr/click/ld5azl9djz0ioard.html =
+)  [  ]( http://r.newsletters.ka-deau.fr/click/ld5azl9dkrgioard.html )  [  =
+]( http://r.newsletters.ka-deau.fr/click/ld5azl9dljwioard.html )  [  ]( htt=
+p://r.newsletters.ka-deau.fr/click/ld5azl9dmccioard.html )  [  ]( http://r.=
+newsletters.ka-deau.fr/click/ld5azl9dn4sioard.html )  [  ]( http://r.newsle=
+tters.ka-deau.fr/click/ld5azl9dnx8ioard.html )Si vous souhaitez vous d=
+=C3=A9sinscrire de notre newsletter, cliquez http://r.newsletters.ka-deau.f=
+r/5cabqwbcd8ioarg.html
+
+
+---------?=_46527-8540295287966
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A<title>newsletter_cosmea</title>=0A<meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />=0A</head=
+>=0A<body bgcolor=3D"#FFFFFF">=0A<!-- Save for Web Slices (newsletter_cosme=
+a.jpg) -->=0A<table align=3D"center" width=3D"676" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0">=0A=09<tr>=0A=09=09<td colspan=3D"3">=0A          =
+  <a href=3D"http://r.newsletters.ka-deau.fr/click/ld5azl9dgt8ioard.html" t=
+arget=3D"_blank" style=3D"text-decoration:none;"><img id=3D"index_01" src=
+=3D"http://www.cosmea.fr/NL2/images/index_01.jpg" width=3D"676" height=3D"2=
+97" alt=3D"" /></a></td>=0A=09</tr>=0A=09<tr>=0A=09=09<td colspan=3D"3">=0A=
+=09=09=09<a href=3D"http://r.newsletters.ka-deau.fr/click/ld5azl9dhloioard.=
+html" target=3D"_blank" style=3D"text-decoration:none;"><img id=3D"index_02=
+" src=3D"http://www.cosmea.fr/NL2/images/index_02.jpg" width=3D"676" height=
+=3D"124" alt=3D"" /></a></td>=0A=09</tr>=0A=09<tr>=0A=09=09<td colspan=3D"3=
+">=0A=09=09=09<a href=3D"http://r.newsletters.ka-deau.fr/click/ld5azl9die4i=
+oard.html" target=3D"_blank" style=3D"text-decoration:none;"><img id=3D"ind=
+ex_03" src=3D"http://www.cosmea.fr/NL2/images/index_03.jpg" width=3D"676" h=
+eight=3D"427" alt=3D"" /></a></td>=0A=09</tr>=0A=09<tr>=0A=09=09<td>=0A=09=
+=09=09<a href=3D"http://r.newsletters.ka-deau.fr/click/ld5azl9dj6kioard.htm=
+l" target=3D"_blank" style=3D"text-decoration:none;"><img id=3D"index_04" s=
+rc=3D"http://www.cosmea.fr/NL2/images/index_04.jpg" width=3D"232" height=3D=
+"292" alt=3D"" /></a></td>=0A=09=09<td>=0A=09=09=09<a href=3D"http://r.news=
+letters.ka-deau.fr/click/ld5azl9djz0ioard.html" target=3D"_blank" style=3D"=
+text-decoration:none;"><img id=3D"index_05" src=3D"http://www.cosmea.fr/NL2=
+/images/index_05.jpg" width=3D"212" height=3D"292" alt=3D"" /></a></td>=0A=
+=09=09<td>=0A=09=09=09<a href=3D"http://r.newsletters.ka-deau.fr/click/ld5a=
+zl9dkrgioard.html" target=3D"_blank" style=3D"text-decoration:none;"><img i=
+d=3D"index_06" src=3D"http://www.cosmea.fr/NL2/images/index_06.jpg" width=
+=3D"232" height=3D"292" alt=3D"" /></a></td>=0A=09</tr>=0A=09<tr>=0A=09=09<=
+td>=0A=09=09=09<a href=3D"http://r.newsletters.ka-deau.fr/click/ld5azl9dljw=
+ioard.html" target=3D"_blank" style=3D"text-decoration:none;"><img id=3D"in=
+dex_07" src=3D"http://www.cosmea.fr/NL2/images/index_07.jpg" width=3D"232" =
+height=3D"294" alt=3D"" /></a></td>=0A=09=09<td>=0A=09=09=09<a href=3D"http=
+://r.newsletters.ka-deau.fr/click/ld5azl9dmccioard.html" target=3D"_blank" =
+style=3D"text-decoration:none;"><img id=3D"index_08" src=3D"http://www.cosm=
+ea.fr/NL2/images/index_08.jpg" width=3D"212" height=3D"294" alt=3D"" /></a>=
+</td>=0A=09=09<td>=0A=09=09=09<a href=3D"http://r.newsletters.ka-deau.fr/cl=
+ick/ld5azl9dn4sioard.html" target=3D"_blank" style=3D"text-decoration:none;=
+"><img id=3D"index_09" src=3D"http://www.cosmea.fr/NL2/images/index_09.jpg"=
+ width=3D"232" height=3D"294" alt=3D"" /></a></td>=0A=09</tr>=0A=09<tr>=0A=
+=09=09<td colspan=3D"3">=0A=09=09=09<a href=3D"http://r.newsletters.ka-deau=
+.fr/click/ld5azl9dnx8ioard.html" target=3D"_blank" style=3D"text-decoration=
+:none;"><img id=3D"index_10" src=3D"http://www.cosmea.fr/NL2/images/index_1=
+0.jpg" width=3D"676" height=3D"80" alt=3D"" /></a></td>=0A=09</tr>=0A</tabl=
+e>=0A<!-- End Save for Web Slices -->=0A<div align=3D"center" style=3D"colo=
+r: #727272; font-size: 10px;">Si vous souhaitez vous d=C3=A9sinscrire de no=
+tre newsletter, cliquez <a style=3D"color:#01a4c6;" target=3D"_blank" href=
+=3D"http://r.newsletters.ka-deau.fr/5cabqwbcd8ioarg.html">ici</a></div><div=
+><img width=3D"1" height=3D"1" src=3D"http://r.newsletters.ka-deau.fr/5cabq=
+wbcd8ioarh.jpg" /></div></body>=0A</html>
+
+
+---------?=_46527-8540295287966--
+

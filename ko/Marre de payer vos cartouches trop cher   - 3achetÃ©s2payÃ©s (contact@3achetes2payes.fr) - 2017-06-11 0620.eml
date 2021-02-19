@@ -1,0 +1,228 @@
+Return-Path: <noreply@newsletter.opencre.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 11 Jun 2017 07:59:48 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 4A0CF377
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 11 Jun 2017 07:59:48 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 40933600CC
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 11 Jun 2017 07:59:48 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 0wCfU4O_yLE2 for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 11 Jun 2017 07:59:48 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 21C6D60004
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 11 Jun 2017 07:59:48 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 2223420033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 11 Jun 2017 07:59:48 +0200 (CEST)
+Received: from newsletter.opencre.fr (newsletter.opencre.fr [213.32.138.193])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 73F8B602A3
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 11 Jun 2017 08:00:08 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=newsletter.opencre.fr;
+ q=dns/txt; s=mail; bh=J3ZIqRUq0hhnnigh0h1jJzM2weSHTVRnwJNBWZmW6IU=;
+ h=from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe;
+        b=AmgcX3h/I7GzrtCzN9u3dFWAGobq8kZBHab0IxuDbDlA83PyKZm2Dx48awDajaTDcfbGQtW64AiU
+        Upl/oX23NvXbon3XBe7n8BidkxkL2XJVDAK5GSkY1wvbw5ioc52IbP+rJz0R+c8RHUuDBFnhc6CC
+        2tq9pzbiEbr4R8tM2lg=
+To: <resp-m2-miage@univ-rennes1.fr>
+Subject: =?UTF-8?Q?Marre_de_payer_vos_cartouches_trop_cher_=3F?=
+From: =?UTF-8?Q?3achet=C3=A9s2pay=C3=A9s?= <contact@3achetes2payes.fr>
+List-Id: MTAxNjA4MC04NjgwMzc5LTE3Ng== <MTAxNjA4MC04NjgwMzc5LTE3Ng==.list-id.newsletter.opencre.fr>
+List-Unsubscribe: <mailto:unsubscribe@newsletter.opencre.fr?subject=unsub-5b690skfh8ioarj&body=5b690skfh8ioarj>,<http://r.newsletter.opencre.fr/5cabqwbh3wioarg.html>
+Content-Type: multipart/alternative; boundary="-------?=_38910-3155772859851"
+MIME-Version: 1.0
+Precedence: bulk
+Feedback-ID: ded_213.32.138.193:1016080:1016080_860:Sendinblue
+X-Mailer: Sendinblue
+X-Mailin-Client: 1016080
+X-Mailin-Campaign: 860
+Reply-To: contact@3achetes2payes.fr
+Message-Id: <201706110620.5b690skfh8ioarj@newsletter.opencre.fr>
+Date: Sun, 11 Jun 2017 06:20:27 +0200
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 213.32.138.193
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrieekgdeitdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefvuffhjefjtgggphforhfkffesrgdtreerredtjeenucfhrhhomhepfegrtghhvghtrohsvdhprgihrohsuceotghonhhtrggtthesfegrtghhvghtvghsvdhprgihvghsrdhfrheqnecuffhomhgrihhnpehophgvnhgtrhgvrdhfrhenucfkphepvddufedrfedvrddufeekrdduleefnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehnvgifshhlvghtthgvrhdrohhpvghntghrvgdrfhhrpdhinhgvthepvddufedrfedvrddufeekrdduleefpdhmrghilhhfrhhomhepnhhorhgvphhlhiesnhgvfihslhgvthhtvghrrdhophgvnhgtrhgvrdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+---------?=_38910-3155772859851
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Si vous ne parvenez pas =C3=A0 lire cet e-mail, cliquez http://r.newsletter=
+.opencre.fr/5cabqwbh3wioarf.html[  ]( http://r.newsletter.opencre.fr/click/=
+ld5azl9wfh8ioard.html )  [ cartouches jet d'encre ]( http://r.newsletter.op=
+encre.fr/click/ld5azl9wg9oioard.html )   [ toners Laser ]( http://r.newslet=
+ter.opencre.fr/click/ld5azl9wh24ioard.html )   [ Rubans ]( http://r.newslet=
+ter.opencre.fr/click/ld5azl9whukioard.html )   [ Rubans Transfert thermique=
+ ]( http://r.newsletter.opencre.fr/click/ld5azl9win0ioard.html )   [ Imprim=
+antes 3D ]( http://r.newsletter.opencre.fr/click/ld5azl9wjfgioard.html )   =
+ [  ]( http://r.newsletter.opencre.fr/click/ld5azl9wk7wioard.html )  [ 3ach=
+etes2payes : vente d'encre discount ]( http://r.newsletter.opencre.fr/click=
+/ld5azl9wl0cioard.html )   [ paiement enligne 100% s=C3=A9curis=C3=A9 ]( ht=
+tp://r.newsletter.opencre.fr/click/ld5azl9wlssioard.html )    [ Jet d'encre=
+ ]( http://r.newsletter.opencre.fr/click/ld5azl9wml8ioard.html ) [ laser ](=
+ http://r.newsletter.opencre.fr/click/74drnv3at7x8ioard.html ) [ Cartouches=
+ compatibles ]( http://r.newsletter.opencre.fr/click/74drnv3at8poioard.html=
+ ) [ Rubans =C3=A9queteuses ]( http://r.newsletter.opencre.fr/click/74drnv3=
+at9i4ioard.html )   [ Imprimantes 3D ]( http://r.newsletter.opencre.fr/clic=
+k/74drnv3ataakioard.html ) [ Rubans et caisses ]( http://r.newsletter.openc=
+re.fr/click/74drnv3atb30ioard.html ) [ Transfert thermique ]( http://r.news=
+letter.opencre.fr/click/74drnv3atbvgioard.html ) [ Papier photos ]( http://=
+r.newsletter.opencre.fr/click/74drnv3atcnwioard.html )=0A[ Blog ]( http://r=
+.newsletter.opencre.fr/click/74drnv3atdgcioard.html ) [ Conditions g=C3=
+=A9n=C3=A9rales de vente ]( http://r.newsletter.opencre.fr/click/74drnv3ate=
+8sioard.html ) [ Mentions l=C3=A9gales ]( http://r.newsletter.opencre.fr/cl=
+ick/74drnv3atf18ioard.html )=0A=0Apar cheque :Commande envoy=C3=A9e,apr=
+=C3=A8s encaissement=0A=0A=0A[ Copyright =C2=A9 M & A France Web - Tous dro=
+its r=C3=A9serv=C3=A9s=0AM & A France Web - RCS Toulouse 807 473 301. Confo=
+rm=C3=A9ment =C3=A0 la loi n=C2=B078-17 relative =C3=A0 l'informatique, aux=
+ fichiers et aux libert=C3=A9s du 6 janvier 1978, vous avez le droit de vou=
+s opposer =C3=A0 ce que des informations nominatives vous concernant fassen=
+t l'objet d'un traitement. Vous pouvez =C3=A0 tout moment exercer un droit =
+d'acc=C3=A8s, de contr=C3=B4le et de rectification de ces donn=C3=A9es. ]( =
+http://r.newsletter.opencre.fr/click/74drnv3athekioard.html )Si vous souhai=
+tez vous d=C3=A9sinscrire de notre newsletter, cliquez http://r.newsletter.=
+opencre.fr/5cabqwbh3wioarg.html
+
+
+---------?=_38910-3155772859851
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A<meta http-equiv=3D"Content-Type" content=3D=
+"text/html; charset=3Dutf-8" />=0A<title>Newsletter 3achetes2payes</title>=
+=0A<link href=3D"https://fonts.googleapis.com/css?family=3DRaleway" rel=3D"=
+stylesheet"> =0A</head>=0A=0A<body style=3D"font-family: 'Raleway', sans-se=
+rif;">=0A<table width=3D"676" border=3D"0" align=3D"center" cellpadding=3D"=
+0" cellspacing=3D"0">=0A  <tr>=0A    <td><a href=3D"http://r.newsletter.ope=
+ncre.fr/click/ld5azl9wfh8ioard.html" style=3D"text-decoration:none;" target=
+=3D"_blank"><img src=3D"http://www.3achetes2payes.fr/NLNOVEMBER/images/head=
+er.png" width=3D"676" alt=3D"http://www.3achetes2payes.fr/" /></a></td>=0A =
+ </tr>=0A  <tr>=0A    <td><table width=3D"676" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0">=0A        <tr>=0A        <td><table width=3D"676" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"background-color: #e=
+d1757;=0A    padding-top: 10px;=0A    color: #fff;=0A    padding-bottom: 10=
+px;">=0A          <tr>=0A            <td width=3D"180" height=3D"27" align=
+=3D"center" style=3D"">=0A                <a href=3D"http://r.newsletter.op=
+encre.fr/click/ld5azl9wg9oioard.html" target=3D"_blank" style=3D"text-decor=
+ation:none;text-align:center;color:#fff;"><span style=3D"text-transform:upp=
+ercase;font-size: 11px;">cartouches jet d'encre</span></a>=0A            </=
+td>=0A            <td width=3D"100" height=3D"27" align=3D"center" style=3D=
+"">=0A                <a href=3D"http://r.newsletter.opencre.fr/click/ld5az=
+l9wh24ioard.html" target=3D"_blank" style=3D"text-decoration:none;text-alig=
+n:center;color:#fff;"><span style=3D"text-transform:uppercase;font-size: 11=
+px;">toners Laser</span></a>=0A            </td>=0A            <td width=3D=
+"100" height=3D"27" align=3D"center" style=3D"">=0A                <a href=
+=3D"http://r.newsletter.opencre.fr/click/ld5azl9whukioard.html" target=3D"_=
+blank" style=3D"text-decoration:none;text-align:center;color:#fff;"><span s=
+tyle=3D"text-transform:uppercase;font-size: 11px;">Rubans</span></a>=0A    =
+        </td>=0A            <td width=3D"190" height=3D"27" align=3D"center=
+" style=3D"">=0A                <a href=3D"http://r.newsletter.opencre.fr/c=
+lick/ld5azl9win0ioard.html" target=3D"_blank" style=3D"text-decoration:none=
+;text-align:center;color:#fff;"><span style=3D"text-transform:uppercase;fon=
+t-size: 11px;">Rubans Transfert thermique</span></a>=0A            </td>=0A=
+            <td width=3D"106" height=3D"27" align=3D"center">=0A           =
+     <a href=3D"http://r.newsletter.opencre.fr/click/ld5azl9wjfgioard.html"=
+ target=3D"_blank" style=3D"text-decoration:none;text-align:center;color:#f=
+ff;"><span style=3D"text-transform:uppercase;font-size: 11px;">Imprimantes =
+3D</span></a>=0A            </td>=0A          </tr>=0A        </table></td>=
+=0A        </tr>=0A        <!-- End 3&egrave;me ligne -->=0A    </table></t=
+d>=0A  </tr>=0A  <tr>=0A    <td><a href=3D"http://r.newsletter.opencre.fr/c=
+lick/ld5azl9wk7wioard.html" style=3D"text-decoration:none;" target=3D"_blan=
+k"><img src=3D"http://www.3achetes2payes.fr/NLNOVEMBER/images/contenu.png" =
+width=3D"676" alt=3D"http://www.3achetes2payes.fr/" /></a></td>=0A  </tr>=
+=0A  <tr>=0A    <td><table width=3D"676" border=3D"0" cellspacing=3D"0" cel=
+lpadding=3D"0">=0A        <tr>=0A        <td><table width=3D"676" border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"background-color: #fff;=0A=
+    padding-top: 10px;=0A    padding-bottom: 10px;">=0A          <tr>=0A   =
+         <td width=3D"440" height=3D"27" >=0A                <a href=3D"htt=
+p://r.newsletter.opencre.fr/click/ld5azl9wl0cioard.html" target=3D"_blank" =
+style=3D"text-decoration:none;text-align:center;color:#7787a4;"><span style=
+=3D"text-transform:uppercase;font-size: 13px;padding-left:20px;">3achetes2p=
+ayes : vente d'encre discount</span></a>=0A            </td>=0A            =
+<td width=3D"236" height=3D"27" >=0A                <a href=3D"http://r.new=
+sletter.opencre.fr/click/ld5azl9wlssioard.html" target=3D"_blank" style=3D"=
+text-decoration:none;text-align:center;color:#7787a4;"><span style=3D"text-=
+transform:uppercase;font-size: 13px;">paiement enligne 100% s&eacute;curis&=
+eacute;</span></a>=0A            </td>=0A          </tr>=0A           <tr>=
+=0A            <td>=0A                <table width=3D"440" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"0">=0A                   <tr>=0A             =
+       <td width=3D"130" style=3D"font-size:11px">=0A                      =
+      <ul>=0A                                <a href=3D"http://r.newsletter=
+.opencre.fr/click/ld5azl9wml8ioard.html" target=3D"_blank" style=3D"text-de=
+coration:none;color:#7787a4;"><li>Jet d'encre</li></a>=0A                  =
+              <a href=3D"http://r.newsletter.opencre.fr/click/74drnv3at7x8i=
+oard.html" target=3D"_blank" style=3D"text-decoration:none;color:#7787a4;">=
+<li>laser</li></a>=0A                                <a href=3D"http://r.ne=
+wsletter.opencre.fr/click/74drnv3at8poioard.html" target=3D"_blank" style=
+=3D"text-decoration:none;color:#7787a4;"><li>Cartouches compatibles</li></a=
+>=0A                                <a href=3D"http://r.newsletter.opencre.=
+fr/click/74drnv3at9i4ioard.html" target=3D"_blank" style=3D"text-decoration=
+:none;color:#7787a4;"><li>Rubans &eacute;queteuses</li></a>=0A             =
+               </ul>=0A                    </td>=0A                    <td =
+width=3D"130" style=3D"font-size:11px">=0A                            <ul>=
+=0A                                <a href=3D"http://r.newsletter.opencre.f=
+r/click/74drnv3ataakioard.html" target=3D"_blank" style=3D"text-decoration:=
+none;color:#7787a4;"><li>Imprimantes 3D</li></a>=0A                        =
+        <a href=3D"http://r.newsletter.opencre.fr/click/74drnv3atb30ioard.h=
+tml" target=3D"_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Ru=
+bans et caisses</li></a>=0A                                <a href=3D"http:=
+//r.newsletter.opencre.fr/click/74drnv3atbvgioard.html" target=3D"_blank" s=
+tyle=3D"text-decoration:none;color:#7787a4;"><li>Transfert thermique</li></=
+a>=0A                                <a href=3D"http://r.newsletter.opencre=
+.fr/click/74drnv3atcnwioard.html" target=3D"_blank" style=3D"text-decoratio=
+n:none;color:#7787a4;"><li>Papier photos</li></a><br/>=0A                  =
+          </ul>=0A                    </td>=0A                    <td width=
+=3D"170" style=3D"font-size:11px">=0A                            <ul>=0A   =
+                             <a href=3D"http://r.newsletter.opencre.fr/clic=
+k/74drnv3atdgcioard.html" target=3D"_blank" style=3D"text-decoration:none;c=
+olor:#7787a4;"><li>Blog</li></a>=0A                                <a href=
+=3D"http://r.newsletter.opencre.fr/click/74drnv3ate8sioard.html" target=3D"=
+_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Conditions g&eacu=
+te;n&eacute;rales de vente</li></a>=0A                                <a hr=
+ef=3D"http://r.newsletter.opencre.fr/click/74drnv3atf18ioard.html" target=
+=3D"_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Mentions l&ea=
+cute;gales</li></a><br/><br/>=0A                            </ul>=0A       =
+             </td>=0A                   </tr>=0A                </table>=0A=
+            </td>=0A            <td width=3D"236" style=3D"padding-left: 20=
+px;">=0A                <span style=3D"font-size: 11px;color:#7787a4;">par =
+cheque :Commande envoy&eacute;e,apr&egrave;s encaissement</span><br/>=0A   =
+             <img src=3D"http://www.3achetes2payes.fr/NLNOVEMBER/images/pai=
+ement.png" width=3D"200" height=3D"36" alt=3D"http://www.3achetes2payes.fr/=
+" /><br/><br/>=0A            </td>=0A          </tr>=0A        </table></td=
+>=0A        </tr>=0A        <!-- End 3&egrave;me ligne -->=0A    </table></=
+td>=0A  </tr>=0A    <tr style=3D"background-color:#d3d3d3;"><td style=3D"he=
+ight:1px;"></td></tr>=0A  <tr style=3D"background-color:#e3e3e3;">=0A    <t=
+d align=3D"center" style=3D"padding:10px 10px 10px 10px;"><a href=3D"http:/=
+/r.newsletter.opencre.fr/click/74drnv3athekioard.html" target=3D"_blank" st=
+yle=3D"text-decoration:none;color:#8d8b8b;line-height: 24px;"><span style=
+=3D"font-size: 12px;">Copyright &copy; M & A France Web - Tous droits r&eac=
+ute;serv&eacute;s</span><br/>=0A        <span style=3D"font-size: 12px;">M =
+& A France Web - RCS Toulouse 807 473 301. Conform&eacute;ment &agrave; la =
+loi n&deg;78-17 relative &agrave; l'informatique, aux fichiers et aux liber=
+t&eacute;s du 6 janvier 1978, vous avez le droit de vous opposer &agrave; c=
+e que des informations nominatives vous concernant fassent l'objet d'un tra=
+itement. Vous pouvez &agrave; tout moment exercer un droit d'acc&egrave;s, =
+de contr&ocirc;le et de rectification de ces donn&eacute;es.</span></a></td=
+>=0A  </tr>=0A</table>=0A<div align=3D"center" style=3D"color: #727272; fon=
+t-size: 10px;">Si vous souhaitez vous d=C3=A9sinscrire de notre newsletter,=
+ cliquez <a style=3D"color:#01a4c6;" target=3D"_blank" href=3D"http://r.new=
+sletter.opencre.fr/5cabqwbh3wioarg.html">ici</a></div><div><img width=3D"1"=
+ height=3D"1" src=3D"http://r.newsletter.opencre.fr/5cabqwbh3wioarh.jpg" />=
+</div></body>=0A</html>=0A=0A
+
+
+---------?=_38910-3155772859851--
+

@@ -1,0 +1,223 @@
+Return-Path: <bounce-id=D298=U142002.cluster017.ovh.net=1477334876.15-J7SCA@110-prod.mail-out.ovh.net>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 24 Oct 2016 20:47:56 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id EC9F7199
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E9FB360096
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id pL9D1xuZ1Bbx for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id CDD0C600EA
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id C62E720033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+Received: from 5.mo160.mail-out.ovh.net (5.mo160.mail-out.ovh.net [46.105.53.23])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb1-2.relay.renater.fr (asm) with ESMTPS id 8DC00280043
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+Received: from 110.mail-out.ovh.net (unknown [10.108.4.71])
+	by mo160.mail-out.ovh.net (Postfix) with ESMTP id 4B8AB11A4D
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+Received: from 110.mail-out.ovh.net (localhost [127.0.0.1])
+	by 110.mail-out.ovh.net (Postfix) with ESMTP id 480DB20190
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:56 +0200 (CEST)
+Received: from cluster017.ovh.net (gw-cluster017.ovh.net [213.251.182.117])
+ by 110.mail-out.ovh.net (Postfix) with ESMTP id 8E28E20237
+ for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:55 +0200 (CEST)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+ by localhost.domain.tld (Postfix) with ESMTP id 85C5D62049
+ for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 20:47:55 +0200 (CEST)
+Received: by cluster017.ovh.net (Postfix, from userid 142002)
+ id 7BE45620F3; Mon, 24 Oct 2016 20:47:55 +0200 (CEST)
+To: resp-m2-miage@univ-rennes1.fr
+Subject: Optimisez Votre Productivite avec un iPhone 7
+MIME-Version: 1.0
+X-Mailer: PHPMailer 5.2.13
+From: Bouygues Telecom <corinne@dyqosyxi.ovh>
+Content-Type: multipart/alternative;
+ boundary="=_8591bc747fbe57819242f0dd34ca8e1f"
+Message-ID: <ofkevv.voy4ut@www.dyqosyxi.ovh>
+Date: Mon, 24 Oct 2016 20:47:55 +0200 (CEST)
+X-Ovh-Tracer-Id: 6294624908035460103
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrfeelvddrieehgdduvdeiucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecuqfggjfdpvefjgfevmfevgfenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedm
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 46.105.53.23
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrieehgdduvdejucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepvffuggfohfgtkfffsegrtderreehtdejnecuhfhrohhmpeeuohhuhihguhgvshcuvfgvlhgvtghomhcuoegtohhrihhnnhgvseguhihqohhshiigihdrohhvhheqnecuffhomhgrihhnpeguhihqohhshiigihdrohhvhhenucfkphepgeeirddutdehrdehfedrvdefpddvudefrddvhedurddukedvrdduudejnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopeehrdhmohduiedtrdhmrghilhdqohhuthdrohhvhhdrnhgvthdpihhnvghtpeegiedruddthedrheefrddvfedpmhgrihhlfhhrohhmpegsohhunhgtvgdqihgupeffvdelkeepfgdugedvtddtvddrtghluhhsthgvrhdtudejrdhovhhhrdhnvghtpedugeejjeeffeegkeejiedrudehqdfljefuveetseduuddtqdhprhhougdrmhgrihhlqdhouhhtrdhovhhhrdhnvghtpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+--=_8591bc747fbe57819242f0dd34ca8e1f
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+
+                                                  #outlook a {              padding: 0;          }                    .ReadMsgBody {              width: 100%;          }                    .ExternalClass {              width: 100%;          }                    .ExternalClass,          .ExternalClass p,          .ExternalClass span,          .ExternalClass font,          .ExternalClass td,          .ExternalClass div {              line-height: 100%;          }                    body,          table,          td,          a {              -webkit-text-size-adjust: 100%;              -ms-text-size-adjust: 100%;          }                    table,          td {              mso-table-lspace: 0pt;              mso-table-rspace: 0pt;          }                    img {              -ms-interpolation-mode: bicubic;          }                    body {              height: 100% !important;              margin: 0;              padding: 0;              width: 100% !important;      
+     }                    img {              border: 0;              height: auto;              line-height: 100%;              outline: none;              text-decoration: none;          }                    table {              border-collapse: collapse !important;          }                    @media only screen and (max-width: 640px) {              table[class="w320"] {                  width: 100% !important;              }              td[class="w320"] {                  width: 320px !important;              }              table[class="w320m"] {                  width: 90% !important;              }              td[class="w320m"] {                  width: 320px !important;              }              td[class="hide"] {                  display: none !important;              }              img[class="hide"] {                  display: none !important;              }              td[class="bloc"] {                  display: block !important;                  width: 100% !
+ important;                  text-align: center !important;              }              img[class="w100%"] {                  width: 100% !important;                  height: auto !important;              }          }            iPhone 7 &#224; partir d&apos;1&#8364; pour toute souscription au forfait Neo 24/7 Int&#233;gral                                                                                                                                                                                                                                                                                                                            iPhone 7 &#224; partir d&apos;1&#8364; pour toute souscription au forfait Neo 24/7 Int&#233;gral.<br>Si ce message ne s&#8217;affiche pas correctement, cliquez-ici.                                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                     D&eacute;couvrez le forfait Neo 24/7 Int&eacute;gral pour les professionnels                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+            Pour cesser de recevoir nos informations &#224; cette adresse, d&#233;sabonnez-vous.                                                                                                                                                                                                                                                                                       
+--=_8591bc747fbe57819242f0dd34ca8e1f
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+
+          <html>  <head>      <meta http-equiv=3D"Content-Type" content=3D"=
+text/html; charset=3Dutf-8" />      <meta name=3D"viewport" content=3D"widt=
+h=3Ddevice-width, initial-scale=3D1.0, minimum-scale=3D1.0, maximum-scale=
+=3D1.0" />      <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3D9; IE=
+=3D8; IE=3D7; IE=3DEDGE" />      <link href=3D"https://fonts.googleapis.com=
+/css?family=3DOpen+Sans:600" rel=3D"stylesheet">      <style type=3D"text/c=
+ss">                  #outlook a {              padding: 0;          }     =
+               .ReadMsgBody {              width: 100%;          }         =
+           .ExternalClass {              width: 100%;          }           =
+         .ExternalClass,          .ExternalClass p,          .ExternalClass=
+ span,          .ExternalClass font,          .ExternalClass td,          .=
+ExternalClass div {              line-height: 100%;          }             =
+       body,          table,          td,          a {              -webkit=
+-text-size-adjust: 100%;              -ms-text-size-adjust: 100%;          =
+}                    table,          td {              mso-table-lspace: 0p=
+t;              mso-table-rspace: 0pt;          }                    img { =
+             -ms-interpolation-mode: bicubic;          }                   =
+ body {              height: 100% !important;              margin: 0;      =
+        padding: 0;              width: 100% !important;          }        =
+            img {              border: 0;              height: auto;       =
+       line-height: 100%;              outline: none;              text-dec=
+oration: none;          }                    table {              border-co=
+llapse: collapse !important;          }                    @media only scre=
+en and (max-width: 640px) {              table[class=3D"w320"] {           =
+       width: 100% !important;              }              td[class=3D"w320=
+"] {                  width: 320px !important;              }              =
+table[class=3D"w320m"] {                  width: 90% !important;           =
+   }              td[class=3D"w320m"] {                  width: 320px !impo=
+rtant;              }              td[class=3D"hide"] {                  di=
+splay: none !important;              }              img[class=3D"hide"] {  =
+                display: none !important;              }              td[cl=
+ass=3D"bloc"] {                  display: block !important;                =
+  width: 100% !important;                  text-align: center !important;  =
+            }              img[class=3D"w100%"] {                  width: 1=
+00% !important;                  height: auto !important;              }   =
+       }      </style>      <title>iPhone 7 &#224; partir d&apos;1&#8364; p=
+our toute souscription au forfait Neo 24/7 Int&#233;gral</title>  </head>  =
+  <body>      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadd=
+ing=3D"0" bgcolor=3D"#ffffff" align=3D"center" style=3D"font-family: &apos;=
+Oswald&apos;, Helvetica, Arial, sans-serif; border-collapse:collapse; mso-t=
+able-lspace: 0pt; mso-table-rspace: 0pt;">          <tr>              <td w=
+idth=3D"580" class=3D"w320" align=3D"center">                  <table width=
+=3D"580" class=3D"w320" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">  =
+                    <tr>                          <td height=3D"25"></td>  =
+                    </tr>                      <tr align=3D"center">       =
+                   <td width=3D"580">                              <table w=
+idth=3D"580" class=3D"w320m" cellspacing=3D"0" cellpadding=3D"0" style=3D"b=
+order-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">     =
+                             <tr>                                      <td =
+class=3D"bloc" width=3D"200" align=3D"center" valign=3D"bottom">           =
+                               <span style=3D"font-family: Helvetica, Arial=
+, sans-serif; font-size: 12px; line-height: 1.4; color: #999999;">iPhone 7 =
+&#224; partir d&apos;1&#8364; pour toute souscription au forfait Neo 24/7 I=
+nt&#233;gral.<br>Si ce message ne s&#8217;affiche pas correctement, <a href=
+=3D"http://dyqosyxi.ovh/cls/client6/bouyguesIphone/194949.php?email=3Drfu5t=
+%253fta%253wtmts%252a40e%253c0ab3is%2518l"  style=3D"color: #999999;" targe=
+t=3D"_blank">cliquez-ici</a>.</span>                                      <=
+/td>                                  </tr>                              </=
+table>                          </td>                      </tr>           =
+           <tr>                          <td height=3D"20"></td>           =
+           </tr>                      <tr align=3D"center">                =
+          <td width=3D"580">                              <table width=3D"5=
+80" class=3D"w320" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-coll=
+apse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">               =
+                   <tr>                                      <td class=3D"b=
+loc" width=3D"200" align=3D"left" valign=3D"center" style=3D"background-col=
+or: #ffffff;">                                          <a href=3D"http://d=
+yqosyxi.ovh/cls/client6/bouyguesIphone/536981.php?email=3Drfu5t%253fta%253w=
+tmts%252a40e%253c0ab3is%2518l" style=3D"text-decoration: none;" target=3D"_=
+blank"><img src=3D"http://dyqosyxi.ovh/cls/client6/bouyguesIphone/43055/png=
+" alt=3D"Bouygues T&#233;l&#233;com Entreprises" width=3D"200" style=3D"tex=
+t-align: center;" border=3D"0"></a>                                      </=
+td>                                      <td class=3D"hide" width=3D"550" a=
+lign=3D"left" valign=3D"center" style=3D"background-color: #ffffff;"></td> =
+                                 </tr>                              </table=
+>                          </td>                      </tr>                =
+      <tr>                          <td height=3D"20"></td>                =
+      </tr>                      <tr align=3D"center">                     =
+     <td width=3D"580" style=3D"font-size:15px;">                          =
+    <table width=3D"580" class=3D"w320" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-table-rspac=
+e: 0pt;">                                  <tr>                            =
+          <td align=3D"center">                                          <a=
+ href=3D"http://dyqosyxi.ovh/cls/client6/bouyguesIphone/536981.php?email=3D=
+rfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank" style=3D"=
+text-decoration: none;"><img class=3D"w100%" src=3D"http://dyqosyxi.ovh/cls=
+/client6/bouyguesIphone/31445/png" width=3D"580" alt=3D"iPhone 7 &#224; par=
+tir d&apos;1&#8364; pour toute souscription au forfait Neo 24/7 Int&#233;gr=
+al"></a>                                      </td>                        =
+          </tr>                              </table>                      =
+    </td>                      </tr>                      <tr>             =
+             <td height=3D"18" style=3D"background-color: #00abd4;"></td>  =
+                    </tr>                      <tr align=3D"center">       =
+                   <td width=3D"580" style=3D"background-color: #00abd4;"> =
+                             <table width=3D"580" class=3D"w320m" cellspaci=
+ng=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse; mso-table-lsp=
+ace:0pt; mso-table-rspace:0pt;">                                  <tr>     =
+                                 <td class=3D"bloc" width=3D"200" align=3D"=
+center" valign=3D"bottom">                                          <span s=
+tyle=3D"font-family: &apos;Open Sans&apos;, Helvetica, Arial, sans-serif; f=
+ont-size: 18px; font-weight: 600; line-height: 1.4; color: #ffffff;">D&eacu=
+te;couvrez le forfait Neo 24/7 Int&eacute;gral pour les professionnels</spa=
+n>                                      </td>                              =
+    </tr>                              </table>                          </=
+td>                      </tr>                      <tr>                   =
+       <td height=3D"18" style=3D"background-color: #00abd4;"></td>        =
+              </tr>                      <tr align=3D"center">             =
+             <td width=3D"580" style=3D"font-size:15px;">                  =
+            <table width=3D"580" class=3D"w320" cellspacing=3D"0" cellpaddi=
+ng=3D"0" style=3D"border-collapse: collapse; mso-table-lspace: 0pt; mso-tab=
+le-rspace: 0pt;">                                  <tr>                    =
+                  <td align=3D"center">                                    =
+      <a href=3D"http://dyqosyxi.ovh/cls/client6/bouyguesIphone/536981.php?=
+email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank" s=
+tyle=3D"text-decoration: none;"><img class=3D"w100%" src=3D"http://dyqosyxi=
+.ovh/cls/client6/bouyguesIphone/41445/jpeg" width=3D"580" alt=3D"Appels et =
+SMS illimit&#233;s vers la zone France, Europe, DOM, USA et Canada - 50Go d=
+e Data en France et 5Go de Data en Europe, DOM, USA et Canada - 2&#232;me S=
+IM 10Go avec le hotspot mobile inclus"></a>                                =
+      </td>                                  </tr>                         =
+     </table>                          </td>                      </tr>    =
+                  <tr>                          <td height=3D"20" style=3D"=
+background-color: #ffffff;"></td>                      </tr>               =
+       <tr align=3D"center">                          <td width=3D"580">   =
+                           <table width=3D"580" class=3D"w320m" cellspacing=
+=3D"0" cellpadding=3D"0" style=3D"border-collapse:collapse; mso-table-lspac=
+e:0pt; mso-table-rspace:0pt;">                                  <tr>       =
+                               <td class=3D"bloc" width=3D"200" align=3D"ce=
+nter" valign=3D"bottom">                                          <span sty=
+le=3D"font-family: Helvetica, Arial, sans-serif; font-size: 12px; line-heig=
+ht: 1.4; color: #999999;">Pour cesser de recevoir nos informations &#224; c=
+ette adresse, <a href=3D"http://dyqosyxi.ovh/cls/client6/bouyguesIphone/510=
+641.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l"  style=3D"c=
+olor: #999999;" target=3D"_blank">d&#233;sabonnez-vous</a>.</span>         =
+                             </td>                                  </tr>  =
+                            </table>                          </td>        =
+              </tr>                      <tr>                          <td =
+height=3D"25"></td>                      </tr>                  </table>   =
+           </td>          </tr>      </table>    <img src=3D"http://dyqosyx=
+i.ovh/cls/client6/bouyguesIphone/27572/gif">  </body>     </html>
+
+       =20
+--=_8591bc747fbe57819242f0dd34ca8e1f--
+

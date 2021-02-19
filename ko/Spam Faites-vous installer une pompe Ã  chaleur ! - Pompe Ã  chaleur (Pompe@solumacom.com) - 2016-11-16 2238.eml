@@ -1,0 +1,193 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@solumacom.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Wed, 16 Nov 2016 22:38:21 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 1616D47
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 16 Nov 2016 22:38:21 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 13BD0600BB
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 16 Nov 2016 22:38:21 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id EgoDL07QZaNN for <resp-m2-miage@univ-rennes1.fr>;
+	Wed, 16 Nov 2016 22:38:20 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id EB0AC60009
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 16 Nov 2016 22:38:20 +0100 (CET)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id E414E20033
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 16 Nov 2016 22:38:20 +0100 (CET)
+Received: from smtp-a59.directonlus.com (smtp-a59.directonlus.com [82.97.39.32])
+	by mxb2-1.relay.renater.fr (asm) with ESMTP id A4858600115
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 16 Nov 2016 22:38:20 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=solumacom.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp5; bh=jh1JgQy7u+ln3JnDFL+gzPTt
+	r0rAcDQl3zvUDjjWaLs=; b=dfZxQxM4q1z692BasSMhrRvVrbctef9h7Gkmsyor
+	GKJfRJeo1CCJCY9sK1kQDOVdQIhY64UAih4wCgdC7ShwsCvf/2ZNDB7SG+RDgdVJ
+	+Zi3VPIJgqVELMt6knVOkvTPh1bha7tVwu/3KTu9EKnMq+ZY4GEu9zPoQhqrILUH
+	NJo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=solumacom.com; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp5; b=YvGPEGya5Bb2jvTngxSBHCULhS8aDCf
+	4lIimtavYQoub51cKUfq5I1LaJVt0aIdZ3tgmSUUSUgizIAt8C6IAW6gBMR41Umc
+	I7e9+AoeMbvEKH1tY2T1TMA2gRumn5flK3r7S4fhLhCDqTHpI3y33qnFMJ/gwwru
+	mBTWBj5sraxQ=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Faites-vous_installer_une_pompe_=C3=A0_chaleur_!?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Wed, 16 Nov 2016 22:38:20 +0100
+From: =?utf-8?Q?Pompe_=C3=A0_chaleur?= <Pompe@solumacom.com>
+Reply-to: =?utf-8?Q?Pompe_=C3=A0_chaleur?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@solumacom.com>
+X-campaign_id: 480804815812779602_5
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==707
+List-Unsubscribe: <http://app.solumacom.com/d/?camp=480804815812779602_5&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <51cb6c900822278e19914f0428879e88@solumacom.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_51cb6c900822278e19914f0428879e88"
+X-Original-Source-IP: 82.97.39.32
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrudeggdduheegucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepvffufffhrhfjkfggtgesrgdtjhertddtjeenucfhrhhomheprfhomhhpvggpiogptghhrghlvghurhcuoefrohhmphgvsehsohhluhhmrggtohhmrdgtohhmqeenucffohhmrghinhepshholhhumhgrtghomhdrtghomhenucfkphepkedvrdeljedrfeelrdefvdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrheelrdguihhrvggtthhonhhluhhsrdgtohhmpdhinhgvthepkedvrdeljedrfeelrdefvddpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsehsohhluhhmrggtohhmrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--Part1_51cb6c900822278e19914f0428879e88
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.solumacom.com/v/?camp=3D480804815812779602_5&ms=3DcmVzcC1tMi1t=
+aWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_51cb6c900822278e19914f0428879e88
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Faites-vous installer une pompe =C3=A0 chaleur !</title>
+</head><body style=3D"text-size-adjust:none; -webkit-text-size-adjust:non=
+e; -moz-text-size-adjust:none; -ms-text-size-adjust:none; padding:0px; ma=
+rgin:0px;" marginheight=3D"0" leftmargin=3D"0" topmargin=3D"0" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.solumacom.com/v/?camp=3D480804815812779602_5&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si =
+cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"color=
+:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">S=
+i cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p> =
+                       Pompe &agrave; chaleur    <img src=3D"http://app.s=
+olumacom.com/r/?rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvcHgv=
+TXpBM05WOThYelEwTUY5OFh6STNYM3hmTUY5OFh6QS9hSFIwY0RvdkwzZDNkeTV5WldGamRHb=
+HZiaTFvWVdKcGRHRjBMbU52YlM5d2IyMXdaUzFoTFdOb1lXeGxkWEk=3D" width=3D"1" he=
+ight=3D"1" border=3D"0">  <center> <table id=3D"Tableau_01" width=3D"600"=
+ cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> 	<tbody><tr> 		<td wid=
+th=3D"300" bgcolor=3D"#006699"> 			<a href=3D"http://app.solumacom.com/r/=
+?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D480804815812779602_5&=
+rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTNOVjk4WHpR=
+ME1GOThYekkzWDN4Zk
+ 1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMj=
+F3WlMxaExXTm9ZV3hsZFhJ" style=3D"text-decoration:none;" target=3D"_blank"=
+><img src=3D"http://app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1=
+oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjEvaW1hZ2VzL2xvZ28ucG5n" al=
+t=3D"" width=3D"200" height=3D"50"></a></td> 		<td style=3D"text-align:ri=
+ght; font-family:'Century Gothic', Arial, Helvetica, sans-serif; font-siz=
+e:24px; text-transform:uppercase; padding:10px;" width=3D"300" bgcolor=3D=
+"#006699"><a href=3D"http://app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZUB1=
+bml2LXJlbm5lczEuZnI=3D&c=3D480804815812779602_5&rc=3DaHR0cDovL2FmZmlsaWF0=
+aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTNOVjk4WHpRME1GOThYekkzWDN4Zk1GOThYe=
+kEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlMxaE=
+xXTm9ZV3hsZFhJ" style=3D"text-decoration:none;color:#ffffff;" target=3D"_=
+blank">Pompe &agrave; chaleur</a> </td> 	</tr> 	<tr> 		<td colspan=3D"2">=
+ 			<a href=3D"http://app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LX=
+Jlbm5lcz
+ EuZnI=3D&c=3D480804815812779602_5&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZ=
+XZpcy5jb20vYWYvY2xjL016QTNOVjk4WHpRME1GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3=
+ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlMxaExXTm9ZV3hsZFh=
+J" style=3D"text-decoration:none;" target=3D"_blank"><img src=3D"http://a=
+pp.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWls=
+aW5nL3BvbXBlLWEtY2hhbGV1cjEvaW1hZ2VzL2ltZ1ByaW5jaXBhbGUuanBn" alt=3D"pomp=
+e-a-chaleur" width=3D"600" height=3D"435"></a></td> 	</tr> 	<tr> 		<td co=
+lspan=3D"5" width=3D"600"><a href=3D"http://app.solumacom.com/r/?m=3DcmVz=
+cC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D480804815812779602_5&rc=3DaHR0=
+cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTNOVjk4WHpRME1GOThYe=
+kkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1Odm=
+JTOXdiMjF3WlMxaExXTm9ZV3hsZFhJ" style=3D"font-family:'Century Gothic', Ar=
+ial, Helvetica, sans-serif;text-decoration:none;font-size:24px;color:#333=
+333;text-align:center;" target=3D"_blank"><p style=3D"text-transform:uppe=
+rcase;fo
+ nt-weight:bold; margin:0">La pompe &agrave; chaleur :</p><p style=3D"mar=
+gin:0;font-size:20px;">C'est obtenir de l'eau sanitaire et du chauffage &=
+agrave; un prix tr&egrave;s avantageux</p></a></td> 	</tr> 	<tr> 		<td co=
+lspan=3D"5" style=3D"padding:10px;" width=3D"600"> 			<hr height=3D"" wid=
+th=3D"20px" color=3D"#006699"></td> 	</tr> 	<tr> 		<td colspan=3D"2" styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:16px; padding:20=
+px 10px;text-align:center;" width=3D"600"><a href=3D"http://app.solumacom=
+.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D48080481581277=
+9602_5&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTNOV=
+jk4WHpRME1GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1=
+lXSnBkR0YwTG1OdmJTOXdiMjF3WlMxaExXTm9ZV3hsZFhJ" style=3D"text-decoration:=
+none;color:#333333" target=3D"_blank"><p style=3D"margin:0;">La pompe &ag=
+rave; chaleur ne fait qu&rsquo;exploiter l&rsquo;&eacute;nergie naturelle=
+ment issue du milieu ext&eacute;rieur pour vous la restituer. Cette techn=
+ique
+  permet donc de <strong>r&eacute;duire les &eacute;missions de CO2</stro=
+ng> en comparaison &agrave; un chauffage qui utilise du carburant fossile=
+.</p></a>  <p>De plus, certains types de pompes &agrave; chaleur peuvent =
+m&ecirc;me <strong>b&eacute;n&eacute;ficier d&rsquo;un cr&eacute;dit d&rs=
+quo;imp&ocirc;t pouvant aller jusqu&rsquo;&agrave; 30%.</strong></p></td>=
+ 	</tr> 	<tr> 		<td colspan=3D"2"> 			<a href=3D"http://app.solumacom.com=
+/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D480804815812779602=
+_5&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTNOVjk4W=
+HpRME1GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSn=
+BkR0YwTG1OdmJTOXdiMjF3WlMxaExXTm9ZV3hsZFhJ" style=3D"text-decoration:none=
+;" target=3D"_blank"><img src=3D"http://app.solumacom.com/r/?rc=3DaHR0cDo=
+vL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1ci0xL2lt=
+YWdlcy9pbWdQcm9jZWR1cmUuanBn" alt=3D"procedure" width=3D"600" height=3D"3=
+47"></a></td> 	</tr> </tbody></table> </center>                   <
+ img src=3D"http://app.solumacom.com/t/?i=3D480804815812779602_5&m=3DcmVz=
+cC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.solumacom.com/ima=
+ges/blank.jpg" alt=3D"_pspacer5"  /><p>
+<a href=3D"http://app.solumacom.com/d/?camp=3D480804815812779602_5&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne =
+plus recevoir d'informations de notre part" style=3D"color:#00F; font-fam=
+ily:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute=
+;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un=
+ quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_51cb6c900822278e19914f0428879e88--
+

@@ -1,0 +1,117 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@hatclouz.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Fri, 11 Nov 2016 18:33:21 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id BD1A819E
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 11 Nov 2016 18:33:21 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id BB1C160238
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 11 Nov 2016 18:33:21 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id VnjpwvXDS6P3 for <resp-m2-miage@univ-rennes1.fr>;
+	Fri, 11 Nov 2016 18:33:21 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 9BB6F60050
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 11 Nov 2016 18:33:21 +0100 (CET)
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 963B620033
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 11 Nov 2016 18:33:21 +0100 (CET)
+Received: from ip-81-93-246-103.sd-france.net (ip-81-93-246-103.sd-france.net [81.93.246.103])
+	by mxb1-1.relay.renater.fr (asm) with ESMTP id 0E888600035
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 11 Nov 2016 18:33:20 +0100 (CET)
+Received: from hatclouz.fr (unknown [188.130.7.25])
+	by srv2577.localdomain (Postfix) with ESMTP id 2F429136DF4
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 11 Nov 2016 18:33:21 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=hatclouz.fr;
+	s=hatclouzfr; t=1478885601;
+	bh=qwvK3gQCSlHSDABAQi2Zsp6mHSoPAn4NfAQwhBvlICc=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:
+	 MIME-Version:Content-Type;
+	b=t7qOygX6s8aOWFdasImxiCpRjf1Z595M2b2hloKcvHbcUI4RXG0GbCSNFOVaskOEc
+	 5YnuBb1fTUxqe7os7g0J61J0B+6ZFYtI2Qu85kBzZw7okoDMiwGNiPKEQwUxCC4c1y
+	 P9nm4qhNkCET6pYQahPII7NFale9GVFBD3S9du1k=
+Date: Fri, 11 Nov 2016 18:33:21 +0100
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+From: =?utf-8?Q?assurance_auto_maluss=C3=A9?= <assurance@hatclouz.fr>
+Reply-to: =?utf-8?Q?assurance_auto_maluss=C3=A9?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@hatclouz.fr>
+Subject: *****Spam*****=?utf-8?Q?Maluss=C3=A9s:_Ne_restez_pas_sans_assurance_!?=
+X-campaign_id: 739285038877198335571_2
+Precedence: bulk
+X-uid_id_m: <cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==471>
+List-Unsubscribe: <http://www.hatclouz.fr/d/?camp=739285038877198335571_2&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <50808349f7d3fe93e34b44af7c1ae42a@hatclouz.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_50808349f7d3fe93e34b44af7c1ae42a"
+X-Original-Source-IP: 81.93.246.103
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrtdeigddutdefucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepfffvhfhrufhpjffkgggtsegrtdhjredttdejnecuhfhrohhmpegrshhsuhhrrghntggvpggruhhtohgpmhgrlhhushhsrocuoegrshhsuhhrrghntggvsehhrghttghlohhuiidrfhhrqeenucffohhmrghinhephhgrthgtlhhouhiirdhfrhenucfkphepkedurdelfedrvdegiedruddtfedpudekkedrudeftddrjedrvdehnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehiphdqkeduqdelfedqvdegiedquddtfedrshguqdhfrhgrnhgtvgdrnhgvthdpihhnvghtpeekuddrleefrddvgeeirddutdefpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdeggheshhgrthgtlhhouhiirdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+
+
+--Part1_50808349f7d3fe93e34b44af7c1ae42a
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+Pour visualiser et se désabonner ce message,
+ 
+Veuillez, copier puis coller, l'adresse URL complète ci-dessous dans la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entrée" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - - 
+
+http://www.hatclouz.fr/v/?camp=739285038877198335571_2&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+
+- - - - - - - - - - - - - - - - - 
+
+
+
+
+--Part1_50808349f7d3fe93e34b44af7c1ae42a
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Malussés: Ne restez pas sans assurance !</title>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="center">
+<a href="http://www.hatclouz.fr/v/?camp=739285038877198335571_2&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></td></tr><tr><td  align="center">                        assurance auto maluss&eacute;   <style>  @media screen and (max-width: 480px) {  	.rt { width:100% !important; display:block;}  } </style>   <img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvcHgvTVRreE0xOThYek0wTjE5OFh6STNYM3hmTUY5OFh6QS9hSFIwY0RvdkwyRnpjM1Z5WVc1alpTMWhkWFJ2TFcxaGJIVnpjMlV1Y21WaFkzUnBiMjR0WVhOemRYSmhibU5sTG1OdmJTOA==" width="1" height="1" border="0"> <center> <div style="max-width: 600px;">                       <table width="600" cellspacing="0" cellpadding="0" border="0" align="center">                          <tbody><tr> 
+        
+                     <td>                       <table width="100%" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF"> 	<tbody><tr> 		<td style="color:#FFF; text-align:center; font-family:Arial, Helvetica, sans-serif; font-size:16px; padding:20px; text-transform:uppercase;" bgcolor="#B81C2B">assurance auto maluss&eacute;</td> 	</tr> 	<tr> 		<td> 			<a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UucmVhY3Rpb24tYXNzdXJhbmNlLmNvbS9tYWlsaW5nL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UvYXNzdXJhbmNlbWFsdXNlXzAyLmpwZw==" style="max-width:600px; height:auto;border:0;" alt="image auto accident" width="100%"></a></td> 	</tr> 	<tr> 		<td style="colo
+ r:#444;
+font-family:Arial, Helvetica, sans-serif; font-size:16px; padding:30px 20px; text-align:justify left; text-decoration:none;"><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px; text-align:justify left; text-decoration:none;" target="_blank">Votre assurance auto vous a &eacute;t&eacute; r&eacute;sili&eacute;e suite &agrave; un trop grand  nombres d&rsquo;accidents, Tests d&rsquo;alcool&eacute;mie positifs vitesse trop excessive ou suite &agrave; difficult&eacute;s de paiement ?<br> <br> <span style="color:#b81c2b; font-size:20px;">Maluss&eacute;s: Ne restez pas sans assurance !</span><br> <br> Rouler sans assurance est une infraction p&eacute;nale qui peut 
+ vous
+co&ucirc;ter jusqu&rsquo;&agrave; 3 ans d&rsquo;emprisonnement, la suspension ou l&rsquo; annulation de votre permis de conduire.</a></td> 	</tr> 	<tr> 		<td style=" padding:0 20px;">         <table class="rt" width="50%" cellspacing="0" cellpadding="0" align="left">         <tbody><tr><td><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UucmVhY3Rpb24tYXNzdXJhbmNlLmNvbS9tYWlsaW5nL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UvYXNzdXJhbmNlbWFsdXNlXzA0LmpwZw==" alt="" style="border:0;"></a></td><td style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px;"><a
+href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px; text-decoration:none;" target="_blank">Trop de sinistres</a></td></tr>         <tr><td><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UucmVhY3Rpb24tYXNzdXJhbmNlLmNvbS9tYWlsaW5nL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UvYXNzdXJhbmNlbWFsdXNlXzA0LmpwZw==" alt=""
+style="border:0;"></a></td><td style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px;"><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px; text-decoration:none;" target="_blank">Alcool&eacute;mie ou stup&eacute;fiants</a></td></tr>         </tbody></table>         <table class="rt" width="50%" cellspacing="0" cellpadding="0" align="left">         <tbody><tr><td><a
+href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UucmVhY3Rpb24tYXNzdXJhbmNlLmNvbS9tYWlsaW5nL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UvYXNzdXJhbmNlbWFsdXNlXzA0LmpwZw==" alt="" style="border:0;"></a></td><td style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px;"><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16p
+ x;
+text-decoration:none;" target="_blank">Difficult&eacute;s de paiement</a></td></tr>         <tr><td><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UucmVhY3Rpb24tYXNzdXJhbmNlLmNvbS9tYWlsaW5nL2Fzc3VyYW5jZS1hdXRvLW1hbHVzc2UvYXNzdXJhbmNlbWFsdXNlXzA0LmpwZw==" alt="" style="border:0;"></a></td><td style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px;"><a
+href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" style="color:#444; font-family:Arial, Helvetica, sans-serif; font-size:16px; text-decoration:none;" target="_blank">Retrait de permis</a></td></tr>         </tbody></table>             </td> 	</tr> 	<tr> 		<td style="padding:30px 0;" align="center"> 			<a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=739285038877198335571_2&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01Ua3hNMTk4WHpNME4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMMkZ6YzNWeVlXNWpaUzFoZFhSdkxXMWhiSFZ6YzJVdWNtVmhZM1JwYjI0dFlYTnpkWEpoYm1ObExtTnZiUzg=" style="background-color:#b81c2b; border: 15px solid #b81c2b; padding: 0 10px;color: #ffffff; font-family: Arial, Helvetica, sans-serif;
+font-size: 13px; line-height: 1.1; text-align: center; text-decoration: none; display: block; border-radius: 3px; font-weight: bold; width:195px;" class="button-a" target="_blank">                                                                  En savoir plus     </a>             </td> 	</tr> </tbody></table>                       </td>                      </tr>                      </tbody></table>                             </div> </center>                  <img src="http://www.hatclouz.fr/t/?i=739285038877198335571_2&m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&url=http://www.hatclouz.fr/images/blank.jpg" alt="_pspacer7"  /></td></tr><tr><td align="center">
+<a href="http://www.hatclouz.fr/d/?camp=739285038877198335571_2&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Ne plus recevoir d'informations de notre part" style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</td></tr></tbody></table>
+</body>
+</html>
+
+
+
+--Part1_50808349f7d3fe93e34b44af7c1ae42a--
+
+

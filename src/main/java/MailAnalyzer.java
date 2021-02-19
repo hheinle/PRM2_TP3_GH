@@ -128,7 +128,7 @@ public class MailAnalyzer {
                 int nbStageWords = mapScoreStage.values().stream().reduce(0, Integer::sum);
                 int nbSpamWords = mapScoreSpam.values().stream().reduce(0, Integer::sum);
 
-                if (mapScoreStage.isEmpty() || nbStageWords < 7 || nbSpamWords > 1) {
+                if (nbStageWords < 7 || nbSpamWords > 1) {
                     System.out.println("--> KO");
                     ko.add(aFile.getFileName().toString());
                     Files.copy(aFile, Paths.get(PATH_MAILS_KO + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);

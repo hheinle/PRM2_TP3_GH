@@ -1,0 +1,346 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@correctoret.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 17 Jul 2017 13:11:38 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout1.univ-rennes1.fr (mailout1.univ-rennes1.fr [129.20.128.162])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 2D09430B
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 17 Jul 2017 13:11:38 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 2304D60021
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 17 Jul 2017 13:11:38 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout1.univ-rennes1.fr ([129.20.128.162])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id sBSpHPqN2XrX for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 17 Jul 2017 13:11:37 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id EBA4C6000D
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 17 Jul 2017 13:11:37 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id E205C20033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 17 Jul 2017 13:11:37 +0200 (CEST)
+Received: from smtp-a57.easyvu.com (smtp-a57.easyvu.com [185.52.34.86])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 63FB560A1F
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 17 Jul 2017 13:12:18 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=correctoret.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp4; bh=Jieq+tN6GAXIoPnd9BqxpJuh
+	bxwqd/if3oJob12HWsQ=; b=hxithNa378DdtqYzhEMyeAQ6Aw/rTrB3JgD4Bl3R
+	JwkxtpUHUW2gciIQwrPumzx036UcBq2EqgzdPtcUhd5NTrnwhd0i9nZdz9K201F0
+	HKYU69WR4UMTALEDC4k9ZJyXDVScW/IQEC/N5y9BIjClCbKxOzQFWMz+NKfNSnxO
+	rUQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=correctoret.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp4; b=T5v+tOQ+RTm5z4IlT0
+	F7+AcT8AvTBUIsijRbzbQlmGCRHhpsxXnjP/0SQ+3CDJPcoiMHQvlj8CSndgo0y4
+	uII9TQ2Rhy66dsFp4bB5CtiPAZ7Bbg/mFptJoCovvjGg6qmO3vszx65PzGv9pG7F
+	mjY3f2y4QJYAVDXq5SG0z1qM0=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Prot=C3=A9gez_la_p=C3=A9rennit=C3=A9_de_votre_entreprise?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Sun, 16 Jul 2017 20:30:45 +0200
+From: Assurance  rc pro <Assurance_pro@correctoret.com>
+Reply-to: Assurance  rc pro <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@correctoret.com>
+X-campaign_id: 157748027073959_15
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==519
+List-Unsubscribe: <http://app.correctoret.com/d/?camp=157748027073959_15&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <d63fda452a3b5a66b0b509a41c05ad56@correctoret.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_d63fda452a3b5a66b0b509a41c05ad56"
+X-Original-Source-IP: 185.52.34.86
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelkedrfeelgdefiecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpeetshhsuhhrrghntggvuccurhgtuchprhhouceotehsshhurhgrnhgtvggpphhrohestghorhhrvggtthhorhgvthdrtghomheqnecuffhomhgrihhnpegtohhrrhgvtghtohhrvghtrdgtohhmnecukfhppedukeehrdehvddrfeegrdekieenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrheejrdgvrghshihvuhdrtghomhdpihhnvghtpedukeehrdehvddrfeegrdekiedpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsegtohhrrhgvtghtohhrvghtrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--Part1_d63fda452a3b5a66b0b509a41c05ad56
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.correctoret.com/v/?camp=3D157748027073959_15&ms=3DcmVzcC1tMi1t=
+aWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_d63fda452a3b5a66b0b509a41c05ad56
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title> Prot=C3=A9gez la p=C3=A9rennit=C3=A9 de votre entreprise	   	 	</=
+title>
+</head><body style=3D"padding:0px; -moz-text-size-adjust:none; -ms-text-s=
+ize-adjust:none; -webkit-text-size-adjust:none; text-size-adjust:none; ma=
+rgin:0px;" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0" leftmargi=
+n=3D"0">
+<center><p>
+<a href=3D"http://app.correctoret.com/v/?camp=3D157748027073959_15&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si =
+cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"color=
+:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">S=
+i cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p> =
+&nbsp;<base target=3D"_blank">        <!--[if (gte mso 9)|(IE)]>     <tab=
+le id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600"><tr><td width=3D"600">     <![endif]--> =
+ <!--[if gte mso 9]> 		<table id=3D"tableForOutlook" align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td width=
+=3D"600"> 		<![endif]-->  <!--[if gte mso 8]> 		<table id=3D"tableForOutl=
+ook" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"600"><tr><td width=3D"600"> 		<![endif]-->  <!--[if gte mso 7]> 		=
+<table id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600"><
+ tr><td width=3D"600"> 		<![endif]-->         <table style=3D"width:98%; =
+max-width:600px; border-spacing:0px; border-collapse:collapse" align=3D"c=
+enter" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">             <tbo=
+dy>                 <tr>                     <td style=3D"width:100%; max=
+-width:600px" height=3D"40" align=3D"center"><span style=3D" font-family:=
+Arial, Helvetica, sans-serif; font-size:13px ; font-weight: normal; color=
+: #333333;">En cas de dommages dans votre entreprise, quelles garanties a=
+vez-vous ? <a https:=3D"" clk.tradedoubler.com=3D"" click?p=3D"277887&amp=
+;a=3D2939014&amp;g=3D23718022&amp;url=3D=3D&quot;http://entreprise-devis.=
+net/3810_MB_0616?qcp=3D3810_MB_0616&amp;utm_source=3Dn&amp;utm_medium=3De=
+-mail&amp;utm_campaign=3Dnewsc&amp;utm_nooverride=3D1&quot;" style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; color:#2696f7; font-size:13px" tar=
+get=3D"_blank">Je me renseigne.</a></span></td>                 </tr>    =
+         </tbody>         </table>         <!--[if gte mso 7]> 	</td></tr=
+></table> 	<![en
+ dif]-->  <!--[if gte mso 8]> 	</td></tr></table> 	<![endif]-->  <!--[if =
+gte mso 9]> 	</td></tr></table> 	<![endif]-->  <!--[if (gte mso 9)|(IE)]>=
+     </td></tr></table>     <![endif]-->   <!--[if (gte mso 9)|(IE)]>    =
+ <table id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600">     <![endif]-=
+->  <!--[if gte mso 9]> 		<table id=3D"tableForOutlook" align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td wi=
+dth=3D"600"> 		<![endif]-->  <!--[if gte mso 8]> 		<table id=3D"tableForO=
+utlook" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"600"><tr><td width=3D"600"> 		<![endif]-->  <!--[if gte mso 7]>=
+ 		<table id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600"> 		<![endif=
+]-->         <table style=3D"border-spacing:0;font-family:sans-serif;colo=
+r:#333333;Margin:0 auto;max-width:600px;" align=3D"center" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"
+ 0">             <tbody>                 <tr>                     <td sty=
+le=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" bgc=
+olor=3D"#ff6c00"><a https:=3D"" clk.tradedoubler.com=3D"" click?p=3D"2778=
+87&amp;a=3D2939014&amp;g=3D23718022&amp;url=3D=3D&quot;http://entreprise-=
+devis.net/3810_MB_0616?qcp=3D3810_MB_0616&amp;utm_source=3Dn&amp;utm_medi=
+um=3De-mail&amp;utm_campaign=3Dnewsc&amp;utm_nooverride=3D1&quot;" style=3D=
+"font-family:Arial, Helvetica, sans-serif; text-decoration:none;" target=3D=
+"_blank"><img style=3D"border-width:0;width:100%;max-width:600px;height:a=
+uto; display:block" name=3D"index_r4_c1" src=3D"http://app.correctoret.co=
+m/r/?rc=3DaHR0cDovL2VudHJlcHJpc2UtZGV2aXMubmV0LzM4MTBfTUJfMDYxNi9pbWcvcmN=
+wcm8uZ2lm" id=3D"index_r4_c3" alt=3D"En savoir plus >"></a></td>         =
+        </tr>                 <tr>                     <td align=3D"cente=
+r" bgcolor=3D"#1b2634">                     <table cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0">                         <tbody>              =
+               <tr
+ >                                 <td height=3D"30">&nbsp;</td>         =
+                        <td>&nbsp;</td>                                 <=
+td>&nbsp;</td>                             </tr>                         =
+    <tr>                                 <td width=3D"30">&nbsp;</td>    =
+                             <td align=3D"center" bgcolor=3D"#1b2634" val=
+ign=3D"middle"><span style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:30px ; font-weight: bold; color:#05c9fa;">ASSURANCE RC PRO</span=
+><br>                                 <span style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:24px; font-weight: bold; color:#ffffff;">=
+Prot&eacute;gez la p&eacute;rennit&eacute; de votre entreprise</span></td=
+>                                 <td width=3D"30">&nbsp;</td>           =
+                  </tr>                             <tr>                 =
+                <td height=3D"30">&nbsp;</td>                            =
+     <td>&nbsp;</td>                                 <td>&n
+ bsp;</td>                             </tr>                         </tb=
+ody>                     </table>                     </td>              =
+   </tr>                 <tr>                     <td style=3D"padding-to=
+p:0;padding-bottom:0;padding-right:0;padding-left:0;" bgcolor=3D"#ff6c00"=
+><a https:=3D"" clk.tradedoubler.com=3D"" click?p=3D"277887&amp;a=3D29390=
+14&amp;g=3D23718022&amp;url=3D=3D&quot;http://entreprise-devis.net/3810_M=
+B_0616?qcp=3D3810_MB_0616&amp;utm_source=3Dn&amp;utm_medium=3De-mail&amp;=
+utm_campaign=3Dnewsc&amp;utm_nooverride=3D1&quot;" style=3D"font-family:A=
+rial, Helvetica, sans-serif; text-decoration:none;" target=3D"_blank"><im=
+g style=3D"border-width:0;width:100%;max-width:600px;height:auto; display=
+:block" name=3D"index_r4_c1" src=3D"http://app.correctoret.com/r/?rc=3DaH=
+R0cDovL2VudHJlcHJpc2UtZGV2aXMubmV0LzM4MTBfTUJfMDYxNi9pbWcvY3RhLmpwZw=3D=3D=
+" id=3D"index_r4_c3" alt=3D"En savoir plus >"></a></td>                 <=
+/tr>                 <tr>                     <td class=3D"three-column" =
+style=3D"text-align
+ :center;font-size:0" bgcolor=3D"#ffffff"><!--[if (gte mso 9)|(IE)]>     =
+                    <table width=3D"100%" style=3D"border-spacing:0;font-=
+family:sans-serif;color:#333333;" border=3D"0"  cellpadding=3D"0" cellspa=
+cing=3D"0" >                         <tr>                         <td wid=
+th=3D"200" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;padding=
+-right:0;padding-left:0;" >                         <![endif]-->         =
+            <table class=3D"column" style=3D"border-spacing:0;font-family=
+:sans-serif;color:#333333;text-align:center;max-width:200px;display:inlin=
+e-block;vertical-align:top;margin-top:0;margin-bottom:0;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0">                         <tbody>       =
+                      <tr>                                 <td style=3D"w=
+idth:100%;max-width:200px;height:30px;" bgcolor=3D"#ffffff">&nbsp;</td>  =
+                           </tr>                             <tr>        =
+                         <td style=3D"padding-top:0;padding-bottom:0;padd=
+in
+ g-right:0;padding-left:0;">                                 <table class=
+=3D"contents" style=3D"border-spacing:0;font-family:sans-serif;color:#333=
+333;font-size:14px;text-align:center;" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" width=3D"200">                                     <tbody>=
+                                         <tr>                            =
+                 <td style=3D"padding-top:0;padding-bottom:0;padding-righ=
+t:0;padding-left:0;">                                             <table =
+cellspacing=3D"0" cellpadding=3D"0" border=3D"0">                        =
+                         <tbody>                                         =
+            <tr>                                                         =
+<td width=3D"40">&nbsp;</td>                                             =
+            <td><img src=3D"http://app.correctoret.com/r/?rc=3DaHR0cDovL2=
+VudHJlcHJpc2UtZGV2aXMubmV0LzM4MTBfTUJfMDYxNi9pbWcvcGljdG8uanBn" alt=3D"" =
+style=3D"border-width:0;max-width:46px;height:auto;display:block;" widt
+ h=3D"40"></td>                                                         <=
+td align=3D"left" bgcolor=3D"#ffffff" width=3D"190"><span style=3D"font-f=
+amily:Arial, Helvetica, sans-serif; font-size:13px; font-weight:normal; c=
+olor:#3e3e3e;">Prot&eacute;gez-vous contre de potentiels risques majeurs<=
+/span></td>                                                         <td w=
+idth=3D"40">&nbsp;</td>                                                  =
+   </tr>                                                 </tbody>        =
+                                     </table>                            =
+                 </td>                                         </tr>     =
+                                </tbody>                                 =
+</table>                                 </td>                           =
+  </tr>                         </tbody>                     </table>    =
+                 <!--[if (gte mso 9)|(IE)]>                         </td>=
+<td width=3D"200" valign=3D"top" style=3D"padding-top:0;pad
+ ding-bottom:0;padding-right:0;padding-left:0;" >                        =
+ <![endif]-->                     <table class=3D"column" style=3D"border=
+-spacing:0;font-family:sans-serif;color:#333333;text-align:center;max-wid=
+th:200px;display:inline-block;vertical-align:top;margin-top:0;margin-bott=
+om:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">                 =
+        <tbody>                             <tr>                         =
+        <td style=3D"width:100%;max-width:200px;height:30px;" bgcolor=3D"=
+#ffffff">&nbsp;</td>                             </tr>                   =
+          <tr>                                 <td style=3D"padding-top:0=
+;padding-bottom:0;padding-right:0;padding-left:0;">                      =
+           <table class=3D"contents" style=3D"border-spacing:0;font-famil=
+y:sans-serif;color:#333333;font-size:14px;text-align:center;" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0" width=3D"200">                     =
+                <tbody>                                         <tr>=20
+                                             <td style=3D"padding-top:0;p=
+adding-bottom:0;padding-right:0;padding-left:0;">                        =
+                     <table cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">                                                 <tbody>             =
+                                        <tr>                             =
+                            <td width=3D"40">&nbsp;</td>                 =
+                                        <td><img src=3D"http://app.correc=
+toret.com/r/?rc=3DaHR0cDovL2VudHJlcHJpc2UtZGV2aXMubmV0LzM4MTBfTUJfMDYxNi9=
+pbWcvcGljdG8uanBn" alt=3D"" style=3D"border-width:0;max-width:46px;height=
+:auto;display:block;" width=3D"40"></td>                                 =
+                        <td align=3D"left" bgcolor=3D"#ffffff" width=3D"1=
+90"><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:13=
+px; font-weight:normal; color:#3e3e3e;">Souscrivez une assurance adapt&ea=
+cute;e &agrave; votre activit&eacute;</span></td>                   =20
+                                      <td width=3D"40">&nbsp;</td>       =
+                                              </tr>                      =
+                           </tbody>                                      =
+       </table>                                             </td>        =
+                                 </tr>                                   =
+  </tbody>                                 </table>                      =
+           </td>                             </tr>                       =
+  </tbody>                     </table>                     <!--[if (gte =
+mso 9)|(IE)]>                         </td><td width=3D"200" valign=3D"to=
+p" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0=
+;" >                         <![endif]-->                     <table clas=
+s=3D"column" style=3D"border-spacing:0;font-family:sans-serif;color:#3333=
+33;text-align:center;max-width:200px;display:inline-block;vertical-align:=
+top;margin-top:0;margin-bottom:0;" cellspacing=3D"0" ce
+ llpadding=3D"0" border=3D"0">                         <tbody>           =
+                  <tr>                                 <td style=3D"width=
+:100%;max-width:200px;height:30px;" bgcolor=3D"#ffffff">&nbsp;</td>      =
+                       </tr>                             <tr>            =
+                     <td style=3D"padding-top:0;padding-bottom:0;padding-=
+right:0;padding-left:0;">                                 <table class=3D=
+"contents" style=3D"border-spacing:0;font-family:sans-serif;color:#333333=
+;font-size:14px;text-align:center;" cellspacing=3D"0" cellpadding=3D"0" b=
+order=3D"0" width=3D"200">                                     <tbody>   =
+                                      <tr>                               =
+              <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;">                                             <table cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0">                           =
+                      <tbody>                                         =20
+            <tr>                                                         =
+<td width=3D"40">&nbsp;</td>                                             =
+            <td><img src=3D"http://app.correctoret.com/r/?rc=3DaHR0cDovL2=
+VudHJlcHJpc2UtZGV2aXMubmV0LzM4MTBfTUJfMDYxNi9pbWcvcGljdG8uanBn" alt=3D"" =
+style=3D"border-width:0;max-width:46px;height:auto;display:block;" width=3D=
+"40"></td>                                                         <td al=
+ign=3D"left" bgcolor=3D"#ffffff" width=3D"190"><span style=3D"font-family=
+:Arial, Helvetica, sans-serif; font-size:13px; font-weight:normal; color:=
+#3e3e3e;">Comparez les plus grandes marques du march&eacute;</span></td> =
+                                                        <td width=3D"40">=
+&nbsp;</td>                                                     </tr>    =
+                                             </tbody>                    =
+                         </table>                                        =
+     </td>                                         </tr>    =20
+                                 </tbody>                                =
+ </table>                                 </td>                          =
+   </tr>                         </tbody>                     </table>   =
+                  <!--[if (gte mso 9)|(IE)]>                         </td=
+>                         </tr>                         </table>         =
+                <![endif]--></td>                 </tr>                 <=
+tr>                     <td style=3D"width:100%;max-width:600px;height:30=
+px;" bgcolor=3D"#ffffff">&nbsp;</td>                 </tr>               =
+  <tr>                     <td style=3D"padding-top:0;padding-bottom:0;pa=
+dding-right:0;padding-left:0;" bgcolor=3D"#ff6c00"><a https:=3D"" clk.tra=
+dedoubler.com=3D"" click?p=3D"277887&amp;a=3D2939014&amp;g=3D23718022&amp=
+;url=3D=3D&quot;http://entreprise-devis.net/3810_MB_0616?qcp=3D3810_MB_06=
+16&amp;utm_source=3Dn&amp;utm_medium=3De-mail&amp;utm_campaign=3Dnewsc&am=
+p;utm_nooverride=3D1&quot;" style=3D"font-family:Arial, Helvetica, sans-s=
+er
+ if; text-decoration:none;" target=3D"_blank"><img style=3D"border-width:=
+0;width:100%;max-width:600px;height:auto; display:block" name=3D"index_r4=
+_c1" src=3D"http://app.correctoret.com/r/?rc=3DaHR0cDovL2VudHJlcHJpc2UtZG=
+V2aXMubmV0LzM4MTBfTUJfMDYxNi9pbWcvYmx1ZWJhci5qcGc=3D" id=3D"index_r4_c3" =
+alt=3D"En savoir plus >"></a></td>                 </tr>             </tb=
+ody>         </table>         <!--[if gte mso 7]> 	</td></tr></table> 	<!=
+[endif]-->  <!--[if gte mso 8]> 	</td></tr></table> 	<![endif]-->  <!--[i=
+f gte mso 9]> 	</td></tr></table> 	<![endif]-->  <!--[if (gte mso 9)|(IE)=
+]>     </td></tr></table>     <![endif]--><img src=3D"http://app.correcto=
+ret.com/t/?i=3D157748027073959_15&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczE=
+uZnI=3D&url=3Dhttp://app.correctoret.com/images/blank.jpg" alt=3D"_pspace=
+r6"  /><p>
+<a href=3D"http://app.correctoret.com/d/?camp=3D157748027073959_15&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne =
+plus recevoir d'informations de notre part" style=3D"color:#00F; font-fam=
+ily:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute=
+;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un=
+ quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_d63fda452a3b5a66b0b509a41c05ad56--
+

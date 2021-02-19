@@ -1,0 +1,165 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@serviceopu.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 30 Apr 2017 12:54:13 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 5D8932B4
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 30 Apr 2017 12:54:13 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 5AF2D6003F
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 30 Apr 2017 12:54:13 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id uc0di9AN0SSY for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 30 Apr 2017 12:54:13 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 468F460004
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 30 Apr 2017 12:54:13 +0200 (CEST)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 4173720033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 30 Apr 2017 12:54:13 +0200 (CEST)
+Received: from smtp-a46.easyvu.com (smtp-a46.easyvu.com [185.52.34.103])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 0089F280034
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 30 Apr 2017 12:53:59 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=serviceopu.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp6; bh=NhxpaGfu9fuy0QWFl4rC6Aqp
+	Q0CzIX2J6RpsEtFndI4=; b=Sns3UNmCiO4zWUz9EM44fAdRgdaNXfFnS7e9c19H
+	ZRalHQvixKDBkYQ3SY3w1ME6tju4wM9cQ0xwQ2D+T36KV54ND2j0Rcv32Ro1jbRe
+	BhKlxMlxWAsiyvMd5d9QgEOtExcinFK3/tmHVjg+3C4paK0EC7iimB67d3YHe04V
+	1O0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=serviceopu.com; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp6; b=wqHXnF3z3mMQ6uQ8uTjUQ7c3s+Y6VVP
+	ioYxri16Gbh2Wis8yJ9pW7988igmWLXVvEAjDKHT5/NPQDNPzOvZGJNlGS2sRgWQ
+	mHoFM/hs/lbcIMbBBoySW8K8hfVr57WzcWLTM4vDvLugBLcseO+OVqfKZFWCF46M
+	AYRn8QSl8pg4=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Remplacez_votre_baignoire_par_une_douche_s=C3=A9curis=C3=A9e?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Sun, 30 Apr 2017 12:53:40 +0200
+From: =?utf-8?Q?Douche_s=C3=A9curis=C3=A9e?= <Douche@serviceopu.com>
+Reply-to: =?utf-8?Q?Douche_s=C3=A9curis=C3=A9e?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@serviceopu.com>
+X-campaign_id: 833_11
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==81
+List-Unsubscribe: <http://app.serviceopu.com/d/?camp=833_11&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <b65efe9d657759a871987219278db7c3@serviceopu.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_b65efe9d657759a871987219278db7c3"
+X-Original-Source-IP: 185.52.34.103
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeliedrhedvgdefiecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpeffohhutghhvggpshortghurhhishorvgcuoeffohhutghhvgesshgvrhhvihgtvghophhurdgtohhmqeenucffohhmrghinhepshgvrhhvihgtvghophhurdgtohhmnecukfhppedukeehrdehvddrfeegrddutdefnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqrgegiedrvggrshihvhhurdgtohhmpdhinhgvthepudekhedrhedvrdefgedruddtfedpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsehsvghrvhhitggvohhpuhdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+--Part1_b65efe9d657759a871987219278db7c3
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.serviceopu.com/v/?camp=3D833_11&ms=3DcmVzcC1tMi1taWFnZUB1bml2L=
+XJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_b65efe9d657759a871987219278db7c3
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Remplacez votre baignoire par une douche s=C3=A9curis=C3=A9e</titl=
+e>
+</head><body leftmargin=3D"0" marginheight=3D"0" style=3D"padding:0px; -w=
+ebkit-text-size-adjust:none; margin:0px; text-size-adjust:none; -ms-text-=
+size-adjust:none; -moz-text-size-adjust:none;" marginwidth=3D"0" topmargi=
+n=3D"0">
+<center><p>
+<a href=3D"http://app.serviceopu.com/v/?camp=3D833_11&ms=3DcmVzcC1tMi1taW=
+FnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si cet e-mail ne=
+ s'affiche pas correctement, suivez ce lien." style=3D"color:#00F; font-f=
+amily:'Arial'; font-size:12px; text-decoration:underline;">Si cet email n=
+e s&rsquo;affiche pas correctement, suivez ce lien.</a></p>  	Douche s&ea=
+cute;curis&eacute;e 	   <img src=3D"http://app.serviceopu.com/r/?rc=3DaHR=
+0cDovL3d3dy50YXJnZXRtb292ZS5jb20vcHgvQWZzRnhEazI5Z0k4RzYzajZTSWNDUQ=3D=3D=
+" height=3D"1" width=3D"1" border=3D"0"> <!-- Save for Web Slices (douche=
+-s&eacute;curis&eacute;e-1.jpg) --> <table id=3D"Table_01" style=3D"borde=
+r: solid 1px #e6e6e6;margin:15px auto;" height=3D"1068" width=3D"600" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0"> 	<tbody><tr> 		<td> 			<a =
+href=3D"http://app.serviceopu.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5l=
+czEuZnI=3D&c=3D833_11&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL0Fmc0=
+Z4RGsyOWdJOEc2M2o2U0ljQ1E=3D" target=3D"_blank"><img src=3D"http://app.se=
+rviceopu.com/r/?rc=3DaHR0cDo
+ vL21lZGlhcy1hcGkuY29tL2RvdWNoZS1zZWN1cmlzZWUvaW1hZ2VzL2RvdWNoZS1zZWN1cml=
+zZWUtMV8wMS5qcGc=3D" alt=3D"Installation douche s&eacute;curis&eacute;e" =
+height=3D"140" width=3D"600"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"=
+http://app.serviceopu.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D=
+&c=3D833_11&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL0Fmc0Z4RGsyOWdJ=
+OEc2M2o2U0ljQ1E=3D" target=3D"_blank"><img src=3D"http://app.serviceopu.c=
+om/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2RvdWNoZS1zZWN1cmlzZWUvaW1hZ2VzL2=
+RvdWNoZS1zZWN1cmlzZWUtMV8wMi5qcGc=3D" alt=3D"Devis douche s&eacute;curis&=
+eacute;e" height=3D"381" width=3D"600"></a></td> 	</tr> 	<tr> 		<td> 			<=
+a href=3D"http://app.serviceopu.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm=
+5lczEuZnI=3D&c=3D833_11&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL0Fm=
+c0Z4RGsyOWdJOEc2M2o2U0ljQ1E=3D" target=3D"_blank"><img src=3D"http://app.=
+serviceopu.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2RvdWNoZS1zZWN1cmlzZW=
+UvaW1hZ2VzL2RvdWNoZS1zZWN1cmlzZWUtMV8wMy5qcGc=3D" alt=3D"Douche s&eacute;=
+curis&eacute;e pour s&
+ eacute;niors" height=3D"216" width=3D"600"></a></td> 	</tr> 	<tr> 		<td>=
+ 			<a href=3D"http://app.serviceopu.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2L=
+XJlbm5lczEuZnI=3D&c=3D833_11&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2x=
+jL0Fmc0Z4RGsyOWdJOEc2M2o2U0ljQ1E=3D" target=3D"_blank"><img src=3D"http:/=
+/app.serviceopu.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2RvdWNoZS1zZWN1c=
+mlzZWUvaW1hZ2VzL2RvdWNoZS1zZWN1cmlzZWUtMV8wNC5qcGc=3D" alt=3D"Douche s&ea=
+cute;curis&eacute;e pour s&eacute;niors" height=3D"228" width=3D"600"></a=
+></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.serviceopu.com/r/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D833_11&rc=3DaHR0cDovL3d3dy=
+50YXJnZXRtb292ZS5jb20vY2xjL0Fmc0Z4RGsyOWdJOEc2M2o2U0ljQ1E=3D" target=3D"_=
+blank"><img src=3D"http://app.serviceopu.com/r/?rc=3DaHR0cDovL21lZGlhcy1h=
+cGkuY29tL2RvdWNoZS1zZWN1cmlzZWUvaW1hZ2VzL2RvdWNoZS1zZWN1cmlzZWUtMV8wNS5qc=
+Gc=3D" alt=3D"Douche s&eacute;curis&eacute;e pour s&eacute;niors" height=3D=
+"103" width=3D"600"></a></td> 	</tr> </tbody></table> <!-- End Save for W=
+eb Slices -->  <img s
+ rc=3D"http://app.serviceopu.com/t/?i=3D833_11&m=3DcmVzcC1tMi1taWFnZUB1bm=
+l2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.serviceopu.com/images/blank.jpg" al=
+t=3D"_pspacer6"  /><p>
+<a href=3D"http://app.serviceopu.com/d/?camp=3D833_11&ms=3DcmVzcC1tMi1taW=
+FnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne plus recevoir=
+ d'informations de notre part" style=3D"color:#00F; font-family:'Arial'; =
+font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : S=
+uivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque d=
+&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_b65efe9d657759a871987219278db7c3--
+

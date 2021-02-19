@@ -1,0 +1,312 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 06 Nov 2016 23:17:58 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 4C3B247
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 23:17:58 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 49D7A600B4
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 23:17:58 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 9GYiabOkcBFT for <resp-m2-miage@univ-rennes1.fr>;
+	Sun,  6 Nov 2016 23:17:58 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 330266000A
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 23:17:58 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 2C71520033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 23:17:58 +0100 (CET)
+Received: from smtp-b56.directonlus.com (smtp-b56.directonlus.com [82.97.39.157])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id C5A83280038
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 23:17:57 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp4; bh=8rfVLYYCFz3QG1wMMW1V+Yr0
+	eIjusAOveXhbm58H01o=; b=FuXACcvQPJlKGZegE1lz02TaIvZ5oiNx0wQwwqlS
+	4UPyD6ZTCah8Bbbrt2+I9HgIg/y3pa+gWMk4wfwKZyx0sqsLHF7vZZhFOkUwTUon
+	uFI4Ab5MSABwT3IoLJqCcU0tzugfeepX9C/H0q5hBhLAxgROXDIKamrbebo8UUC7
+	PsI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp4; b=IU3mJiph5B1l0zTxrv
+	MNZXCIDgxRUYT0PlJTP0SoefZNP8VW/LC7FgzBAbZEmiVVK3ojdv6SiEi2Mtjaf0
+	A5ApJeO7cs0wv6dE+C3jRwTsmItAWha7JjzCKG1r8y/kTyD2TaDuihstUAbyBefS
+	wRDLLBKnGS2QEQ9XJWu+vr0+I=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Vous_h=C3=A9sitez_=C3=A0_faire_appel_=C3=A0_un_expert-comptable?=  =?utf-8?Q?_=3F?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Sun, 6 Nov 2016 23:17:57 +0100
+From: Expert-comptable <Expert_comptable@directonlus.com>
+Reply-to: Expert-comptable <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+X-campaign_id: 7014826768259562113183429_2
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==551
+List-Unsubscribe: <http://app.directonlus.com/d/?camp=7014826768259562113183429_2&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <2c795aa7c60693e9f702333cb7542f19@directonlus.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_2c795aa7c60693e9f702333cb7542f19"
+X-Original-Source-IP: 82.97.39.157
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrleefgdduiedvucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepvffufffhrhfjkfggtgesrgdtjhertddtjeenucfhrhhomhepgfigphgvrhhtqdgtohhmphhtrggslhgvuceogfigphgvrhhtpggtohhmphhtrggslhgvseguihhrvggtthhonhhluhhsrdgtohhmqeenucffohhmrghinhepughirhgvtghtohhnlhhushdrtghomhenucfkphepkedvrdeljedrfeelrdduheejnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqsgehiedrughirhgvtghtohhnlhhushdrtghomhdpihhnvghtpeekvddrleejrdefledrudehjedpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgseguihhrvggtthhonhhluhhsrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+--Part1_2c795aa7c60693e9f702333cb7542f19
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.directonlus.com/v/?camp=3D7014826768259562113183429_2&ms=3DcmV=
+zcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_2c795aa7c60693e9f702333cb7542f19
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Vous h=C3=A9sitez =C3=A0 faire appel =C3=A0 un expert-comptable ?<=
+/title>
+</head><body marginheight=3D"0" leftmargin=3D"0" topmargin=3D"0" style=3D=
+"margin:0px; padding:0px; text-size-adjust:none; -webkit-text-size-adjust=
+:none; -moz-text-size-adjust:none; -ms-text-size-adjust:none;" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.directonlus.com/v/?camp=3D7014826768259562113183429=
+_2&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" tit=
+le=3D"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style=
+=3D"color:#00F; font-family:'Arial'; font-size:12px; text-decoration:unde=
+rline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.=
+</a></p>    Expert-comptable  <style> /* Target Outlook 2007 and 2010 */ =
+width:600px; </style>  <style> #tableForOutlook { width:600px; } </style>=
+  <style> #tableForOutlook { width:600px; } </style>  <style> #tableForOu=
+tlook { width:600px; } </style> <style type=3D"text/css"> 		} 		#outlook =
+a { 	padding: 0; } 		body { 			Margin: 0; 			padding: 0; 			min-width: 10=
+0%; 			background-color: #e1ebee; 			font-family: Arial, sans-serif; 			-=
+webkit-font-smoothing: antialiased; 		} 		.webkit { 			max-width: 600px; =
+		} 		.wrapper { 			width: 100%; 			table-layout: fixed; 			-webkit-text-=
+size-adjust: 100%; 			-ms-text-size-adjust: 100%; 		}   =20
+      </style>           <center class=3D"wrapper" style=3D"width:100%;ta=
+ble-layout:fixed;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;=
+background-color:#e1ebee;">      <table id=3D"tableForOutlook" width=3D"6=
+00" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tb=
+ody><tr><td width=3D"600">        		<table id=3D"tableForOutlook" width=3D=
+"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><=
+tbody><tr><td width=3D"600"> 		   		<table id=3D"tableForOutlook" width=3D=
+"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><=
+tbody><tr><td width=3D"600"> 		   		<table id=3D"tableForOutlook" width=3D=
+"600" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><=
+tbody><tr><td width=3D"600"> 		         <table style=3D"max-width:600px;"=
+ width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D=
+"center"><tbody> <tr> <td style=3D"padding:10px;" align=3D"center"> <span=
+ style=3D" font-family:Arial, Helvetica, sans-serif; font-size:11px; font=
+-weight:normal; color:#555555;">Vous h&eacu
+ te;sitez &agrave; faire appel &agrave; un expert-comptable ? </span><a h=
+ref=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5l=
+czEuZnI=3D&c=3D7014826768259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdTdoc=
+zU0ay5jb20vci9jbGljLTctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacG=
+MyZHlZWFIxYVhSekxtWnlMemt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1Ea3hOaVo=
+xZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFX=
+ZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9J=
+mFtcDtyZ3JvdXA9cF8xNTA5OA=3D=3D" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; color:#308ce2; font-size:11px;" target=3D"_blank">Cliquez-ici.=
+</a> </td>                 </tr> <tr> <td style=3D"line-height:2px;" heig=
+ht=3D"2" bgcolor=3D"#81dfa2">&nbsp;</td>                 </tr> <tr> <td s=
+tyle=3D"padding:20px 20px 0 20px;" bgcolor=3D"#f6f6f6" align=3D"center"><=
+a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlb=
+m5lczEuZnI=3D&c=3D7014826768259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdT=
+doczU0ay
+ 5jb20vci9jbGljLTctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacGMyZH=
+lZWFIxYVhSekxtWnlMemt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1Ea3hOaVoxZEc=
+xZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQ=
+VzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtc=
+DtyZ3JvdXA9cF8xNTA5OA=3D=3D" style=3D"font-family:Arial, Helvetica, sans-=
+serif; text-decoration:none;" target=3D"_blank"><span style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:20px; font-weight:normale; colo=
+r:#615c63; text-align:center;">Top 4 des questions les plus pos&eacute;es=
+ sur<br><span style=3D"font-size:30px;">les experts-comptables</span></sp=
+an></a></td>                 </tr> <tr> <td bgcolor=3D"#f6f6f6" align=3D"=
+center"><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1=
+bml2LXJlbm5lczEuZnI=3D&c=3D7014826768259562113183429_2&rc=3DaHR0cDovL25vZ=
+GVzLm5wdTdoczU0ay5jb20vci9jbGljLTctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NX=
+RaWE5rWlhacGMyZHlZWFIxYVhSekxtWnlMemt5TWw5UlJWOHdPVEUyUDNGamNEMDVNa
+ kpmVVVWZk1Ea3hOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3b=
+WRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYW=
+ZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNTA5OA=3D=3D" style=3D"font-family:=
+Arial, Helvetica, sans-serif; text-decoration:none;" target=3D"_blank"><i=
+mg name=3D"nimg_principale" src=3D"http://app.directonlus.com/r/?rc=3DaHR=
+0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzkyMl9RRV8wOTE2L2ltZy9pbWdfcHJpbmNp=
+cGFsZS5qcGc=3D" style=3D"max-width:600px; display:block;" id=3D"nimg_prin=
+cipale" alt=3D"" width=3D"100%" border=3D"0"></a></td>                 </=
+tr> <tr> <td height=3D"17" bgcolor=3D"#ffffff">&nbsp;</td>               =
+  </tr> <tr> <td style=3D"padding:0 20px 0 20px; max-width:600px;" width=3D=
+"100%" bgcolor=3D"#ffffff" align=3D"center">                     <table c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#81dfa2"><tbod=
+y><tr> <td style=3D"padding:10px 25px 10px 25px; font-family:arial, sans-=
+serif; font-weight:bold; font-size:17px; color:#ffffff; font-size:15px;" =
+class=3D"bouton"
+  align=3D"center"> <a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1t=
+Mi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D7014826768259562113183429_2&rc=3Da=
+HR0cDovL25vZGVzLm5wdTdoczU0ay5jb20vci9jbGljLTctMjgwLTY3NDAtdXJsLWFIUjBjRG=
+92TDNkM2R5NXRaWE5rWlhacGMyZHlZWFIxYVhSekxtWnlMemt5TWw5UlJWOHdPVEUyUDNGamN=
+EMDVNakpmVVVWZk1Ea3hOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFo=
+YVd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyY=
+WNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNTA5OA=3D=3D" style=3D"text-de=
+coration:none; color:#ffffff; text-transform:uppercase; text-align:center=
+;" target=3D"_blank">Je demande mes devis </a><a href=3D"http://app.direc=
+tonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D70148267=
+68259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdTdoczU0ay5jb20vci9jbGljLTct=
+MjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacGMyZHlZWFIxYVhSekxtWnlMe=
+mt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1Ea3hOaVoxZEcxZmMyOTFjbU5sUFc0bW=
+RYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiV
+ jl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xN=
+TA5OA=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-deco=
+ration:none;" target=3D"_blank"><img src=3D"http://app.directonlus.com/r/=
+?rc=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzkyMl9RRV8wOTE2L2ltZy9wdWN=
+lX25ld3MucG5n" alt=3D"" width=3D"15" height=3D"11" border=3D"0"></a> </td=
+>                             </tr></tbody></table> </td>                =
+ </tr> <tr> <td style=3D"padding:40px 20px 40px 20px;" bgcolor=3D"#ffffff=
+" align=3D"left"><span style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:13px; font-weight:normal; color:#898898; text-align:left;"><a =
+href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5=
+lczEuZnI=3D&c=3D7014826768259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdTdo=
+czU0ay5jb20vci9jbGljLTctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhac=
+GMyZHlZWFIxYVhSekxtWnlMemt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1Ea3hOaV=
+oxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGF=
+XZHVQV
+ zVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtc=
+DtyZ3JvdXA9cF8xNTA5OA=3D=3D" style=3D"font-family:Arial, Helvetica, sans-=
+serif; text-decoration:none;" target=3D"_blank"><strong style=3D"color:#7=
+a798c; font-size:15px;">&#9658; Pourquoi faire appel &agrave; un expert-c=
+omptable ? </strong></a> <br>                     Un expert-comptable m&e=
+grave;ne de front <strong>plusieurs activit&eacute;s</strong> strat&eacut=
+e;giques pour ses clients : des missions d&rsquo;ordre <strong>comptable,=
+ social et fiscal</strong>. Mais &eacute;galement d&rsquo;audit.<br><br><=
+a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlb=
+m5lczEuZnI=3D&c=3D7014826768259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdT=
+doczU0ay5jb20vci9jbGljLTctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlh=
+acGMyZHlZWFIxYVhSekxtWnlMemt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1Ea3hO=
+aVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCa=
+GFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPS
+ ZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNTA5OA=3D=3D" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; text-decoration:none;" target=3D"_blank"><stro=
+ng style=3D"color:#7a798c; font-size:15px;">&#9658; Quels sont les honora=
+ires d&rsquo;un expert-comptable ?</strong></a><br>                     L=
+a plupart des experts-comptables proposent deux options : <br><br>       =
+              &bull; Les honoraires peuvent &ecirc;tre calcul&eacute;s au=
+ temps pass&eacute;. Cette m&eacute;thode de facturation est celle qui es=
+t la plus fr&eacute;quemment utilis&eacute;e car elle refl&egrave;te la r=
+&eacute;alit&eacute; du travail effectu&eacute; sur la comptabilit&eacute=
+; du client. Cela &eacute;tant, le taux horaire conna&icirc;t des dispari=
+t&eacute;s importantes : la fourchette &eacute;volue entre <strong>un tar=
+if de 50 &euro; ht/heure</strong> et un prix de 150 &euro; ht/heure selon=
+ le niveau de l&rsquo;intervenant qui fait le travail. <br><br>          =
+           &bull; Les honoraires selon une approche
+  packag&eacute;e. Il s&rsquo;agit l&agrave; de la deuxi&egrave;me grande=
+ m&eacute;thode de d&eacute;finition du tarif de la prestation de l'exper=
+t-comptable. Pour cela, l&rsquo;expert-comptable examine la situation g&e=
+acute;n&eacute;rale, &eacute;value le temps qu&rsquo;il consacrera au dos=
+sier et formalise une offre forfaitaire.<br><br><a href=3D"http://app.dir=
+ectonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D701482=
+6768259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdTdoczU0ay5jb20vci9jbGljLT=
+ctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacGMyZHlZWFIxYVhSekxtWnl=
+Memt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1Ea3hOaVoxZEcxZmMyOTFjbU5sUFc0=
+bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiV=
+jl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNT=
+A5OA=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-decor=
+ation:none;" target=3D"_blank"><strong style=3D"color:#7a798c; font-size:=
+15px;">&#9658; Qu&rsquo;est-ce que la lettre de mission et co
+ mment la pr&eacute;parer ?</strong></a><br>                     Que ce s=
+oit au temps r&eacute;ellement pass&eacute; ou selon une formule packag&e=
+acute;e, <strong>l&rsquo;expert-comptable devra d&eacute;tailler le monta=
+nt de sa prestation dans la lettre de mission</strong>. Pensez &agrave; f=
+aire mentionner le nombre de rendez-vous annuels pr&eacute;vus. Chaque re=
+ncontre &eacute;tant factur&eacute;e &agrave; l&rsquo;heure, le budget to=
+tal peut vite grimper. Demandez &agrave; ce que la lettre de mission fass=
+e clairement mention d&rsquo;un calcul d&eacute;taill&eacute; des honorai=
+res. Il est n&eacute;cessaire de passer au crible chaque poste, chaque po=
+int de la prestation afin de d&eacute;terminer une feuille de route pr&ea=
+cute;cise et sans surprises.                 <br><br><a href=3D"http://ap=
+p.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D7=
+014826768259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdTdoczU0ay5jb20vci9jb=
+GljLTctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5r
+ WlhacGMyZHlZWFIxYVhSekxtWnlMemt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1E=
+a3hOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oY=
+lhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3=
+JvdXA9JmFtcDtyZ3JvdXA9cF8xNTA5OA=3D=3D" style=3D"font-family:Arial, Helve=
+tica, sans-serif; text-decoration:none;" target=3D"_blank"><strong style=3D=
+"color:#7a798c; font-size:15px;">&#9658; Quel est le r&ocirc;le de l&rsqu=
+o;ordre des experts-comptables en cas de conflit ?</strong></a><br>      =
+               Un diff&eacute;rend sur des honoraires, la dur&eacute;e de=
+ la mission, non restitution de documents&hellip;tous ces cas sont les d&=
+eacute;saccords les plus r&eacute;currents entre un expert-comptable et u=
+ne entreprise. Dans ce type de conflit, il arrive parfois que le dialogue=
+ ne suffise plus. Si vous &ecirc;tes face &agrave; une telle situation, v=
+ous pouvez lancer une proc&eacute;dure de conciliation ou de m&eacute;dia=
+tion en vous tournant vers <strong>le Conseil R&e
+ acute;gional de l'Ordre des Experts-Comptables de la r&eacute;gion</stro=
+ng> dont d&eacute;pend votre expert-comptable (lieu o&ugrave; il exerce).=
+<br><br>                     Vous avez un projet ? <a href=3D"http://app.=
+directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D701=
+4826768259562113183429_2&rc=3DaHR0cDovL25vZGVzLm5wdTdoczU0ay5jb20vci9jbGl=
+jLTctMjgwLTY3NDAtdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacGMyZHlZWFIxYVhSekxt=
+WnlMemt5TWw5UlJWOHdPVEUyUDNGamNEMDVNakpmVVVWZk1Ea3hOaVoxZEcxZmMyOTFjbU5sU=
+Fc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVj=
+BiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8=
+xNTA5OA=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-de=
+coration:none; color:#319ce2;" target=3D"_blank"><strong style=3D"color:#=
+4fc378;"><u>Demandez vos devis !</u></strong></a></span></td>            =
+     </tr> <tr> <td style=3D"line-height:2px;" height=3D"2" bgcolor=3D"#8=
+1dfa2">&nbsp;</td>                 </tr> </tbody></table>  	</td></
+ tr></tbody></table> 	 	</td></tr></tbody></table> 	 	</td></tr></tbody><=
+/table> 	     </td></tr></tbody></table>      </center>     <img alt=3D""=
+ src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL25vZGVzLm5wdTdoczU0ay=
+5jb20vbWFpbGluZy03LTI4MC02NzQwP3Jncm91cD1wXzE1MDk4JmFtcDtncm91cD0=3D" wid=
+th=3D"1" height=3D"1" border=3D"0">   <img src=3D"http://app.directonlus.=
+com/t/?i=3D7014826768259562113183429_2&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm=
+5lczEuZnI=3D&url=3Dhttp://app.directonlus.com/images/blank.jpg" alt=3D"_p=
+spacer5"  /><p>
+<a href=3D"http://app.directonlus.com/d/?camp=3D7014826768259562113183429=
+_2&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" tit=
+le=3D"Ne plus recevoir d'informations de notre part" style=3D"color:#00F;=
+ font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se=
+ d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&e=
+acute; un quelconque d&eacute;rangement, nous vous prions de nous en excu=
+ser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_2c795aa7c60693e9f702333cb7542f19--
+

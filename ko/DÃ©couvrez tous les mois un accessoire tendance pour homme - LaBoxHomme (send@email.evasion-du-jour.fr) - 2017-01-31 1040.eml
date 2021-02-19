@@ -1,0 +1,127 @@
+Return-Path: <bounce@email.evasion-du-jour.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Tue, 31 Jan 2017 10:43:53 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 1E3951BD
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 31 Jan 2017 10:43:53 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 1C2A7601C6
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 31 Jan 2017 10:43:53 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id H7m4F1nwYR-M for <resp-m2-miage@univ-rennes1.fr>;
+	Tue, 31 Jan 2017 10:43:53 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 0A614600C1
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 31 Jan 2017 10:43:53 +0100 (CET)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 0143820033
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 31 Jan 2017 10:43:53 +0100 (CET)
+Received: from e22.evasion-du-jour.fr (e22.evasion-du-jour.fr [195.154.54.25])
+	(using TLSv1 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-1.relay.renater.fr (asm) with ESMTPS id B1793600249
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 31 Jan 2017 10:43:52 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key; d=email.evasion-du-jour.fr;
+ h=List-Unsubscribe:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:Message-ID:List-ID; i=send@email.evasion-du-jour.fr;
+ bh=EhoR7su1NkfcsDN8IoWdSnERtE4=;
+ b=KLuG/gtHHsI0cgP9pcMRKuS7P1CDXCXq+DR0kq0DMaKHDIEkTm7534gA2/7H0gtS5cJPA/A4hErn
+   xchnefBToxyrArjlQC1k4/mTFlKz9PEuNR4DaA87yKXOXZ485AqrgxnPDmAQ28y9YgBmj8Pvn9BP
+   ZEeC7YIRCR4rql5Qgpk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key; d=email.evasion-du-jour.fr;
+ b=UBiumvt3gT5VmeSCgVNHChZZJlBWYFo4CqDPOpJral+GKAPC3rYVtCnSg5BEQypg8Wvflz78ivke
+   sS99LVhOBqWP5AjiZFdqxkgj68G3mySWHEsRF0cSWbjAw829C1PlRiR62w5GS8QoekZD97BrzHUu
+   4qI0hJw+u3YmFU8GdG8=;
+Received: by e.evasion-du-jour.fr id hi1e5g0001g8 for <resp-m2-miage@univ-rennes1.fr>; Tue, 31 Jan 2017 10:43:52 +0100 (envelope-from <bounce@email.evasion-du-jour.fr>)
+List-Unsubscribe: <mailto:bounce@email.evasion-du-jour.fr?subject=Unsubscribe%201485855634.58905b9262e786.38993095@link.bon-moment.fr>, <http://link.bon-moment.fr/p/u/qNRbeL8ponCvjzJL5RBdQuZhbDMMi39RSw9jqnrbwIoHY1ap-YkbEVkc2XVhl3D0GhkBCcrn7LpP4GMzae5P8BLV_JLCXDgR1BdZyhyOmZlKRBW5yXBhTVTo-Yj8ZAnZ>
+Date: Tue, 31 Jan 2017 10:40:34 CET
+Subject: =?utf-8?B?RMOpY291dnJleiB0b3VzIGxlcyBtb2lzIHVuIGFjY2Vzc29pcmUgdGVuZGFuY2UgcG91ciBob21tZQ==?=
+From: =?utf-8?B?TGFCb3hIb21tZQ==?= <send@email.evasion-du-jour.fr>
+Reply-To: reply@email.evasion-du-jour.fr
+To: <resp-m2-miage@univ-rennes1.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=1485855634_29b69d31865f68e9bb1e131b94062e3c=_"
+Message-ID: <1485855634.58905b9262e786.38993095@link.bon-moment.fr>
+List-ID: f45b25763c23d5029c48e116ceb4e29c
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 195.154.54.25
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelgedrieehgddtkecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefjfffuhfhrvfggtgfkjeesrgdtreertddtjeenucfhrhhomhepnfgruehogifjohhmmhgvuceoshgvnhgusegvmhgrihhlrdgvvhgrshhiohhnqdguuhdqjhhouhhrrdhfrheqnecuffhomhgrihhnpegsohhnqdhmohhmvghnthdrfhhrnecukfhppeduleehrdduheegrdehgedrvdehnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopegvvddvrdgvvhgrshhiohhnqdguuhdqjhhouhhrrdhfrhdpihhnvghtpeduleehrdduheegrdehgedrvdehpdhmrghilhhfrhhomhepsghouhhntggvsegvmhgrihhlrdgvvhgrshhiohhnqdguuhdqjhhouhhrrdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+
+--_=1485855634_29b69d31865f68e9bb1e131b94062e3c=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9
+FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdG
+QiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPg0KPGhlYWQ+PG1ld
+GEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
+LTgiIC8+DQoJPHRpdGxlPkxhQm94SG9tbWU8L3RpdGxlPg0KPC9oZWFkPg0KPGJvZHkgYmdjb2xvcj0
+iI2ZmZiI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPnRhYmxlLHRkLHRyIHsNCgltYXJnaW46IDA7DQ
+oJcGFkZGluZzogMDsNCn0NCjwvc3R5bGU+DQo8Y2VudGVyPg0KPHAgc3R5bGU9ImZvbnQtZmFtaWx5O
+iBBcmlhbDsgZm9udC1zaXplOiAxMnB4OyI+U2kgY2UgbWVzc2FnZSBuZSBzJiMzOTthZmZpY2hlIHBh
+cyBjb3JyZWN0ZW1lbnQsIDxhIGhyZWY9Imh0dHA6Ly9saW5rLmJvbi1tb21lbnQuZnIvcC9kL3ltSGR
+KemE5bFN2SWN2bm4wLUJ4cG5ETmp2OUtFaHd5cVYzQWV0UXVwLTdDbU1NcFlzalR0anc0aVNZSDVVTT
+dlbDIzbVdqSUlXWkhuVmRQYVIwRHREVGN3OXFLV1BxeTJXUG44VlBLakZkVEpPVTAwRk9rYWRkU0dGb
+WprTEdNIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsOyBmb250LXNpemU6IDEycHg7IGNvbG9yOiAj
+NjY2OyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IiB0YXJnZXQ9Il9ibGFuayI+IGNvbnN1bHRleiBsYSB
+2ZXJzaW9uIGVuIGxpZ25lPC9hPjwvcD4NCjwvY2VudGVyPg0KPGNlbnRlcj4NCjx0YWJsZSBhbGlnbj
+0iY2VudGVyIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHN0eWxlPSJ3aWR0aDogNTUwc
+Hg7Ij4NCgk8dGJvZHk+DQoJCTx0cj4NCgkJCTx0ZD48YSBocmVmPSJodHRwOi8vbGluay5ib24tbW9t
+ZW50LmZyL3AvbC9RcXZPT0Vqbnk3TkpzQ3hzNldLb1FQNmVIU3ZKYXVuaEdFcUtNOUJjMjZON0RFRDd
+0RkVoamdxeVZjMGFRZWN4SHJxMDNwWjU5N1ZzazZpYjlDVnQycVFBZmJnZjNEUWRrczE2emRSZm1KQj
+hmdXByMlluZFhlT1R0VlZqd3RnU1dXVE9yQzVpTWN2SkQ4OE5TQTlnMmciPjxpbWcgYWx0PSJMYUJve
+EhvbW1lIiBoZWlnaHQ9IjEzOCIgc3JjPSJodHRwOi8vaW1nLnZpZW5zYXZvdXMuZnIvaW1hZ2VzL3Jp
+cy83NC9pbWFnZXMvMS5qcGciIHdpZHRoPSI1NTAiIC8+PC9hPjwvdGQ+DQoJCTwvdHI+CQ0KCQk8dHI
++CQ0KCQkJPHRkPjxhIGhyZWY9Imh0dHA6Ly9saW5rLmJvbi1tb21lbnQuZnIvcC9sL0xOQkNxR3VpWD
+NmYkpDV1lHcDc3dmFtdFE3OHBrZDRFT3gtZUYwSVkyNnRqT2xaTjBQa29IZ0RlV3R2NzhkWGNTdThuY
+W40MTBjNWpXX2JKbVotWGZFbzVnUVZuX0ZoMnNwMlZJTmcxMzlHcUhybEE5UVduaWlxYlV6dUIwTjZw
+VlBqb3hTSlBTaTUzTERCbEMyXzlfQSI+PGltZyBhbHQ9IkTDqWNvdXZyZXogdG91cyBsZXMgbW9pcyB
+1biBhY2Nlc3NvaXJlIHRlbmRhbmNlIiBoZWlnaHQ9IjQ0NyIgc3JjPSJodHRwOi8vaW1nLnZpZW5zYX
+ZvdXMuZnIvaW1hZ2VzL3Jpcy83NC9pbWFnZXMvMi5qcGciIHdpZHRoPSI1NTAiIC8+PC9hPjwvdGQ+D
+QoJCTwvdHI+CQ0KCQk8dHI+CQ0KCQkJPHRkPjxhIGhyZWY9Imh0dHA6Ly9saW5rLmJvbi1tb21lbnQu
+ZnIvcC9sL00wNEs3M2dVanY3c1BXblg4TVlGR3VDeTF2dllJcmt1MHMxWWpwdUh0bVduaDBad2c5TE9
+pWHZ2bWR3WkExZy10bDk5UFZJMW5BZm5oanpQVEx1RU1oZ0cxcGl3V0dyMi1pQ2M2ZnVKNmNRNEVnVX
+cwSnRwVExNamZzZjM2c0ROdlFXTlBkWkNKOHNtR3dfX1Z0UGhsdyI+PGltZyBhbHQ9IktvbW9ubyIga
+GVpZ2h0PSIyNDAiIHNyYz0iaHR0cDovL2ltZy52aWVuc2F2b3VzLmZyL2ltYWdlcy9yaXMvNzQvaW1h
+Z2VzLzMuanBnIiB3aWR0aD0iNTUwIiAvPjwvYT48L3RkPg0KCQk8L3RyPgkNCgkJPHRyPgkNCgkJCTx
+0ZD48YSBocmVmPSJodHRwOi8vbGluay5ib24tbW9tZW50LmZyL3AvbC85RFREaGxOeG56LTZ5dF92NH
+A5WF9fbzdHSzdiMy0xLXFIdElsRVN3S0tvbkxuSTN0dHY2cFlpNExTdmF5V3pkYV9MRUNONW9yMndQR
+3VSWnlDamF5bkJiaHZQeEw2YnJWaUpuWFJqYkFhVTcwYVRLUVhQb2FneVNaSEljNXlRcm5yRHphV0xM
+TmRtT0JrY2lkUnA3LWciPjxpbWcgYWx0PSJNaXNlcmljb3JkaWEiIGhlaWdodD0iMTk5IiBzcmM9Imh
+0dHA6Ly9pbWcudmllbnNhdm91cy5mci9pbWFnZXMvcmlzLzc0L2ltYWdlcy80LmpwZyIgd2lkdGg9Ij
+U1MCIgLz48L2E+PC90ZD4NCgkJPC90cj4JDQoJCTx0cj4JDQoJCQk8dGQ+PGEgaHJlZj0iaHR0cDovL
+2xpbmsuYm9uLW1vbWVudC5mci9wL2wvT3JmWlptWE1mQXpSdFpyMzhpR3BPZDhETXU1VFpPLTlaTWNY
+Y1ExN0dUeHVBb1J5SVFxa0YycnB5cE5tRHJ3RkJQVDZWdWZHTXh6a3RKd1F5MjBmRjJJSHF4ZTRJcVl
+DVjFiZ3o2R0JoY2diMWkzZXBnM2FKYmV2U253MDlLQU5WZEVDTGRScGs1d3pHNk9lQ2xoMnpnIj48aW
+1nIGFsdD0iTHN0biBzb3VuZCIgaGVpZ2h0PSIyMTgiIHNyYz0iaHR0cDovL2ltZy52aWVuc2F2b3VzL
+mZyL2ltYWdlcy9yaXMvNzQvaW1hZ2VzLzUuanBnIiB3aWR0aD0iNTUwIiAvPjwvYT48L3RkPg0KCQk8
+L3RyPgkNCgkJPHRyPgkNCgkJCTx0ZD48YSBocmVmPSJodHRwOi8vbGluay5ib24tbW9tZW50LmZyL3A
+vbC9NZXB5QkJTaHN6c0t4bkFjdlVYRzd6MUxaeWF1U2VPMzZoZFUzdVR5Y3hxV0trNjJTb1p4TDdrN3
+Y2TmEyUVU5ZFBOZExwOUNDcEh2RFZwV3lmdW9nbG42R3o5VDIwanNMTjh3WDVwbEJUcHhTS1BYbWVJY
+WxzUm5DaWJ0Qk5HZ1ZnY0lzUVp3ZW1mcVd0Z01xbzlkOWciPjxpbWcgYWx0PSJMYUJveEhvbW1lIiBo
+ZWlnaHQ9IjEyNCIgc3JjPSJodHRwOi8vaW1nLnZpZW5zYXZvdXMuZnIvaW1hZ2VzL3Jpcy83NC9pbWF
+nZXMvNi5qcGciIHdpZHRoPSI1NTAiIC8+PC9hPjwvdGQ+DQoJCTwvdHI+CQ0KCTwvdGJvZHk+DQo8L3
+RhYmxlPg0KPC9jZW50ZXI+DQo8Y2VudGVyPjxhIGhyZWY9Imh0dHA6Ly9saW5rLmJvbi1tb21lbnQuZ
+nIvcC91L1l1RDhoUGRrcVdybEVlLU5JUk9HMHVNdDlRZXJWMzBFVGdRS3IzV3ZpaC1nQmdqVmU3SGE2
+TVlkYUQxMWxpYnlrQUlNdHFhRDBhWkY2Y0I4OEtLQzByenFhSHBlWFBOTnRlVlIxY1lpMHFkX1dqM2N
+UbndHQU1FWk5aRFVnZDl6IiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsOyBmb250LXNpemU6IDEycH
+g7IGNvbG9yOiAjNjY2OyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IiB0YXJnZXQ9Il9ibGFuayI+UG91c
+iB2b3VzIGTDqXNhYm9ubmVyLCBhY2PDqWRleiDDoCBjZXR0ZSBwYWdlLjwvYT48L2NlbnRlcj4NCjxp
+bWcgd2lkdGg9IjEiIHN0eWxlPSIxIiBzcmM9Imh0dHA6Ly9saW5rLmJvbi1tb21lbnQuZnIvcC9vL2c
+3YW1wN0lNR0thdXFhUUFhMXZrTmJZMDlwUlZ6M2ExY2VxR0xtUFlRd3lSdnk3ZGgySnNzQ2lKTXR6V0
+1TT1VJSktudnF0NXo3d3BxNkprc21LM2pnN0tIdDlJZHdrY0dXclhPTDBGNGdfZnN6NjBhY0lJdl8tV
+FU2UkRrdktiLmdpZiIvPjwvYm9keT4NCjwvaHRtbD4=
+
+
+--_=1485855634_29b69d31865f68e9bb1e131b94062e3c=_--
+

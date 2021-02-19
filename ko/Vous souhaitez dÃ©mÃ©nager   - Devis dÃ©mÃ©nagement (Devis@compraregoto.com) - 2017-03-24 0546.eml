@@ -1,0 +1,466 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@compraregoto.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Fri, 24 Mar 2017 05:47:12 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id A0DB919B
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 24 Mar 2017 05:47:12 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 900EC60074
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 24 Mar 2017 05:47:12 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 43--WA3SqE9j for <resp-m2-miage@univ-rennes1.fr>;
+	Fri, 24 Mar 2017 05:47:12 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 77C0D6000A
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 24 Mar 2017 05:47:12 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 704D220033
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 24 Mar 2017 05:47:12 +0100 (CET)
+Received: from smtp-a45.easyvu.com (smtp-a45.easyvu.com [185.52.34.102])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id A8A3D280076
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 24 Mar 2017 05:46:24 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=compraregoto.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp6; bh=OL5l5Bv6BOZ4/SQpIcfJ5TzG
+	3tVXsC5jvcdnIgky3jE=; b=t3EeQtXKeyLOX6+ONWd7ILjSjWe9IgZLoxSMDK9i
+	ZZQHcuUg0oaULBsEu1/9X6+IX02jEz79Q0Q1nOQRn75VF09CdfMvCslcmBeVgG5q
+	+XuN5RD/AnpvqSM2oByYKVLyNsXc3YiqwjoNz0U6X69L5nAdwMpdlCewU5Wg0IJA
+	QTM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=compraregoto.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp6; b=lJ8PJ3LMkg71DeUwV7
+	ZI7q0PuyubF34E0yTJcFv5vkV2wJ+AbYxZ3i1zRprkrgUUxZpGDC18REfQP2lbNA
+	rueUC4WhL9TRLHYR15w7jxOtIP7TCraZfVdL37Pa63lfSvTh8GRMliKgq+Y0omyT
+	wGsTLPZ5WQ9LldOYk7fzfB0Os=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Vous_souhaitez_d=C3=A9m=C3=A9nager_=3F?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Fri, 24 Mar 2017 05:46:40 +0100
+From: =?utf-8?Q?Devis_d=C3=A9m=C3=A9nagement?= <Devis@compraregoto.com>
+Reply-to: =?utf-8?Q?Devis_d=C3=A9m=C3=A9nagement?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@compraregoto.com>
+X-campaign_id: 44024347274095257820599018_7
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==721
+List-Unsubscribe: <http://app.compraregoto.com/d/?camp=44024347274095257820599018_7&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <4cf6d03582cbf3e495b670b206171a87@compraregoto.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_4cf6d03582cbf3e495b670b206171a87"
+X-Original-Source-IP: 185.52.34.102
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelhedrjeeggdekvdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpeffvghvihhspggurohmrohnrghgvghmvghnthcuoeffvghvihhssegtohhmphhrrghrvghgohhtohdrtghomheqnecuffhomhgrihhnpegtohhmphhrrghrvghgohhtohdrtghomhenucfkphepudekhedrhedvrdefgedruddtvdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrgeehrdgvrghshihvuhdrtghomhdpihhnvghtpedukeehrdehvddrfeegrddutddvpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghestghomhhprhgrrhgvghhothhordgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+--Part1_4cf6d03582cbf3e495b670b206171a87
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.compraregoto.com/v/?camp=3D44024347274095257820599018_7&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_4cf6d03582cbf3e495b670b206171a87
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Vous souhaitez d=C3=A9m=C3=A9nager ?</title>
+</head><body marginwidth=3D"0" marginheight=3D"0" style=3D"-webkit-text-s=
+ize-adjust:none; -moz-text-size-adjust:none; margin:0px; -ms-text-size-ad=
+just:none; text-size-adjust:none; padding:0px;" leftmargin=3D"0" topmargi=
+n=3D"0">
+<center><p>
+<a href=3D"http://app.compraregoto.com/v/?camp=3D440243472740952578205990=
+18_7&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" t=
+itle=3D"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." sty=
+le=3D"color:#00F; font-family:'Arial'; font-size:12px; text-decoration:un=
+derline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lie=
+n.</a></p>&nbsp;                          <style type=3D"text/css">.butto=
+n-td:hover{background:#404456 !important;border-color:#404456 !important}=
+.button-a:hover{background:#404456 !important;border-color:#404456 !impor=
+tant}@media screen and (max-width: 480px){.fluid{width:100% !important;ma=
+x-width:100% !important;height:auto !important;margin-left:auto !importan=
+t;margin-right:auto !important}.fluid-centered{width:100% !important;max-=
+width:100% !important;height:auto !important;margin-left:auto !important;=
+margin-right:auto !important}.fluid-centered{margin-left:auto !important;=
+margin-right:auto !important}.stack-column{display:block=20
+ !important;width:100% !important;max-width:100% !important;direction:ltr=
+ !important}.stack-column-center{display:block !important;width:100% !imp=
+ortant;max-width:100% !important;direction:ltr !important}.stack-column-c=
+enter{text-align:center !important}.center-on-narrow{text-align:center !i=
+mportant;display:block !important;margin-left:auto !important;margin-righ=
+t:auto !important;float:none !important}table.center-on-narrow{display:in=
+line-block !important}} </style> <table style=3D"border-collapse: collaps=
+e !important; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; bord=
+er-spacing: 0 !important; table-layout: fixed !important; margin: 0 auto;=
+" height=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolo=
+r=3D"#E6E6E6" width=3D"100%"><tbody><tr style=3D"-ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%;"><td style=3D"-ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt=20
+ !important; mso-table-rspace: 0pt !important;" valign=3D"top">     <cent=
+er style=3D"width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%;">          <!-- Visually Hidden Preheader Text : BEGIN -->   =
+      <div style=3D"display: none; font-size: 1px; line-height: 1px; max-=
+height: 0px; max-width: 0px; opacity: 0; overflow: hidden; mso-hide: all;=
+ font-family: sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-a=
+djust: 100%;">             D&eacute;m&eacute;nagement         </div>     =
+    <!-- Visually Hidden Preheader Text : END -->          <div style=3D"=
+max-width: 680px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 1=
+00%;">             <!--[if (gte mso 9)|(IE)]>             <table cellspac=
+ing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"680" align=3D"center"> =
+                <tr>                     <td>             <![endif]-->   =
+           <!-- Email Body : BEGIN -->             <table style=3D"max-wi=
+dth: 680px; -ms-text-size-adjust: 100%; -webkit-text-size-adj
+ ust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !impo=
+rtant; border-spacing: 0 !important; border-collapse: collapse !important=
+; table-layout: fixed !important; margin: 0 auto;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center" width=3D"=
+100%"><!-- Hero Image, Flush : BEGIN --><tbody><tr style=3D"-ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%;"><td style=3D"-ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !im=
+portant; mso-table-rspace: 0pt !important;">                 <a href=3D"h=
+ttp://app.compraregoto.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+=3D&c=3D44024347274095257820599018_7&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5=
+jb20vY2xjL0NIelRjYU9icTNrYnJsYnhfUTF0SFE=3D" style=3D"-ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;" target=3D"_blank"><img src=3D"h=
+ttp://app.compraregoto.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2RlbWVuYW=
+dlbWVudC9pbWFnZXMvYmFubmllcmUuanBn" alt=3D"D&eacute;m&eacute;nagement" st=
+yle=3D"w
+ idth: 100%; max-width: 680px; height: auto; -ms-text-size-adjust: 100%; =
+-webkit-text-size-adjust: 100%; -ms-interpolation-mode: bicubic;" border=3D=
+"0" align=3D"middle" width=3D"680"></a>             </td>             </t=
+r><!-- Hero Image, Flush : END --><!-- Two Even Columns : BEGIN --><tr st=
+yle=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><td s=
+tyle=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-t=
+able-lspace: 0pt !important; mso-table-rspace: 0pt !important;" height=3D=
+"100%" bgcolor=3D"#ffffff" align=3D"center" width=3D"100%" valign=3D"top"=
+>                 <!--[if mso]>                 <table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" align=3D"center" width=3D"660">           =
+          <tr>                         <td align=3D"center" valign=3D"top=
+" width=3D"660">                 <![endif]-->                 <table styl=
+e=3D"max-width: 660px; -ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !import=
+ant;
+  border-spacing: 0 !important; border-collapse: collapse !important; tab=
+le-layout: fixed !important; margin: 0 auto;" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" align=3D"center" width=3D"100%"><tbody><tr style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><td style=3D=
+"font-size: 0; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%=
+; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; pad=
+ding: 10px 0;" align=3D"center" valign=3D"top">                     <!--[=
+if mso]>                     <table border=3D"0" cellspacing=3D"0" cellpa=
+dding=3D"0" align=3D"center" width=3D"660">                         <tr> =
+                            <td align=3D"left" valign=3D"top" width=3D"33=
+0">                     <![endif]-->                     <div style=3D"di=
+splay: inline-block; max-width: 50%; min-width: 200px; vertical-align: to=
+p; width: 100%; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; margin: 0 -2px;" class=3D"stack-column">                         <tabl=
+e sty
+ le=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-ta=
+ble-lspace: 0pt !important; mso-table-rspace: 0pt !important; border-spac=
+ing: 0 !important; border-collapse: collapse !important; table-layout: fi=
+xed !important; margin: 0 auto;" cellspacing=3D"0" cellpadding=3D"0" bord=
+er=3D"0" width=3D"100%"><tbody><tr style=3D"-ms-text-size-adjust: 100%; -=
+webkit-text-size-adjust: 100%;"><td style=3D"-ms-text-size-adjust: 100%; =
+-webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-tab=
+le-rspace: 0pt !important; padding: 10px;">                             <=
+table style=3D"font-size: 14px; text-align: left; -ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; ms=
+o-table-rspace: 0pt !important; border-spacing: 0 !important; border-coll=
+apse: collapse !important; table-layout: fixed !important; margin: 0 auto=
+;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%"><tbody=
+><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust:
+  100%;"><td style=3D"font-family: sans-serif; font-size: 22px; mso-heigh=
+t-rule: exactly; line-height: 30px; color: #e63152; -ms-text-size-adjust:=
+ 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; =
+mso-table-rspace: 0pt !important;" align=3D"left">                       =
+          <b style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjus=
+t: 100%;">LES AVANTAGES :</b>                             </td>          =
+                   </tr><tr style=3D"-ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%;"><td style=3D"font-family: sans-serif; font-size:=
+ 15px; mso-height-rule: exactly; line-height: 20px; color: #404456; paddi=
+ng-top: 10px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important;" cla=
+ss=3D"stack-column-center">                                 Gr&acirc;ce &=
+agrave; notre service, &eacute;vitez de perdre du temps dans des recherch=
+es fastidieuses et des comparaisons d'offres sans fin
+  !                                 <br style=3D"-ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%;"><br style=3D"-ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%;">                                 No=
+us contactons pour vous les professionnels disponibles et capables de g&e=
+acute;rer votre projet.                                 <br style=3D"-ms-=
+text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><br style=3D"-ms=
+-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">               =
+                  Ils vous font parvenir un devis gratuit et sans engagem=
+ent.                                 <br style=3D"-ms-text-size-adjust: 1=
+00%; -webkit-text-size-adjust: 100%;"><br style=3D"-ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%;"><!-- Button : Begin --><table clas=
+s=3D"center-on-narrow" style=3D"float: left; -ms-text-size-adjust: 100%; =
+-webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-tab=
+le-rspace: 0pt !important; border-spacing: 0 !important;=20
+ border-collapse: collapse !important; table-layout: fixed !important; ma=
+rgin: 0 auto;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><t=
+r style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><=
+td style=3D"border-radius: 3px; text-align: center; -ms-text-size-adjust:=
+ 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; =
+mso-table-rspace: 0pt !important; transition: all 100ms ease-in; backgrou=
+nd: #e63152;" class=3D"button-td" bgcolor=3D"#e63152" align=3D"center">  =
+                               <a href=3D"http://app.compraregoto.com/r/?=
+m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D4402434727409525782059=
+9018_7&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL0NIelRjYU9icTNrYnJsY=
+nhfUTF0SFE=3D" style=3D"color: #ffffff; font-family: sans-serif; font-siz=
+e: 16px; line-height: 1.1; text-align: center; text-decoration: none; dis=
+play: block; border-radius: 3px; font-weight: bold; -ms-text-size-adjust:=
+ 100%; -webkit-text-size-adjust: 100%; transition: all 100ms ease-in; b
+ ackground: #e63152; padding: 0 10px; border: 18px solid #e63152;" class=3D=
+"button-a" target=3D"_blank">                                     <!--[if=
+ mso]>    <![endif]-->Recevoir gratuitement mes devis<!--[if mso]>    <![=
+endif]-->                                 </a>                           =
+  </td>                             </tr></tbody></table><!-- Button : EN=
+D --></td>                             </tr></tbody></table></td>        =
+                 </tr></tbody></table></div>                     <!--[if =
+mso]>                     </td>                     <td align=3D"left" va=
+lign=3D"top" width=3D"330">                     <![endif]-->             =
+        <div style=3D"display: inline-block; max-width: 50%; min-width: 2=
+00px; vertical-align: top; width: 100%; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; margin: 0 -2px;" class=3D"stack-column">      =
+                   <table style=3D"-ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%; mso-table-lspace: 0pt !important;
+  mso-table-rspace: 0pt !important; border-spacing: 0 !important; border-=
+collapse: collapse !important; table-layout: fixed !important; margin: 0 =
+auto;" width=3D"100%"><tbody><tr style=3D"-ms-text-size-adjust: 100%; -we=
+bkit-text-size-adjust: 100%;"><td style=3D"-ms-text-size-adjust: 100%; -w=
+ebkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table=
+-rspace: 0pt !important; padding: 10px;">                             <ta=
+ble style=3D"font-size: 14px; text-align: left; -ms-text-size-adjust: 100=
+%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-=
+table-rspace: 0pt !important; border-spacing: 0 !important; border-collap=
+se: collapse !important; table-layout: fixed !important; margin: 0 auto;"=
+ cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%"><tbody><=
+tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">=
+<td style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !impo
+ rtant;">                                 <a href=3D"http://app.comprareg=
+oto.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D44024347274=
+095257820599018_7&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL0NIelRjYU=
+9icTNrYnJsYnhfUTF0SFE=3D" style=3D"-ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%;" target=3D"_blank"><img src=3D"http://app.comprareg=
+oto.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2RlbWVuYWdlbWVudC9pbWFnZXMvc=
+3RlcC5qcGc=3D" alt=3D"D&eacute;m&eacute;nagement" style=3D"width: 100%; m=
+ax-width: 310px; height: auto; -ms-text-size-adjust: 100%; -webkit-text-s=
+ize-adjust: 100%; -ms-interpolation-mode: bicubic; border: 0;" class=3D"c=
+enter-on-narrow" width=3D"310"></a>                             </td>    =
+                         </tr></tbody></table></td>                      =
+   </tr></tbody></table></div>                     <!--[if mso]>         =
+            </td>                     </tr>                     </table> =
+                    <![endif]-->                 </td>                =20
+ </tr></tbody></table><!--[if mso]>                 </td>                =
+ </tr>                 </table>                 <![endif]--></td>        =
+     </tr><!-- Two Even Columns : END --><tr style=3D"-ms-text-size-adjus=
+t: 100%; -webkit-text-size-adjust: 100%;"><td style=3D"font-size: 15px; l=
+ine-height: 15px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 1=
+00%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important;"=
+ height=3D"15">                               <br></td>             </tr>=
+<!-- Background Image with Text : BEGIN --><tr style=3D"-ms-text-size-adj=
+ust: 100%; -webkit-text-size-adjust: 100%;"><td style=3D"text-align: cent=
+er; background-position: center center !important; background-size: cover=
+ !important; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; =
+mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important;" bgco=
+lor=3D"#384047" background=3D"http://app.compraregoto.com/r/?rc=3DaHR0cDo=
+vL21lZGlhcy1hcGkuY29tL2RlbWVuYWdlbWVudC9pbWFnZXMvYm90dG9t
+ LWJhbm5lci5qcGc=3D" align=3D"center" valign=3D"middle">                 =
+<!--[if gte mso 9]>                                                      =
+                      <![endif]-->                 <div style=3D"-ms-text=
+-size-adjust: 100%; -webkit-text-size-adjust: 100%;">                    =
+ <!--[if mso]>                     <table border=3D"0" cellspacing=3D"0" =
+cellpadding=3D"0" align=3D"center" width=3D"500">                        =
+ <tr>                             <td align=3D"center" valign=3D"top" wid=
+th=3D"500">                     <![endif]-->                     <table s=
+tyle=3D"max-width: 500px; -ms-text-size-adjust: 100%; -webkit-text-size-a=
+djust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !imp=
+ortant; border-spacing: 0 !important; border-collapse: collapse !importan=
+t; table-layout: fixed !important; margin: 0 auto;" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0" align=3D"center" width=3D"100%"><tbody><tr st=
+yle=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><td s=
+tyle=3D"
+ text-align: center; font-family: sans-serif; font-size: 15px; mso-height=
+-rule: exactly; line-height: 20px; color: #ffffff; -ms-text-size-adjust: =
+100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; m=
+so-table-rspace: 0pt !important; padding: 40px 20px;" align=3D"center" va=
+lign=3D"middle">                         Le choix du type de d&eacute;m&e=
+acute;nageur va souvent d&eacute;pendre de la distance &agrave; laquelle =
+vous d&eacute;m&eacute;nagez. Ainsi pour un d&eacute;m&eacute;nagement da=
+ns votre r&eacute;gion vous pourrez souvent choisir de privil&eacute;gier=
+ un petit artisan d&eacute;m&eacute;nageur local, alors que pour les d&ea=
+cute;m&eacute;nagements &agrave; plusieurs de kilom&egrave;tres il vous f=
+audra souvent vous tourner vers des groupements ou des r&eacute;seaux de =
+d&eacute;m&eacute;nageurs.                     </td>                     =
+</tr></tbody></table><!--[if (gte mso 9)|(IE)]>                     </td>=
+                     </tr>                  =20
+   </table>                     <![endif]--></div>                 <!--[i=
+f gte mso 9]>                                                   <![endif]=
+-->             </td>             </tr><!-- Background Image with Text : =
+END --><!-- Thumbnail Left, Text Right : BEGIN --><tr style=3D"-ms-text-s=
+ize-adjust: 100%; -webkit-text-size-adjust: 100%;"><td dir=3D"ltr" style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt !important; mso-table-rspace: 0pt !important; padding: 10px 0;"=
+ height=3D"100%" bgcolor=3D"#ffffff" align=3D"center" width=3D"100%" vali=
+gn=3D"top">                 <!--[if mso]>                 <table border=3D=
+"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center" width=3D"660">  =
+                   <tr>                         <td align=3D"center" vali=
+gn=3D"top" width=3D"660">                 <![endif]-->                 <t=
+able style=3D"max-width: 660px; -ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0
+ pt !important; border-spacing: 0 !important; border-collapse: collapse !=
+important; table-layout: fixed !important; margin: 0 auto;" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0" align=3D"center" width=3D"100%"><tbody=
+><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+"><td style=3D"font-size: 0; -ms-text-size-adjust: 100%; -webkit-text-siz=
+e-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !=
+important; padding: 10px 0;" align=3D"center" valign=3D"top">            =
+         <!--[if mso]>                     <table border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0" align=3D"center" width=3D"660">                =
+         <tr>                             <td align=3D"left" valign=3D"to=
+p" width=3D"220">                     <![endif]-->                     <d=
+iv style=3D"display: inline-block; max-width: 33.33%; min-width: 160px; v=
+ertical-align: top; width: 100%; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; margin: 0 -2px;" class=3D"stack-column">             =
+    =20
+        <table style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adj=
+ust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !impor=
+tant; border-spacing: 0 !important; border-collapse: collapse !important;=
+ table-layout: fixed !important; margin: 0 auto;" cellspacing=3D"0" cellp=
+adding=3D"0" border=3D"0" width=3D"100%"><tbody><tr style=3D"-ms-text-siz=
+e-adjust: 100%; -webkit-text-size-adjust: 100%;"><td dir=3D"ltr" style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-ls=
+pace: 0pt !important; mso-table-rspace: 0pt !important; padding: 0 10px 1=
+0px;">                             <a href=3D"http://app.compraregoto.com=
+/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D440243472740952578=
+20599018_7&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL0NIelRjYU9icTNrY=
+nJsYnhfUTF0SFE=3D" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size=
+-adjust: 100%;" target=3D"_blank"><img src=3D"http://app.compraregoto.com=
+/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2RlbWVuYWdlbWVudC9pbWFnZXMvZGVtZW5h=
+Z2Vt
+ ZW50LmpwZw=3D=3D" alt=3D"D&eacute;m&eacute;nagement" style=3D"width: 100=
+%; max-width: 200px; height: auto; -ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%; -ms-interpolation-mode: bicubic; border: 0;" class=3D=
+"center-on-narrow" width=3D"200"></a>                         </td>      =
+                   </tr></tbody></table></div>                     <!--[i=
+f mso]>                     </td>                     <td align=3D"left" =
+valign=3D"top" width=3D"440">                     <![endif]-->           =
+          <div style=3D"display: inline-block; max-width: 66.66%; min-wid=
+th: 320px; vertical-align: top; -ms-text-size-adjust: 100%; -webkit-text-=
+size-adjust: 100%; margin: 0 -2px;" class=3D"stack-column">              =
+           <table style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !im=
+portant; border-spacing: 0 !important; border-collapse: collapse !importa=
+nt; table-layout: fixed !important; margin: 0 auto;" cellspacin
+ g=3D"0" cellpadding=3D"0" border=3D"0" width=3D"100%"><tbody><tr style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><td dir=3D"=
+ltr" style=3D"font-family: sans-serif; font-size: 15px; mso-height-rule: =
+exactly; line-height: 20px; color: #404456; text-align: left; -ms-text-si=
+ze-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !i=
+mportant; mso-table-rspace: 0pt !important; padding: 10px 10px 0;" class=3D=
+"center-on-narrow" align=3D"left">                             <strong st=
+yle=3D"color: #111111; -ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%;">Comparez les d&eacute;m&eacute;nageurs</strong>               =
+              <br style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-=
+adjust: 100%;"><br style=3D"-ms-text-size-adjust: 100%; -webkit-text-size=
+-adjust: 100%;">                             Renseignez en quelques clics=
+ le formulaire affich&eacute; sur notre site internet et recevez gratuite=
+ment et sans engagement plusieurs devis de d&eacute;m&eacute;n
+ ageurs dans votre r&eacute;gion.                             <br style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><br style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><br style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><!-- Button=
+ : Begin --><table class=3D"center-on-narrow" style=3D"float: left; -ms-t=
+ext-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: =
+0pt !important; mso-table-rspace: 0pt !important; border-spacing: 0 !impo=
+rtant; border-collapse: collapse !important; table-layout: fixed !importa=
+nt; margin: 0 auto;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tb=
+ody><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 10=
+0%;"><td style=3D"border-radius: 3px; text-align: center; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !impor=
+tant; mso-table-rspace: 0pt !important; transition: all 100ms ease-in; ba=
+ckground: #e63152;" class=3D"button-td" bgcolor=3D"#e63152" al
+ ign=3D"center">                             <a href=3D"http://app.compra=
+regoto.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D44024347=
+274095257820599018_7&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL0NIelR=
+jYU9icTNrYnJsYnhfUTF0SFE=3D" style=3D"color: #ffffff; font-family: sans-s=
+erif; font-size: 16px; line-height: 1.1; text-align: center; text-decorat=
+ion: none; display: block; border-radius: 3px; font-weight: bold; -ms-tex=
+t-size-adjust: 100%; -webkit-text-size-adjust: 100%; transition: all 100m=
+s ease-in; background: #e63152; padding: 0 10px; border: 16px solid #e631=
+52;" class=3D"button-a" target=3D"_blank">                               =
+  <!--[if mso]>    <![endif]-->Je compare gratuitement<!--[if mso]>    <!=
+[endif]-->                             </a>                         </td>=
+                         </tr></tbody></table><!-- Button : END --></td> =
+                        </tr></tbody></table></div>                     <=
+!--[if mso]>                     </td>                     </
+ tr>                     </table>                     <![endif]-->       =
+          </td>                 </tr></tbody></table><!--[if mso]>       =
+          </td>                 </tr>                 </table>           =
+      <![endif]--></td>             </tr><!-- Thumbnail Left, Text Right =
+: END --></tbody></table><!-- Email Body : END --><!-- Email Footer : BEG=
+IN --><table style=3D"max-width: 680px; -ms-text-size-adjust: 100%; -webk=
+it-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rs=
+pace: 0pt !important; border-spacing: 0 !important; border-collapse: coll=
+apse !important; table-layout: fixed !important; margin: 0 auto;" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center" width=3D"100%"=
+><tbody><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%;"><td style=3D"font-size: 30px; line-height: 30px; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !impor=
+tant; mso-table-rspace: 0pt !important;" height=3D"30">   =20
+                    <br></td>         </tr></tbody></table><!-- Email Foo=
+ter : END --><!--[if (gte mso 9)|(IE)]>             </td>             </t=
+r>             </table>             <![endif]--></div>     </center> </td=
+> </tr> </tbody></table>  <img src=3D"http://app.compraregoto.com/t/?i=3D=
+44024347274095257820599018_7&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D=
+&url=3Dhttp://app.compraregoto.com/images/blank.jpg" alt=3D"_pspacer6"  /=
+><p>
+<a href=3D"http://app.compraregoto.com/d/?camp=3D440243472740952578205990=
+18_7&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" t=
+itle=3D"Ne plus recevoir d'informations de notre part" style=3D"color:#00=
+F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour =
+se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus=
+&eacute; un quelconque d&eacute;rangement, nous vous prions de nous en ex=
+cuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_4cf6d03582cbf3e495b670b206171a87--
+

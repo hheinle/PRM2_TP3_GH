@@ -1,0 +1,113 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@seebefo.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 17 Nov 2016 10:58:00 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 52CB147
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 17 Nov 2016 10:58:00 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 4FF39602D2
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 17 Nov 2016 10:58:00 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 47L1uiU7_B2t for <resp-m2-miage@univ-rennes1.fr>;
+	Thu, 17 Nov 2016 10:58:00 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 2685760192
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 17 Nov 2016 10:58:00 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 0665120033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 17 Nov 2016 10:58:00 +0100 (CET)
+Received: from ip-81-93-246-100.sd-france.net (ip-81-93-246-100.sd-france.net [81.93.246.100])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 23BF728003A
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 17 Nov 2016 10:57:59 +0100 (CET)
+Received: from seebefo.fr (unknown [188.130.7.25])
+	by srv2577.localdomain (Postfix) with ESMTP id 987611378A8
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 17 Nov 2016 10:57:59 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=seebefo.fr;
+	s=seebefofr; t=1479376679;
+	bh=lVjamY7+Wov5x971R714FqijFgMJCw34sKQ/GQW0e0A=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:
+	 MIME-Version:Content-Type;
+	b=mjkuJlztLfdui8LoY+FiwJ54vI8J5JwUwrXRojWcj4reVyn8dFB5zMbEaiXdCwbXB
+	 0nMZg8vYbFqqNFjTxu+odQ0VrbqxyN5IPt0p7aHOJ4nMCtOySLgBfPQAamReE18622
+	 FnaGw9+TExXgopy5qZ6yEHfZnfWdE5QsdLaE1+TE=
+Date: Thu, 17 Nov 2016 10:57:59 +0100
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+From: Devis Pompe a chaleur <ligne@seebefo.fr>
+Reply-to: Devis Pompe a chaleur <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@seebefo.fr>
+Subject: *****Spam*****=?utf-8?Q?Jusqu=E2=80=99=C3=A0_75%_d'=C3=A9conomie_=C3=A9nergie_!?=
+X-campaign_id: 411514235765288883392379403_8
+Precedence: bulk
+X-uid_id_m: <cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==422>
+List-Unsubscribe: <http://www.seebefo.fr/d/?camp=411514235765288883392379403_8&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <c8afb818918d32341e36118d2f1b2340@seebefo.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_c8afb818918d32341e36118d2f1b2340"
+X-Original-Source-IP: 81.93.246.100
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrudeigddthecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpeffvffhrhfuphfjkfggtgesrgdtjhertddtjeenucfhrhhomhepffgvvhhishcurfhomhhpvgcurgcutghhrghlvghurhcuoehlihhgnhgvsehsvggvsggvfhhordhfrheqnecuffhomhgrihhnpehsvggvsggvfhhordhfrhenucfkphepkedurdelfedrvdegiedruddttddpudekkedrudeftddrjedrvdehnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehiphdqkeduqdelfedqvdegiedquddttddrshguqdhfrhgrnhgtvgdrnhgvthdpihhnvghtpeekuddrleefrddvgeeirddutddtpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesshgvvggsvghfohdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+
+--Part1_c8afb818918d32341e36118d2f1b2340
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+Pour visualiser et se désabonner ce message,
+ 
+Veuillez, copier puis coller, l'adresse URL complète ci-dessous dans la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entrée" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - - 
+
+http://www.seebefo.fr/v/?camp=411514235765288883392379403_8&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+
+- - - - - - - - - - - - - - - - - 
+
+
+
+
+--Part1_c8afb818918d32341e36118d2f1b2340
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Jusqu’à 75% d\'économie énergie !</title>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="center">
+<a href="http://www.seebefo.fr/v/?camp=411514235765288883392379403_8&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></td></tr><tr><td  align="center">                        pompe-a-chaleur    <img src="http://www.seebefo.fr/r/?rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvcHgvTXpBMk5GOThYelF6T0Y5OFh6STNYM3hmTUY5OFh6QS9hSFIwY0RvdkwzZDNkeTV5WldGamRHbHZiaTFvWVdKcGRHRjBMbU52YlM5eVlXUnBZWFJsZFhJdFlTMXBibVZ5ZEdsbA==" width="1" border="0" height="1">  <center> <table id="Tableau_01" width="600" cellspacing="0" cellpadding="0" border="0" height="1251"> 	<tbody><tr> 		<td colspan="2" width="300" bgcolor="#0099CC" height="80"> 			<a
+href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="text-decoration:none;" target="_blank"><img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL2xvZ28ucG5n" alt="" width="200" height="50"></a></td> 		<td colspan="2" style="text-align:right; font-family:'Century Gothic', Arial, Helvetica, sans-serif; font-size:24px; text-transform:uppercase; padding:10px;" width="300" bgcolor="#0099CC" height="80"><a
+href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="text-decoration:none;color:#ffffff;" target="_blank">Pompe &agrave; chaleur</a></td> 	</tr> 	<tr> 		<td colspan="4"> 			<a href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="text-decoration:none;" target="_blank"><img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL2ltZ1ByaW5jaXBhbC5wbmc=" alt="Pompe-a-chaleur" width="600" height="320"></a></td> 	</tr> 	<tr> 		<td
+colspan="4" width="600" bgcolor="#efefef" height="61"><a href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="font-family:'Century Gothic', Arial, Helvetica, sans-serif;text-decoration:none;font-size:24px;color:#333333;text-align:center;" target="_blank"><p style="text-transform:uppercase;font-weight:bold; margin:0">La pompe &agrave; chaleur</p></a></td> 	</tr>     <tr> 		<td colspan="5" width="600" bgcolor="#efefef"> 			<hr height="" width="20px" color="#0099CC"></td> 	</tr> 	<tr> 		<td colspan="4" style="font-family:Arial, Helvetica, sans-serif; font-size:16px; padding:10px;text-align:center;" width="600" bgcolor="#efefef" height="139"><a
+href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="text-decoration:none;color:#333333" target="_blank"><p>Le principe de la pompe &agrave; chaleur a&eacute;thermique est de puiser de l&rsquo;&eacute;nergie  contenue dans l&rsquo;air pour l&rsquo;introduire &agrave; l&rsquo;int&eacute;rieur d&rsquo;une habitation (appartement ou maison), qu&rsquo;elle soit neuve ou en r&eacute;novation.</p> <p>Elle est ensuite restitu&eacute;e de deux fa&ccedil;ons possibles en fonction du syst&egrave;me d&rsquo;&eacute;mission de la chaleur :</p></a></td> 	</tr> 	<tr> 		<td colspan="2" bgcolor="#efefef"> 			<a
+href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="text-decoration:none;" target="_blank"><img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL2ljb24xLnBuZw==" alt="pompe_air-air" width="300" height="269"></a></td> 		<td colspan="2" bgcolor="#efefef"> 			<a href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="text-decoration:none;" target="_blank"><img
+src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL2ljb24yLnBuZw==" alt="pompe_air-eau" width="300" height="269"></a></td> 	</tr> 	<tr> 		<td colspan="4" style="font-family:'Century Gothic', Arial, Helvetica, sans-serif;font-size:16px;text-align:center;" width="600" bgcolor="#efefef" height="111"><a href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMjF3WlhNdFlTMWphR0ZzWlhWeWN3" style="text-decoration:none;color:#333333;" target="_blank"><span style="color:#0099CC">R&eacute;action habitat</span> peut vous aider &agrave; trouver un professionnel qui vous accompagnera dans le choix et l'installation de votre chauffage.</a></td> 	</tr> 	<tr> 		<td> 			<a
+href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWpiR2x0WVhScGMyRjBhVzl1" style="text-decoration:none;" target="_blank"><img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL2xpZW4xLnBuZw==" alt="climatisation" width="200" height="270"></a></td> 		<td colspan="2"> 			<a href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXdiMlZzWlMxaExXSnZhWE0=" style="text-decoration:none;" target="_blank"><img
+src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL2xpZW4yLnBuZw==" alt="poeleBois" width="200" height="270"></a></td> 		<td> 			<a href="http://www.seebefo.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=411514235765288883392379403_8&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QTJORjk4WHpRek9GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOXlZV1JwWVhSbGRYSXRZUzFwYm1WeWRHbGw=" style="text-decoration:none;" target="_blank"><img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL2xpZW4zLnBuZw==" alt="radiateur-inertie" width="200" height="270"></a></td> 	</tr> 	<tr> 		<td> 			<img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL3NwYWNlci5naWY=" alt="" width="200" height="1"></td> 		<td> 			<img
+src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL3NwYWNlci5naWY=" alt="" width="100" height="1"></td> 		<td> 			<img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL3NwYWNlci5naWY=" alt="" width="100" height="1"></td> 		<td> 			<img src="http://www.seebefo.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3BvbXBlLWEtY2hhbGV1cjIvaW1hZ2VzL3NwYWNlci5naWY=" alt="" width="200" height="1"></td> 	</tr> </tbody></table> </center>                   <img src="http://www.seebefo.fr/t/?i=411514235765288883392379403_8&m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&url=http://www.seebefo.fr/images/blank.jpg" alt="_pspacer7"  /></td></tr><tr><td align="center">
+<a href="http://www.seebefo.fr/d/?camp=411514235765288883392379403_8&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Ne plus recevoir d'informations de notre part" style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</td></tr></tbody></table>
+</body>
+</html>
+
+
+
+--Part1_c8afb818918d32341e36118d2f1b2340--
+
+

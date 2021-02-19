@@ -1,0 +1,166 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sat, 10 Dec 2016 08:08:02 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id B69B247
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 10 Dec 2016 08:08:02 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id B128F60048
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 10 Dec 2016 08:08:02 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id FSIW27RwF1A9 for <resp-m2-miage@univ-rennes1.fr>;
+	Sat, 10 Dec 2016 08:08:02 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 8B07460003
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 10 Dec 2016 08:08:02 +0100 (CET)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 7C4E420033
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 10 Dec 2016 08:08:02 +0100 (CET)
+Received: from smtp-a77.directonlus.com (smtp-a77.directonlus.com [82.97.39.43])
+	by mxb2-1.relay.renater.fr (asm) with ESMTP id 420C260029E
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 10 Dec 2016 08:08:02 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp6; bh=bF6dIBXGnEL0DQynGB+CNDnY
+	5ldJfDsyIdM4oD2KdwM=; b=d2WNZytyPOhr8m5VdIuM1hzy1Jw0mBZ0ZSmDUGuO
+	zl6aOOOzT5JwIePKTCx+Jc+1KRHgj5k+Fu4lkcjbIv5r+Sit+25aRhEjdPvvnull
+	n5XkTkxYh66+AyXDRoqY+M68ODvteSJu7zx4bdK6xcsXlJ1PlekDyVrWbtcbZP0B
+	Xis=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp6; b=lLfcbgfKrLBLGensW5
+	xfx3FEoKeLrzJNr+E3X6bJPh1Kh3NoiOaJEZW4Ikv0ePmjVKR7P3bpTn4CbWRmXK
+	OHbKBqL8W+32HR3nAgjPWYjQ9pY84eASICs7o7CI/gbAjrvGspKgepEFZWCSKqCt
+	LsRKg3dtTROq4bt9J5s5txIpE=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Traitez_efficacement_les_probl=C3=A8mes_d'humidit=C3=A9_chez_vo?=  =?utf-8?Q?us_!?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Sat, 10 Dec 2016 08:08:01 +0100
+From: Humidite <Humidite@directonlus.com>
+Reply-to: Humidite <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+X-campaign_id: 23630217409456441202_3
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==810
+List-Unsubscribe: <http://app.directonlus.com/d/?camp=23630217409456441202_3&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <fbe719b66df7a4790dba2df609cec43a@directonlus.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_fbe719b66df7a4790dba2df609cec43a"
+X-Original-Source-IP: 82.97.39.43
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrheejgdefkecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpefjuhhmihguihhtvgcuoefjuhhmihguihhtvgesughirhgvtghtohhnlhhushdrtghomheqnecuffhomhgrihhnpeguihhrvggtthhonhhluhhsrdgtohhmnecukfhppeekvddrleejrdefledrgeefnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqrgejjedrughirhgvtghtohhnlhhushdrtghomhdpihhnvghtpeekvddrleejrdefledrgeefpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesughirhgvtghtohhnlhhushdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--Part1_fbe719b66df7a4790dba2df609cec43a
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.directonlus.com/v/?camp=3D23630217409456441202_3&ms=3DcmVzcC1t=
+Mi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_fbe719b66df7a4790dba2df609cec43a
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Traitez efficacement les probl=C3=A8mes d\'humidit=C3=A9 chez vous=
+ !</title>
+</head><body topmargin=3D"0" marginheight=3D"0" style=3D"-webkit-text-siz=
+e-adjust:none; margin:0px; -ms-text-size-adjust:none; -moz-text-size-adju=
+st:none; padding:0px; text-size-adjust:none;" leftmargin=3D"0" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.directonlus.com/v/?camp=3D23630217409456441202_3&ms=
+=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"c=
+olor:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline=
+;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a><=
+/p>                        Traitement d'humidit&eacute;    <img src=3D"ht=
+tp://app.directonlus.com/r/?rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5j=
+b20vYWYvcHgvTkRNM01WOThYelE0TUY5OFh6STNYM3hmTUY5OFh6QS9hSFIwY0RvdkwzUnlZV=
+2wwWlcxbGJuUXRhSFZ0YVdScGRHVXVjbVZoWTNScGIyNHRhR0ZpYVhSaGRDNWpiMjB2" widt=
+h=3D"1" height=3D"1" border=3D"0"> <!-- Save for Web Slices (newsletters-=
+14.jpg) --> <center> <table id=3D"Tableau_01" width=3D"600" cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0"> 	<tbody><tr> 		<td> 			<a href=3D"htt=
+p://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D=
+&c=3D23630217409456441202_3&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5j=
+b20vYWYvY2x
+ jL05ETTNNVjk4WHpRNE1GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM1J5WVdsMFpXMWx=
+iblF0YUhWdGFXUnBkR1V1Y21WaFkzUnBiMjR0YUdGaWFYUmhkQzVqYjIwdg=3D=3D" target=
+=3D"_blank"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy=
+5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3RyYWl0ZW1lbnQtaHVtaWRpdGUvaW1hZ2V=
+zL25ld3NsZXR0ZXJzLTE0XzAxLmpwZw=3D=3D" alt=3D"" width=3D"600" height=3D"1=
+45"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.directonlus.co=
+m/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D23630217409456441=
+202_3&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05ETTNNVj=
+k4WHpRNE1GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM1J5WVdsMFpXMWxiblF0YUhWdGF=
+XUnBkR1V1Y21WaFkzUnBiMjR0YUdGaWFYUmhkQzVqYjIwdg=3D=3D" target=3D"_blank">=
+<img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi=
+1oYWJpdGF0LmNvbS9tYWlsaW5nL3RyYWl0ZW1lbnQtaHVtaWRpdGUvaW1hZ2VzL25ld3NsZXR=
+0ZXJzLTE0XzAyLmpwZw=3D=3D" alt=3D"" width=3D"600" height=3D"290"></a></td=
+> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.directonlus.com/r/?m=3DcmV=
+zcC1tMi1taWFnZUB1bml2L
+ XJlbm5lczEuZnI=3D&c=3D23630217409456441202_3&rc=3DaHR0cDovL2FmZmlsaWF0aW=
+9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05ETTNNVjk4WHpRNE1GOThYekkzWDN4Zk1GOThYekE=
+vYUhSMGNEb3ZMM1J5WVdsMFpXMWxiblF0YUhWdGFXUnBkR1V1Y21WaFkzUnBiMjR0YUdGaWFY=
+UmhkQzVqYjIwdg=3D=3D" target=3D"_blank"><img src=3D"http://app.directonlu=
+s.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3RyYWl=
+0ZW1lbnQtaHVtaWRpdGUvaW1hZ2VzL25ld3NsZXR0ZXJzLTE0XzAzLmpwZw=3D=3D" alt=3D=
+"" width=3D"600" height=3D"416"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D=
+"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZn=
+I=3D&c=3D23630217409456441202_3&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZp=
+cy5jb20vYWYvY2xjL05ETTNNVjk4WHpRNE1GOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM=
+1J5WVdsMFpXMWxiblF0YUhWdGFXUnBkR1V1Y21WaFkzUnBiMjR0YUdGaWFYUmhkQzVqYjIwdg=
+=3D=3D" target=3D"_blank"><img src=3D"http://app.directonlus.com/r/?rc=3D=
+aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL3RyYWl0ZW1lbnQtaHVta=
+WRpdGUvaW1hZ2VzL25ld3NsZXR0ZXJzLTE0XzA0LmpwZw=3D=3D" alt=3D"" width=3D"60=
+0" height=3D"83"></a><
+ /td> 	</tr> </tbody></table> </center> <!-- End Save for Web Slices --> =
+                 <img src=3D"http://app.directonlus.com/t/?i=3D2363021740=
+9456441202_3&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://=
+app.directonlus.com/images/blank.jpg" alt=3D"_pspacer5"  /><p>
+<a href=3D"http://app.directonlus.com/d/?camp=3D23630217409456441202_3&ms=
+=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Ne plus recevoir d'informations de notre part" style=3D"color:#00F; font=
+-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&ea=
+cute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute=
+; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_fbe719b66df7a4790dba2df609cec43a--
+

@@ -1,0 +1,713 @@
+Return-Path: <bounce@ds.sup-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 15 Dec 2016 16:32:09 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id C248619F
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 16:32:09 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id BFCBE60513
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 16:32:09 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 2z3ZNCYAeHJF for <resp-m2-miage@univ-rennes1.fr>;
+	Thu, 15 Dec 2016 16:32:09 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id A70D460501
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 16:32:09 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 125D920043
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 16:31:31 +0100 (CET)
+Received: from mailr17-31.ds.top-rgp.com (mailr17-31.ds.top-rgp.com [188.95.255.31])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id D70A8600205
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 16:31:29 +0100 (CET)
+Received: from mailr17-31.ds.top-rgp.com (mailr17-31.ds.top-rgp.com [188.95.255.31])
+	by mailr17-31.ds.top-rgp.com (Postfix) with ESMTP id 28423654B3
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 16:31:27 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mailr17-31.ds.top-rgp.com 28423654B3
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=ds.sup-rgp.com;
+	s=smtp; t=1481815887;
+	bh=VWBUaCBwvj1fFlKkdOp6t1vlMAOuWiFo8EPFoomCDXY=;
+	h=Date:Subject:From:Reply-To:To:List-Unsubscribe;
+	b=k5pvGHkFccSs/qNxr3t55InsQEehwyDGrfw0trgOvrjR0pxIrTS/TgrOY2RW4xSjU
+	 nVl1wwMYRL2umzSWkiX3BM21acgL0gN3lCR8mQXBI5BC8bulQs9x6WkGorNzt+WqUf
+	 o6PFurk3580TzmPq0Hzh/NSYdfUGhLjoC7KcUgqg=
+Message-ID: <ZmFsY29uOzE4OC45NS4yNTUuMzE7cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI7MjY1MjsxNjAxNzk1OzI2NTI5OzsyMDE2MTIxNS01ODUyYjY2YWVjYWM1@ds.sup-rgp.com>
+Date: Thu, 15 Dec 2016 16:31:27 +0100
+Subject: =?UTF-8?B?RGl2aXNleiB2b3RyZSBmYWN0dXJlIGRlIGNoYXVmZmFnZSBwYXIgNCwgbGUgZGV2aXMgZXN0IG9mZmVydA==?=
+From: Pompe =?utf-8?Q?=C3=A0?= chaleur <info@ds.sup-rgp.com>
+Reply-To: unsubscribe@regip.fr
+To: resp-m2-miage@univ-rennes1.fr
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1481815887_a0f2eb5a2477f533ac1d9b640a0580bf_=_"
+List-Unsubscribe: <mailto:unsubscribe@regip.fr>,
+ <http://ds.promo-rgp.com/fur.php?c=%7B%22idCli%22%3A%222652%22%2C%22idCamp%22%3A%221601795%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D%22%7D&at=1>
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 188.95.255.31
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrieekgdeftdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefkfffuhfhrvfggtgfjsegrtderredttdejnecuhfhrohhmpefrohhmphgvucoiucgthhgrlhgvuhhruceoihhnfhhosegushdrshhuphdqrhhgphdrtghomheqnecuffhomhgrihhnpehtrhhouhhvvghrqdhunhdqrghrthhishgrnhdrnhgvthdpphhrohhmohdqrhhgphdrtghomhenucfkphepudekkedrleehrddvheehrdefudenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhgrihhlrhdujedqfedurdgushdrthhophdqrhhgphdrtghomhdpihhnvghtpedukeekrdelhedrvdehhedrfedupdhmrghilhhfrhhomhepsghouhhntggvsegushdrshhuphdqrhhgphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+--_=_swift_v4_1481815887_a0f2eb5a2477f533ac1d9b640a0580bf_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Trouver-un-artisan.net(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2=
+NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzQ5LCJjYXQiOiIxMzQyMTc3MjgiLCJ=
+jbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW=
+1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(4490)-e(26937)-u(53)?civ=3D&ville=
+=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3Dresp-m2-miage@univ-rennes1.fr&utm=
+_campaign=3D1408)=09=09Voir dans le navigateur(http://ds.promo-rgp.com/trk.=
+php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzUwLCJ=
+jYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2Ii=
+wiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(4490)-e(2=
+6937)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3Dresp-m2-m=
+iage@univ-rennes1.fr&utm_campaign=3D1408)
+
+Devis Pompe =C3=A0 chaleur
+Divisez votre facture de chauffage par 4(http://ds.promo-rgp.com/trk.php?c=
+=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzUxLCJjYXQi=
+OiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1=
+haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(4490)-e(26937)=
+-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3Dresp-m2-miage@=
+univ-rennes1.fr&utm_campaign=3D1408)
+
+http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE=
+3OTUsImNvZCI6MTEwOTYxNzUyLCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0Ij=
+oibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzM=
+S5mciJ9)-s(1408)-m(4490)-e(26937)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&te=
+l=3D&cp=3D&email=3Dresp-m2-miage@univ-rennes1.fr&utm_campaign=3D1408
+
+Bonjour #PRENOM#,
+
+D=C3=A9couvrez le mode de chauffage N=C2=B01 dans les pays nordiques : La p=
+ompe =C3=A0 chaleur. Elles produisent 4 fois plus d'=C3=A9nergie qu'elles n=
+'en consomment, votre facture est naturellement diminu=C3=A9e de 75%.(http:=
+//ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUs=
+ImNvZCI6MTEwOTYxNzUzLCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGl=
+zdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mci=
+J9)-s(1408)-m(4490)-e(26937)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&=
+cp=3D&email=3Dresp-m2-miage@univ-rennes1.fr&utm_campaign=3D1408)
+
+=E2=80=A2=09Un chauffage =C3=A9cologique qui consomme moins(http://ds.promo=
+-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MT=
+EwOTYxNzU0LCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhe=
+nVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408=
+)-m(4490)-e(26937)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&emai=
+l=3Dresp-m2-miage@univ-rennes1.fr&utm_campaign=3D1408)
+
+=E2=80=A2=09Un produit r=C3=A9versible performant =C3=A9t=C3=A9 comme hiver=
+(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MD=
+E3OTUsImNvZCI6MTEwOTYxNzU1LCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0I=
+joibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVz=
+MS5mciJ9)-s(1408)-m(4490)-e(26937)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&t=
+el=3D&cp=3D&email=3Dresp-m2-miage@univ-rennes1.fr&utm_campaign=3D1408)
+
+=E2=80=A2=0930% de cr=C3=A9dit d'imp=C3=B4ts(http://ds.promo-rgp.com/trk.ph=
+p?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzU2LCJjY=
+XQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2Iiwi=
+ZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(4490)-e(269=
+37)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3Dresp-m2-mia=
+ge@univ-rennes1.fr&utm_campaign=3D1408)
+
+Votre devis gratuit en ligne(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaS=
+I6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzU3LCJjYXQiOiIxMzQyMTc3M=
+jgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNw=
+LW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(4490)-e(26937)-u(53)?civ=3D=
+&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3Dresp-m2-miage@univ-rennes1.=
+fr&utm_campaign=3D1408)
+
+Nous comparons et s=C3=A9lectionnons les meilleures offres promotionnelles =
+pour vous permettre d'=C3=A9conomiser sur votre budget.(http://ds.promo-rgp=
+.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOT=
+YxNzU4LCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyM=
+TMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(=
+4490)-e(26937)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3D=
+resp-m2-miage@univ-rennes1.fr&utm_campaign=3D1408)
+
+=E2=80=A2 Trouver-un-artisan.net =E2=80=A2(http://ds.promo-rgp.com/trk.php?=
+c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzU5LCJjYXQ=
+iOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW=
+1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(4490)-e(26937=
+)-u(53)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3Dresp-m2-miage=
+@univ-rennes1.fr&utm_campaign=3D1408) Pour vous retirer de la newsletter, s=
+uivez ce lien:  http://ds.promo-rgp.com/fur.php?c=3D%7B%22idCli%22%3A%22265=
+2%22%2C%22idCamp%22%3A%221601795%22%2C%22email%22%3A%22resp-m2-miage%40univ=
+-rennes1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfa=
+w622zom3telq%3D%22%7D&at=3D1
+
+--_=_swift_v4_1481815887_a0f2eb5a2477f533ac1d9b640a0580bf_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=
+=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<link href=3D=
+"https://fonts.googleapis.com/css?family=3DRoboto:400,300,500,700" rel=3D"s=
+tylesheet" type=3D"text/css" />
+<title>Devis Pompe &agrave; chaleur</titl=
+e>
+
+<style type=3D"text/css">
+/*<![CDATA[*/
+* {     margin-top: 0px=
+;        margin-bottom: 0px;     padding: 0px;   border: none;   line-heigh=
+t: normal;    outline: none;  list-style: none;       font-family: Arial, H=
+elvetica, sans-serif;
+        -webkit-text-size-adjust: none;}
+body {  =
+margin-top: 0 !important;       margin-bottom: 0 !important;    padding-top=
+: 0 !important;      padding-bottom: 0 !important;   width: 100% !important=
+; -webkit-text-size-adjust: 100% !important;      -ms-text-size-adjust: 100=
+% !important;  -webkit-font-smoothing: antialiased !important;}
+img {   b=
+order: 0 !important;   outline: none !important;}
+table { border-collapse=
+: collapse;      mso-table-lspace: 0px;  mso-table-rspace: 0px;}
+td {    =
+border-collapse: collapse;      mso-line-height-rule: exactly;}
+.External=
+Class * {      line-height: 100%}
+span {  border-collapse: collapse;     =
+ mso-line-height-rule: exactly;}
+.ExternalClass, .ExternalClass p, .Exter=
+nalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {=
+
+        line-height: 100%;
+}
+
+ @media only screen and (max-width: =
+480px) {
+table[class=3Dfull] {     width: 100% !important;}
+td[class=3D=
+hide] {        display: none !important;}
+td[class=3Dsides] {       width=
+: 15px !important;}
+td[class=3Dheights] {     height: 15px !important;}=
+
+td[class=3Dpadding_top] { padding-top: 15px !important;}
+.font_size { =
+font-size:23px !important; line-height:25px !important;}
+td[class=3Dpaddi=
+ngs] { padding-left:7px !important; padding-right:7px !important;}
+}
+=
+
+ @media only screen and (min-width: 480px) and (max-width: 599px) {
+ta=
+ble[class=3Dfull] {     width: 100% !important;}
+td[class=3Dhide] {      =
+  display: none !important;}
+td[class=3Dsides] {       width: 15px !impor=
+tant;}
+td[class=3Dheights] {     height: 15px !important;}
+td[class=3Dp=
+adding_top] { padding-top: 15px !important;}
+.font_size { font-size:23px =
+!important; line-height:26px !important;}
+td[class=3Dpaddings] { padding-=
+left:10px !important; padding-right:10px !important;}
+
+}               =
+
+/*]]>*/        =20
+</style>
+</head>
+<body bgcolor=3D"#F3F5F8" leftma=
+rgin=3D"0" marginheight=3D"0" marginwidth=3D"0" offset=3D"0" style=3D"font-=
+family:Arial, Helvetica, sans-serif; color:#000000; margin-top: 0; margin-b=
+ottom: 0; padding-top: 0; padding-bottom: 0; width: 100% !important; -webki=
+t-text-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothin=
+g: antialiased;" topmargin=3D"0"><center></center><br>
+
+<table width=3D=
+'100%' cellpadding=3D'0' cellspacing=3D'2'>
+  <tr width=3D'100%' style=3D=
+'font-family:Geneva, Arial, Helvetica, sans-serif; font-size:12px; color:#3=
+33333'>
+    <td aling=3D'center' style=3D'width:0px'></td>
+    <td styl=
+e=3D"text-align:center">Vous recevez cet email car vous avez accept=C3=
+=A9 de recevoir les offres partenaires de  .<br/>Pour visualiser correcteme=
+nt ce message, acc=C3=A9dez =C3=A0 la<b><a href=3D'http://ds.promo-rgp.com/=
+mirror.php?c=3DeyJpZEMiOiIyNjUyIiwiaWQiOiIxNjAxNzk1IiwiZSI6InJlc3AtbTItbWlh=
+Z2VAdW5pdi1yZW5uZXMxLmZyIiwibCI6Imxpc3RfTmV3YXp1cjEzMTIxNiJ9' style=3D'text=
+-decoration:none; color:#25a9df;'> version en ligne.</a></b></td>
+  </tr>=
+
+</table>
+
+<table width=3D'100%' cellpadding=3D'0' cellspacing=3D'2'>=
+
+  <tr align=3D'center' width=3D'100%' style=3D'font-family:Geneva, Arial=
+, Helvetica, sans-serif; font-size:12px; color:#333333'>
+    <td  style=
+=3D"text-align:center; color:#333333" width=3D'100%'> Conform=C3=A9ment =
+=C3=A0 l'article 34 de la loi Informatique et Libert=C3=A9; du 6 janvier 19=
+78, vous disposez d'un droit d'acc=C3=A8s, de modification, de rectificatio=
+n et de suppression des donn=C3=A9es vous concernant.</br>Si ce message vou=
+s importune, d=C3=A9clarez le <b><a href=3D"http://ds.promo-rgp.com/trk.php=
+?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOiIxNjAxNzk1IiwiY29kIjoxMTI4NDAyMTQsIm=
+NhdCI6IjEzNDIxNzcyOCIsImNudCI6IkZSQSIsImVtYWlsIjoicmVzcC1tMi1taWFnZUB1bml2L=
+XJlbm5lczEuZnIiLCJlbWFpbC5jcnlwdCI6ImtqT2ZYOHRWVFFxbnciLCJsaXN0IjoibGlzdF9O=
+ZXdhenVyMTMxMjE2In0=3D" style=3D'text-decoration:none; color:#c89d43;'> ind=
+=C3=A9sirable.</a></b></td>
+  </tr>
+</table>
+
+
+
+<img data-alt=
+=3D"1561937" height=3D"1" src=3D"http://ds.promo-rgp.com/fv.php?c=3DeyJpZEN=
+saSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTYwMTc5NSwiY2F0IjoiMTM0MjE3Nz=
+I4IiwiY250IjoiRlJBIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" width=3D"1" />
+<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>=
+
+<td bgcolor=3D"#F3F5F8">
+<table align=3D"center" border=3D"0" cellpadd=
+ing=3D"0" cellspacing=3D"0" class=3D"full" width=3D"602">
+<tbody>
+<tr>=
+
+<td bgcolor=3D"#FFFFFF">
+<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td bgcolor=3D"#F3F5F8">
+<t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tb=
+ody>
+<tr>
+<td height=3D"21" style=3D"font-size:0px; line-height:0px;">&=
+nbsp;</td>
+</tr>
+<tr>
+<td class=3D"paddings">
+<table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td v=
+align=3D"middle" width=3D"197"><a href=3D"http://ds.promo-rgp.com/trk.php?c=
+=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzYyLCJjYXQi=
+OiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI=
+6IiIsImNvZGVfcG9zdGFsIjoiIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS=
+5mciIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" target=3D"_blank"><img =
+alt=3D"Trouver-un-artisan.net" border=3D"0" height=3D"54" src=3D"http://ds.=
+promo-rgp.com/ffiles/2652/1601795/0ef2e233e9d254a0054c0a9d04bc3846.png" sty=
+le=3D"display:block;" width=3D"197" /></a></td>
+<td>&nbsp;</td>
+<td sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; line-height=
+:17px; color:#85939d; text-align:right;" valign=3D"middle" width=3D"160"><a=
+ href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzYzLCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiL=
+CJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI6IiIsImNvZGVfcG9zdGFsIjoiIiwiZW1h=
+aWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImxpc3QiOiJsaXN0X05ld2F6dXI=
+xMzEyMTYifQ=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; font-=
+size:14px; line-height:17px; color:#85939d; text-align:right; text-decorati=
+on:underline;" target=3D"_blank">Voir dans le navigateur</a></td>
+</tr>=
+
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"21" style=3D"=
+font-size:0px; line-height:0px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>=
+
+</td>
+</tr>
+<tr>
+<td style=3D"border:1px solid #e0e4ea;">
+<table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>=
+
+<tr>
+<td bgcolor=3D"#F5F6FA">
+<table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td height=3D"5">&nbsp=
+;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td class=3D"sides" width=3D=
+"15">&nbsp;</td>
+<td class=3D"font_size" style=3D"font-family:'Roboto', A=
+rial,'Open Sans', sans-serif; font-size:28px; line-height:30px; color:#3c4a=
+51; text-align:center; font-weight:300;"><a class=3D"font_size" href=3D"htt=
+p://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OT=
+UsImNvZCI6MTEwOTYxNzY0LCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJjaXZpbGl0Z=
+SI6IiIsIm5vbSI6IiIsInByZW5vbSI6IiIsImNvZGVfcG9zdGFsIjoiIiwiZW1haWwiOiJyZXNw=
+LW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=
+=3D=3D" style=3D"font-family:'Roboto', Arial,'Open Sans', sans-serif; font-=
+size:28px; line-height:30px; color:#3c4a51; text-align:center; font-weight:=
+300; text-decoration:none;" target=3D"_blank"><strong>Devis Pompe &agrave; =
+chaleur</strong><br />
+Divisez votre facture de chauffage par 4</a></td>=
+
+<td class=3D"sides" width=3D"15">&nbsp;</td>
+</tr>
+</tbody>
+</tabl=
+e>
+</td>
+</tr>
+<tr>
+<td height=3D"14" style=3D"font-size:0px; line-=
+height:0px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<t=
+r>
+<td><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTI=
+iLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzY1LCJjYXQiOiIxMzQyMTc3MjgiLCJjbn=
+QiOiJGUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI6IiIsImNvZGVfcG9zdGFsI=
+joiIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImxpc3QiOiJsaXN0=
+X05ld2F6dXIxMzEyMTYifQ=3D=3D" target=3D"_blank"><img alt=3D"" border=3D"0" =
+src=3D"http://ds.promo-rgp.com/ffiles/2652/1601795/57a3e68daeb482267a0022ef=
+8f7715fc.jpg" style=3D"display:block;" width=3D"100%" /></a></td>
+</tr>=
+
+<tr>
+<td height=3D"52">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<t=
+r>
+<td class=3D"sides" width=3D"70">&nbsp;</td>
+<td>
+<table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+=
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:16px; line=
+-height:20px; color:#3c4a51;"><a href=3D"http://ds.promo-rgp.com/trk.php?c=
+=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzY2LCJjYXQi=
+OiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI=
+6IiIsImNvZGVfcG9zdGFsIjoiIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS=
+5mciIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; font-size:16px; line-height:20px; color:#3c4a51=
+; text-decoration:none;" target=3D"_blank">Bonjour #PRENOM#,<br />
+<br />=
+
+D&eacute;couvrez le mode de chauffage N&deg;1 dans les pays nordiques : =
+La <strong>pompe &agrave; chaleur</strong>. Elles produisent 4 fois plus d'=
+&eacute;nergie qu'elles n'en consomment, votre facture est naturellement di=
+minu&eacute;e de 75%.</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td =
+class=3D"sides" width=3D"60">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</=
+td>
+</tr>
+<tr>
+<td height=3D"25">&nbsp;</td>
+</tr>
+<tr>
+<td>
+=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<=
+tbody>
+<tr>
+<td class=3D"sides" width=3D"50">&nbsp;</td>
+<td>
+<tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody=
+>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">
+<tbody>
+<tr>
+<td style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:16px; line-height:20px; color:#3c4a51; font-weight:=
+bold;" valign=3D"top" width=3D"20">&bull;</td>
+<td style=3D"font-family:A=
+rial, Helvetica, sans-serif; font-size:16px; line-height:20px; color:#3c4a5=
+1;"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJp=
+ZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzY3LCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJ=
+GUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI6IiIsImNvZGVfcG9zdGFsIjoiIi=
+wiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImxpc3QiOiJsaXN0X05ld=
+2F6dXIxMzEyMTYifQ=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:16px; line-height:20px; color:#3c4a51; text-decoration:none;" ta=
+rget=3D"_blank">Un <span style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:16px; line-height:20px; color:#3c4a51; font-weight:bold;">chauff=
+age &eacute;cologique</span> qui consomme moins</a></td>
+</tr>
+</tbody>=
+
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"5" style=3D"font-size:0p=
+x; line-height:0px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<t=
+d style=3D"font-family:Arial, Helvetica, sans-serif; font-size:16px; line-h=
+eight:20px; color:#3c4a51; font-weight:bold;" valign=3D"top" width=3D"20">&=
+bull;</td>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:16px; line-height:20px; color:#3c4a51;"><a href=3D"http://ds.promo-rgp.c=
+om/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYx=
+NzY4LCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiI=
+sInByZW5vbSI6IiIsImNvZGVfcG9zdGFsIjoiIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaX=
+YtcmVubmVzMS5mciIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" style=3D"fo=
+nt-family:Arial, Helvetica, sans-serif; font-size:16px; line-height:20px; c=
+olor:#3c4a51; text-decoration:none;" target=3D"_blank">Un produit <span sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-size:16px; line-height=
+:20px; color:#3c4a51; font-weight:bold;">r&eacute;versible</span> performan=
+t &eacute;t&eacute; comme hiver</a></td>
+</tr>
+</tbody>
+</table>
+</=
+td>
+</tr>
+<tr>
+<td height=3D"5" style=3D"font-size:0px; line-height:0=
+px;">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"font-=
+family:Arial, Helvetica, sans-serif; font-size:16px; line-height:20px; colo=
+r:#3c4a51; font-weight:bold;" valign=3D"top" width=3D"20">&bull;</td>
+<td=
+ style=3D"font-family:Arial, Helvetica, sans-serif; font-size:16px; line-he=
+ight:20px; color:#3c4a51;"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3De=
+yJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzY5LCJjYXQiOiIx=
+MzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI6IiI=
+sImNvZGVfcG9zdGFsIjoiIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mci=
+IsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" style=3D"font-family:Arial,=
+ Helvetica, sans-serif; font-size:16px; line-height:20px; color:#3c4a51; te=
+xt-decoration:none;" target=3D"_blank"><span style=3D"font-family:Arial, He=
+lvetica, sans-serif; font-size:16px; line-height:20px; color:#3c4a51; font-=
+weight:bold;">30% de cr&eacute;dit d'imp&ocirc;ts</span></a></td>
+</tr>=
+
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"40">&nbsp;</t=
+d>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td class=3D"hide" width=3D"86">=
+&nbsp;</td>
+<td>
+<table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"full" width=3D"325">
+<tbody>
+<tr>
+<td bgc=
+olor=3D"#D74D09" height=3D"50" style=3D"font-family:Arial, Helvetica, sans-=
+serif; font-size:16px; line-height:19px; color:#ffffff; text-align:center; =
+border-radius:4px;"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENs=
+aSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzcwLCJjYXQiOiIxMzQyMTc=
+3MjgiLCJjbnQiOiJGUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI6IiIsImNvZG=
+VfcG9zdGFsIjoiIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImxpc=
+3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" style=3D"font-family:Arial, Helvet=
+ica, sans-serif; font-size:16px; line-height:19px; color:#ffffff; text-alig=
+n:center; text-decoration:none;" target=3D"_blank">Votre devis gratuit en l=
+igne</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"hide" wi=
+dth=3D"87">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tb=
+ody>
+</table>
+</td>
+<td class=3D"sides" width=3D"52">&nbsp;</td>
+</=
+tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td height=3D"50">&nbsp;=
+</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td class=3D"sides" width=3D"=
+70">&nbsp;</td>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:16px; line-height:21px; color:#3c4a51;"><a =
+href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXA=
+iOjE2MDE3OTUsImNvZCI6MTEwOTYxNzcxLCJjYXQiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLC=
+JjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vbSI6IiIsImNvZGVfcG9zdGFsIjoiIiwiZW1ha=
+WwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImxpc3QiOiJsaXN0X05ld2F6dXIx=
+MzEyMTYifQ=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:16px; line-height:21px; color:#3c4a51; text-decoration:none;" target=3D=
+"_blank">Nous comparons et s&eacute;lectionnons les meilleures offres promo=
+tionnelles pour vous permettre d'&eacute;conomiser sur votre budget.</a></t=
+d>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"sides" width=3D"55"=
+>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td hei=
+ght=3D"50">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>=
+
+<td bgcolor=3D"#F3F5F8">
+<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td height=3D"5" style=3D"fon=
+t-size:0px; line-height:0px;">&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; co=
+lor:#85939d; text-align:center;"><a href=3D"http://ds.promo-rgp.com/trk.php=
+?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDE3OTUsImNvZCI6MTEwOTYxNzcyLCJjYX=
+QiOiIxMzQyMTc3MjgiLCJjbnQiOiJGUkEiLCJjaXZpbGl0ZSI6IiIsIm5vbSI6IiIsInByZW5vb=
+SI6IiIsImNvZGVfcG9zdGFsIjoiIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVz=
+MS5mciIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" style=3D"font-family:=
+Arial, Helvetica, sans-serif; font-size:14px; line-height:17px; color:#8593=
+9d; text-align:center; text-decoration:none;" target=3D"_blank">&bull; Trou=
+ver-un-artisan.net &bull;</a></td>
+</tr>
+<tr>
+<td height=3D"50">&nbsp=
+;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>=
+
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table=
+>
+<img alt=3D"" src=3D"http://ds.promo-rgp.com/fcv.php?url=3DaHR0cDovL3Rr=
+Z3JyMjEuY29tL2Rpc3BsYXlfYyg4NDUpLXMoMTQwOCktbSg0NDkwKS1lKDI2OTM3KQ=3D=3D" /=
+> <img alt=3D"" border=3D"0" height=3D"1" src=3D"http://ds.promo-rgp.com/fc=
+v.php?url=3DaHR0cDovL2cud2l6ei5jYy9hL3JlZ2lwL01BSVMvcmVzcC1tMi1taWFnZUB1bml=
+2LXJlbm5lczEuZnI=3D" width=3D"1" />
+
+
+
+<table width=3D'100%' cellpa=
+dding=3D'0' cellspacing=3D'2'>
+  <tr align=3D'center' width=3D'100%' styl=
+e=3D'font-family:Geneva, Arial, Helvetica, sans-serif; font-size:12px; colo=
+r:#__ unsubscribe_text_color__'>
+    <td  style=3D"text-align:center; col=
+or:#333333" width=3D'100%'>Pour vous retirer de la newsletter:<b><a href=3D=
+'http://ds.promo-rgp.com/fur.php?c=3D%7B%22idCli%22%3A%222652%22%2C%22idCam=
+p%22%3A%221601795%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%=
+2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D=
+%22%7D&at=3D1' style=3D'text-decoration:none; color:#25a9df;'> suivez ce li=
+en.</a></b></td>
+  </tr>
+</table>
+</body>
+</html>
+
+--_=_swift_v4_1481815887_a0f2eb5a2477f533ac1d9b640a0580bf_=_--
+

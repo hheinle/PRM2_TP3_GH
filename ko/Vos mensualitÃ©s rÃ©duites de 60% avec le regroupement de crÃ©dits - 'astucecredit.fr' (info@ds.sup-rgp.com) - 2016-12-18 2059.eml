@@ -1,0 +1,725 @@
+Return-Path: <bounce@ds.sup-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 18 Dec 2016 21:00:56 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id EA72E47
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 21:00:56 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E7ACF60069
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 21:00:56 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id KfXKrxsUr1uD for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 18 Dec 2016 21:00:56 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id C359860005
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 21:00:56 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id BC00920033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 21:00:56 +0100 (CET)
+Received: from mailr17-31.ds.top-rgp.com (mailr17-31.ds.top-rgp.com [188.95.255.31])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 37D7528004B
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 21:00:45 +0100 (CET)
+Received: from mailr17-31.ds.top-rgp.com (mailr17-31.ds.top-rgp.com [188.95.255.31])
+	by mailr17-31.ds.top-rgp.com (Postfix) with ESMTP id B5BAA66D26
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 20:59:47 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mailr17-31.ds.top-rgp.com B5BAA66D26
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=ds.sup-rgp.com;
+	s=smtp; t=1482091187;
+	bh=O6WNOLSjWjRUAGNMqYT6jMxNfN2/+aZbmWJSsruZT80=;
+	h=Date:Subject:From:Reply-To:To:List-Unsubscribe;
+	b=LfCK01dVVf+E8Ny5PPeE5voeHmjmhDn2K+YbC5NYhOygE3I5YlhlhFe4E7VDsxi/O
+	 YmHTtonSUuEmPE4YMkZKHic8lph+yLW/SGGe1gdH3LQJxtvnHlxKbCrgSENA+spFTt
+	 WptOPk8naXlUyWroSbTJeF6NH362QS4w/2IqTckw=
+Message-ID: <ZmFsY29uOzE4OC45NS4yNTUuMzE7cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI7MjY1MjsxNjA1NDQwOzI2NTI5OzsyMDE2MTIxOC01ODU2ZWFhNzlmZGNj@ds.sup-rgp.com>
+Date: Sun, 18 Dec 2016 20:59:47 +0100
+Subject: =?UTF-8?B?Vm9zIG1lbnN1YWxpdMOpcyByw6lkdWl0ZXMgZGUgNjAlIGF2ZWMgbGUgcmVncm91cGVtZW50IGRlIGNyw6lkaXRz?=
+From: "astucecredit.fr" <info@ds.sup-rgp.com>
+Reply-To: unsubscribe@regip.fr
+To: resp-m2-miage@univ-rennes1.fr
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1482091187_ffdf9d904c897d080c5c885895f8744d_=_"
+List-Unsubscribe: <mailto:unsubscribe@regip.fr>,
+ <http://ds.promo-rgp.com/fur.php?c=%7B%22idCli%22%3A%222652%22%2C%22idCamp%22%3A%221605440%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D%22%7D&at=1>
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 188.95.255.31
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrjeehgddufeeiucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepkfffuffhrhfvgggtjfesrgdtreertddtjeenucfhrhhomhepfdgrshhtuhgtvggtrhgvughithdrfhhrfdcuoehinhhfohesughsrdhsuhhpqdhrghhprdgtohhmqeenucffohhmrghinhepphhrohhmohdqrhhgphdrtghomhenucfkphepudekkedrleehrddvheehrdefudenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhgrihhlrhdujedqfedurdgushdrthhophdqrhhgphdrtghomhdpihhnvghtpedukeekrdelhedrvdehhedrfedupdhmrghilhhfrhhomhepsghouhhntggvsegushdrshhuphdqrhhgphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+
+--_=_swift_v4_1482091187_ffdf9d904c897d080c5c885895f8744d_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+astuce-credit.fr(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLC=
+JpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTMxLCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsa=
+XN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVu=
+bmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.fr%2F=
+rac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3Dhtt=
+pastuce-credit-racfr)
+L astuce de la rentr=C3=A9e(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI=
+6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTMyLCJjYXQiOiIiLCJjbnQiOi=
+JGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQ=
+HVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-c=
+redit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23si=
+teKey%3Dhttpastuce-credit-racfr)
+L'astuce de la rentr=C3=A9e pour(http://ds.promo-rgp.com/trk.php?c=3DeyJpZE=
+NsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTMzLCJjYXQiOiIiLCJjb=
+nQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1p=
+YWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fast=
+uce-credit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36=
+%23siteKey%3Dhttpastuce-credit-racfr)
+
+R=C3=A9duire ses mensualit=C3=A9s(http://ds.promo-rgp.com/trk.php?c=3DeyJpZ=
+ENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTM0LCJjYXQiOiIiLCJj=
+bnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1=
+pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fas=
+tuce-credit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe3=
+6%23siteKey%3Dhttpastuce-credit-racfr)
+
+jusqu'=C3=A0
+
+-60(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE=
+2MDU0NDAsImNvZCI6MTA4ODI2NTM1LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF=
+9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)=
+-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.fr%2Frac%2F004%2F%=
+3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3Dhttpastuce-credi=
+t-racfr)%
+
+TROP DE CR=C3=A9DITS ?(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2=
+NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTM3LCJjYXQiOiIiLCJjbnQiOiJGUkE=
+iLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaX=
+YtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit=
+.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey=
+%3Dhttpastuce-credit-racfr)
+Voir la solution(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLC=
+JpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTM4LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsa=
+XN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVu=
+bmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.fr%2F=
+rac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3Dhtt=
+pastuce-credit-racfr)
+
+CLIQUEZ ICI(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZEN=
+hbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQwLCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0Ij=
+oibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzM=
+S5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.fr%2Frac%2=
+F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3Dhttpastu=
+ce-credit-racfr)
+
+avant(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiO=
+jE2MDU0NDAsImNvZCI6MTA4ODI2NTQxLCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlz=
+dF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ=
+9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.fr%2Frac%2F004%2=
+F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3Dhttpastuce-cre=
+dit-racfr)=09=09apr=C3=A8s(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6=
+IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQyLCJjYXQiOiIiLCJjbnQiOiJ=
+GUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQH=
+VuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-cr=
+edit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23sit=
+eKey%3Dhttpastuce-credit-racfr)=09=09apr=C3=A8s(http://ds.promo-rgp.com/trk=
+.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQzLC=
+JjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiO=
+iJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dh=
+ttp%3A%2F%2Fastuce-credit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45=
+e383d3e0afabe36%23siteKey%3Dhttpastuce-credit-racfr)
+
++ de pouvoir d achat(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NT=
+IiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQ0LCJjYXQiOiIiLCJjbnQiOiJGUkEiL=
+CJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYt=
+cmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.f=
+r%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3=
+Dhttpastuce-credit-racfr) + de pouvoir d'achat(http://ds.promo-rgp.com/trk.=
+php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQ1LCJ=
+jYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOi=
+JyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dht=
+tp%3A%2F%2Fastuce-credit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e=
+383d3e0afabe36%23siteKey%3Dhttpastuce-credit-racfr)
+-de cr=C3=A9dit(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJ=
+pZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQ2LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaX=
+N0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVub=
+mVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.fr%2Fr=
+ac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3Dhttp=
+astuce-credit-racfr) - de cr=C3=A9dit(http://ds.promo-rgp.com/trk.php?c=3De=
+yJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQ3LCJjYXQiOiIi=
+LCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0=
+yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%=
+2Fastuce-credit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0af=
+abe36%23siteKey%3Dhttpastuce-credit-racfr)
+Voir comment faire(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIi=
+LCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQ4LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJ=
+saXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcm=
+VubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3A%2F%2Fastuce-credit.fr%=
+2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d3e0afabe36%23siteKey%3Dh=
+ttpastuce-credit-racfr) Voir comment faire(http://ds.promo-rgp.com/trk.php?=
+c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTQ5LCJjYXQ=
+iOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZX=
+NwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9)-s(1408)-m(1615)-e(23457)?u=3Dhttp%3=
+A%2F%2Fastuce-credit.fr%2Frac%2F004%2F%3Fh%3Df056f312b57b5f0ba3c84db45e383d=
+3e0afabe36%23siteKey%3Dhttpastuce-credit-racfr) Pour vous retirer de la new=
+sletter, suivez ce lien:  http://ds.promo-rgp.com/fur.php?c=3D%7B%22idCli%2=
+2%3A%222652%22%2C%22idCamp%22%3A%221605440%22%2C%22email%22%3A%22resp-m2-mi=
+age%40univ-rennes1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg=
+5hfaqkkhfaw622zom3telq%3D%22%7D&at=3D1
+
+--_=_swift_v4_1482091187_ffdf9d904c897d080c5c885895f8744d_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http:=
+//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http:=
+//www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" cont=
+ent=3D"text/html; charset=3Dutf-8" />
+<meta content=3D"text/html; charset=
+=3Dutf-8" http-equiv=3D"Content-Type" />
+<title>L astuce du rachat de cr&=
+eacute;dit</title>
+
+<style media=3D"screen" type=3D"text/css">
+/*<![C=
+DATA[*/
+#outlook a { padding: 0; } body{ width: 100% !important; -webkit-=
+text-size-adjust: 100%; -ms-text-size-adjust: 100%; margin: 0; padding: 0; =
+} .ExternalClass { width: 100%; } .ExternalClass, .ExternalClass p, .Extern=
+alClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div { =
+line-height: 100%; } #backgroundTable { margin: 0; padding: 0; width: 100% =
+!important; line-height: 100% !important; } img { outline: none; text-decor=
+ation: none; -ms-interpolation-mode: bicubic; border: none; } a img { borde=
+r: none; } p { margin: 1em 0; } table { border-collapse: collapse; mso-tabl=
+e-lspace: 0pt; mso-table-rspace: 0pt; } table td { border-collapse: collaps=
+e; } @media only screen and (max-width: 599px) { body { width: auto !import=
+ant; padding: 10px !important; } table[class=3D"masked-r"], tr[class=3D"mas=
+ked-r"], td[class=3D"masked-r"], table[class=3Dmasked-r], tr[class=3Dmasked=
+-r], td[class=3Dmasked-r] { display: none !important; } table[class=3D"tabl=
+e-r"], table[class=3Dtable-r] { width: 100% !important; } td[class=3D"cell-=
+r"], td[class=3Dcell-r] { display: block !important; width:100% !important;=
+ margin: 0 0 !important; height: auto !important; } td[class=3D"cell-auto-w=
+-r"], td[class=3Dcell-auto-w-r] { display: block !important; width: auto !i=
+mportant; margin: 0 0 !important; height: auto !important; } img[class=3D"f=
+ull-r"], img[class=3Dfull-r] { display: block !important; width:100% !impor=
+tant; margin: 0 0 !important; height: auto !important; } .padding-top-20 { =
+padding-top: 20px !important; } .padding-bottom-20 { padding-bottom: 20px !=
+important; } .text-left { text-align: left !important; } .text-center { tex=
+t-align: center !important; } .text-right { text-align: right !important; }=
+ .text-justify { text-align: justify !important; } } @media only screen and=
+ (max-device-width: 480px) { body { width: auto !important; padding: 10px !=
+important; } table[class=3D"masked-r"], tr[class=3D"masked-r"], td[class=3D=
+"masked-r"], table[class=3Dmasked-r], tr[class=3Dmasked-r], td[class=3Dmask=
+ed-r] { display: none !important; } table[class=3D"table-r"], table[class=
+=3Dtable-r] { width: 100% !important; } td[class=3D"cell-r"], td[class=3Dce=
+ll-r] { display: block !important; width:100% !important; margin: 0 0 !impo=
+rtant; height: auto !important; } td[class=3D"cell-auto-w-r"], td[class=3Dc=
+ell-auto-w-r] { display: block !important; width: auto !important; margin: =
+0 0 !important; height: auto !important; } img[class=3D"full-r"], img[class=
+=3Dfull-r] { display: block !important; width:100% !important; margin: 0 0 =
+!important; height: auto !important; } .padding-top-20 { padding-top: 20px =
+!important; } .padding-bottom-20 { padding-bottom: 20px !important; } .text=
+-left { text-align: left !important; } .text-center { text-align: center !i=
+mportant; } .text-right { text-align: right !important; } .text-justify { t=
+ext-align: justify !important; } }               =20
+/*]]>*/        =20
+</s=
+tyle>
+</head>
+<body bgcolor=3D"#9FADBD"><center></center><br>
+
+<tab=
+le width=3D'100%' cellpadding=3D'0' cellspacing=3D'2'>
+  <tr width=3D'100=
+%' style=3D'font-family:Geneva, Arial, Helvetica, sans-serif; font-size:12p=
+x; color:#333333'>
+    <td aling=3D'center' style=3D'width:0px'></td>
+ =
+   <td style=3D"text-align:center">Vous recevez cet email car vous avez acc=
+ept=C3=A9 de recevoir les offres partenaires de  .<br/>Pour visualiser corr=
+ectement ce message, acc=C3=A9dez =C3=A0 la<b><a href=3D'http://ds.promo-rg=
+p.com/mirror.php?c=3DeyJpZEMiOiIyNjUyIiwiaWQiOiIxNjA1NDQwIiwiZSI6InJlc3AtbT=
+ItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIiwibCI6Imxpc3RfTmV3YXp1cjEzMTIxNiJ9' style=
+=3D'text-decoration:none; color:#25a9df;'> version en ligne.</a></b></td>=
+
+  </tr>
+</table>
+
+<table width=3D'100%' cellpadding=3D'0' cellspac=
+ing=3D'2'>
+  <tr align=3D'center' width=3D'100%' style=3D'font-family:Gen=
+eva, Arial, Helvetica, sans-serif; font-size:12px; color:#333333'>
+    <t=
+d  style=3D"text-align:center; color:#333333" width=3D'100%'> Conform=C3=
+=A9ment =C3=A0 l'article 34 de la loi Informatique et Libert=C3=A9; du 6 ja=
+nvier 1978, vous disposez d'un droit d'acc=C3=A8s, de modification, de rect=
+ification et de suppression des donn=C3=A9es vous concernant.</br>Si ce mes=
+sage vous importune, d=C3=A9clarez le <b><a href=3D"http://ds.promo-rgp.com=
+/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOiIxNjA1NDQwIiwiY29kIjoxMTI5OT=
+Q5MDYsImNhdCI6IiIsImNudCI6IkZSQSIsImVtYWlsIjoicmVzcC1tMi1taWFnZUB1bml2LXJlb=
+m5lczEuZnIiLCJlbWFpbC5jcnlwdCI6ImtqT2ZYOHRWVFFxbnciLCJsaXN0IjoibGlzdF9OZXdh=
+enVyMTMxMjE2In0=3D" style=3D'text-decoration:none; color:#c89d43;'> ind=
+=C3=A9sirable.</a></b></td>
+  </tr>
+</table>
+
+
+
+<img data-alt=
+=3D"1478907" height=3D"1" src=3D"http://ds.promo-rgp.com/fv.php?c=3DeyJpZEN=
+saSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTYwNTQ0MCwiY2F0IjoiMCIsImNudC=
+I6IkZSQSIsImVtYWlsIjoicmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnIiLCJsaXN0Ijoib=
+GlzdF9OZXdhenVyMTMxMjE2In0=3D" width=3D"1" />
+<div align=3D"center">
+<t=
+able align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center" bgcolor=3D"#9FADBD"><br=
+ />
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" class=3D"table-r" width=3D"600">
+<tbody>
+<tr>
+<td align=3D"center=
+" bgcolor=3D"#FFFFFF" class=3D"cell-r" height=3D"80" valign=3D"middle" widt=
+h=3D"600"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NT=
+IiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTUzLCJjYXQiOiIiLCJjbnQiOiJGUkEiL=
+CJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYt=
+cmVubmVzMS5mciJ9" style=3D"display: block;" target=3D"_blank"><img alt=3D"a=
+stuce-credit.fr" border=3D"0" class=3D"padding-top-20 padding-bottom-20" he=
+ight=3D"54" src=3D"http://ds.promo-rgp.com/ffiles/2652/1605440/8725c674126f=
+6a193d1e28c59c7a3815.gif" style=3D"display:block;" width=3D"200" /></a></td=
+>
+</tr>
+</tbody>
+</table>
+<table align=3D"center" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"table-r" width=3D"600">
+<tbody>=
+
+<tr>
+<td align=3D"left" bgcolor=3D"#FFFFFF" class=3D"masked-r" height=
+=3D"450" valign=3D"top" width=3D"300"><a href=3D"http://ds.promo-rgp.com/tr=
+k.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTU1L=
+CJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwi=
+OiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D"display: block;" tar=
+get=3D"_blank"><img alt=3D"L astuce de la rentr=C3=A9e" border=3D"0" height=
+=3D"450" src=3D"http://ds.promo-rgp.com/ffiles/2652/1605440/db13d470caa4665=
+a034b44cafbb06bae.gif" style=3D"display:block;" width=3D"300" /></a></td>=
+
+<td align=3D"center" bgcolor=3D"#005291" class=3D"cell-r" height=3D"450"=
+ valign=3D"middle" width=3D"300">
+<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"table-r" width=3D"300">
+<tbody>
+<tr>
+<td cl=
+ass=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D"10">&nbs=
+p;</td>
+<td align=3D"center" class=3D"cell-r" style=3D"mso-line-height-ru=
+le: exactly; line-height: 1;" valign=3D"top" width=3D"280"><a href=3D"http:=
+//ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAs=
+ImNvZCI6MTA4ODI2NTU2LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenV=
+yMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D=
+"color:#f8d904;text-decoration:none;" target=3D"_blank"><font class=3D"padd=
+ing-top-20" color=3D"#F8D904" face=3D"Tahoma, Arial, Helvetica, sans-serif"=
+ style=3D"font-size: 19px; font-weight: bold;display:block;">L'astuce de la=
+ rentr&eacute;e pour</font></a></td>
+<td class=3D"masked-r" style=3D"font=
+-size: 1px; line-height: 1" width=3D"10">&nbsp;</td>
+</tr>
+</tbody>
+<=
+/table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+table-r" width=3D"300">
+<tbody>
+<tr>
+<td height=3D"5" style=3D"font-s=
+ize: 1px; mso-line-height-rule: exactly; line-height: 5px" width=3D"300">&n=
+bsp;</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"table-r" width=3D"300">
+<tbody>
+<tr>=
+
+<td class=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D=
+"10">&nbsp;</td>
+<td align=3D"center" class=3D"cell-r" style=3D"mso-line-=
+height-rule: exactly; line-height: 1;" valign=3D"top" width=3D"280"><a href=
+=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE=
+2MDU0NDAsImNvZCI6MTA4ODI2NTU3LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF=
+9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9"=
+ style=3D"color:#ffffff;text-decoration:none;" target=3D"_blank"><font colo=
+r=3D"#FFFFFF" face=3D"Tahoma, Arial, Helvetica, sans-serif" style=3D"font-s=
+ize: 21px; font-weight:bold;">R&eacute;duire ses mensualit&eacute;s</font><=
+/a></td>
+<td class=3D"masked-r" style=3D"font-size: 1px; line-height: 1" =
+width=3D"10">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-r" width=3D"300">
+<t=
+body>
+<tr>
+<td height=3D"15" style=3D"font-size: 1px; mso-line-height-r=
+ule: exactly; line-height: 15px" width=3D"300">&nbsp;</td>
+</tr>
+</tbod=
+y>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"table-r" width=3D"300">
+<tbody>
+<tr>
+<td class=3D"masked-r" sty=
+le=3D"font-size: 1px; line-height: 1" width=3D"10">&nbsp;</td>
+<td align=
+=3D"center" class=3D"cell-r" style=3D"mso-line-height-rule: exactly; line-h=
+eight: 14px;" valign=3D"top" width=3D"280"><font color=3D"#FFFFFF" face=3D"=
+Verdana, Arial, Helvetica, sans-serif" style=3D"font-size: 17px;font-style:=
+italic;">jusqu'&agrave;</font></td>
+<td class=3D"masked-r" style=3D"font-=
+size: 1px; line-height: 1" width=3D"10">&nbsp;</td>
+</tr>
+</tbody>
+</=
+table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"t=
+able-r" width=3D"300">
+<tbody>
+<tr>
+<td height=3D"5" style=3D"font-si=
+ze: 1px; mso-line-height-rule: exactly; line-height: 5px" width=3D"300">&nb=
+sp;</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"table-r" width=3D"300">
+<tbody>
+<tr>
+<=
+td class=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D"10"=
+>&nbsp;</td>
+<td align=3D"center" class=3D"cell-r" style=3D" mso-line-hei=
+ght-rule: exactly; line-height: 1;" valign=3D"top" width=3D"280"><a href=3D=
+"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MD=
+U0NDAsImNvZCI6MTA4ODI2NTU4LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZ=
+XdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" st=
+yle=3D"color:#f8d904;text-decoration:none;" target=3D"_blank"><font color=
+=3D"#F8D904" face=3D"Tahoma, Arial, Helvetica, sans-serif" style=3D"font-si=
+ze: 100px; font-weight: bold;">-60</font></a><font color=3D"#F8D904" face=
+=3D"Tahoma, Arial, Helvetica, sans-serif" style=3D"font-size: 60px; font-we=
+ight: bold;">%</font></td>
+<td class=3D"masked-r" style=3D"font-size: 1px=
+; line-height: 1" width=3D"10">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-r" w=
+idth=3D"300">
+<tbody>
+<tr>
+<td height=3D"5" style=3D"font-size: 1px; =
+mso-line-height-rule: exactly; line-height: 5px" width=3D"300">&nbsp;</td>=
+
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"table-r" width=3D"300">
+<tbody>
+<tr>
+<td heigh=
+t=3D"25" style=3D"font-size: 1px; mso-line-height-rule: exactly; line-heigh=
+t: 25px" width=3D"300">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-r" width=3D"=
+300">
+<tbody>
+<tr>
+<td class=3D"masked-r" style=3D"font-size: 1px; li=
+ne-height: 1" width=3D"10">&nbsp;</td>
+<td align=3D"center" class=3D"cell=
+-r" style=3D" mso-line-height-rule: exactly; line-height: 1;" valign=3D"top=
+" width=3D"280"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6=
+IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTU5LCJjYXQiOiIiLCJjbnQiOiJ=
+GUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQH=
+VuaXYtcmVubmVzMS5mciJ9" style=3D"color:#ffffff;text-decoration:none;" targe=
+t=3D"_blank"><font color=3D"#FFFFFF" face=3D"Verdana, Arial, Helvetica, san=
+s-serif" style=3D"font-size: 21px; font-weight:bold;font-style:italic;text-=
+transform:uppercase;">TROP DE CR&eacute;DITS ?</font></a></td>
+<td class=
+=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D"10">&nbsp;<=
+/td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"table-r" width=3D"300">
+<tbody>
+<tr>
+<td c=
+lass=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D"10">&nb=
+sp;</td>
+<td align=3D"center" class=3D"cell-r" style=3D"mso-line-height-r=
+ule: exactly; line-height: 1" valign=3D"top" width=3D"280"><a href=3D"http:=
+//ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAs=
+ImNvZCI6MTA4ODI2NTYwLCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenV=
+yMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D=
+"color:#c5ccce;text-decoration:none;" target=3D"_blank"><font color=3D"#C5C=
+CCE" face=3D"Verdana, Arial, Helvetica, sans-serif" style=3D"font-size: 18p=
+x; font-weight:bold;font-style:italic;">Voir la solution</font></a></td>
+=
+<td class=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D"10=
+">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" class=3D"table-r" width=3D"300">
+<tbody>
+<tr=
+>
+<td height=3D"15" style=3D"font-size: 1px; mso-line-height-rule: exactl=
+y; line-height: 15px;" width=3D"300">&nbsp;</td>
+</tr>
+</tbody>
+</tab=
+le>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"tabl=
+e-r" width=3D"300">
+<tbody>
+<tr>
+<td class=3D"masked-r" height=3D"60"=
+ style=3D"font-size: 1px; line-height: 1" width=3D"10">&nbsp;</td>
+<td al=
+ign=3D"center" bgcolor=3D"#B60000" class=3D"cell-r" height=3D"60" style=3D"=
+mso-line-height-rule: exactly; line-height:60px;" valign=3D"middle" width=
+=3D"280"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTI=
+iLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTYxLCJjYXQiOiIiLCJjbnQiOiJGUkEiLC=
+JsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtc=
+mVubmVzMS5mciJ9" style=3D"text-decoration: none; color: #ffffff; display: b=
+lock; line-height: 60px; height: 60px; vertical-align: middle; font-weight:=
+bold;" target=3D"_blank" title=3D"Voir la solution"><font color=3D"#FFFFFF"=
+ face=3D"Tahoma, Arial, Helvetica, sans-serif" style=3D"font-size: 34px;">C=
+LIQUEZ ICI</font></a></td>
+<td class=3D"masked-r" height=3D"60" style=3D"=
+font-size: 1px; line-height: 1" width=3D"10">&nbsp;</td>
+</tr>
+</tbody>=
+
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table bgcolor=3D"#FFFF=
+FF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-r" widt=
+h=3D"600">
+<tbody>
+<tr>
+<td height=3D"25" style=3D"font-size: 1px; ms=
+o-line-height-rule: exactly; line-height: 25px">&nbsp;</td>
+</tr>
+</tbo=
+dy>
+</table>
+<table bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" class=3D"table-r" width=3D"600">
+<tbody>
+<tr>
+<td c=
+lass=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D"10">&nb=
+sp;</td>
+<td align=3D"left" class=3D"cell-r" height=3D"220" valign=3D"top=
+" width=3D"180"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6=
+IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTYyLCJjYXQiOiIiLCJjbnQiOiJ=
+GUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQH=
+VuaXYtcmVubmVzMS5mciJ9" style=3D"display: block;" target=3D"_blank"><img al=
+t=3D"avant" border=3D"0" class=3D"full-r" height=3D"220" src=3D"http://ds.p=
+romo-rgp.com/ffiles/2652/1605440/192805c804a37101eedabff002f05b89.gif" styl=
+e=3D"display:block;" width=3D"180" /></a></td>
+<td class=3D"masked-r" sty=
+le=3D"font-size: 1px; line-height: 1;" width=3D"20">&nbsp;</td>
+<td align=
+=3D"left" class=3D"cell-r" height=3D"220" valign=3D"top" width=3D"180"><a h=
+ref=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAi=
+OjE2MDU0NDAsImNvZCI6MTA4ODI2NTYzLCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGl=
+zdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mci=
+J9" style=3D"display: block;" target=3D"_blank"><img alt=3D"apr=C3=A8s" bor=
+der=3D"0" class=3D"full-r" height=3D"220" src=3D"http://ds.promo-rgp.com/ff=
+iles/2652/1605440/8a9ae669097c0e8486d28b30172ff688.gif" style=3D"display:bl=
+ock;" width=3D"180" /></a></td>
+<td class=3D"masked-r" style=3D"font-size=
+: 1px; line-height: 1;" width=3D"20">&nbsp;</td>
+<td align=3D"left" class=
+=3D"cell-r" height=3D"220" valign=3D"top" width=3D"180"><a href=3D"http://d=
+s.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImN=
+vZCI6MTA4ODI2NTY0LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMT=
+MxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D"di=
+splay: block;" target=3D"_blank"><img alt=3D"apr=C3=A8s" border=3D"0" class=
+=3D"full-r" height=3D"220" src=3D"http://ds.promo-rgp.com/ffiles/2652/16054=
+40/52a664d018667763e764a90de7ca26db.gif" style=3D"display:block;" width=3D"=
+180" /></a></td>
+<td class=3D"masked-r" style=3D"font-size: 1px; line-hei=
+ght: 1" width=3D"10">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table bgc=
+olor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+table-r" width=3D"600">
+<tbody>
+<tr>
+<td height=3D"15" style=3D"font-=
+size: 1px; mso-line-height-rule: exactly; line-height: 15px;">&nbsp;</td>=
+
+</tr>
+</tbody>
+</table>
+<table bgcolor=3D"#005291" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"table-r" width=3D"600">
+<tbody=
+>
+<tr>
+<td height=3D"20" style=3D"font-size: 1px; mso-line-height-rule:=
+ exactly; line-height: 20px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<=
+table bgcolor=3D"#005291" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"table-r" width=3D"600">
+<tbody>
+<tr>
+<td class=3D"masked-r" =
+style=3D"font-size: 1px; line-height: 1" width=3D"25">&nbsp;</td>
+<td ali=
+gn=3D"center" class=3D"cell-r" valign=3D"top" width=3D"167">
+<div class=
+=3D"padding-bottom-20"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZ=
+ENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTY1LCJjYXQiOiIiLCJj=
+bnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1=
+pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D"display: block;" target=3D"_blank" =
+title=3D"+ de pouvoir d achat"><img alt=3D"+ de pouvoir d achat" border=3D"=
+0" height=3D"75" src=3D"http://ds.promo-rgp.com/ffiles/2652/1605440/30c42df=
+f92687f7827720569637d138e.gif" style=3D"display:block;" width=3D"84" /></a>=
+ <a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZEN=
+hbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTY2LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0Ij=
+oibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzM=
+S5mciJ9" style=3D"text-decoration: none; color: #ffffff; display: block; li=
+ne-height: 25px; height: 25px; vertical-align: middle; font-weight:bold;" t=
+arget=3D"_blank" title=3D"+ de pouvoir d achat"><font color=3D"#FFFFFF" fac=
+e=3D"Arial, Sans-serif" style=3D"font-size:14px;font-weight:bold;">+ de pou=
+voir d'achat</font></a></div>
+</td>
+<td class=3D"masked-r" style=3D"fon=
+t-size: 1px; line-height: 1;" width=3D"24">&nbsp;</td>
+<td align=3D"cente=
+r" class=3D"cell-r" valign=3D"top" width=3D"167">
+<div class=3D"padding-b=
+ottom-20"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NT=
+IiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTY3LCJjYXQiOiIiLCJjbnQiOiJGUkEiL=
+CJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYt=
+cmVubmVzMS5mciJ9" style=3D"display: block;" target=3D"_blank" title=3D"-de =
+cr=C3=A9dit"><img alt=3D"- de cr=C3=A9dit" border=3D"0" height=3D"75" src=
+=3D"http://ds.promo-rgp.com/ffiles/2652/1605440/0fd1e8af2d68ce695fd15da9f2a=
+a5629.gif" style=3D"display:block;" width=3D"84" /></a> <a href=3D"http://d=
+s.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImN=
+vZCI6MTA4ODI2NTY4LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMT=
+MxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D"te=
+xt-decoration: none; color: #ffffff; display: block; line-height: 25px; hei=
+ght: 25px; vertical-align: middle; font-weight:bold;" target=3D"_blank" tit=
+le=3D"-de cr=C3=A9dit"><font color=3D"#FFFFFF" face=3D"Arial, Sans-serif" s=
+tyle=3D"font-size:14px;font-weight:bold;">- de cr&eacute;dit</font></a></di=
+v>
+</td>
+<td class=3D"masked-r" style=3D"font-size: 1px; line-height: 1=
+" width=3D"24">&nbsp;</td>
+<td align=3D"center" class=3D"cell-r" valign=
+=3D"top" width=3D"167">
+<div class=3D"padding-bottom-20"><a href=3D"http:=
+//ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAs=
+ImNvZCI6MTA4ODI2NTY5LCJjYXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenV=
+yMTMxMjE2IiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D=
+"display: block;" target=3D"_blank" title=3D"Voir comment faire"><img alt=
+=3D"Voir comment faire" border=3D"0" height=3D"75" src=3D"http://ds.promo-r=
+gp.com/ffiles/2652/1605440/d1587264694f070b01e45f6b169d3880.gif" style=3D"d=
+isplay:block;" width=3D"50" /></a> <a href=3D"http://ds.promo-rgp.com/trk.p=
+hp?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDU0NDAsImNvZCI6MTA4ODI2NTcwLCJj=
+YXQiOiIiLCJjbnQiOiJGUkEiLCJsaXN0IjoibGlzdF9OZXdhenVyMTMxMjE2IiwiZW1haWwiOiJ=
+yZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciJ9" style=3D"text-decoration: none; =
+color: #ffffff; display: block; line-height: 25px; height: 25px; vertical-a=
+lign: middle; font-weight:bold;" target=3D"_blank" title=3D"Voir comment fa=
+ire"><font color=3D"#FFFFFF" face=3D"Arial, Sans-serif" style=3D"font-size:=
+14px;font-weight:bold;"><u>Voir comment faire</u></font></a></div>
+</td>=
+
+<td class=3D"masked-r" style=3D"font-size: 1px; line-height: 1" width=3D=
+"25">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<table bgcolor=3D"#005291"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"table-r" width=
+=3D"600">
+<tbody>
+<tr>
+<td height=3D"20" style=3D"font-size: 1px; mso=
+-line-height-rule: exactly; line-height: 20px">&nbsp;</td>
+</tr>
+</tbod=
+y>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<img alt=3D"=
+" src=3D"http://ds.promo-rgp.com/fcv.php?url=3DaHR0cDovL3RrZ3JyMjEuY29tL2Rp=
+c3BsYXlfYyg3MzUpLXMoMTQwOCktbSgxNjE1KS1lKDIzNDU3KQ=3D=3D" /><img alt=3D"" b=
+order=3D"0" height=3D"1" src=3D"http://ds.promo-rgp.com/fcv.php?url=3DaHR0c=
+DovL2cud2l6ei5jYy9hL3JlZ2lwL0ZJTkEvW0VtYWlsXQ=3D=3D" width=3D"1" />
+
+=
+
+
+<table width=3D'100%' cellpadding=3D'0' cellspacing=3D'2'>
+  <tr al=
+ign=3D'center' width=3D'100%' style=3D'font-family:Geneva, Arial, Helvetica=
+, sans-serif; font-size:12px; color:#__ unsubscribe_text_color__'>
+    <t=
+d  style=3D"text-align:center; color:#333333" width=3D'100%'>Pour vous reti=
+rer de la newsletter:<b><a href=3D'http://ds.promo-rgp.com/fur.php?c=3D%7B%=
+22idCli%22%3A%222652%22%2C%22idCamp%22%3A%221605440%22%2C%22email%22%3A%22r=
+esp-m2-miage%40univ-rennes1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23o=
+ojrxo52kg5hfaqkkhfaw622zom3telq%3D%22%7D&at=3D1' style=3D'text-decoration:n=
+one; color:#25a9df;'> suivez ce lien.</a></b></td>
+  </tr>
+</table>
+<=
+/body>
+</html>
+
+--_=_swift_v4_1482091187_ffdf9d904c897d080c5c885895f8744d_=_--
+

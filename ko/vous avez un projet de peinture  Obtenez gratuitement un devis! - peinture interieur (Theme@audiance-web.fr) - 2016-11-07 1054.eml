@@ -1,0 +1,235 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@audiance-web.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 07 Nov 2016 11:00:00 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 684FD47
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 11:00:00 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 65EAE60296
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 11:00:00 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id EtOesvJbtRmF for <resp-m2-miage@univ-rennes1.fr>;
+	Mon,  7 Nov 2016 11:00:00 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 460F0601F6
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 11:00:00 +0100 (CET)
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 3416620033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 11:00:00 +0100 (CET)
+Received: from smtp-a21.md-connecting.com (smtp-a21.md-connecting.com [82.97.25.143])
+	by mxb1-1.relay.renater.fr (asm) with ESMTP id D52C66000E9
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 10:59:59 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=audiance-web.fr; h=to
+	:subject:date:from:reply-to:message-id:list-unsubscribe
+	:mime-version:content-type; s=smtp2; bh=xMETdDJAIKNAn8CBUHiYBtps
+	7gI=; b=lamgQ5bEoDhgvEzJOL4OGc+TEmHsq/P1u/xCb8mZDfMpRNdWBv84ExRM
+	mx/sV7hQ/u8i8zuDkFG985bIu9DjbzyzsMva+UPXmOboSbhxhGCNPwHJaqUL4oqu
+	PA/1BEwyLENL39OUUZVJfYjr+ID9GWFJjsi0Vpj2k0nsBeQwlig=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=audiance-web.fr; h=to
+	:subject:date:from:reply-to:message-id:list-unsubscribe
+	:mime-version:content-type; q=dns; s=smtp2; b=ICkrD81/OHqwitI7l2
+	K4M0ZHh3K9ZhUDZdC3bwhoni1YVy7kAefYZAkOISBAywPndYyxvWSMvzJHOP9uN3
+	8GoZd2lTd3m2yimEXczh8G/M3iQIiYARO4SI1dOlStk6ksdaPhxZ2/MuBsklSfc+
+	hJU86RdiKqCSStnj6gATyJXMQ=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****vous avez un projet de peinture? Obtenez gratuitement un devis!
+Date: Mon, 7 Nov 2016 10:54:20 +0100
+From: peinture interieur <Theme@audiance-web.fr>
+Reply-to: peinture interieur <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@audiance-web.fr>
+Precedence: <bulk>
+Message-ID: <92d4a219622a5849cc7f473e66a6c3cc@audiance-web.fr>
+List-Unsubscribe: <http://app.audiance-web.fr/d/?camp=952645267679320442947205921_47&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+X-campaign-id: 952645267679320442947205921_47
+X-uid-id-m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==269
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_92d4a219622a5849cc7f473e66a6c3cc"
+X-Original-Source-IP: 82.97.25.143
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrleeggddtkecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrphfkjfggtgesrgdtjhertddtjeenucfhrhhomhepphgvihhnthhurhgvuchinhhtvghrihgvuhhruceovfhhvghmvgesrghuughirghntggvqdifvggsrdhfrheqnecuffhomhgrihhnpegruhguihgrnhgtvgdqfigvsgdrfhhrnecukfhppeekvddrleejrddvhedrudegfeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrvddurdhmugdqtghonhhnvggtthhinhhgrdgtohhmpdhinhgvthepkedvrdeljedrvdehrddugeefpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesrghuughirghntggvqdifvggsrdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+
+--Part1_92d4a219622a5849cc7f473e66a6c3cc
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.audiance-web.fr/v/?camp=3D952645267679320442947205921_47&ms=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_92d4a219622a5849cc7f473e66a6c3cc
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>vous avez un projet de peinture? Obtenez gratuitement un devis!</t=
+itle>
+</head><body marginheight=3D"0" topmargin=3D"0" style=3D"-ms-text-size-ad=
+just:none; margin:0px; -webkit-text-size-adjust:none; -moz-text-size-adju=
+st:none; padding:0px; text-size-adjust:none;" leftmargin=3D"0" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.audiance-web.fr/v/?camp=3D9526452676793204429472059=
+21_47&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" =
+title=3D"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." st=
+yle=3D"color:#00F; font-family:'Arial'; font-size:12px; text-decoration:u=
+nderline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce li=
+en.</a></p>&nbsp;                        <img src=3D"http://app.audiance-=
+web.fr/r/?rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvcHgvTVRNek=
+1WOThYekk1Tmw5OFh6STNYM3hmTUY5OFh6QSUzRC9hSFIwY0RvdkwzQm9iM1J2ZG05c2RHRnB=
+jWFZsTG5KbFlXTjBhVzl1TFdoaFltbDBZWFF1WTI5dEx3JTNEJTNE" border=3D"0" heigh=
+t=3D"1" width=3D"1"> <center> <table id=3D"Tableau_01" bgcolor=3D"#efefef=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=3D"1088" width=3D=
+"600"> 	<tbody><tr> 		<td colspan=3D"2"> 			<a href=3D"http://app.audianc=
+e-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D9526452676=
+79320442947205921_47&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWY=
+vY2xjL01UTXpNVjk4WHpJNU5
+ sOThYekkzWDN4Zk1GOThYekElM0QvYUhSMGNEb3ZMM0JsYVc1MGRYSmxMbkpsWVdOMGFXOXV=
+MV2hoWW1sMFlYUXVZMjl0THclM0QlM0Q=3D" target=3D"_blank"><img src=3D"http:/=
+/app.audiance-web.fr/r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW9uLWhhYml0YXQu=
+Y29tL21haWxpbmcvcGVpbnR1cmUvcGVpbnR1cmVfMDEuanBn" alt=3D"Logo" style=3D"b=
+order:0;" height=3D"63" width=3D"300"></a></td> 		<td colspan=3D"2" style=
+=3D"color:#FFF; font-family:Arial, Helvetica, sans-serif; text-align:righ=
+t;" bgcolor=3D"#373B54" height=3D"63" width=3D"280"><a href=3D"http://app=
+.audiance-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D95=
+2645267679320442947205921_47&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5=
+jb20vYWYvY2xjL01UTXpNVjk4WHpJNU5sOThYekkzWDN4Zk1GOThYekElM0QvYUhSMGNEb3ZM=
+M0JsYVc1MGRYSmxMbkpsWVdOMGFXOXVMV2hoWW1sMFlYUXVZMjl0THclM0QlM0Q=3D" style=
+=3D"color:#FFF; font-family:Arial, Helvetica, sans-serif; text-align:righ=
+t; text-decoration:none;" target=3D"_blank">PEINTURE</a></td><td bgcolor=3D=
+"#373B54"> <br></td> 	</tr> 	<tr> 		<td colspan=3D"5"> 			<a href=3D"http=
+://app.audiance-web.fr
+ /r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D95264526767932044=
+2947205921_47&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL0=
+1UTXpNVjk4WHpJNU5sOThYekkzWDN4Zk1GOThYekElM0QvYUhSMGNEb3ZMM0JsYVc1MGRYSmx=
+MbkpsWVdOMGFXOXVMV2hoWW1sMFlYUXVZMjl0THclM0QlM0Q=3D" target=3D"_blank"><i=
+mg src=3D"http://app.audiance-web.fr/r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0=
+aW9uLWhhYml0YXQuY29tL21haWxpbmcvcGVpbnR1cmUvcGVpbnR1cmVfMDMuanBn" alt=3D"=
+image" style=3D"border:0;" height=3D"397" width=3D"600"></a></td> 	</tr> =
+	<tr> 		<td colspan=3D"5" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:20px; color:#444;" align=3D"center" height=3D"61" width=3D"=
+600"><a href=3D"http://app.audiance-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml=
+2LXJlbm5lczEuZnI=3D&c=3D952645267679320442947205921_47&rc=3DaHR0cDovL2FmZ=
+mlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01UTXpNVjk4WHpJNU5sOThYekkzWDN4Zk=
+1GOThYekElM0QvYUhSMGNEb3ZMM0JsYVc1MGRYSmxMbkpsWVdOMGFXOXVMV2hoWW1sMFlYUXV=
+ZMjl0THclM0QlM0Q=3D" style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:20px; color:#44
+ 4; text-decoration:none;" target=3D"_blank">Besoin d'un devis peinture p=
+our votre int&eacute;rieur ou ext&eacute;rieur  ? </a></td> 	</tr> 	<tr> =
+		<td colspan=3D"5" style=3D"font-family:Arial, Helvetica, sans-serif; fo=
+nt-size:16px; color:#444;" align=3D"center" height=3D"190" width=3D"600">=
+<a href=3D"http://app.audiance-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJl=
+bm5lczEuZnI=3D&c=3D952645267679320442947205921_47&rc=3DaHR0cDovL2FmZmlsaW=
+F0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01UTXpNVjk4WHpJNU5sOThYekkzWDN4Zk1GOTh=
+YekElM0QvYUhSMGNEb3ZMM0JsYVc1MGRYSmxMbkpsWVdOMGFXOXVMV2hoWW1sMFlYUXVZMjl0=
+THclM0QlM0Q=3D" style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:16px; color:#444; text-decoration:none;" target=3D"_blank">Que ce soi=
+t pour l&rsquo;int&eacute;rieur ou l&rsquo;ext&eacute;rieur, les murs son=
+t de v&eacute;ritables espaces d&rsquo;expression qui cr&eacute;ent diff&=
+eacute;rentes ambiances selon le type et la couleur de peinture choisie. =
+<br><br> Un professionnel vous apportera ses conseils sur le type, la cou=
+leur
+  ou la qualit&eacute; de votre prochaine peinture.</a> </td> 	</tr> 	<tr=
+> 		<td colspan=3D"5" align=3D"center" height=3D"113" width=3D"600"><a hr=
+ef=3D"http://app.audiance-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lc=
+zEuZnI=3D&c=3D952645267679320442947205921_47&rc=3DaHR0cDovL2FmZmlsaWF0aW9=
+uLm5lby1kZXZpcy5jb20vYWYvY2xjL01UTXpNVjk4WHpJNU5sOThYekkzWDN4Zk1GOThYekEl=
+M0QvYUhSMGNEb3ZMM0JsYVc1MGRYSmxMbkpsWVdOMGFXOXVMV2hoWW1sMFlYUXVZMjl0THclM=
+0QlM0Q=3D" style=3D"text-decoration:none;color:#FFF;" target=3D"_blank"><=
+table bgcolor=3D"#b7563d" cellpadding=3D"10" cellspacing=3D"0" width=3D"2=
+50"><tbody><tr><td style=3D"color:#FFF;" align=3D"center">EN SAVOIR PLUS<=
+/td></tr></tbody></table></a></td> 	</tr> 	<tr> 		<td colspan=3D"5" align=
+=3D"center" height=3D"73" width=3D"600"><span style=3D"font-family:Arial,=
+ Helvetica, sans-serif; font-size:20px; color:#000;">Sur le m&ecirc;me th=
+&egrave;me</span><br> <span style=3D"font-family:Arial, Helvetica, sans-s=
+erif; font-size:16px; color:#444;">D&eacute;couvrez d&rsquo;autres progra=
+mmes qui pourraient vous
+  int&eacute;resser</span></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://=
+app.audiance-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D=
+952645267679320442947205921_47&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpc=
+y5jb20vYWYvY2xjL01UTXpNVjk4WHpJNU5sOThYekkzWDN4Zk1GOThYekElM0QvYUhSMGNEb3=
+ZMMmx1YzNSaGJHeGhkR2x2YmkxbGJHVmpkSEpwY1hWbExuSmxZV04wYVc5dUxXaGhZbWwwWVh=
+RdVkyOXRMdyUzRCUzRA=3D=3D" style=3D"border:0;" target=3D"_blank"><img src=
+=3D"http://app.audiance-web.fr/r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW9uLW=
+hhYml0YXQuY29tL21haWxpbmcvcGVpbnR1cmUvcGVpbnR1cmVfMDguanBn" alt=3D"" styl=
+e=3D"border:0;" height=3D"190" width=3D"213"></a></td> 		<td colspan=3D"2=
+"> 			<a href=3D"http://app.audiance-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bm=
+l2LXJlbm5lczEuZnI=3D&c=3D952645267679320442947205921_47&rc=3DaHR0cDovL2Fm=
+ZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01UTXpNVjk4WHpJNU5sOThYekkzWDN4Z=
+k1GOThYekElM0QvYUhSMGNEb3ZMMlpsYm1WMGNtVnpMbkpsWVdOMGFXOXVMV2hoWW1sMFlYUX=
+VZMjl0THclM0QlM0Q=3D" style=3D"border:0;" target=3D"_blank"><img src=3D"h=
+ttp://app.audiance-web.fr
+ /r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW9uLWhhYml0YXQuY29tL21haWxpbmcvcGV=
+pbnR1cmUvcGVpbnR1cmVfMDkuanBn" alt=3D"" style=3D"border:0;" height=3D"190=
+" width=3D"178"></a></td> 		<td colspan=3D"2"> 			<a href=3D"http://app.a=
+udiance-web.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D9526=
+45267679320442947205921_47&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb=
+20vYWYvY2xjL01UTXpNVjk4WHpJNU5sOThYekkzWDN4Zk1GOThYekElM0QvYUhSMGNEb3ZMM0=
+JvYjNSdmRtOXNkR0ZwY1hWbExuSmxZV04wYVc5dUxXaGhZbWwwWVhRdVkyOXRMdyUzRCUzRA=3D=
+=3D" style=3D"border:0;" target=3D"_blank"><img src=3D"http://app.audianc=
+e-web.fr/r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW9uLWhhYml0YXQuY29tL21haWxp=
+bmcvcGVpbnR1cmUvcGVpbnR1cmVfMTAuanBn" alt=3D"" style=3D"border:0;" height=
+=3D"190" width=3D"209"></a></td> 	</tr> 	<tr> 		<td> 			<img src=3D"http:=
+//app.audiance-web.fr/r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW9uLWhhYml0YXQ=
+uY29tL21haWxpbmcvcGVpbnR1cmUvc3BhY2VyLmdpZg=3D=3D" alt=3D"" height=3D"1" =
+width=3D"213"></td> 		<td> 			<img src=3D"http://app.audiance-web.fr/r/?r=
+c=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW
+ 9uLWhhYml0YXQuY29tL21haWxpbmcvcGVpbnR1cmUvc3BhY2VyLmdpZg=3D=3D" alt=3D""=
+ height=3D"1" width=3D"87"></td> 		<td> 			<img src=3D"http://app.audianc=
+e-web.fr/r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW9uLWhhYml0YXQuY29tL21haWxp=
+bmcvcGVpbnR1cmUvc3BhY2VyLmdpZg=3D=3D" alt=3D"" height=3D"1" width=3D"91">=
+</td> 		<td> 			<img src=3D"http://app.audiance-web.fr/r/?rc=3DaHR0cDovL3=
+BlaW50dXJlLnJlYWN0aW9uLWhhYml0YXQuY29tL21haWxpbmcvcGVpbnR1cmUvc3BhY2VyLmd=
+pZg=3D=3D" alt=3D"" height=3D"1" width=3D"189"></td>         <td> 			<img=
+ src=3D"http://app.audiance-web.fr/r/?rc=3DaHR0cDovL3BlaW50dXJlLnJlYWN0aW=
+9uLWhhYml0YXQuY29tL21haWxpbmcvcGVpbnR1cmUvc3BhY2VyLmdpZg=3D=3D" alt=3D"" =
+height=3D"1" width=3D"20"></td>     	</tr> </tbody></table> </center>    =
+              <img src=3D"http://app.audiance-web.fr/t/?i=3D9526452676793=
+20442947205921_47&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dht=
+tp://app.audiance-web.fr/images/blank.jpg" alt=3D"_pspacer4"  /><p>
+<a href=3D"http://app.audiance-web.fr/d/?camp=3D9526452676793204429472059=
+21_47&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" =
+title=3D"Ne plus recevoir d'informations de notre part" style=3D"color:#0=
+0F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour=
+ se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a cau=
+s&eacute; un quelconque d&eacute;rangement, nous vous prions de nous en e=
+xcuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_92d4a219622a5849cc7f473e66a6c3cc--
+

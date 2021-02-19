@@ -1,0 +1,872 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 12 Dec 2016 07:12:40 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id A3C8347
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 07:12:40 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id A0BFB6007E
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 07:12:40 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id w-7WBDAz9DEN for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 12 Dec 2016 07:12:40 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 7626D6002A
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 07:12:40 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 6C89920033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 07:12:40 +0100 (CET)
+Received: from smtp-b13.directonlus.com (smtp-b13.directonlus.com [82.97.39.135])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 2B62A6023E7
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 07:12:40 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp1; bh=WUjjbPuUWiK65i3AyeHU0X5n
+	5TX4P1VwmxjTPeMztNM=; b=jCRKLfNckR+gt3VdcsrjvL3Mw+DJGxJXr7rqGNqx
+	yz/ooVdL+eOLKbZRqnUx8NUfT20yP021WhfhOyDi7wABEEuLn2C/kQZnvhEUQ9ho
+	4B/wESFc8dsSVgK3VO9FAGd/5ALED4WFxzy8MIZx0iVbM0FYz2bGAtAceb+6m6ct
+	xP0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp1; b=vG0dozUamGGkW01id6
+	aPug15Qw3EUOoeySBeTWA1riljGUtWViXwFbEEtZbjmNKpH+3K4/Yjk7Sv8zQ9Vm
+	EG1MdSb+vBZYQ9Z3IKAcDghSSocD6FNHqgNBN1d4DgFQUzOyzXZ+9hFgy28rerLz
+	efb6Sly0atG2WxSV+g4EBGDbc=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Nos_offres_=C3=A0_prix_cass=C3=A9?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Mon, 12 Dec 2016 07:12:39 +0100
+From: Sophia d'Agoply <Sophia_d_Agoply@directonlus.com>
+Reply-to: Sophia d'Agoply <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+X-campaign_id: 65432570615467363415_2
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==751
+List-Unsubscribe: <http://app.directonlus.com/d/?camp=65432570615467363415_2&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <3c80f0374d849beccba9b63e007a8705@directonlus.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_3c80f0374d849beccba9b63e007a8705"
+X-Original-Source-IP: 82.97.39.135
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedriedugdefiecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpefuohhphhhirgcuugdktehgohhplhihuceoufhophhhihgrpggupgetghhophhlhiesughirhgvtghtohhnlhhushdrtghomheqnecuffhomhgrihhnpeguihhrvggtthhonhhluhhsrdgtohhmnecukfhppeekvddrleejrdefledrudefheenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgsudefrdguihhrvggtthhonhhluhhsrdgtohhmpdhinhgvthepkedvrdeljedrfeelrddufeehpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesughirhgvtghtohhnlhhushdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--Part1_3c80f0374d849beccba9b63e007a8705
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.directonlus.com/v/?camp=3D65432570615467363415_2&ms=3DcmVzcC1t=
+Mi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_3c80f0374d849beccba9b63e007a8705
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Nos offres =C3=A0 prix cass=C3=A9</title>
+</head><body marginheight=3D"0" leftmargin=3D"0" style=3D"text-size-adjus=
+t:none; padding:0px; margin:0px; -moz-text-size-adjust:none; -webkit-text=
+-size-adjust:none; -ms-text-size-adjust:none;" topmargin=3D"0" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.directonlus.com/v/?camp=3D65432570615467363415_2&ms=
+=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"c=
+olor:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline=
+;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a><=
+/p>   Agoply - La place de march&eacute; 100% Business <style> body { 	Ma=
+rgin: 0; 	padding: 0; 	min-width: 100%; 	background-color: #FFFFFF; } tab=
+le { 	border-spacing: 0; 	font-family: sans-serif; 	color: #333333; } td =
+{ 	padding: 0; } img { 	border: 0; 	display: block; } .wrapper { 	width: =
+100%; 	table-layout: fixed; 	-webkit-text-size-adjust: 100%; 	-ms-text-si=
+ze-adjust: 100%; } .webkit { 	max-width: 600px; } .outer { 	Margin: 0 aut=
+o; 	width: 100%; 	max-width: 600px; } .full-width-image img { 	width: 100=
+%; 	max-width: 600px; 	height: auto; } p { 	Margin: 0; } a[class=3D"disab=
+le-link"] {       pointer-events: none;       cursor: def
+ ault;    }    a.disable-link { 	pointer-events: none; 	cursor: default; =
+} @media only screen and (max-device-width: 480px) {    a[class=3D"disabl=
+e-link"] {       pointer-events: auto !important;       cursor: auto !imp=
+ortant;    } } </style> <!--[if gte mso 9]> <style> #tableForOutlook { wi=
+dth:600px; } </style> <![endif]--><!--[if gte mso 8]> <style> #tableForOu=
+tlook { width:600px; } </style> <![endif]--><!--[if gte mso 7]> <style> #=
+tableForOutlook { width:600px; } </style> <!--[if (gte mso 9)|(IE)]> <sty=
+le> #tableForOutlook { width:600px; } </style> <![endif]--><!--[if (gte m=
+so 9)|(IE)]> <style> table {border-collapse: collapse !important; } </sty=
+le> <![endif]--><!--[if gte mso 9]>   96   <![endif]-->   <center> <!--[i=
+f (gte mso 9)|(IE)]> <table id=3D"tableForOutlook" align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D=
+"600"> <![endif]-->  <!--[if gte mso 9]> <table id=3D"tableForOutlook" al=
+ign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi
+ dth=3D"600"><tr><td width=3D"600"> <![endif]-->  <!--[if gte mso 8]> <ta=
+ble id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600"> <![endif]-->  <!=
+--[if gte mso 7]> <table id=3D"tableForOutlook" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D"60=
+0"> <![endif]--> <table style=3D"border-spacing:0;font-family:sans-serif;=
+color:#333333; margin:0 auto;max-width:600px;" align=3D"center" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#FFFFFF"> <tbody><tr> =
+<td class=3D"two-column" style=3D"text-align:center;font-size:0; width: 1=
+00%; max-width: 600px"> <!--[if (gte mso 9)|(IE)]>                       =
+  <table width=3D"100%" style=3D"border-spacing:0;font-family:sans-serif;=
+color:#333333;" border=3D"0"  cellpadding=3D"0" cellspacing=3D"0" >      =
+                   <tr>                         <td width=3D"300" valign=3D=
+"top" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >       <![endif]-->  =20
+            <table class=3D"column" style=3D"border-spacing:0;font-family=
+:sans-serif;color:#333333;text-align:center;max-width:300px;display:inlin=
+e-block;vertical-align:top;margin-top:0;margin-bottom:0;" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;=
+padding-bottom:0;padding-right:0;padding-left:0;"><table class=3D"content=
+s" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;font-si=
+ze:14px;text-align:center;" width=3D"300" cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-bottom:0;=
+padding-right:0;padding-left:0;"><a href=3D"http://app.directonlus.com/r/=
+?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_=
+2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdX=
+JsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdlAzVjBiVjl6YjNWeVkyVTlZV1ptYVd4cFpTWjF=
+kRzFmYldWa2FYVnRQVzFoYVd4cGJtY21kWFJ0WDNSbGNtMDlhR1ZoWkdWeUpuVjBiVjlqYjI1=
+MFpXNTBQVzFoYVd4d2NtOWtkV2wwWVdabWFXeHBaU1oxZEcxZlkyRnRjR0ZwWjI0OVlXWm1hV=
+TVs
+ Ync/dHJhY2thZmY9JmFtcDtncm91cD0mYW1wO3Jncm91cD1wXzE2MjA3" target=3D"_bla=
+nk"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbm=
+VtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L2Fnb3BseS5wbmc=3D" height=3D"8=
+0" width=3D"300" border=3D"0"></a></td>               </tr></tbody></tabl=
+e></td>         </tr></tbody></table> <!--[if (gte mso 9)|(IE)]>         =
+                </td><td width=3D"300" valign=3D"top" style=3D"padding-to=
+p:0;padding-bottom:0;padding-right:0;padding-left:0;" >       <![endif]--=
+><table class=3D"column" style=3D"border-spacing:0;font-family:sans-serif=
+;color:#333333;text-align:center;max-width:300px;display:inline-block;ver=
+tical-align:top;margin-top:0;margin-bottom:0;" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;"><table class=3D"contents" style=3D=
+"border-spacing:0;font-family:sans-serif;color:#333333;font-size:14px;tex=
+t-align:center;" width=3D"300" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0"><tbod
+ y><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;paddi=
+ng-left:0;" height=3D"80"> <a href=3D"http://app.directonlus.com/r/?m=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3D=
+aHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIU=
+jBjSE02THk5M2QzY3ViR2x1YTJWa2FXNHVZMjl0TDJOdmJYQmhibmt2WVdkdmNHeDU/dHJhY2=
+thZmY9JmFtcDtncm91cD0mYW1wO3Jncm91cD1wXzE2MjA3" style=3D"font-family:Aria=
+l, Helvetica, sans-serif; text-decoration:none ;" target=3D"_blank"><img =
+src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWV=
+udHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L0xJLnBuZw=3D=3D" style=3D"display:inlin=
+e-block" height=3D"32" width=3D"32" border=3D"0"></a>&nbsp;&nbsp;&nbsp;<a=
+ href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm=
+5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlk=
+cmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5M2QzY3VabUZqWldKd=
+mIyc3VZMjl0TDJGbmIzQnNlUzVtY2c/dHJhY2thZmY9JmFtcDtncm91cD0mYW1wO3Jncm91cD=
+1wXzE2MjA3"
+  style=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none=
+ ;" target=3D"_blank"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0=
+cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L0ZCLnBuZw=3D=
+=3D" style=3D"display:inline-block" height=3D"32" width=3D"32" border=3D"=
+0"></a>&nbsp;&nbsp;&nbsp;<a href=3D"http://app.directonlus.com/r/?m=3DcmV=
+zcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3Da=
+HR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUj=
+BjSE02THk5MGQybDBkR1Z5TG1OdmJTOWhaMjl3YkhrP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmF=
+tcDtyZ3JvdXA9cF8xNjIwNw=3D=3D" style=3D"font-family:Arial, Helvetica, san=
+s-serif; text-decoration:none ;" target=3D"_blank"><img src=3D"http://app=
+.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJv=
+L2Fnb3BseV8xMjE2L1RXLnBuZw=3D=3D" style=3D"display:inline-block" height=3D=
+"32" width=3D"32" border=3D"0"></a>&nbsp;&nbsp;&nbsp;<a href=3D"http://ap=
+p.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D6=
+5432570615467363415_2&rc=3DaHR0
+ cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBj=
+SE02THk5d2JIVnpMbWR2YjJkc1pTNWpiMjB2TVRBMU9Ua3lOakU0T0RjMU5UWXpORFExT0RZN=
+T90cmFja2FmZj0mYW1wO2dyb3VwPSZhbXA7cmdyb3VwPXBfMTYyMDc=3D" style=3D"font-=
+family:Arial, Helvetica, sans-serif; text-decoration:none ;" target=3D"_b=
+lank"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFn=
+bmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L0dQLnBuZw=3D=3D" style=3D"di=
+splay:inline-block" height=3D"32" width=3D"32" border=3D"0"></a>&nbsp;&nb=
+sp;&nbsp;<a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB=
+1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzL=
+m5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjRG92TDJaeUxuWn=
+BZV1JsYnk1amIyMHZabkl2WTI5dGNHRnVlUzloWjI5d2JIaz90cmFja2FmZj0mYW1wO2dyb3V=
+wPSZhbXA7cmdyb3VwPXBfMTYyMDc=3D" style=3D"font-family:Arial, Helvetica, s=
+ans-serif; text-decoration:none ;" target=3D"_blank"><img src=3D"http://a=
+pp.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucH=
+JvL2Fnb3Bs
+ eV8xMjE2L1ZJLnBuZw=3D=3D" style=3D"display:inline-block" height=3D"32" w=
+idth=3D"32" border=3D"0"></a> </td>               </tr></tbody></table></=
+td>         </tr></tbody></table> <!--[if (gte mso 9)|(IE)]>             =
+            </td>                         </tr>                         <=
+/table>       <![endif]--> </td>   </tr> <tr> <td style=3D"width:100%; ma=
+x-width:600px" height=3D"20" align=3D"center" bgcolor=3D"#FFFFFF">   <br>=
+</td> </tr> <tr> <td class=3D"two-column" style=3D"text-align:center;font=
+-size:0; width: 100%; max-width: 600px"> <!--[if (gte mso 9)|(IE)]>      =
+                   <table width=3D"100%" style=3D"border-spacing:0;font-f=
+amily:sans-serif;color:#333333;" border=3D"0"  cellpadding=3D"0" cellspac=
+ing=3D"0" >                         <tr>                         <td widt=
+h=3D"300" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-=
+right:0;padding-left:0;" >       <![endif]-->              <table class=3D=
+"column" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;t=
+ext-align:c
+ enter;max-width:300px;display:inline-block;vertical-align:top;margin-top=
+:0;margin-bottom:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tb=
+ody><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padd=
+ing-left:0;"><table class=3D"contents" style=3D"border-spacing:0;font-fam=
+ily:sans-serif;color:#333333;font-size:14px;text-align:center;" width=3D"=
+300" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td sty=
+le=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" hei=
+ght=3D"35" width=3D"30" bgcolor=3D"#bd1f2d"><img src=3D"http://app.direct=
+onlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3B=
+seV8xMjE2L29mZi5wbmc=3D" style=3D"display:inline-block" height=3D"35" wid=
+th=3D"35" border=3D"0"></td>               <td width=3D"15" bgcolor=3D"#b=
+d1f2d"><br></td>                 <td style=3D"padding-top:0;padding-botto=
+m:0;padding-right:0;padding-left:0;" height=3D"35" align=3D"left" bgcolor=
+=3D"#bd1f2d"><span style=3D"font-family:Arial, Helvetica, sans-serif; fon=
+t-size:19px ; font-weigh
+ t:normal; color:#FFFFFF;">Notre offre du jour</span></td>               =
+  <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" height=3D"35" width=3D"30" bgcolor=3D"#FFFFFF"><img src=3D"http://a=
+pp.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucH=
+JvL2Fnb3BseV8xMjE2L2JvdS5wbmc=3D" style=3D"display:inline-block" height=3D=
+"35" width=3D"35" border=3D"0"></td>               </tr></tbody></table><=
+/td>         </tr></tbody></table> <!--[if (gte mso 9)|(IE)]>            =
+             </td><td width=3D"300" valign=3D"top" style=3D"padding-top:0=
+;padding-bottom:0;padding-right:0;padding-left:0;" >       <![endif]--><t=
+able class=3D"column" style=3D"border-spacing:0;font-family:sans-serif;co=
+lor:#333333;text-align:center;max-width:300px;display:inline-block;vertic=
+al-align:top;margin-top:0;margin-bottom:0;" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-bottom=
+:0;padding-right:0;padding-left:0;"><table class=3D"contents" style=3D"bo=
+rder-spacin
+ g:0;font-family:sans-serif;color:#333333;font-size:14px;text-align:cente=
+r;" width=3D"300" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody=
+><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding=
+-left:0;" height=3D"10"><br></td>               </tr></tbody></table></td=
+>         </tr></tbody></table> <!--[if (gte mso 9)|(IE)]>               =
+          </td>                         </tr>                         </t=
+able>       <![endif]--> </td>   </tr> <tr> <td class=3D"two-column" styl=
+e=3D"text-align:center;font-size:0; width: 100%; max-width: 600px" dir=3D=
+"rtl"> <!--[if (gte mso 9)|(IE)]>                         <table width=3D=
+"100%" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;" b=
+order=3D"0"  cellpadding=3D"0" cellspacing=3D"0" >                       =
+  <tr>                         <td width=3D"300" valign=3D"top" style=3D"=
+padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >       <=
+![endif]-->              <table class=3D"column" style=3D"border-spacing:=
+0;font
+ -family:sans-serif;color:#333333;text-align:center;max-width:300px;displ=
+ay:inline-block;vertical-align:top;margin-top:0;margin-bottom:0;" cellspa=
+cing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D"paddin=
+g-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table class=3D=
+"contents" style=3D"border-spacing:0;font-family:sans-serif;color:#333333=
+;font-size:14px;text-align:center;" width=3D"300" cellspacing=3D"0" cellp=
+adding=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-=
+bottom:0;padding-right:0;padding-left:0;"><a href=3D"http://app.directonl=
+us.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D654325706154=
+67363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5L=
+TcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdmNHRndhV1Z5TFdKc1lXNWpMM0poYl=
+dWMGRHVXRjR0Z3YVdWeUxXTnNZV2x5WldadmJuUmhhVzVsTFdOc1lXbHlZV3htWVMxaE5DMDR=
+NQzFuY2kwMU1EQXRabVYxYVd4c1pYTXRZajkxZEcxZmMyOTFjbU5sUFdGbVptbHNhV1VtZFhS=
+dFgyMWxaR2wxYlQxdFlXbHNhVzVuSm5WMGJWOTBaWEp0UFdsdFlXZGxjSEp2WkhWcGRERW1kW
+ FJ0WDJOdmJuUmxiblE5YldGcGJIQnliMlIxYVhSaFptWnBiR2xsSm5WMGJWOWpZVzF3WVdsb=
+mJqMWhabVpwVG1Wdj90cmFja2FmZj0mYW1wO2dyb3VwPSZhbXA7cmdyb3VwPXBfMTYyMDc=3D=
+" style=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none=
+ ;" target=3D"_blank"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0=
+cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L3Byb2QxLmpwZ=
+w=3D=3D" height=3D"250" width=3D"300" border=3D"0"></a></td>             =
+  </tr></tbody></table></td>         </tr></tbody></table> <!--[if (gte m=
+so 9)|(IE)]>                         </td><td width=3D"300" valign=3D"top=
+" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;=
+" >       <![endif]--><table class=3D"column" style=3D"border-spacing:0;f=
+ont-family:sans-serif;color:#333333;text-align:center;max-width:300px;dis=
+play:inline-block;vertical-align:top;margin-top:0;margin-bottom:0;" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D"padd=
+ing-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table class=3D=
+"conte
+ nts" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;font=
+-size:14px;text-align:center;" width=3D"300" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-botto=
+m:0;padding-right:0;padding-left:0;" height=3D"250"><table cellspacing=3D=
+"0" cellpadding=3D"0" border=3D"0"> <tbody><tr> <td height=3D"20" width=3D=
+"20"><br></td>                 <td width=3D"260"><br></td>               =
+  <td width=3D"20"><br></td>                 </tr> <tr> <td height=3D"210=
+" width=3D"20"><br></td>                 <td width=3D"260">              =
+   <table width=3D"260" align=3D"left" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0"> <tbody><tr> <td height=3D"65" valign=3D"top" align=3D"lef=
+t">                 <span style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:16px ; font-weight:normal; color:#2c2c2c;">Ramette papier C=
+lairefontaine</span>                 </td> </tr> <tr> <td height=3D"35" v=
+align=3D"top" align=3D"left">                 <span style=3D"font-family:=
+Arial, Helvetica, sans-seri
+ f; font-size:15px ; font-weight:bold; color:#2c2c2c;">Marque : Clairefon=
+taine</span> </td> </tr> <tr> <td height=3D"50" valign=3D"top" align=3D"l=
+eft">                  <span style=3D"font-family:Arial, Helvetica, sans-=
+serif; font-size:13px ; font-weight:normal; color:#bd1f2d;">&agrave; part=
+ir de<br></span> <span style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:16px ; font-weight:bold; color:#bd1f2d;">3,53<sup>HT</sup></sp=
+an> </td> </tr> <tr> <td height=3D"60" valign=3D"top" align=3D"left"><a h=
+ref=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5l=
+czEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcm=
+UuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdmN=
+HRndhV1Z5TFdKc1lXNWpMM0poYldWMGRHVXRjR0Z3YVdWeUxXTnNZV2x5WldadmJuUmhhVzVs=
+TFdOc1lXbHlZV3htWVMxaE5DMDRNQzFuY2kwMU1EQXRabVYxYVd4c1pYTXRZajkxZEcxZmMyO=
+TFjbU5sUFdGbVptbHNhV1VtZFhSdFgyMWxaR2wxYlQxdFlXbHNhVzVuSm5WMGJWOTBaWEp0UF=
+dOMFlYQnliMlIxYVhReEpuVjBiVjlqYjI1MFpXNTBQVzFoYVd4d2NtOWtkV2wwWVdab
+ WFXeHBaU1oxZEcxZlkyRnRjR0ZwWjI0OVlXWm1hVTVsYnc/dHJhY2thZmY9JmFtcDtncm91c=
+D0mYW1wO3Jncm91cD1wXzE2MjA3" style=3D"font-family:Arial, Helvetica, sans-=
+serif; text-decoration:none ;" target=3D"_blank"><img src=3D"http://app.d=
+irectonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2=
+Fnb3BseV8xMjE2L2JvdXRvbi5wbmc=3D" style=3D"display:block" height=3D"60" w=
+idth=3D"260" border=3D"0"></a></td> </tr> </tbody></table> </td>         =
+        <td width=3D"20"><br></td>                 </tr> <tr> <td height=3D=
+"20" width=3D"20"><br></td>                 <td width=3D"260"><br></td>  =
+               <td width=3D"20"><br></td>                 </tr> </tbody><=
+/table></td>               </tr></tbody></table></td>         </tr></tbod=
+y></table> <!--[if (gte mso 9)|(IE)]>                         </td>      =
+                   </tr>                         </table>       <![endif]=
+--> </td>   </tr> <tr> <td height=3D"25">               <br></td>        =
+       </tr> <tr> <td class=3D"two-column" style=3D"text-align:center;fon
+ t-size:0; width: 100%; max-width: 600px"> <!--[if (gte mso 9)|(IE)]>    =
+                     <table width=3D"100%" style=3D"border-spacing:0;font=
+-family:sans-serif;color:#333333;" border=3D"0"  cellpadding=3D"0" cellsp=
+acing=3D"0" >                         <tr>                         <td wi=
+dth=3D"300" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;paddin=
+g-right:0;padding-left:0;" >       <![endif]-->              <table class=
+=3D"column" style=3D"border-spacing:0;font-family:sans-serif;color:#33333=
+3;text-align:center;max-width:300px;display:inline-block;vertical-align:t=
+op;margin-top:0;margin-bottom:0;" cellspacing=3D"0" cellpadding=3D"0" bor=
+der=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-bottom:0;padding=
+-right:0;padding-left:0;"><table class=3D"contents" style=3D"border-spaci=
+ng:0;font-family:sans-serif;color:#333333;font-size:14px;text-align:cente=
+r;" width=3D"300" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody=
+><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding=
+-left:0;"=20
+ height=3D"35" width=3D"30" bgcolor=3D"#F5D30D"><img src=3D"http://app.di=
+rectonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2F=
+nb3BseV8xMjE2L29mZjIucG5n" style=3D"display:inline-block" height=3D"35" w=
+idth=3D"35" border=3D"0"></td>               <td width=3D"15" bgcolor=3D"=
+#F5D30D"><br></td>                 <td style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;" height=3D"35" align=3D"left" bgcol=
+or=3D"#F5D30D"><span style=3D"font-family:Arial, Helvetica, sans-serif; f=
+ont-size:19px ; font-weight:normal; color:#000000;">Nos offres &agrave; p=
+rix cass&eacute;</span></td>                 <td style=3D"padding-top:0;p=
+adding-bottom:0;padding-right:0;padding-left:0;" height=3D"35" width=3D"3=
+0" bgcolor=3D"#FFFFFF"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR=
+0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L2JvdTIucG5n=
+" style=3D"display:inline-block" height=3D"35" width=3D"35" border=3D"0">=
+</td>               </tr></tbody></table></td>         </tr></tbody></tab=
+le> <!--[if (gte mso
+  9)|(IE)]>                         </td><td width=3D"300" valign=3D"top"=
+ style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"=
+ >       <![endif]--><table class=3D"column" style=3D"border-spacing:0;fo=
+nt-family:sans-serif;color:#333333;text-align:center;max-width:300px;disp=
+lay:inline-block;vertical-align:top;margin-top:0;margin-bottom:0;" cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D"paddi=
+ng-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table class=3D=
+"contents" style=3D"border-spacing:0;font-family:sans-serif;color:#333333=
+;font-size:14px;text-align:center;" width=3D"300" cellspacing=3D"0" cellp=
+adding=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-=
+bottom:0;padding-right:0;padding-left:0;" height=3D"10"><br></td>        =
+       </tr></tbody></table></td>         </tr></tbody></table> <!--[if (=
+gte mso 9)|(IE)]>                         </td>                         <=
+/tr>                         </table>       <![endif]--> </td>   </tr> <t=
+r
+ > <td class=3D"two-column" style=3D"text-align:center;font-size:0; width=
+: 100%; max-width: 600px"> <!--[if (gte mso 9)|(IE)]>                    =
+     <table width=3D"100%" style=3D"border-spacing:0;font-family:sans-ser=
+if;color:#333333;" border=3D"0"  cellpadding=3D"0" cellspacing=3D"0" >   =
+                      <tr>                         <td width=3D"300" vali=
+gn=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-right:0;paddin=
+g-left:0;" >       <![endif]-->              <table class=3D"column" styl=
+e=3D"border-spacing:0;font-family:sans-serif;color:#333333;text-align:cen=
+ter;max-width:300px;display:inline-block;vertical-align:top;margin-top:0;=
+margin-bottom:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody=
+><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding=
+-left:0;"><table class=3D"contents" style=3D"border-spacing:0;font-family=
+:sans-serif;color:#333333;font-size:14px;text-align:center;" width=3D"300=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody><tr> <td style=
+=3D"padding-to
+ p:0;padding-bottom:0;padding-right:0;padding-left:0;" height=3D"250"><ta=
+ble cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody><tr> <td hei=
+ght=3D"20" width=3D"20"><br></td>                 <td width=3D"260"><br><=
+/td>                 <td width=3D"20"><br></td>                 </tr> <tr=
+> <td height=3D"210" width=3D"20"><br></td>                 <td width=3D"=
+260">                 <table width=3D"260" align=3D"left" cellspacing=3D"=
+0" cellpadding=3D"0" border=3D"0"> <tbody><tr> <td style=3D"padding-top:0=
+;padding-bottom:0;padding-right:0;padding-left:0;"><a href=3D"http://app.=
+directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D654=
+32570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3IvY2xpYy02=
+NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdmJXRmphR2x1WlhNdFlTM=
+WpZV1psTDIxaFkyaHBibVV0YVhCbGNtVnpjSEpsYzNOdkxYZzNMVEV0Y205MVoyVV9kWFJ0WD=
+NOdmRYSmpaVDFoWm1acGJHbGxKblYwYlY5dFpXUnBkVzA5YldGcGJHbHVaeVoxZEcxZmRHVnl=
+iVDFwYldGblpYQnliMlIxYVhRMEpuVjBiVjlqYjI1MFpXNTBQVzFoYVd4d2NtOWtkV2wwWVda=
+bWFXeHBaU1ox
+ ZEcxZlkyRnRjR0ZwWjI0OVlXWm1hVTVsYnc/dHJhY2thZmY9JmFtcDtncm91cD0mYW1wO3Jn=
+cm91cD1wXzE2MjA3" style=3D"font-family:Arial, Helvetica, sans-serif; text=
+-decoration:none ;" target=3D"_blank"><img src=3D"http://app.directonlus.=
+com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xM=
+jE2L3Byb2Q0LmpwZw=3D=3D" height=3D"250" width=3D"260" border=3D"0"></a></=
+td>               </tr> <tr> <td height=3D"65" valign=3D"top" align=3D"le=
+ft">                 <span style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:16px ; font-weight:normal; color:#2c2c2c;">Machine Iperesp=
+resso rouge</span>                 <br> </td> </tr> <tr> <td height=3D"35=
+" valign=3D"top" align=3D"left">                 <span style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:15px ; font-weight:bold; color=
+:#2c2c2c;">Marque : Illy</span> </td> </tr> <tr> <td height=3D"50" valign=
+=3D"top" align=3D"left">                  <span style=3D"font-family:Aria=
+l, Helvetica, sans-serif; font-size:13px ; font-weight:normal; color:#bd1=
+f2d;">&agr
+ ave; partir de<br></span> <span style=3D"font-family:Arial, Helvetica, s=
+ans-serif; font-size:16px ; font-weight:bold; color:#bd1f2d;">198,10<sup>=
+HT</sup></span> </td> </tr> <tr> <td height=3D"60" valign=3D"top" align=3D=
+"left"> <a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1=
+bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm=
+5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXd=
+iSGt1Wm5JdmJXRmphR2x1WlhNdFlTMWpZV1psTDIxaFkyaHBibVV0YVhCbGNtVnpjSEpsYzNO=
+dkxYZzNMVEV0Y205MVoyVV9kWFJ0WDNOdmRYSmpaVDFoWm1acGJHbGxKblYwYlY5dFpXUnBkV=
+zA5YldGcGJHbHVaeVoxZEcxZmRHVnliVDFqZEdGd2NtOWtkV2wwTkNaMWRHMWZZMjl1ZEdWdW=
+REMXRZV2xzY0hKdlpIVnBkR0ZtWm1sc2FXVW1kWFJ0WDJOaGJYQmhhV2R1UFdGbVptbE9aVzg=
+/dHJhY2thZmY9JmFtcDtncm91cD0mYW1wO3Jncm91cD1wXzE2MjA3" style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; text-decoration:none ;" target=3D"_blank=
+"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVt=
+ZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L2JvdXRvblMucG5n" style=3D"d
+ isplay:block" height=3D"60" width=3D"260" border=3D"0"></a> </td> </tr> =
+</tbody></table> </td>                 <td width=3D"20"><br></td>        =
+         </tr> <tr> <td height=3D"20" width=3D"20"><br></td>             =
+    <td width=3D"260"><br></td>                 <td width=3D"20"><br></td=
+>                 </tr> </tbody></table></td>               </tr> <tr> <t=
+d>               <img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL=
+2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L2xpbmUuanBn" heig=
+ht=3D"20" width=3D"300" border=3D"0"> </td>               </tr> </tbody><=
+/table></td>         </tr></tbody></table> <!--[if (gte mso 9)|(IE)]>    =
+                     </td><td width=3D"300" valign=3D"top" style=3D"paddi=
+ng-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >       <![end=
+if]--><table class=3D"column" style=3D"border-spacing:0;font-family:sans-=
+serif;color:#333333;text-align:center;max-width:300px;display:inline-bloc=
+k;vertical-align:top;margin-top:0;margin-bottom:0;" cellspacing=3D"0" cel=
+lpaddi
+ ng=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-bot=
+tom:0;padding-right:0;padding-left:0;"><table class=3D"contents" style=3D=
+"border-spacing:0;font-family:sans-serif;color:#333333;font-size:14px;tex=
+t-align:center;" width=3D"300" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0"> <tbody><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-r=
+ight:0;padding-left:0;" height=3D"250"><table cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0"> <tbody><tr> <td height=3D"20" width=3D"20"><br></t=
+d>                 <td width=3D"260"><br></td>                 <td width=3D=
+"20"><br></td>                 </tr> <tr> <td height=3D"210" width=3D"20"=
+><br></td>                 <td width=3D"260">                 <table widt=
+h=3D"260" align=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"=
+> <tbody><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;"><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi=
+1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDov=
+L25vZGVzLm5waXk3bHlkcmUuY29tL3
+ IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdmRHRnNhMm=
+xsTFhkaGJHdHBaUzlsYldWMGRHVjFjaTF5WldObGNIUmxkWEl0Y0cxeUxXMWhiblZsYkMxa1p=
+YUmxkMlV0T0RBd01DMXhkV0ZrTFdOaGMyVXRNakE0TURRNExYTmxkQzFrWlMwMFAzVjBiVjl6=
+YjNWeVkyVTlZV1ptYVd4cFpTWjFkRzFmYldWa2FYVnRQVzFoYVd4cGJtY21kWFJ0WDNSbGNtM=
+DlhVzFoWjJWd2NtOWtkV2wwTlNaMWRHMWZZMjl1ZEdWdWREMXRZV2xzY0hKdlpIVnBkR0ZtWm=
+1sc2FXVW1kWFJ0WDJOaGJYQmhhV2R1UFdGbVptbE9aVzg/dHJhY2thZmY9JmFtcDtncm91cD0=
+mYW1wO3Jncm91cD1wXzE2MjA3" style=3D"font-family:Arial, Helvetica, sans-se=
+rif; text-decoration:none ;" target=3D"_blank"><img src=3D"http://app.dir=
+ectonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fn=
+b3BseV8xMjE2L3Byb2Q1LmpwZw=3D=3D" height=3D"250" width=3D"260" border=3D"=
+0"></a></td>               </tr> <tr> <td height=3D"65" valign=3D"top" al=
+ign=3D"left">                 <span style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:16px ; font-weight:normal; color:#2c2c2c;">Set de=
+ 4 &eacute;metteur-r&eacute;cepteur PMR manuel</span>             =20
+    <br> </td> </tr> <tr> <td height=3D"35" valign=3D"top" align=3D"left"=
+>                 <span style=3D"font-family:Arial, Helvetica, sans-serif=
+; font-size:15px ; font-weight:bold; color:#2c2c2c;">Marque : Detewe</spa=
+n> </td> </tr> <tr> <td height=3D"50" valign=3D"top" align=3D"left">     =
+             <span style=3D"font-family:Arial, Helvetica, sans-serif; fon=
+t-size:13px ; font-weight:normal; color:#bd1f2d;">&agrave; partir de<br><=
+/span> <span style=3D"font-family:Arial, Helvetica, sans-serif; font-size=
+:16px ; font-weight:bold; color:#bd1f2d;">149,17<sup>HT</sup></span> </td=
+> </tr> <tr> <td height=3D"60" valign=3D"top" align=3D"left"> <a href=3D"=
+http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL=
+3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdmRHRnNhMm=
+xsTFhkaGJHdHBaUzlsYldWMGRHVjFjaTF5WldObGNIUmxkWEl0Y0cxeUxXMWhiblZsYkMxa1p=
+YUmxkMlV0T0RBd01DMXhkV0ZrTFdOaGMyVXRNakE0TURRNExYTmxkQzFrWlMwMFAzVjBiVjl6=
+Yj
+ NWeVkyVTlZV1ptYVd4cFpTWjFkRzFmYldWa2FYVnRQVzFoYVd4cGJtY21kWFJ0WDNSbGNtMD=
+lZM1JoY0hKdlpIVnBkRFVtZFhSdFgyTnZiblJsYm5ROWJXRnBiSEJ5YjJSMWFYUmhabVpwYkd=
+sbEpuVjBiVjlqWVcxd1lXbG5iajFoWm1acFRtVnY/dHJhY2thZmY9JmFtcDtncm91cD0mYW1w=
+O3Jncm91cD1wXzE2MjA3" style=3D"font-family:Arial, Helvetica, sans-serif; =
+text-decoration:none ;" target=3D"_blank"><img src=3D"http://app.directon=
+lus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3Bse=
+V8xMjE2L2JvdXRvblMucG5n" style=3D"display:block" height=3D"60" width=3D"2=
+60" border=3D"0"></a> </td> </tr> </tbody></table> </td>                 =
+<td width=3D"20"><br></td>                 </tr> <tr> <td height=3D"20" w=
+idth=3D"20"><br></td>                 <td width=3D"260"><br></td>        =
+         <td width=3D"20"><br></td>                 </tr> </tbody></table=
+></td>               </tr> <tr> <td>               <img src=3D"http://app=
+.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJv=
+L2Fnb3BseV8xMjE2L2xpbmUuanBn" height=3D"20" width=3D"300" border=3D"0"> <=
+/td>
+                </tr> </tbody></table></td>         </tr></tbody></table>=
+ <!--[if (gte mso 9)|(IE)]>                         </td>                =
+         </tr>                         </table>       <![endif]--> </td> =
+  </tr> <tr> <td class=3D"two-column" style=3D"text-align:center;font-siz=
+e:0; width: 100%; max-width: 600px"> <!--[if (gte mso 9)|(IE)]>          =
+               <table width=3D"100%" style=3D"border-spacing:0;font-famil=
+y:sans-serif;color:#333333;" border=3D"0"  cellpadding=3D"0" cellspacing=3D=
+"0" >                         <tr>                         <td width=3D"3=
+00" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-right:=
+0;padding-left:0;" >       <![endif]-->              <table class=3D"colu=
+mn" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;text-a=
+lign:center;max-width:300px;display:inline-block;vertical-align:top;margi=
+n-top:0;margin-bottom:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+"><tbody><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right
+ :0;padding-left:0;"><table class=3D"contents" style=3D"border-spacing:0;=
+font-family:sans-serif;color:#333333;font-size:14px;text-align:center;" w=
+idth=3D"300" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody><tr=
+> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" height=3D"250"><table cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0"> <tbody><tr> <td height=3D"20" width=3D"20"><br></td>                =
+ <td width=3D"260"><br></td>                 <td width=3D"20"><br></td>  =
+               </tr> <tr> <td height=3D"210" width=3D"20"><br></td>      =
+           <td width=3D"260">                 <table width=3D"260" align=3D=
+"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody><tr> <td =
+style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">=
+<a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJl=
+bm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bH=
+lkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5=
+JdlkyRnpjWFZsY3kxaGRXUnB
+ ieTl0YjJKcGJHbDBlUzFzWVdJdFkyRnpjWFZsTFhOMFpYSmxieTAxTlRBdGFHVmhaSE5sZEM=
+xdGJETXdNVEU1T0Q5MWRHMWZjMjkxY21ObFBXRm1abWxzYVdVbWRYUnRYMjFsWkdsMWJUMXRZ=
+V2xzYVc1bkpuVjBiVjkwWlhKdFBXbHRZV2RsY0hKdlpIVnBkREltZFhSdFgyTnZiblJsYm5RO=
+WJXRnBiSEJ5YjJSMWFYUmhabVpwYkdsbEpuVjBiVjlqWVcxd1lXbG5iajFoWm1acFRtVnY/dH=
+JhY2thZmY9JmFtcDtncm91cD0mYW1wO3Jncm91cD1wXzE2MjA3" style=3D"font-family:=
+Arial, Helvetica, sans-serif; text-decoration:none ;" target=3D"_blank"><=
+img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW5=
+0LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L3Byb2QyLmpwZw=3D=3D" height=3D"250"=
+ width=3D"260" border=3D"0"></a></td>               </tr> <tr> <td height=
+=3D"65" valign=3D"top" align=3D"left">                 <span style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:16px ; font-weight:norma=
+l; color:#2c2c2c;">Casque st&eacute;r&eacute;o Headset Mobility Lab</span=
+>                 <br> </td> </tr> <tr> <td height=3D"35" valign=3D"top" =
+align=3D"left">                 <span style=3D"font-family:Arial, Helveti=
+ca
+ , sans-serif; font-size:15px ; font-weight:bold; color:#2c2c2c;"> </span=
+> <br></td> </tr> <tr> <td height=3D"50" valign=3D"top" align=3D"left">  =
+                <span style=3D"font-family:Arial, Helvetica, sans-serif; =
+font-size:13px ; font-weight:normal; color:#bd1f2d;">&agrave; partir de<b=
+r></span> <span style=3D"font-family:Arial, Helvetica, sans-serif; font-s=
+ize:16px ; font-weight:bold; color:#bd1f2d;">20,00<sup>HT</sup></span> </=
+td> </tr> <tr> <td height=3D"60" valign=3D"top" align=3D"left"> <a href=3D=
+"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZn=
+I=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29t=
+L3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdlkyRnpjW=
+FZsY3kxaGRXUnBieTl0YjJKcGJHbDBlUzFzWVdJdFkyRnpjWFZsTFhOMFpYSmxieTAxTlRBdG=
+FHVmhaSE5sZEMxdGJETXdNVEU1T0Q5MWRHMWZjMjkxY21ObFBXRm1abWxzYVdVbWRYUnRYMjF=
+sWkdsMWJUMXRZV2xzYVc1bkpuVjBiVjkwWlhKdFBXTjBZWEJ5YjJSMWFYUXlKblYwYlY5amIy=
+NTBaVzUwUFcxaGFXeHdjbTlrZFdsMFlXWm1hV3hwWlNaMWRHMWZZMkZ0Y0dGcFoyND
+ lZV1ptYVU1bGJ3P3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNjIwNw=3D=3D=
+" style=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none=
+ ;" target=3D"_blank"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0=
+cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L2JvdXRvblMuc=
+G5n" style=3D"display:block" height=3D"60" width=3D"260" border=3D"0"></a=
+> </td> </tr> </tbody></table> </td>                 <td width=3D"20"><br=
+></td>                 </tr> <tr> <td height=3D"20" width=3D"20"><br></td=
+>                 <td width=3D"260"><br></td>                 <td width=3D=
+"20"><br></td>                 </tr> </tbody></table></td>               =
+</tr> <tr> <td>               <img src=3D"http://app.directonlus.com/r/?r=
+c=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L2xpb=
+mUuanBn" height=3D"20" width=3D"300" border=3D"0"> </td>               </=
+tr> </tbody></table></td>         </tr></tbody></table> <!--[if (gte mso =
+9)|(IE)]>                         </td><td width=3D"300" valign=3D"top" s=
+tyle=3D"pad
+ ding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >       <![=
+endif]--><table class=3D"column" style=3D"border-spacing:0;font-family:sa=
+ns-serif;color:#333333;text-align:center;max-width:300px;display:inline-b=
+lock;vertical-align:top;margin-top:0;margin-bottom:0;" cellspacing=3D"0" =
+cellpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;pad=
+ding-bottom:0;padding-right:0;padding-left:0;"><table class=3D"contents" =
+style=3D"border-spacing:0;font-family:sans-serif;color:#333333;font-size:=
+14px;text-align:center;" width=3D"300" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0"> <tbody><tr> <td style=3D"padding-top:0;padding-bottom:0;p=
+adding-right:0;padding-left:0;" height=3D"250"><table cellspacing=3D"0" c=
+ellpadding=3D"0" border=3D"0"> <tbody><tr> <td height=3D"20" width=3D"20"=
+><br></td>                 <td width=3D"260"><br></td>                 <t=
+d width=3D"20"><br></td>                 </tr> <tr> <td height=3D"210" wi=
+dth=3D"20"><br></td>                 <td width=3D"260">                 <=
+table width=3D"260
+ " align=3D"left" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbod=
+y><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;paddin=
+g-left:0;"><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZ=
+UB1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGV=
+zLm5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoy=
+OXdiSGt1Wm5JdlpXNTJaV3h2Y0hCbGN5ODFMV1YwYjJsc1pYTXRZbTlwZEdVdFpHVXROVEF3T=
+FdWdWRtVnNiM0J3WlhNdFlteGhibU5vWlhNdE9EQm5MV1JzTFRFeE1IZ3lNakF0YlcwdFptVn=
+VaWFJ5WlMwek5YZ3hNREF0YlcwdFlYVjBieTFoWkdobGMybDJaWE1fZFhSdFgzTnZkWEpqWlQ=
+xaFptWnBiR2xsSm5WMGJWOXRaV1JwZFcwOWJXRnBiR2x1WnlaMWRHMWZkR1Z5YlQxcGJXRm5a=
+WEJ5YjJSMWFYUXpKblYwYlY5amIyNTBaVzUwUFcxaGFXeHdjbTlrZFdsMFlXWm1hV3hwWlNaM=
+WRHMWZZMkZ0Y0dGcFoyNDlZV1ptYVU1bGJ3P3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3=
+JvdXA9cF8xNjIwNw=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif=
+; text-decoration:none ;" target=3D"_blank"><img src=3D"http://app.direct=
+onlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3B
+ seV8xMjE2L3Byb2QzLmpwZw=3D=3D" height=3D"250" width=3D"260" border=3D"0"=
+></a></td>               </tr> <tr> <td height=3D"65" valign=3D"top" alig=
+n=3D"left">                 <span style=3D"font-family:Arial, Helvetica, =
+sans-serif; font-size:16px ; font-weight:normal; color:#2c2c2c;">Lot 500 =
+enveloppes blanches &agrave; fen&ecirc;tre</span>                 <br> </=
+td> </tr> <tr> <td height=3D"35" valign=3D"top" align=3D"left">          =
+       <span style=3D"font-family:Arial, Helvetica, sans-serif; font-size=
+:15px ; font-weight:bold; color:#2c2c2c;"> </span> <br></td> </tr> <tr> <=
+td height=3D"50" valign=3D"top" align=3D"left">                  <span st=
+yle=3D"font-family:Arial, Helvetica, sans-serif; font-size:13px ; font-we=
+ight:normal; color:#bd1f2d;">&agrave; partir de<br></span> <span style=3D=
+"font-family:Arial, Helvetica, sans-serif; font-size:16px ; font-weight:b=
+old; color:#bd1f2d;">15,20<sup>HT</sup></span> </td> </tr> <tr> <td heigh=
+t=3D"60" valign=3D"top" align=3D"left"> <a href=3D"http://app.directonlus=
+.com/r/?m=3Dcm
+ VzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3D=
+aHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIU=
+jBjSE02THk5aFoyOXdiSGt1Wm5JdlpXNTJaV3h2Y0hCbGN5ODFMV1YwYjJsc1pYTXRZbTlwZE=
+dVdFpHVXROVEF3TFdWdWRtVnNiM0J3WlhNdFlteGhibU5vWlhNdE9EQm5MV1JzTFRFeE1IZ3l=
+NakF0YlcwdFptVnVaWFJ5WlMwek5YZ3hNREF0YlcwdFlYVjBieTFoWkdobGMybDJaWE1fZFhS=
+dFgzTnZkWEpqWlQxaFptWnBiR2xsSm5WMGJWOXRaV1JwZFcwOWJXRnBiR2x1WnlaMWRHMWZkR=
+1Z5YlQxamRHRndjbTlrZFdsME15WjFkRzFmWTI5dWRHVnVkRDF0WVdsc2NISnZaSFZwZEdGbV=
+ptbHNhV1VtZFhSdFgyTmhiWEJoYVdkdVBXRm1abWxPWlc4P3RyYWNrYWZmPSZhbXA7Z3JvdXA=
+9JmFtcDtyZ3JvdXA9cF8xNjIwNw=3D=3D" style=3D"font-family:Arial, Helvetica,=
+ sans-serif; text-decoration:none ;" target=3D"_blank"><img src=3D"http:/=
+/app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2Uu=
+cHJvL2Fnb3BseV8xMjE2L2JvdXRvblMucG5n" style=3D"display:block" height=3D"6=
+0" width=3D"260" border=3D"0"></a> </td> </tr> </tbody></table> </td>    =
+             <td width=3D"20"><br></td>                 </tr> <tr> <
+ td height=3D"20" width=3D"20"><br></td>                 <td width=3D"260=
+"><br></td>                 <td width=3D"20"><br></td>                 </=
+tr> </tbody></table></td>               </tr> <tr> <td>               <im=
+g src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50L=
+WVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L2xpbmUuanBn" height=3D"20" width=3D"3=
+00" border=3D"0"> </td>               </tr> </tbody></table></td>        =
+ </tr></tbody></table> <!--[if (gte mso 9)|(IE)]>                        =
+ </td>                         </tr>                         </table>    =
+   <![endif]--> </td>   </tr> <tr> <td style=3D"width:100%; max-width:600=
+px" height=3D"20" align=3D"center" bgcolor=3D"#f5f5f5"> <br></td> </tr> <=
+tr> <td style=3D"width:100%; max-width:600px" height=3D"50" align=3D"cent=
+er" bgcolor=3D"#f5f5f5"> <span style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:19px ; font-weight:bold; color:#000000; text-transform=
+:uppercase">Nos Marchands</span> </td> </tr> <tr> <td class=3D"two-column=
+" styl
+ e=3D"text-align:center;font-size:0; width: 100%; max-width: 600px" bgcol=
+or=3D"#F5F5F5"> <!--[if (gte mso 9)|(IE)]>                         <table=
+ width=3D"100%" style=3D"border-spacing:0;font-family:sans-serif;color:#3=
+33333;" border=3D"0"  cellpadding=3D"0" cellspacing=3D"0" >              =
+           <tr>                         <td width=3D"300" valign=3D"top" =
+style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" =
+>       <![endif]-->              <table class=3D"column" style=3D"border=
+-spacing:0;font-family:sans-serif;color:#333333;text-align:center;max-wid=
+th:300px;display:inline-block;vertical-align:top;margin-top:0;margin-bott=
+om:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td s=
+tyle=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><=
+table class=3D"contents" style=3D"border-spacing:0;font-family:sans-serif=
+;color:#333333;font-size:14px;text-align:center;" width=3D"300" cellspaci=
+ng=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#F5F5F5"><tbody><tr> <=
+td style=3D"padd
+ ing-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><a href=3D"h=
+ttp://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D=
+&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL3Iv=
+Y2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdiSGt1Wm5JdlAzVjBiVjl6Y=
+jNWeVkyVTlZV1ptYVd4cFpTWjFkRzFmYldWa2FYVnRQVzFoYVd4cGJtY21kWFJ0WDNSbGNtMD=
+liV0Z5WTJoaGJtUnpKblYwYlY5amIyNTBaVzUwUFcxaGFXeHdjbTlrZFdsMFlXWm1hV3hwWlN=
+aMWRHMWZZMkZ0Y0dGcFoyNDlZV1ptYVU1bGJ3P3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDty=
+Z3JvdXA9cF8xNjIwNw=3D=3D" target=3D"_blank"><img src=3D"http://app.direct=
+onlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3B=
+seV8xMjE2L2xvZ29vbmUucG5n" height=3D"43" width=3D"300" border=3D"0"></a><=
+/td>               </tr></tbody></table></td>         </tr></tbody></tabl=
+e> <!--[if (gte mso 9)|(IE)]>                         </td><td width=3D"3=
+00" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-right:=
+0;padding-left:0;" >       <![endif]--><table class=3D"column" style=3D"b=
+or
+ der-spacing:0;font-family:sans-serif;color:#333333;text-align:center;max=
+-width:300px;display:inline-block;vertical-align:top;margin-top:0;margin-=
+bottom:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <=
+td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0=
+;"><table class=3D"contents" style=3D"border-spacing:0;font-family:sans-s=
+erif;color:#333333;font-size:14px;text-align:center;" width=3D"300" cells=
+pacing=3D"0" cellpadding=3D"0" border=3D"0" bgcolor=3D"#F5F5F5"><tbody><t=
+r> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-le=
+ft:0;"><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1b=
+ml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DaHR0cDovL25vZGVzLm5=
+waXk3bHlkcmUuY29tL3IvY2xpYy02NzctMjY5LTcwOTEtdXJsLWFIUjBjSE02THk5aFoyOXdi=
+SGt1Wm5JdlAzVjBiVjl6YjNWeVkyVTlZV1ptYVd4cFpTWjFkRzFmYldWa2FYVnRQVzFoYVd4c=
+GJtY21kWFJ0WDNSbGNtMDliV0Z5WTJoaGJtUnpKblYwYlY5amIyNTBaVzUwUFcxaGFXeHdjbT=
+lrZFdsMFlXWm1hV3hwWlNaMWRHMWZZMkZ0Y0dGcFoyNDlZV1ptYVU1bGJ3P3RyYWNrYWZmPSZ=
+hb
+ XA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNjIwNw=3D=3D" target=3D"_blank"><img src=3D=
+"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlc=
+HJpc2UucHJvL2Fnb3BseV8xMjE2L2xvZ290d28ucG5n" height=3D"43" width=3D"300" =
+border=3D"0"></a></td>               </tr></tbody></table></td>         <=
+/tr></tbody></table> <!--[if (gte mso 9)|(IE)]>                         <=
+/td>                         </tr>                         </table>      =
+ <![endif]--> </td>   </tr> <tr> <td style=3D"width:100%; max-width:600px=
+" height=3D"30" align=3D"center" bgcolor=3D"#f5f5f5"> <br></td> </tr> <tr=
+> <td class=3D"two-column" style=3D"text-align:center;font-size:0; width:=
+ 100%; max-width: 600px" bgcolor=3D"#f5f5f5"> <!--[if (gte mso 9)|(IE)]> =
+                        <table width=3D"100%" style=3D"border-spacing:0;f=
+ont-family:sans-serif;color:#333333;" border=3D"0"  cellpadding=3D"0" cel=
+lspacing=3D"0" >                         <tr>                         <td=
+ width=3D"200" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;pad=
+ding-right:0
+ ;padding-left:0;" >       <![endif]-->              <table class=3D"colu=
+mn" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;text-a=
+lign:center;max-width:200px;display:inline-block;vertical-align:top;margi=
+n-top:0;margin-bottom:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0=
+"><tbody><tr> <td style=3D"padding-top:0;padding-bottom:0;padding-right:0=
+;padding-left:0;"><table class=3D"contents" style=3D"border-spacing:0;fon=
+t-family:sans-serif;color:#333333;font-size:14px;text-align:center;" widt=
+h=3D"200" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody><tr> <=
+td>               <table class=3D"contents" style=3D"border-spacing:0;fon=
+t-family:sans-serif;color:#333333;font-size:14px;text-align:center;" widt=
+h=3D"200" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <t=
+d style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;=
+" width=3D"60"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL2F=
+jY29tcGFnbmVtZW50LWVudHJlcHJpc2UucHJvL2Fnb3BseV8xMjE2L3ByaS5wbmc=3D" heig=
+ht=3D"60" width=3D
+ "60" border=3D"0"></td>                 <td style=3D"padding-top:0;paddi=
+ng-bottom:0;padding-right:0;padding-left:0;" width=3D"140" align=3D"left"=
+><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:21px =
+; font-weight:normal; color:#000000; text-transform:uppercase; font-weigh=
+t:normal">PRIX</span></td>                 </tr></tbody></table> </td>   =
+                             </tr> <tr> <td style=3D"padding-top:0;paddin=
+g-bottom:0;padding-right:0;padding-left:0;" height=3D"40" width=3D"200" a=
+lign=3D"left">                 <table class=3D"contents" style=3D"border-=
+spacing:0;font-family:sans-serif;color:#333333;font-size:14px;text-align:=
+center;" width=3D"200" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><=
+tbody><tr> <td width=3D"15"><br></td>               <td height=3D"40" wid=
+th=3D"170" align=3D"left"><span style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:11px ; font-weight:normal; color:#000000;"><em>Optimi=
+sez vos achats pro en achetant au meilleur prix.<br></em></span></td>  <t=
+d width=3D
+ "15"><br></td>  </tr></tbody></table> </td>                             =
+    </tr> <tr> <td height=3D"20" align=3D"center" bgcolor=3D"#f5f5f5"> <b=
+r></td> </tr> </tbody></table></td>         </tr></tbody></table> <!--[if=
+ (gte mso 9)|(IE)]>                         </td><td width=3D"200" valign=
+=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-=
+left:0;" >       <![endif]--><table class=3D"column" style=3D"border-spac=
+ing:0;font-family:sans-serif;color:#333333;text-align:center;max-width:20=
+0px;display:inline-block;vertical-align:top;margin-top:0;margin-bottom:0;=
+" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D=
+"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table c=
+lass=3D"contents" style=3D"border-spacing:0;font-family:sans-serif;color:=
+#333333;font-size:14px;text-align:center;" width=3D"200" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"> <tbody><tr> <td>               <table c=
+lass=3D"contents" style=3D"border-spacing:0;font-family:sans-serif;color:=
+#33333
+ 3;font-size:14px;text-align:center;" width=3D"200" cellspacing=3D"0" cel=
+lpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;paddin=
+g-bottom:0;padding-right:0;padding-left:0;" width=3D"60"><img src=3D"http=
+://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2=
+UucHJvL2Fnb3BseV8xMjE2L0xpdnIucG5n" height=3D"60" width=3D"60" border=3D"=
+0"></td>                 <td style=3D"padding-top:0;padding-bottom:0;padd=
+ing-right:0;padding-left:0;" width=3D"140" align=3D"left"><span style=3D"=
+font-family:Arial, Helvetica, sans-serif; font-size:21px ; font-weight:no=
+rmal; color:#000000; text-transform:uppercase; font-weight:normal">LIVRAI=
+SON</span></td>                 </tr></tbody></table> </td>              =
+                  </tr> <tr> <td style=3D"padding-top:0;padding-bottom:0;=
+padding-right:0;padding-left:0;" height=3D"40" width=3D"200" align=3D"lef=
+t">                 <table class=3D"contents" style=3D"border-spacing:0;f=
+ont-family:sans-serif;color:#333333;font-size:14px;text-align:center;" wi=
+dth=3D"200"=20
+ cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td width=3D=
+"15"><br></td>               <td height=3D"40" width=3D"170" align=3D"lef=
+t"><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11p=
+x ; font-weight:normal; color:#000000;"><em>Livraisons rapides et <br>   =
+              garanties en 24/48/72 h.<br></em></span></td>  <td width=3D=
+"15"><br></td>  </tr></tbody></table> </td>                              =
+  </tr> <tr> <td height=3D"20" align=3D"center" bgcolor=3D"#f5f5f5"> <br>=
+</td> </tr> </tbody></table></td>         </tr></tbody></table> <!--[if (=
+gte mso 9)|(IE)]>                         </td><td width=3D"200" valign=3D=
+"top" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" >       <![endif]--><table class=3D"column" style=3D"border-spacing=
+:0;font-family:sans-serif;color:#333333;text-align:center;max-width:200px=
+;display:inline-block;vertical-align:top;margin-top:0;margin-bottom:0;" c=
+ellspacing=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr> <td style=3D"=
+padding-
+ top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table class=3D"=
+contents" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;=
+font-size:14px;text-align:center;" width=3D"200" cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0"> <tbody><tr> <td>               <table class=3D"=
+contents" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;=
+font-size:14px;text-align:center;" width=3D"200" cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-b=
+ottom:0;padding-right:0;padding-left:0;" width=3D"60"><img src=3D"http://=
+app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlcHJpc2Uuc=
+HJvL2Fnb3BseV8xMjE2L3NlY3UucG5n" height=3D"60" width=3D"60" border=3D"0">=
+</td>                 <td style=3D"padding-top:0;padding-bottom:0;padding=
+-right:0;padding-left:0;" width=3D"140" align=3D"left"><span style=3D"fon=
+t-family:Arial, Helvetica, sans-serif; font-size:21px ; font-weight:norma=
+l; color:#000000; text-transform:uppercase; font-weight:normal">S&Eacute;=
+CURIT&Eacute;<
+ /span></td>                 </tr></tbody></table> </td>                 =
+               </tr> <tr> <td style=3D"padding-top:0;padding-bottom:0;pad=
+ding-right:0;padding-left:0;" height=3D"40" width=3D"200" align=3D"left">=
+                 <table class=3D"contents" style=3D"border-spacing:0;font=
+-family:sans-serif;color:#333333;font-size:14px;text-align:center;" width=
+=3D"200" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"> <tbody><tr> <t=
+d width=3D"15"><br></td>               <td height=3D"40" width=3D"170" al=
+ign=3D"left"><span style=3D"font-family:Arial, Helvetica, sans-serif; fon=
+t-size:11px ; font-weight:normal; color:#000000;"><em>Paiement simple et =
+s&eacute;curis&eacute; Payline. <br></em></span></td>  <td width=3D"15"><=
+br></td>  </tr> <tr> <td height=3D"20" align=3D"center" bgcolor=3D"#f5f5f=
+5"> <br></td> </tr> </tbody></table> </td>                               =
+ </tr> </tbody></table></td>         </tr></tbody></table> <!--[if (gte m=
+so 9)|(IE)]>                         </td>                         </tr> =
+     =20
+                   </table>       <![endif]--> </td>   </tr> <tr> <td sty=
+le=3D"width:100%; max-width:600px" height=3D"50" align=3D"center" bgcolor=
+=3D"#FFFFFF"> <a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taW=
+FnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D65432570615467363415_2&rc=3DdGVsOjA4MDYl=
+MjAxMTAlMjAwMTA=3D" class=3D"disable-link" target=3D"_blank"> <img src=3D=
+"http://app.directonlus.com/r/?rc=3DaHR0cDovL2FjY29tcGFnbmVtZW50LWVudHJlc=
+HJpc2UucHJvL2Fnb3BseV8xMjE2L251bWJlci5qcGc=3D" height=3D"80" width=3D"300=
+" border=3D"0"></a> </td> </tr> </tbody></table> <!--[if gte mso 7]> </td=
+></tr></table> <![endif]--><!--[if gte mso 8]> </td></tr></table> <![endi=
+f]--><!--[if gte mso 9]> </td></tr></table> <![endif]--><!--[if (gte mso =
+9)|(IE)]> </td></tr></table> <![endif]--> </center> <img alt=3D"" src=3D"=
+http://app.directonlus.com/r/?rc=3DaHR0cDovL25vZGVzLm5waXk3bHlkcmUuY29tL2=
+1haWxpbmctNjc3LTI2OS03MDkxP3Jncm91cD1wXzE2MjA3JmFtcDtncm91cD0=3D" height=3D=
+"1" width=3D"1" border=3D"0">   <img src=3D"http://app.directonlus.com/t/=
+?i=3D654325706154673
+ 63415_2&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.=
+directonlus.com/images/blank.jpg" alt=3D"_pspacer5"  /><p>
+<a href=3D"http://app.directonlus.com/d/?camp=3D65432570615467363415_2&ms=
+=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Ne plus recevoir d'informations de notre part" style=3D"color:#00F; font=
+-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&ea=
+cute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute=
+; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_3c80f0374d849beccba9b63e007a8705--
+

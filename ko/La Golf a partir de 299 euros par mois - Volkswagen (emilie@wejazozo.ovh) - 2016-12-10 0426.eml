@@ -1,0 +1,811 @@
+Return-Path: <bounce-id=D347=U138540.cluster017.ovh.net=1481340416.68-UWAJZ@110-prod.mail-out.ovh.net>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 12 Dec 2016 10:11:24 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id AE24C47
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:11:24 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id AB8AA601A0
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:11:24 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id QoC2U_fvNfRL for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 12 Dec 2016 10:11:24 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 8E3C8600ED
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:11:24 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 6185620033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:11:24 +0100 (CET)
+Received: from 9.mo152.mail-out.ovh.net (9.mo152.mail-out.ovh.net [46.105.72.114])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb1-2.relay.renater.fr (asm) with ESMTPS id 29778280166
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:11:15 +0100 (CET)
+Received: from 110.mail-out.ovh.net (unknown [10.108.8.54])
+	by mo152.mail-out.ovh.net (Postfix) with ESMTP id C19BA447F1
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:11:23 +0100 (CET)
+Received: from 110.mail-out.ovh.net (localhost [127.0.0.1])
+	by 110.mail-out.ovh.net (Postfix) with ESMTP id A5AD9208AC
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:11:22 +0100 (CET)
+Received: from cluster017.ovh.net (gw-cluster017.ovh.net [213.251.182.117])
+ by 110.mail-out.ovh.net (Postfix) with ESMTP id 20BBC20031
+ for <resp-m2-miage@univ-rennes1.fr>; Sat, 10 Dec 2016 04:26:56 +0100 (CET)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+ by localhost.domain.tld (Postfix) with ESMTP id E8A1881EF5
+ for <resp-m2-miage@univ-rennes1.fr>; Sat, 10 Dec 2016 04:26:52 +0100 (CET)
+Received: by cluster017.ovh.net (Postfix, from userid 138540)
+ id DE1A7827CE; Sat, 10 Dec 2016 04:26:52 +0100 (CET)
+To: resp-m2-miage@univ-rennes1.fr
+Subject: La Golf a partir de 299 euros par mois
+Date: Sat, 10 Dec 2016 04:26:52 +0100
+From: Volkswagen <emilie@wejazozo.ovh>
+Message-ID: <b7cf16ebc921b2083c1370f10ae5bd70@www.wejazozo.ovh>
+X-Mailer: PHPMailer 
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_b7cf16ebc921b2083c1370f10ae5bd70"
+Content-Transfer-Encoding: 8bit
+X-Ovh-Tracer-Id: 8502796098766947847
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrfeelfedriedugdehfecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfqggfjpdevjffgvefmvefgnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmd
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 46.105.72.114
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedriedugdehgecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefvufffhffkofggtgfgsegrkehjphehtdejnecuhfhrohhmpeggohhlkhhsfigrghgvnhcuoegvmhhilhhivgesfigvjhgriihoiihordhovhhhqeenucffohhmrghinhepihhvkhhvhihmnhgsthhhgihrihhmfhhsrdgtohhmpdifvghjrgiiohiiohdrohhvhhdpohhrihgrshdrfhhrnecukfhppeegiedruddthedrjedvrdduudegpddvudefrddvhedurddukedvrdduudejnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopeelrdhmohduhedvrdhmrghilhdqohhuthdrohhvhhdrnhgvthdpihhnvghtpeegiedruddthedrjedvrdduudegpdhmrghilhhfrhhomhepsghouhhntggvqdhiugepffefgeejpegfudefkeehgedtrdgtlhhushhtvghrtddujedrohhvhhdrnhgvthepudegkedufeegtdegudeirdeikedqfgghteflkgesuddutddqphhrohgurdhmrghilhdqohhuthdrohhvhhdrnhgvthdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+This is a multi-part message in MIME format.
+
+--b1_b7cf16ebc921b2083c1370f10ae5bd70
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+            Volkswagen          body {  =09-webkit-text-size-adjust: 100%; =
+ =09-ms-text-size-adjust: 100%;  }  .ExternalClass {  =09width: 100%;  }  .=
+ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, =
+.ExternalClass td, .ExternalClass th, .ExternalClass div {  =09line-height:=
+ 120%;  }  #outlook a {  =09padding: 0;  }  table {  =09mso-table-lspace: 0=
+pt;  =09mso-table-rspace: 0pt;  }  img {  =09-ms-interpolation-mode: bicubi=
+c;  }    body {  =09margin: 0;  =09padding: 0;  }  img {  =09border: 0 none=
+;  =09height: auto;  =09line-height: 100%;  =09outline: none;  =09text-deco=
+ration: none;  }  .imageFix{  =09display:block;  }  a img {  =09border: 0 n=
+one;  }  table, td, th {  =09border-collapse: collapse;  }  th {  =09font-w=
+eight:normal;  }  .bodyTable {  =09height: 100% !important;  =09margin: 0; =
+ =09padding: 0 15px;  =09width: 100% !important;  =09line-height:1.4;  }   =
+           .text,  .text a{  =09font-family: Arial, Helvetica, sans-serif; =
+ =09color: #646464;  =09font-size: 18px;  =09text-decoration: none;  }  .ti=
+tle,  .title a{  =09font-family: Arial, Helvetica, sans-serif;  =09text-dec=
+oration: none;  }  .section_header .miroir a{  =09text-decoration: underlin=
+e;  }  .more_btn a {  =09font-size: 12px;  =09color: #09bef2;  =09text-deco=
+ration: none;  =09font-family: Arial, Helvetica, sans-serif;  }  .btn1{  =
+=09background: #09bef2;  }  .btn2{  =09background: #09bef2;  =09color: #FFF=
+FFF;  }  .btn1 a,  .btn2 a{  =09font-family: Arial, Helvetica, sans-serif; =
+ =09width: 100%;  =09display: block;  =09text-align: center;  =09text-decor=
+ation: none;  =09color: #FFFFFF;  =09border: 1px solid #F48E37;  =09backgro=
+und-color: #FF9300;  }  .btn1 a{  =09font-size: 15px;  =09padding: 10px 0; =
+ }  .btn2 a{  =09font-size: 20px;  =09padding: 15px 0;  =09color: #FFFFFF; =
+ }  .space {  =09font-size: 1px;  =09line-height: 1px;  =09color: #06C;  } =
+ .border_top{  =09border-top:1px solid #e6e6e6;  }  .border_bottom{  =09bor=
+der-bottom:1px solid #e6e6e6;  }  .full_width{  =09width:100%;  }          =
+      .section_header .miroir{  =09padding:5px 0 10px 0;  }  .menu_elmt{  =
+=09display: inline-block;   }  .bloc_title{  =09padding:15px;  }  .content =
+.title1,  .content .title3,  .content .body,  .color_bloc_text{  =09padding=
+-bottom:15px;  }  .content .bloc_title a,  .content .title1 a,  .content .t=
+itle2 a,  .content .title3 a{  =09text-decoration:none;  }  .full_img{  =09=
+width: 100% !important;  }  .lateral_border{  =09border-left: 1px solid #e6=
+e6e6;  =09border-right: 1px solid #e6e6e6;  }  .bottom_border{  =09border-b=
+ottom: 1px solid #e6e6e6;  }  .sepa{  =09height: 1px;  =09border-bottom: 1p=
+x solid #e6e6e6;  }  .space_sepa{  =09height: 1px;  =09border-bottom: 1px s=
+olid #f5f5f5;  }  .white_bloc{  =09padding: 25px 20px;  =09border:1px solid=
+ #e6e6e6;  }              @media only screen and (max-width: 600px) {  =09*=
+[class].w320{  =09=09width:320px !important;  =09}  =09*[class].w318{  =09=
+=09width:318px !important;  =09}  =09*[class].w290{  =09=09width:290px !imp=
+ortant;  =09}  =09*[class].w288{  =09=09width:288px !important;  =09}  =09*=
+[class].h10{  =09=09height:10px !important;  =09}  =09*[class].h20{  =09=09=
+height:20px !important;  =09}  =09*[class].h30{  =09=09height:30px !importa=
+nt;  =09}  =09*[class].m_center{  =09=09text-align:center !important;  =09}=
+  =09*[class].m_block{  =09=09display:block !important;  =09}  =09*[class].=
+m_fullwidth{  =09=09width:100%;  =09}  =09*[class].m_hide{  =09=09display:n=
+one !important;  =09}  =09*[class].m_w15{  =09=09width: 15px !important;  =
+=09}  =09*[class].produit > table,  =09*[class].produit_seul > table{  =09=
+=09width:270px !important;  =09}  =09*[class].produit_seul .content td{  =
+=09=09padding-left:20px;  =09=09padding-right:20px;  =09}  =09*[class].cont=
+ent .text{  =09=09height:auto !important;  =09}  =09*[class].a_center{  =09=
+=09text-align: center !important;  =09}  =09*[class].bloc_connecte{  =09=09=
+padding-bottom: 15px;   =09}  }                .section_header .miroir,  .s=
+ection_header .miroir a{  =09font-size:10px;  }  .section_header .text,  .s=
+ection_header .text a{  =09color:#808080;  }  .section_header .preheader{  =
+=09font-size:13px;  }  .section_header .miroir{  =09font-size:10px;  }  .se=
+ction_header .info{  =09font-size:11px;  }  .section_header .btn{  =09borde=
+r: 1px solid #0058a2;  =09color: #0058a2;  }  .section_header .warning {  =
+=09font-family: Arial, Helvetica, sans-serif;  =09font-size: 11px;  =09colo=
+r: #323232;  =09font-weight: bold;  =09text-align: center;  }  .warning_ctr=
+{  =09border: 1px solid #6c6c6c;  }        .bloc_title,  .bloc_title a{  =
+=09font-size:16px;  =09color:#000000;  }  .content .body,  .content .body a=
+{  =09color:#4c4c4c;  }  .content .title1,  .content .title1 a{  =09font-si=
+ze:18px;  =09color: #323232;  }  .content .title2,  .content .title2 a{  =
+=09font-size:14px;  =09color: #323232;  =09font-weight: bold;  =09text-alig=
+n: center;  }  .content .title3,  .content .title3 a{  =09font-size:25px;  =
+=09color: #323232;  =09font-weight: bold;  =09text-align: center;  }  .cont=
+ent .bull{  =09font-size: 14px;  =09color: #c8c8c8;=09  }  .content .white_=
+bloc,  .content .white_bloc a{  =09font-size: 15px;  =09color:#323232;=09  =
+=09font-family: Arial, Helvetica, sans-serif;  }        .bloc_connecte,  .b=
+loc_connecte a{  =09font-family: Arial, Helvetica, sans-serif;  =09text-dec=
+oration: none;=09  =09color: #000000;  =09font-size: 12px;  }      .section=
+_mentions .text,  .section_mentions .text a{  =09font-size:10px;  =09color:=
+#9c9c9c;  }              .produit .title{  =09height:35px;    }  .produit .=
+text{  =09height:65px;  =09vertical-align: top;  }                @media on=
+ly screen and (max-width: 600px) {  =09*[class].logo{  =09=09margin-bottom:=
+ 10px;  =09}  =09*[class].cover{  =09=09display:block;  =09=09width:320px !=
+important;  =09=09height:330px !important;  =09=09background-image:url(imag=
+es/mobile.jpg);  =09=09background-repeat:no-repeat;  =09=09background-posit=
+ion:top;  =09}  =09*[class].menu_elmt {  =09=09margin: 5px 0;  =09}  =09*[c=
+lass].hiddendesktop {  =09=09display: inline-block !important;  =09}  =09*[=
+class].hiddenmobile {  =09=09display: none !important;  =09}  =09.btn1,  =
+=09.btn2{  =09=09background: none !important;  =09=09padding: 0 !important;=
+  =09}  =09.btn1{  =09=09padding: 10px;  =09}  =09.btn2{  =09=09padding: 15=
+px 10px;  =09}  }                =09  =09      =09=09=09=09    =C2=A0  =09=
+=09=09=09=09    Si cet email ne s'affiche pas correctement, vous pouvez acc=
+=C3=A9der =C3=A0 la version en ligne.  =09=09=09=09=09    =C2=A0  =09=09=09=
+=09=09      =09=09      =09=09=09=09      =C2=A0  =09=09=09=09=09=09=09=09 =
+ =C2=A0  =09=09=09=09=09=09=09=09  =C2=A0  =09=09=09=09=09=09      =C2=
+=A0                                        =09=09=09=09=09=09=09=09=09=09=
+=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09                            =
+                                              =C2=A0                       =
+               =C2=A0                                    =C2=A0            =
+                        =C2=A0                                      =09=09=
+=09=09=09    =09=09            =09=09=09=09    =09=09=09=09=09=09=09  =09=
+=09=09=09=09=09=09=09                                =09=09=09=09=09=09  =
+=09=09=09=09=09    =09=09      =09=09=09=09    =09=09=09=09=09=09=09  =
+=C2=A0  =09=09=09=09=09=09=09=09=09Equipements  =09=09=09=09=09=09=09=09=09=
+=C2=A0  =09=09=09=09=09=09=09=09    =09=09=09=09=09    =09=09      =09=09=
+=09=09    =09=09=09=09=09=09=09  =C2=A0  =09=09=09=09=09=09=09=09=09  =09=
+=09=09=09=09=09=09=09=09=09    =09=09=09=09=09=09=09=09=09=09=09=09=09    =
+=E2=80=A2  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09Cam=C3=A9ra de recul  =09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=09=09    =
+=E2=80=A2  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09R=C3=A9gulateur de vitesse adaptatif ACC  =
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09    =E2=80=A2  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09Phares bi-X=C3=A9non dire=
+ctionnels  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09      =09=09=09=09=09=09=09=09=09=09=09    =09=
+=09=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09=09  =09=09=09=09=
+=09=09=09=09=09=09    =09=09=09=09=09=09=09=09=09=09=09=09=09    =E2=80=
+=A2  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09Syst=C3=A8me de freinage automatique =E2=80=
+=98Front Assist=E2=80=99  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09  =
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09    =E2=80=A2  =09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09Radionavigation connect=C3=A9e avec Car-Net =E2=80=98Guide&amp;inform=
+=E2=80=99 et =E2=80=98App-Connect=E2=80=99=C2=AE(4)  =09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=09=09      =
+=09=09=09=09=09=09=09=09=09=09=09    =09=09=09=09=09=09=09=09=09=C2=A0  =09=
+=09=09=09=09=09=09=09    =09=09=09=09=09    =09=09      =09=09=09=09    =09=
+=09=09=09=09=09=09  =C2=A0  =09=09=09=09=09=09=09=09    =09=09=09=09=09    =
+=09=09      =09=09=09=09    =09=09=09=09=09=09=09  =C2=A0  =09=09=09=09=09=
+=09=09=09=09  =09=09=09=09=09=09=09=09=09=09         =09=09=09=09=09=09=09=
+=09=09=09=09      =09=09=09=09=09=09=09=09=09=09=09=09=09  =C2=A0  =09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=
+=09=09=09=09=09=09    =09=09=09=09=09=09=09=09=09=09=09      =09=09=09=09=
+=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=
+=09=09=09      =09=09=09=09=09=09=09=09=09=09=09      =09=09=09=09=09=09=09=
+=09=09=09=09=09=09    =C2=A0  =09=09=09=09=09=09=09=09=09=09=09=09=09=09   =
+ =C2=A0  =09=09=09=09=09=09=09=09=09=09=09=09=09=09      =09=09=09=09=09=09=
+=09=09=09=09=09      =09=09=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=
+=09=09    =09=09=09=09=09    =09=09      =09=09=09=09    =09=09=09=09=09=09=
+=09  =C2=A0  =09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09   =
+ =09=09=09=09=09=09=09=09=09=09=09=09=09D=C3=A9couvrez l'offre  =09=09=09=
+=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09    =09=09=09=
+=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09    =09=09=09=09=09    =
+=09=09      =09=09=09=09    =09=09=09=09=09=09=09  =C2=A0  =09=09=09=09=09=
+=09=09=09    =09=09=09=09=09    =09=09            =09=09=09=09    =09=09=09=
+=09=09=09=09    =C2=A0  =09=09=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=
+=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09    =C2=A0  =09=09=09=09=09=09=
+=09=09=09  =09=09=09=09=09=09=09=09=09=09RESTEZ CONNECT=C3=89 AVEC VOLKSWAG=
+EN SUIVEZ-NOUS SUR  =09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=
+=09  =09=09=09=09=09=09=09=09=09=09  =C2=A0  =09=09=09=09=09=09=09=09=09=09=
+=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=
+=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=
+=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=
+=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=C2=A0  =
+=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=
+=09  =09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=
+=09=09=C2=A0  =09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=
+=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=
+=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09=09=09=09=09  =09=09=
+=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09  =
+=09=09=09=09=09=09=09=09=09=09=09    =09=09=09=09=09=09=09=09=09=C2=A0  =09=
+=09=09=09=09=09=09=09    =C2=A0  =09=09=09=09=09=09=09=09=09=C2=A0  =09=09=
+=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09      =09=09=09=09=09 =
+   =09=09      =09=09=09=09    =09=09=09=09=09=09=09    =C2=A0  =09=09=09=
+=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=
+=09=09=09=09    =C2=A0  =09=09=09=09=09=09=09=09=09    =09=09=09=09=09=09=
+=09=09=09    =09=09=09=09=09=09=09=09=09      =09=09=09=09=09=09=09=09=09  =
+    Volkswagen Group France - s.a. - R.C.S. Soissons B 602 025 538   =09=09=
+=09=09=09=09=09=09          =09=09=09=09=09=09=09=09        =09=09=09=09=09=
+=09=09=09=09    =09=09=09=09=09=09=09=09=09      =09=09=09=09=09=09=09=09=
+=09      LLD sur 36 mois avec perte financi=C3=A8re,(2) contrat de maintena=
+nce aux professionnels et v=C3=A9hicule de remplacement inclus.(3) Offre va=
+lable du 01/09/2016 au 31/12/2016.   =09=09=09=09=09=09=09=09=09      Mod=
+=C3=A8le pr=C3=A9sent=C3=A9 : Golf MATCH Allstar 5 portes 1.6 TDI 110 BVM5 =
+au prix catalogue de 27 830 =E2=82=AC TTC. Tarifs au 28 avril 2016 - Mise =
+=C3=A0 jour du 18 juillet 2016. Cycle mixte (l/100 km) : 3,8. Rejets de CO2=
+ (g/km) : 99.   =09=09=09=09=09=09=09=09=09      *S=C3=A9rie Limit=C3=A9e d=
+ans la limite des stocks disponibles. (1) Offre de Location Longue Dur=
+=C3=A9e sur 36 mois et 45 000 km avec apport pour une Golf MATCH Allstar 5 =
+portes 1.6 TDI 110 BVM5, soit un 1er loyer major=C3=A9 de 707 =E2=82=AC TTC=
+ et 35 loyers de 299 =E2=82=AC TTC. R=C3=A9serv=C3=A9e =C3=A0 la client=
+=C3=A8le professionnelle, hors taxis, loueurs et flottes, chez tous les Dis=
+tributeurs Volkswagen pr=C3=A9sentant ce financement, sous r=C3=A9serve d=
+=E2=80=99acceptation du dossier par Volkswagen Fleet Solutions division de =
+Volkswagen Bank GmbH =E2=80=93 SARL de droit allemand =E2=80=93 Capital 318=
+ 279 200 =E2=82=AC - Succursale France : B=C3=A2timent Ellipse, 15 Avenue d=
+e la Demi-Lune, 95 700 Roissy en France - RCS Pontoise 451 618 904 - Mandat=
+aire d=E2=80=99assurance et mandataire d=E2=80=99interm=C3=A9diaire d=
+=E2=80=99assurance enregistr=C3=A9 =C3=A0 l=E2=80=99ORIAS : 08 040 267 (www=
+.orias.fr). Montants exprim=C3=A9s TTC, hors prestations facultatives. (2) =
+Perte Financi=C3=A8re obligatoire incluse dans les loyers souscrite aupr=
+=C3=A8s de MMA IARD Assurances Mutuelles - Soci=C3=A9t=C3=A9 d=E2=80=99assu=
+rance mutuelle =C3=A0 cotisations fixes - RCS Le Mans 775 652 126 et MMA IA=
+RD - Soci=C3=A9t=C3=A9 Anonyme au capital de 537 052 368 euros - RCS Le Man=
+s 440 048 882 - si=C3=A8ges sociaux : 14 bvd Marie et Alexandre Oyon - 72 0=
+30 Le Mans cedex 9. Entreprises r=C3=A9gies par le code des assurances. (3)=
+ Contrat de Maintenance obligatoire souscrit aupr=C3=A8s de Volkswagen Bank=
+ GmbH ; Garantie V=C3=A9hicule de Remplacement incluse dans les loyers, sou=
+scrite aupr=C3=A8s d=E2=80=99Europ Assistance France SA =E2=80=93 RCS Nante=
+rre 451 366 405 : Entreprises r=C3=A9gies par le Code des assurances et sou=
+mises =C3=A0 l=E2=80=99Autorit=C3=A9 de Contr=C3=B4le Prudentiel (ACP) - 61=
+ rue Taitbout 75 009 PARIS. (4) Car-Net App-Connect disponible avec smartph=
+one compatible (liste sur vw.fr), abonnement adapt=C3=A9 et en zone couvert=
+e (3G/4G).   =09=09=09=09=09=09=09=09          =09=09=09=09=09=09=09=09    =
+    =09=09=09=09=09=09=09=09      =C2=A0Se d=C3=A9sinscrire     =09=09=09=
+=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09    =C2=A0  =09=09=09=09=
+=09=09=09=09=09=C2=A0  =09=09=09=09=09=09=09=09=09=C2=A0  =09=09=09=09=09=
+=09=09=09      =09=09=09=09=09    =09=09        =C2=A0  =09=09      
+
+--b1_b7cf16ebc921b2083c1370f10ae5bd70
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns=3D"http://www.w=
+3.org/1999/xhtml">  <head>  <meta http-equiv=3D"Content-Type" content=3D"te=
+xt/html; charset=3DUTF-8">  <meta name=3D"format-detection" content=3D"tele=
+phone=3Dno">  <meta name=3D"viewport" content=3D"width=3Ddevice-width, user=
+-scalable=3Dno">  <title>Volkswagen</title>  <style type=3D"text/css">     =
+   body {  =09-webkit-text-size-adjust: 100%;  =09-ms-text-size-adjust: 100=
+%;  }  .ExternalClass {  =09width: 100%;  }  .ExternalClass, .ExternalClass=
+ p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalC=
+lass th, .ExternalClass div {  =09line-height: 120%;  }  #outlook a {  =09p=
+adding: 0;  }  table {  =09mso-table-lspace: 0pt;  =09mso-table-rspace: 0pt=
+;  }  img {  =09-ms-interpolation-mode: bicubic;  }    body {  =09margin: 0=
+;  =09padding: 0;  }  img {  =09border: 0 none;  =09height: auto;  =09line-=
+height: 100%;  =09outline: none;  =09text-decoration: none;  }  .imageFix{ =
+ =09display:block;  }  a img {  =09border: 0 none;  }  table, td, th {  =09=
+border-collapse: collapse;  }  th {  =09font-weight:normal;  }  .bodyTable =
+{  =09height: 100% !important;  =09margin: 0;  =09padding: 0 15px;  =09widt=
+h: 100% !important;  =09line-height:1.4;  }              .text,  .text a{  =
+=09font-family: Arial, Helvetica, sans-serif;  =09color: #646464;  =09font-=
+size: 18px;  =09text-decoration: none;  }  .title,  .title a{  =09font-fami=
+ly: Arial, Helvetica, sans-serif;  =09text-decoration: none;  }  .section_h=
+eader .miroir a{  =09text-decoration: underline;  }  .more_btn a {  =09font=
+-size: 12px;  =09color: #09bef2;  =09text-decoration: none;  =09font-family=
+: Arial, Helvetica, sans-serif;  }  .btn1{  =09background: #09bef2;  }  .bt=
+n2{  =09background: #09bef2;  =09color: #FFFFFF;  }  .btn1 a,  .btn2 a{  =
+=09font-family: Arial, Helvetica, sans-serif;  =09width: 100%;  =09display:=
+ block;  =09text-align: center;  =09text-decoration: none;  =09color: #FFFF=
+FF;  =09border: 1px solid #F48E37;  =09background-color: #FF9300;  }  .btn1=
+ a{  =09font-size: 15px;  =09padding: 10px 0;  }  .btn2 a{  =09font-size: 2=
+0px;  =09padding: 15px 0;  =09color: #FFFFFF;  }  .space {  =09font-size: 1=
+px;  =09line-height: 1px;  =09color: #06C;  }  .border_top{  =09border-top:=
+1px solid #e6e6e6;  }  .border_bottom{  =09border-bottom:1px solid #e6e6e6;=
+  }  .full_width{  =09width:100%;  }                .section_header .miroir=
+{  =09padding:5px 0 10px 0;  }  .menu_elmt{  =09display: inline-block;   } =
+ .bloc_title{  =09padding:15px;  }  .content .title1,  .content .title3,  .=
+content .body,  .color_bloc_text{  =09padding-bottom:15px;  }  .content .bl=
+oc_title a,  .content .title1 a,  .content .title2 a,  .content .title3 a{ =
+ =09text-decoration:none;  }  .full_img{  =09width: 100% !important;  }  .l=
+ateral_border{  =09border-left: 1px solid #e6e6e6;  =09border-right: 1px so=
+lid #e6e6e6;  }  .bottom_border{  =09border-bottom: 1px solid #e6e6e6;  }  =
+.sepa{  =09height: 1px;  =09border-bottom: 1px solid #e6e6e6;  }  .space_se=
+pa{  =09height: 1px;  =09border-bottom: 1px solid #f5f5f5;  }  .white_bloc{=
+  =09padding: 25px 20px;  =09border:1px solid #e6e6e6;  }              @med=
+ia only screen and (max-width: 600px) {  =09*[class].w320{  =09=09width:320=
+px !important;  =09}  =09*[class].w318{  =09=09width:318px !important;  =09=
+}  =09*[class].w290{  =09=09width:290px !important;  =09}  =09*[class].w288=
+{  =09=09width:288px !important;  =09}  =09*[class].h10{  =09=09height:10px=
+ !important;  =09}  =09*[class].h20{  =09=09height:20px !important;  =09}  =
+=09*[class].h30{  =09=09height:30px !important;  =09}  =09*[class].m_center=
+{  =09=09text-align:center !important;  =09}  =09*[class].m_block{  =09=09d=
+isplay:block !important;  =09}  =09*[class].m_fullwidth{  =09=09width:100%;=
+  =09}  =09*[class].m_hide{  =09=09display:none !important;  =09}  =09*[cla=
+ss].m_w15{  =09=09width: 15px !important;  =09}  =09*[class].produit > tabl=
+e,  =09*[class].produit_seul > table{  =09=09width:270px !important;  =09} =
+ =09*[class].produit_seul .content td{  =09=09padding-left:20px;  =09=09pad=
+ding-right:20px;  =09}  =09*[class].content .text{  =09=09height:auto !impo=
+rtant;  =09}  =09*[class].a_center{  =09=09text-align: center !important;  =
+=09}  =09*[class].bloc_connecte{  =09=09padding-bottom: 15px;   =09}  }    =
+            .section_header .miroir,  .section_header .miroir a{  =09font-s=
+ize:10px;  }  .section_header .text,  .section_header .text a{  =09color:#8=
+08080;  }  .section_header .preheader{  =09font-size:13px;  }  .section_hea=
+der .miroir{  =09font-size:10px;  }  .section_header .info{  =09font-size:1=
+1px;  }  .section_header .btn{  =09border: 1px solid #0058a2;  =09color: #0=
+058a2;  }  .section_header .warning {  =09font-family: Arial, Helvetica, sa=
+ns-serif;  =09font-size: 11px;  =09color: #323232;  =09font-weight: bold;  =
+=09text-align: center;  }  .warning_ctr{  =09border: 1px solid #6c6c6c;  } =
+       .bloc_title,  .bloc_title a{  =09font-size:16px;  =09color:#000000; =
+ }  .content .body,  .content .body a{  =09color:#4c4c4c;  }  .content .tit=
+le1,  .content .title1 a{  =09font-size:18px;  =09color: #323232;  }  .cont=
+ent .title2,  .content .title2 a{  =09font-size:14px;  =09color: #323232;  =
+=09font-weight: bold;  =09text-align: center;  }  .content .title3,  .conte=
+nt .title3 a{  =09font-size:25px;  =09color: #323232;  =09font-weight: bold=
+;  =09text-align: center;  }  .content .bull{  =09font-size: 14px;  =09colo=
+r: #c8c8c8;=09  }  .content .white_bloc,  .content .white_bloc a{  =09font-=
+size: 15px;  =09color:#323232;=09  =09font-family: Arial, Helvetica, sans-s=
+erif;  }        .bloc_connecte,  .bloc_connecte a{  =09font-family: Arial, =
+Helvetica, sans-serif;  =09text-decoration: none;=09  =09color: #000000;  =
+=09font-size: 12px;  }      .section_mentions .text,  .section_mentions .te=
+xt a{  =09font-size:10px;  =09color:#9c9c9c;  }              .produit .titl=
+e{  =09height:35px;    }  .produit .text{  =09height:65px;  =09vertical-ali=
+gn: top;  }                @media only screen and (max-width: 600px) {  =09=
+*[class].logo{  =09=09margin-bottom: 10px;  =09}  =09*[class].cover{  =09=
+=09display:block;  =09=09width:320px !important;  =09=09height:330px !impor=
+tant;  =09=09background-image:url(images/mobile.jpg);  =09=09background-rep=
+eat:no-repeat;  =09=09background-position:top;  =09}  =09*[class].menu_elmt=
+ {  =09=09margin: 5px 0;  =09}  =09*[class].hiddendesktop {  =09=09display:=
+ inline-block !important;  =09}  =09*[class].hiddenmobile {  =09=09display:=
+ none !important;  =09}  =09.btn1,  =09.btn2{  =09=09background: none !impo=
+rtant;  =09=09padding: 0 !important;  =09}  =09.btn1{  =09=09padding: 10px;=
+  =09}  =09.btn2{  =09=09padding: 15px 10px;  =09}  }        </style>  </he=
+ad>  <body bgcolor=3D"#ffffff" style=3D"-webkit-text-size-adjust:100%;-ms-t=
+ext-size-adjust:100%;margin-top:0;margin-bottom:0;margin-right:0;margin-lef=
+t:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">    =09=
+<!-- SECTION : HEADER_TEXT -->  =09<table class=3D"bodyTable section_header=
+" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collap=
+se:collapse;height:100% !important;margin-top:0;margin-bottom:0;margin-righ=
+t:0;margin-left:0;padding-top:0;padding-bottom:0;padding-right:15px;padding=
+-left:15px;width:100% !important;line-height:1.4;">  <tr>  <td align=3D"cen=
+ter" style=3D"border-collapse:collapse;">  =09=09=09=09<table class=3D"w290=
+" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" widt=
+h=3D"650" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collaps=
+e:collapse;">  <tr>  <td class=3D"space" height=3D"10" style=3D"border-coll=
+apse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09<=
+/tr>  <tr>  <td class=3D"text miroir" align=3D"center" style=3D"border-coll=
+apse:collapse;font-family:Arial, Helvetica, sans-serif;text-decoration:none=
+;padding-top:5px;padding-bottom:10px;padding-right:0;padding-left:0;color:#=
+808080;font-size:10px;">Si cet email ne s'affiche pas correctement, vous po=
+uvez acc=C3=A9der =C3=A0 la <a href=3D"http://wejazozo.ovh/cls/client8/glof=
+09122016/pyguro.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l"=
+ target=3D"_blank" style=3D"font-family:Arial, Helvetica, sans-serif;text-d=
+ecoration:underline;font-size:10px;color:#808080;">version en ligne</a>.</t=
+d>  =09=09=09=09=09</tr>  <tr>  <td class=3D"space" height=3D"10" style=3D"=
+border-collapse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=
+=09=09=09=09</tr>  </table>  </td>  =09=09</tr>  <!-- BLOC : Logo VW + Titr=
+e news --><tr>  <td align=3D"center" style=3D"border-collapse:collapse;">  =
+=09=09=09=09<table class=3D"w320" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"650" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;bo=
+rder-collapse:collapse;"><tr>  <td class=3D"w318" style=3D"border-width:1px=
+;border-style:solid;border-color:#e6e6e6;border-collapse:collapse;"><table =
+class=3D"w318" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"64=
+8" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:colla=
+pse;">  <tr>  <td width=3D"30" style=3D"border-collapse:collapse;">=C2=
+=A0</td>  =09=09=09=09=09=09=09=09  <td class=3D"space" height=3D"20" style=
+=3D"border-collapse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =
+=09=09=09=09=09=09=09=09  <td width=3D"30" style=3D"border-collapse:collaps=
+e;">=C2=A0</td>  =09=09=09=09=09=09  </tr>  <tr>  <td width=3D"30" style=3D=
+"border-collapse:collapse;">=C2=A0</td>                                    =
+<td style=3D"border-collapse:collapse;"><table cellpadding=3D"0" cellspacin=
+g=3D"0" border=3D"0" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;bor=
+der-collapse:collapse;"><tr>  <td class=3D"" width=3D"190" valign=3D"middle=
+" style=3D"border-collapse:collapse;">  =09=09=09=09=09=09=09=09=09=09=09=
+=09=09<a href=3D"http://wejazozo.ovh/cls/client8/glof09122016/naramo.php?em=
+ail=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank"><im=
+g src=3D"http://wejazozo.ovh/3996/client8/glof09122016/tajigo/jpeg" alt=3D"=
+Volkswagen" style=3D"-ms-interpolation-mode:bicubic;height:auto;line-height=
+:100%;outline-style:none;text-decoration:none;border-width:0;border-style:n=
+one;"></a>  =09=09=09=09=09=09=09=09=09=09=09=09</td>                      =
+                </tr></table></td>                                    <td w=
+idth=3D"30" style=3D"border-collapse:collapse;">=C2=A0</td>                =
+                  </tr>  <tr>  <td width=3D"30" style=3D"border-collapse:co=
+llapse;">=C2=A0</td>                                    <td class=3D"space"=
+ height=3D"20" style=3D"border-collapse:collapse;font-size:1px;line-height:=
+1px;">=C2=A0</td>                                    <td width=3D"30" style=
+=3D"border-collapse:collapse;">=C2=A0</td>                                 =
+ </tr>  </table></td>  =09=09=09=09=09</tr></table>  </td>  =09=09</tr>  <!=
+-- /BLOC -->  </table>  <!-- /SECTION --><!-- SECTION : CONTENU --><table c=
+lass=3D"bodyTable section_content" bgcolor=3D"#ffffff" cellpadding=3D"0" ce=
+llspacing=3D"0" border=3D"0" width=3D"100%" style=3D"mso-table-lspace:0pt;m=
+so-table-rspace:0pt;border-collapse:collapse;height:100% !important;margin-=
+top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;padding-bo=
+ttom:0;padding-right:15px;padding-left:15px;width:100% !important;line-heig=
+ht:1.4;">  <!-- BLOC : Offre principale --><tr>  <td class=3D"w318" align=
+=3D"center" style=3D"border-collapse:collapse;">  =09=09=09=09<table class=
+=3D"w320" bgcolor=3D"#f5f5f5" cellpadding=3D"0" cellspacing=3D"0" border=3D=
+"0" width=3D"650" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border=
+-collapse:collapse;"><tr>  <td class=3D"w318 lateral_border" align=3D"cente=
+r" style=3D"border-collapse:collapse;border-left-width:1px;border-left-styl=
+e:solid;border-left-color:#e6e6e6;border-right-width:1px;border-right-style=
+:solid;border-right-color:#e6e6e6;">  =09=09=09=09=09=09=09<a href=3D"http:=
+//wejazozo.ovh/cls/client8/glof09122016/xetesi.php?email=3Drfu5t%253fta%253=
+wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank" class=3D"cover">  =09=09=
+=09=09=09=09=09=09<img class=3D"m_hide" src=3D"http://wejazozo.ovh/3996/cli=
+ent8/glof09122016/xupoqu/jpeg" alt=3D"La 7eme generation de Golf" style=3D"=
+-ms-interpolation-mode:bicubic;height:auto;line-height:100%;outline-style:n=
+one;text-decoration:none;border-width:0;border-style:none;"></a>           =
+                     =09=09=09=09=09=09</td>  =09=09=09=09=09</tr></table> =
+ </td>  =09=09</tr>  <!-- BLOC : TITRE --><tr>  <td align=3D"center" style=
+=3D"border-collapse:collapse;">  =09=09=09=09<table class=3D"w320 content" =
+bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"650" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse=
+:collapse;"><tr>  <td class=3D"w318 lateral_border" align=3D"center" style=
+=3D"border-collapse:collapse;border-left-width:1px;border-left-style:solid;=
+border-left-color:#e6e6e6;border-right-width:1px;border-right-style:solid;b=
+order-right-color:#e6e6e6;">  =09=09=09=09=09=09=09<table class=3D"w320" bg=
+color=3D"#f5f5f5" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D=
+"648" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:co=
+llapse;"><tr>  <td class=3D"space m_hide" width=3D"25" style=3D"border-coll=
+apse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=
+=09=09=09=09<td class=3D"text bloc_title title3 w320" width=3D"290" align=
+=3D"center" valign=3D"top" style=3D"border-collapse:collapse;font-family:Ar=
+ial, Helvetica, sans-serif;text-decoration:none;padding-top:15px;padding-ri=
+ght:15px;padding-left:15px;padding-bottom:15px;font-size:25px;color:#323232=
+;font-weight:bold;text-align:center;"><a style=3D"font-family:Arial, Helvet=
+ica, sans-serif;text-decoration:none;font-size:25px;color:#323232;font-weig=
+ht:bold;text-align:center;" href=3D"http://wejazozo.ovh/cls/client8/glof091=
+22016/zecyxy.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l">Eq=
+uipements</a></td>  =09=09=09=09=09=09=09=09=09<td class=3D"space m_hide" w=
+idth=3D"25" style=3D"border-collapse:collapse;font-size:1px;line-height:1px=
+;">=C2=A0</td>  =09=09=09=09=09=09=09=09</tr></table>  </td>  =09=09=09=09=
+=09</tr></table>  </td>  =09=09</tr>  <!-- /BLOC --><!-- BLOC : Equipements=
+ 2 colonnes --><tr>  <td align=3D"center">  =09=09=09=09<table class=3D"w32=
+0" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"650"><tr>  <td class=3D"w318 lateral_border" align=3D"center">  =09=
+=09=09=09=09=09=09<table class=3D"w320" bgcolor=3D"#f5f5f5" cellpadding=3D"=
+0" cellspacing=3D"0" border=3D"0" width=3D"648"><tr>  <td class=3D"space m_=
+hide" width=3D"25">=C2=A0</td>  =09=09=09=09=09=09=09=09=09<th class=3D"w32=
+0 m_block" width=3D"290" align=3D"center" valign=3D"top">  =09=09=09=09=09=
+=09=09=09=09=09<table class=3D"w290" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0"><tr>  <td class=3D"w320">  =09=09=09=09=09=09=09=09=09=09=09=09=
+=09<table class=3D"content" width=3D"100%" cellpadding=3D"0" cellspacing=3D=
+"0" border=3D"0" align=3D"left">  <tr>  <td class=3D"bull" width=3D"10" val=
+ign=3D"top">=E2=80=A2</td>  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d class=3D"text" valign=3D"top">  =09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<a href=3D"http://wejazozo.ovh/cls/client8/glof09122016/xetesi.php=
+?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank">=
+<span class=3D"text w290 m_block" style=3D"border-collapse:collapse;font-we=
+ight:normal;font-family:Arial, Helvetica, sans-serif;color:#646464;font-siz=
+e:18px;text-decoration:none;">Cam=C3=A9ra de recul</span></a>  =09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>  <tr>  <td class=3D"bull" width=3D"10" valign=3D"top">=
+=E2=80=A2</td>  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"t=
+ext" valign=3D"top">  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a hr=
+ef=3D"http://wejazozo.ovh/cls/client8/glof09122016/xetesi.php?email=3Drfu5t=
+%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank"><span class=3D=
+"text w290 m_block" style=3D"border-collapse:collapse;font-weight:normal;fo=
+nt-family:Arial, Helvetica, sans-serif;color:#646464;font-size:18px;text-de=
+coration:none;">R=C3=A9gulateur de vitesse adaptatif ACC</span></a>  =09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>  <tr>  <td class=3D"bull" width=3D"10" valign=3D"top">=
+=E2=80=A2</td>  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"t=
+ext" valign=3D"top">  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a hr=
+ef=3D"http://wejazozo.ovh/cls/client8/glof09122016/xetesi.php?email=3Drfu5t=
+%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank"><span class=3D=
+"text w290 m_block" style=3D"border-collapse:collapse;font-weight:normal;fo=
+nt-family:Arial, Helvetica, sans-serif;color:#646464;font-size:18px;text-de=
+coration:none;">Phares bi-X=C3=A9non directionnels</span></a>  =09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>  </table>  </td>  =09=09=09=09=09=09=09=09=09=09=09</tr></ta=
+ble>  </th>  =09=09=09=09=09=09=09=09=09<th class=3D"space m_block h10" wid=
+th=3D"18">=C2=A0</th>  =09=09=09=09=09=09=09=09=09<th class=3D"w320 m_block=
+" width=3D"290" align=3D"center" valign=3D"top">  =09=09=09=09=09=09=09=09=
+=09=09<table class=3D"w290" cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+"><tr>  <td class=3D"w320">  =09=09=09=09=09=09=09=09=09=09=09=09=09<table =
+class=3D"content" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" align=3D"left">  <tr>  <td class=3D"bull" width=3D"10" valign=3D"top=
+">=E2=80=A2</td>  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D=
+"text" valign=3D"top">  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<a =
+href=3D"http://wejazozo.ovh/cls/client8/glof09122016/xetesi.php?email=3Drfu=
+5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank"><span class=
+=3D"text w290 m_block" style=3D"border-collapse:collapse;font-weight:normal=
+;font-family:Arial, Helvetica, sans-serif;color:#646464;font-size:18px;text=
+-decoration:none;">Syst=C3=A8me de freinage automatique =E2=80=98Front Assi=
+st=E2=80=99</span></a>  =09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td> =
+ =09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>  <tr>  <td class=3D"bull" =
+width=3D"10" valign=3D"top">=E2=80=A2</td>  =09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"text" valign=3D"top">  =09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<a href=3D"http://wejazozo.ovh/cls/client8/glof0912=
+2016/xetesi.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" tar=
+get=3D"_blank">Radionavigation connect=C3=A9e avec Car-Net =E2=80=98Guide&a=
+mp;inform=E2=80=99 et =E2=80=98App-Connect=E2=80=99=C2=AE(4)</a>  =09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>  </table>  </td>  =09=09=09=09=09=09=09=09=09=09=09</tr><=
+/table>  </th>  =09=09=09=09=09=09=09=09=09<td class=3D"space m_hide" width=
+=3D"25">=C2=A0</td>  =09=09=09=09=09=09=09=09</tr></table>  </td>  =09=09=
+=09=09=09</tr></table>  </td>  =09=09</tr>  <!-- /BLOC --><!-- ESPACE --><t=
+r>  <td align=3D"center" style=3D"border-collapse:collapse;">  =09=09=09=09=
+<table class=3D"w320" bgcolor=3D"#f5f5f5" cellpadding=3D"0" cellspacing=3D"=
+0" border=3D"0" width=3D"650" style=3D"mso-table-lspace:0pt;mso-table-rspac=
+e:0pt;border-collapse:collapse;"><tr>  <td class=3D"w318 lateral_border" he=
+ight=3D"20" align=3D"center" style=3D"border-collapse:collapse;border-left-=
+width:1px;border-left-style:solid;border-left-color:#e6e6e6;border-right-wi=
+dth:1px;border-right-style:solid;border-right-color:#e6e6e6;">  =09=09=09=
+=09=09=09=09<table class=3D"w320" cellpadding=3D"0" cellspacing=3D"0" borde=
+r=3D"0" width=3D"648" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;bo=
+rder-collapse:collapse;"><tr>  <td class=3D"space" style=3D"border-collapse=
+:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=
+=09=09</tr></table>  </td>  =09=09=09=09=09</tr></table>  </td>  =09=09</tr=
+>  <!-- /ESPACE --><!-- BLOC : 2 produits --><tr>  <td align=3D"center" sty=
+le=3D"border-collapse:collapse;">  =09=09=09=09<table class=3D"w320" bgcolo=
+r=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"650=
+" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;"><tr>  <td class=3D"w318 lateral_border" align=3D"center" style=3D"bord=
+er-collapse:collapse;border-left-width:1px;border-left-style:solid;border-l=
+eft-color:#e6e6e6;border-right-width:1px;border-right-style:solid;border-ri=
+ght-color:#e6e6e6;">  =09=09=09=09=09=09=09<table class=3D"w320" bgcolor=3D=
+"#f5f5f5" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"648" st=
+yle=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;"=
+><tr>  <td class=3D"space m_hide" width=3D"25" style=3D"border-collapse:col=
+lapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09=
+=09<th class=3D"produit w320 m_block" width=3D"290" align=3D"center" valign=
+=3D"top" style=3D"border-collapse:collapse;font-weight:normal;">  =09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;">  <tr>  <td style=3D"border-collapse:collapse;"> <img class=3D"full_wi=
+dth" src=3D"http://wejazozo.ovh/3996/client8/glof09122016/bukafe/jpeg" alt=
+=3D"" width=3D"290" style=3D"-ms-interpolation-mode:bicubic;border-width:0;=
+border-style:none;height:auto;line-height:100%;outline-style:none;text-deco=
+ration:none;width:100%;">  </td>  =09=09=09=09=09=09=09=09=09=09=09</tr>  <=
+tr>  <td class=3D"w320" style=3D"border-collapse:collapse;">  =09=09=09=09=
+=09=09=09=09=09=09=09=09=09<table class=3D"content" width=3D"100%" cellpadd=
+ing=3D"0" cellspacing=3D"0" border=3D"0" style=3D"mso-table-lspace:0pt;mso-=
+table-rspace:0pt;border-collapse:collapse;"><tr>  <td class=3D"title title2=
+" valign=3D"middle" align=3D"center" style=3D"border-collapse:collapse;font=
+-family:Arial, Helvetica, sans-serif;text-decoration:none;font-size:14px;co=
+lor:#323232;font-weight:bold;text-align:center;height:35px;">=C2=A0</td>  =
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09  =09=09=09=09=09=09=09=09=09=09=09=09=09=09  =09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr></table>  </td>  =09=09=09=09=09=09=09=09=09=
+=09=09</tr>  </table>  </th>  =09=09=09=09=09=09=09=09=09<th class=3D"space=
+ m_block h10" width=3D"18" style=3D"border-collapse:collapse;font-weight:no=
+rmal;font-size:1px;line-height:1px;">=C2=A0</th>  =09=09=09=09=09=09=09=09=
+=09<th class=3D"produit w320 m_block" width=3D"290" align=3D"center" valign=
+=3D"top" style=3D"border-collapse:collapse;font-weight:normal;">  =09=09=09=
+=09=09=09=09=09=09=09<table cellpadding=3D"0" cellspacing=3D"0" border=3D"0=
+" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collap=
+se;">  <tr>  <td style=3D"border-collapse:collapse;"><img src=3D"http://wej=
+azozo.ovh/3996/client8/glof09122016/qahody/jpeg" width=3D"290" height=3D"20=
+0" style=3D"-ms-interpolation-mode:bicubic;border-width:0;border-style:none=
+;height:auto;line-height:100%;outline-style:none;text-decoration:none;"></t=
+d>  =09=09=09=09=09=09=09=09=09=09=09</tr>  <tr>  <td class=3D"w320" style=
+=3D"border-collapse:collapse;">  =09=09=09=09=09=09=09=09=09=09=09=09=09<ta=
+ble class=3D"content" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" align=3D"left" style=3D"mso-table-lspace:0pt;mso-table-rspace:0p=
+t;border-collapse:collapse;">  <tr>  <td class=3D"title title2" valign=3D"m=
+iddle" align=3D"center" style=3D"border-collapse:collapse;font-family:Arial=
+, Helvetica, sans-serif;text-decoration:none;font-size:14px;color:#323232;f=
+ont-weight:bold;text-align:center;height:35px;">=C2=A0</td>  =09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>  <tr>  <td class=3D"space" height=3D"20=
+" style=3D"border-collapse:collapse;font-size:1px;line-height:1px;">=C2=
+=A0</td>  =09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>  </table>  </td> =
+ =09=09=09=09=09=09=09=09=09=09=09</tr>  </table>  </th>  =09=09=09=09=09=
+=09=09=09=09<td class=3D"space m_hide" width=3D"25" style=3D"border-collaps=
+e:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=
+=09=09</tr></table>  </td>  =09=09=09=09=09</tr></table>  </td>  =09=09</tr=
+>  <!-- /BLOC --><!-- BLOC : 1 BOUTON --><tr>  <td align=3D"center">  =09=
+=09=09=09<table class=3D"w320" bgcolor=3D"#f5f5f5" cellpadding=3D"0" cellsp=
+acing=3D"0" border=3D"0" width=3D"650"><tr>  <td class=3D"w318 lateral_bord=
+er" align=3D"center">  =09=09=09=09=09=09=09<table class=3D"w320" cellpaddi=
+ng=3D"0" cellspacing=3D"0" border=3D"0" width=3D"648"><tr>  <th width=3D"18=
+4" class=3D"space m_block">=C2=A0</th>  =09=09=09=09=09=09=09=09=09<th widt=
+h=3D"280" class=3D"w318 m_block" align=3D"center" valign=3D"top">  =09=09=
+=09=09=09=09=09=09=09=09<table class=3D"w290" width=3D"100%" cellpadding=3D=
+"0" cellspacing=3D"0" border=3D"0"><tr>  <td class=3D"btn2" align=3D"center=
+">  =09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://wejazozo.ovh/c=
+ls/client8/glof09122016/xetesi.php?email=3Drfu5t%253fta%253wtmts%252a40e%25=
+3c0ab3is%2518l" target=3D"_blank">D=C3=A9couvrez l'offre</a>  =09=09=09=09=
+=09=09=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=09=09=09=09</tr></tabl=
+e>  </th>  =09=09=09=09=09=09=09=09=09<th class=3D"space m_block" width=3D"=
+184">=C2=A0</th>  =09=09=09=09=09=09=09=09</tr></table>  </td>  =09=09=09=
+=09=09</tr></table>  </td>  =09=09</tr>  <!-- /BLOC --><!-- ESPACE --><tr> =
+ <td align=3D"center" style=3D"border-collapse:collapse;">  =09=09=09=09<ta=
+ble class=3D"w320" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" =
+border=3D"0" width=3D"650" style=3D"mso-table-lspace:0pt;mso-table-rspace:0=
+pt;border-collapse:collapse;"><tr>  <td class=3D"w318 lateral_border" heigh=
+t=3D"10" align=3D"center" style=3D"border-collapse:collapse;border-left-wid=
+th:1px;border-left-style:solid;border-left-color:#e6e6e6;border-right-width=
+:1px;border-right-style:solid;border-right-color:#e6e6e6;">  =09=09=09=09=
+=09=09=09<table class=3D"w320" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"648" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;bor=
+der-collapse:collapse;"><tr>  <td class=3D"space" style=3D"border-collapse:=
+collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=
+=09</tr></table>  </td>  =09=09=09=09=09</tr></table>  </td>  =09=09</tr>  =
+<!-- /ESPACE -->  </table>  <!-- /SECTION --><!-- SECTION : F00TER_TEXT -->=
+<table class=3D"bodyTable section_mentions" bgcolor=3D"#ffffff" cellpadding=
+=3D"0" cellspacing=3D"0" border=3D"0" width=3D"100%" style=3D"mso-table-lsp=
+ace:0pt;mso-table-rspace:0pt;border-collapse:collapse;height:100% !importan=
+t;margin-top:0;margin-bottom:0;margin-right:0;margin-left:0;padding-top:0;p=
+adding-bottom:0;padding-right:15px;padding-left:15px;width:100% !important;=
+line-height:1.4;">  <!-- BLOC : Liens r=C3=A9seaux sociaux --><tr>  <td ali=
+gn=3D"center" style=3D"border-collapse:collapse;">  =09=09=09=09<table clas=
+s=3D"w320" bgcolor=3D"#F5F5F5" cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" width=3D"650" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;bor=
+der-collapse:collapse;"><tr>  <td class=3D"w318 lateral_border" height=3D"2=
+0" align=3D"center" style=3D"border-collapse:collapse;border-left-width:1px=
+;border-left-style:solid;border-left-color:#e6e6e6;border-right-width:1px;b=
+order-right-style:solid;border-right-color:#e6e6e6;">  =09=09=09=09=09=09=
+=09<table class=3D"w320" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" w=
+idth=3D"648" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-coll=
+apse:collapse;">  <tr>  <td class=3D"space" width=3D"25" style=3D"border-co=
+llapse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=
+=09=09=09=09=09<td class=3D"space w290" height=3D"15" style=3D"border-colla=
+pse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=
+=09=09=09=09<td class=3D"space" width=3D"25" style=3D"border-collapse:colla=
+pse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09</=
+tr>  <tr>  <td class=3D"space" width=3D"25" style=3D"border-collapse:collap=
+se;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09=09=
+<th class=3D"w290 bloc_connecte m_block" align=3D"center" width=3D"403" sty=
+le=3D"border-collapse:collapse;font-weight:normal;font-family:Arial, Helvet=
+ica, sans-serif;text-decoration:none;color:#000000;font-size:12px;">  =09=
+=09=09=09=09=09=09=09=09=09<strong>RESTEZ CONNECT=C3=89 AVEC VOLKSWAGEN</st=
+rong> SUIVEZ-NOUS SUR  =09=09=09=09=09=09=09=09=09</th>  =09=09=09=09=09=09=
+=09=09=09<th class=3D"w290 m_block" width=3D"230" style=3D"border-collapse:=
+collapse;font-weight:normal;">  =09=09=09=09=09=09=09=09=09=09<table class=
+=3D"w290" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"230" st=
+yle=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collapse;"=
+><tr>  <td class=3D"space" width=3D"10" style=3D"border-collapse:collapse;f=
+ont-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09=09=09=
+=09=09<td width=3D"33" style=3D"border-collapse:collapse;">  =09=09=09=09=
+=09=09=09=09=09=09=09=09=09<a href=3D"http://wejazozo.ovh/cls/client8/glof0=
+9122016/todoce.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" =
+target=3D"_blank"><img width=3D"33" src=3D"http://wejazozo.ovh/3996/client8=
+/glof09122016/qiliqo/png" alt=3D"Twitter" style=3D"display:block;border-wid=
+th:0;-ms-interpolation-mode:bicubic;height:auto;line-height:100%;outline-st=
+yle:none;text-decoration:none;border-style:none;"></a>  =09=09=09=09=09=09=
+=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"s=
+pace" width=3D"10" style=3D"border-collapse:collapse;font-size:1px;line-hei=
+ght:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"33"=
+ style=3D"border-collapse:collapse;">  =09=09=09=09=09=09=09=09=09=09=09=09=
+=09<a href=3D"http://wejazozo.ovh/cls/client8/glof09122016/rapaja.php?email=
+=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blank"><img w=
+idth=3D"33" src=3D"http://wejazozo.ovh/3996/client8/glof09122016/cidaqe/png=
+" alt=3D"Pinterest" style=3D"display:block;border-width:0;-ms-interpolation=
+-mode:bicubic;height:auto;line-height:100%;outline-style:none;text-decorati=
+on:none;border-style:none;"></a>  =09=09=09=09=09=09=09=09=09=09=09=09</td>=
+  =09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"space" width=3D"10" styl=
+e=3D"border-collapse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =
+=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"33" style=3D"border-collap=
+se:collapse;">  =09=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://we=
+jazozo.ovh/cls/client8/glof09122016/xexuwi.php?email=3Drfu5t%253fta%253wtmt=
+s%252a40e%253c0ab3is%2518l" target=3D"_blank"><img width=3D"33" src=3D"http=
+://wejazozo.ovh/3996/client8/glof09122016/jawyka/png" alt=3D"Facebook" styl=
+e=3D"display:block;border-width:0;-ms-interpolation-mode:bicubic;height:aut=
+o;line-height:100%;outline-style:none;text-decoration:none;border-style:non=
+e;"></a>  =09=09=09=09=09=09=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"space" width=3D"10" style=3D"border-collapse:co=
+llapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=
+=09=09=09=09=09<td width=3D"33" style=3D"border-collapse:collapse;">  =09=
+=09=09=09=09=09=09=09=09=09=09=09=09<a href=3D"http://wejazozo.ovh/cls/clie=
+nt8/glof09122016/wepafu.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3i=
+s%2518l" target=3D"_blank"><img width=3D"33" src=3D"http://wejazozo.ovh/399=
+6/client8/glof09122016/dexeki/png" alt=3D"Yuoutube" style=3D"display:block;=
+border-width:0;-ms-interpolation-mode:bicubic;height:auto;line-height:100%;=
+outline-style:none;text-decoration:none;border-style:none;"></a>  =09=09=09=
+=09=09=09=09=09=09=09=09=09</td>  =09=09=09=09=09=09=09=09=09=09=09=09<td c=
+lass=3D"space" width=3D"10" style=3D"border-collapse:collapse;font-size:1px=
+;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09=09=09=09=09<td wid=
+th=3D"33" style=3D"border-collapse:collapse;">  =09=09=09=09=09=09=09=09=09=
+=09=09=09=09<a href=3D"http://wejazozo.ovh/cls/client8/glof09122016/doxomy.=
+php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" target=3D"_blan=
+k"><img width=3D"33" src=3D"http://wejazozo.ovh/3996/client8/glof09122016/d=
+ywuna/png" alt=3D"google+" style=3D"display:block;border-width:0;-ms-interp=
+olation-mode:bicubic;height:auto;line-height:100%;outline-style:none;text-d=
+ecoration:none;border-style:none;"></a>  =09=09=09=09=09=09=09=09=09=09=09=
+=09</td>  =09=09=09=09=09=09=09=09=09=09=09</tr></table>  </th>  =09=09=09=
+=09=09=09=09=09=09<td class=3D"space" width=3D"25" style=3D"border-collapse=
+:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=
+=09=09</tr>  <tr>  <td class=3D"space" width=3D"25" style=3D"border-collaps=
+e:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=
+=09=09=09<td class=3D"space w290" height=3D"15" style=3D"border-collapse:co=
+llapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=
+=09=09<td class=3D"space" width=3D"25" style=3D"border-collapse:collapse;fo=
+nt-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09</tr>  <=
+/table>  </td>  =09=09=09=09=09</tr></table>  </td>  =09=09</tr>  <!-- /BLO=
+C --><!-- BLOC : Mentions l=C3=A9gales --><tr>  <td align=3D"center" style=
+=3D"border-collapse:collapse;">  =09=09=09=09<table class=3D"w320" bgcolor=
+=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=3D"650"=
+ style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse:collaps=
+e;"><tr>  <td class=3D"w318 lateral_border bottom_border" height=3D"20" ali=
+gn=3D"center" style=3D"border-collapse:collapse;border-left-width:1px;borde=
+r-left-style:solid;border-left-color:#e6e6e6;border-right-width:1px;border-=
+right-style:solid;border-right-color:#e6e6e6;border-bottom-width:1px;border=
+-bottom-style:solid;border-bottom-color:#e6e6e6;">  =09=09=09=09=09=09=09<t=
+able class=3D"w320" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" width=
+=3D"648" style=3D"mso-table-lspace:0pt;mso-table-rspace:0pt;border-collapse=
+:collapse;">  <tr>  <td class=3D"space" width=3D"15" style=3D"border-collap=
+se:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=
+=09=09=09<td class=3D"space w290" height=3D"15" style=3D"border-collapse:co=
+llapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=
+=09=09<td class=3D"space" width=3D"15" style=3D"border-collapse:collapse;fo=
+nt-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09</tr>  <=
+tr>  <td class=3D"space" width=3D"15" style=3D"border-collapse:collapse;fon=
+t-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=09=09=09<td cl=
+ass=3D"text w290" align=3D"left" style=3D"border-collapse:collapse;font-fam=
+ily:Arial, Helvetica, sans-serif;text-decoration:none;font-size:10px;color:=
+#9c9c9c;">  <div title=3D"Page 1">  =09=09=09=09=09=09=09=09=09  <div>  =09=
+=09=09=09=09=09=09=09=09    <div>  =09=09=09=09=09=09=09=09=09      <p>Volk=
+swagen Group France - s.a. - R.C.S. Soissons B 602 025 538 </p>  =09=09=09=
+=09=09=09=09=09        </div>  =09=09=09=09=09=09=09=09      </div>  =09=09=
+=09=09=09=09=09=09=09  <div>  =09=09=09=09=09=09=09=09=09    <div>  =09=09=
+=09=09=09=09=09=09=09      <p>LLD sur 36 mois avec perte financi=C3=A8re,(2=
+) contrat de maintenance aux professionnels et v=C3=A9hicule de remplacemen=
+t inclus.(3) Offre valable du 01/09/2016 au 31/12/2016. </p>  =09=09=09=09=
+=09=09=09=09=09      <p>Mod=C3=A8le pr=C3=A9sent=C3=A9 : Golf MATCH Allstar=
+ 5 portes 1.6 TDI 110 BVM5 au prix catalogue de 27 830 =E2=82=AC TTC. Tarif=
+s au 28 avril 2016 - Mise =C3=A0 jour du 18 juillet 2016. Cycle mixte (l/10=
+0 km) : 3,8. Rejets de CO2 (g/km) : 99. </p>  =09=09=09=09=09=09=09=09=09  =
+    <p>*S=C3=A9rie Limit=C3=A9e dans la limite des stocks disponibles. (1) =
+Offre de Location Longue Dur=C3=A9e sur 36 mois et 45 000 km avec apport po=
+ur une Golf MATCH Allstar 5 portes 1.6 TDI 110 BVM5, soit un 1er loyer majo=
+r=C3=A9 de 707 =E2=82=AC TTC et 35 loyers de 299 =E2=82=AC TTC. R=C3=A9serv=
+=C3=A9e =C3=A0 la client=C3=A8le professionnelle, hors taxis, loueurs et fl=
+ottes, chez tous les Distributeurs Volkswagen pr=C3=A9sentant ce financemen=
+t, sous r=C3=A9serve d=E2=80=99acceptation du dossier par Volkswagen Fleet =
+Solutions division de Volkswagen Bank GmbH =E2=80=93 SARL de droit allemand=
+ =E2=80=93 Capital 318 279 200 =E2=82=AC - Succursale France : B=C3=A2timen=
+t Ellipse, 15 Avenue de la Demi-Lune, 95 700 Roissy en France - RCS Pontois=
+e 451 618 904 - Mandataire d=E2=80=99assurance et mandataire d=E2=80=99inte=
+rm=C3=A9diaire d=E2=80=99assurance enregistr=C3=A9 =C3=A0 l=E2=80=99ORIAS :=
+ 08 040 267 (www.orias.fr). Montants exprim=C3=A9s TTC, hors prestations fa=
+cultatives. (2) Perte Financi=C3=A8re obligatoire incluse dans les loyers s=
+ouscrite aupr=C3=A8s de MMA IARD Assurances Mutuelles - Soci=C3=A9t=C3=
+=A9 d=E2=80=99assurance mutuelle =C3=A0 cotisations fixes - RCS Le Mans 775=
+ 652 126 et MMA IARD - Soci=C3=A9t=C3=A9 Anonyme au capital de 537 052 368 =
+euros - RCS Le Mans 440 048 882 - si=C3=A8ges sociaux : 14 bvd Marie et Ale=
+xandre Oyon - 72 030 Le Mans cedex 9. Entreprises r=C3=A9gies par le code d=
+es assurances. (3) Contrat de Maintenance obligatoire souscrit aupr=C3=
+=A8s de Volkswagen Bank GmbH ; Garantie V=C3=A9hicule de Remplacement inclu=
+se dans les loyers, souscrite aupr=C3=A8s d=E2=80=99Europ Assistance France=
+ SA =E2=80=93 RCS Nanterre 451 366 405 : Entreprises r=C3=A9gies par le Cod=
+e des assurances et soumises =C3=A0 l=E2=80=99Autorit=C3=A9 de Contr=C3=
+=B4le Prudentiel (ACP) - 61 rue Taitbout 75 009 PARIS. (4) Car-Net App-Conn=
+ect disponible avec smartphone compatible (liste sur vw.fr), abonnement ada=
+pt=C3=A9 et en zone couverte (3G/4G). </p>  =09=09=09=09=09=09=09=09       =
+ </div>  =09=09=09=09=09=09=09=09      </div>  =09=09=09=09=09=09=09=09    =
+</div>  <p align=3D"center">=C2=A0<a href=3D"http://wejazozo.ovh/cls/client=
+8/glof09122016/gorade.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%=
+2518l" _type=3D"mirrorPage" style=3D"color:#666666;font-weight:bold;" _labe=
+l=3D"Page miroir" _category=3D"Top mail">Se d=C3=A9sinscrire</a> </p>  </td=
+>  =09=09=09=09=09=09=09=09=09<td class=3D"space" width=3D"15" style=3D"bor=
+der-collapse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=
+=09=09=09=09=09=09</tr>  <tr>  <td class=3D"space" width=3D"15" style=3D"bo=
+rder-collapse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=
+=09=09=09=09=09=09=09<td class=3D"space w290" height=3D"15" style=3D"border=
+-collapse:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=
+=09=09=09=09=09=09<td class=3D"space" width=3D"15" style=3D"border-collapse=
+:collapse;font-size:1px;line-height:1px;">=C2=A0</td>  =09=09=09=09=09=09=
+=09=09</tr>  </table>  </td>  =09=09=09=09=09</tr></table>  </td>  =09=09</=
+tr>  <!-- /BLOC -->  </table>  <!-- /SECTION --><table class=3D"bodyTable s=
+ection_mentions" bgcolor=3D"#ffffff" cellpadding=3D"0" cellspacing=3D"0" bo=
+rder=3D"0" width=3D"100%" style=3D"mso-table-lspace:0pt;mso-table-rspace:0p=
+t;border-collapse:collapse;height:100% !important;margin-top:0;margin-botto=
+m:0;margin-right:0;margin-left:0;padding-top:0;padding-bottom:0;padding-rig=
+ht:15px;padding-left:15px;width:100% !important;line-height:1.4;"><tr>  <td=
+ class=3D"space" height=3D"20" style=3D"border-collapse:collapse;font-size:=
+1px;line-height:1px;">=C2=A0</td>  =09=09</tr></table>  <a href=3D'http://i=
+vkvymnbthxrimfs.com'></a></body>  </html>  
+
+
+--b1_b7cf16ebc921b2083c1370f10ae5bd70--
+

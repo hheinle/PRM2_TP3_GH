@@ -1,0 +1,499 @@
+Return-Path: <bounce-id=D354=U138577.cluster017.ovh.net=1482118293.92-59AMP@110-prod.mail-out.ovh.net>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 19 Dec 2016 04:31:34 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id BC33047
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id B93AC6002B
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id S6l4Zmyukc9w for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 8F76B60009
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 8858A20033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+Received: from 4.mo156.mail-out.ovh.net (4.mo156.mail-out.ovh.net [46.105.32.217])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-1.relay.renater.fr (asm) with ESMTPS id 455FB600057
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+Received: from 110.mail-out.ovh.net (unknown [10.108.26.33])
+	by mo156.mail-out.ovh.net (Postfix) with ESMTP id 1232C38441
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+Received: from 110.mail-out.ovh.net (localhost [127.0.0.1])
+	by 110.mail-out.ovh.net (Postfix) with ESMTP id 063C5200DF
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:34 +0100 (CET)
+Received: from cluster017.ovh.net (gw-cluster017.ovh.net [213.251.182.117])
+ by 110.mail-out.ovh.net (Postfix) with ESMTP id 5B8E8200DF
+ for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:33 +0100 (CET)
+Received: from localhost.localdomain (localhost [127.0.0.1])
+ by localhost.domain.tld (Postfix) with ESMTP id 09958620E5
+ for <resp-m2-miage@univ-rennes1.fr>; Mon, 19 Dec 2016 04:31:33 +0100 (CET)
+Received: by cluster017.ovh.net (Postfix, from userid 138577)
+ id F345B620FD; Mon, 19 Dec 2016 04:31:32 +0100 (CET)
+To: resp-m2-miage@univ-rennes1.fr
+Subject: Profitez de la fibre
+Date: Mon, 19 Dec 2016 04:31:32 +0100
+From: Orange <franck@hyqoxexo.ovh>
+Message-ID: <c8b707dc17e8e4f569381f185c8b87e4@www.hyqoxexo.ovh>
+X-Mailer: PHPMailer 
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_c8b707dc17e8e4f569381f185c8b87e4"
+Content-Transfer-Encoding: 8bit
+X-Ovh-Tracer-Id: 6094777673960882695
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrfeelfedrjeeigdeihecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfqggfjpdevjffgvefmvefgnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmd
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 46.105.32.217
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrjeeigdeijecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefvufffhffkofggtgfgsegrkehjphehtdejnecuhfhrohhmpefqrhgrnhhgvgcuoehfrhgrnhgtkheshhihqhhogigvgihordhovhhhqeenucffohhmrghinhephhihqhhogigvgihordhovhhhpdhogihjghhsrghhrhhumhhqvghsughsrhdrtghomhenucfkphepgeeirddutdehrdefvddrvddujedpvddufedrvdehuddrudekvddruddujeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepgedrmhhoudehiedrmhgrihhlqdhouhhtrdhovhhhrdhnvghtpdhinhgvthepgeeirddutdehrdefvddrvddujedpmhgrihhlfhhrohhmpegsohhunhgtvgdqihgupefffeehgeepfgdufeekheejjedrtghluhhsthgvrhdtudejrdhovhhhrdhnvghtpedugeekvdduudekvdelfedrledvqdehleetoffrseduuddtqdhprhhougdrmhgrihhlqdhouhhtrdhovhhhrdhnvghtpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+This is a multi-part message in MIME format.
+
+--b1_c8b707dc17e8e4f569381f185c8b87e4
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+            =09=09          #outlook a{padding:0;} /* Force Outlook to prov=
+ide a "view in browser" menu link. */          body{width:100% !important; =
+-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding=
+:0;}          /* Prevent Webkit and Windows Mobile platforms from changing =
+default font sizes, while not breaking desktop design. */          .Externa=
+lClass {width:100%;} /* Force Hotmail to display emails at full width */   =
+       .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClas=
+s font, .ExternalClass td, .ExternalClass div {line-height: 100%;}         =
+ img{-ms-interpolation-mode: bicubic;}                                     =
+                                                         Cet email est envo=
+y=C3=A9 par ITEK.                                              <br>        =
+                                      Si ce message n=E2=80=99est pas lisib=
+le, merci de suivre ce lien                                                =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                              Internet pro =
+fibre                                                                      =
+                                                                           =
+                                                                           =
+                                                                           =
+                                   D=C3=A8s 39=E2=82=AC HT /mois1)         =
+                                                                           =
+                                                                           =
+                                                                           =
+                                       100=E2=82=AC HT rembours=C3=A9s 2)  =
+                                                                           =
+                                                                           =
+                                                                        J'e=
+n profite                                                                  =
+                                                                         De=
+puis mon t=C3=A9l=C3=A9phone fixe par internet, j=E2=80=99appelle vers les =
+mobiles de France m=C3=A9tropolitaine (1h avec le forfait =C3=A9quilibre, e=
+n illimit=C3=A9 avec le forfait intense) et vers les fixes de France m=
+=C3=A9tropolitaine et de plus de 100 destinations3) en illimit=C3=A94). Je =
+b=C3=A9n=C3=A9ficie du service inclus SugarSync 100 G5). Je dispose d=
+=E2=80=99internet jusqu=E2=80=99=C3=A0 200Mbit/s en d=C3=A9bit sym=C3=A9tri=
+que6).                                                                     =
+                                                                           =
+                                                                           =
+                                                     Le service Orange pro7=
+)                                                                          =
+                                                                           =
+                                                                           =
+                                     prestation d=E2=80=99installation pers=
+onnalis=C3=A9e r=C3=A9alis=C3=A9e par des techniciens sp=C3=A9cialis=C3=
+=A9s                                                                       =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                           hotline commerciale et technique d=C3=A9di=C3=
+=A9e                                                                       =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                           services inclus d=C3=A9di=C3=A9s aux professionn=
+els (IP fixe, nom de domaine, Messagerie pro...)                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+Votre connexion Internet est interrompue durant plus de 8h, nous vous pr=
+=C3=AAtons un Airbox 4G accompagn=C3=A9 d=E2=80=99un pass data pr=C3=A9pay=
+=C3=A9 de 5 Go.                                                            =
+                                                                           =
+                                                                           =
+                                                                       Equi=
+pement Livebox pro n=C3=A9cessaire en location =C3=A0 5=E2=82=AC HT/moisOff=
+res soumises =C3=A0 conditions valables en France m=C3=A9tropolitaine r=
+=C3=A9serv=C3=A9es aux professionnels (sur fourniture de justificatifs d=
+=E2=80=99activit=C3=A9 professionnelle) sous r=C3=A9serve d=E2=80=99=C3=
+=A9ligibilit=C3=A9 technique et g=C3=A9ographique. Les conditions g=C3=
+=A9n=C3=A9rales d=E2=80=99utilisation des options et services des offres so=
+nt disponibles sur orangepro.fr - La fiche tarifaire en vigueur de l=
+=E2=80=99offre est disponible aupr=C3=A8s de votre interlocuteur commercial=
+ habituel ou sur orangepro.fr                                 <br>    <br> =
+                                 1) Pendant 12 mois puis 45=E2=82=AC HT/moi=
+s avec engagement de 12 mois<br>                                  (2) Offre=
+s pr=C3=A9cit=C3=A9es soumises =C3=A0 conditions valables en France M=C3=
+=A9tropolitaine du 6 octobre 2016 au 8 f=C3=A9vrier 2017 inclus            =
+                     sous r=C3=A9serve d=E2=80=99=C3=A9ligibilit=C3=A9 et d=
+e compatibilit=C3=A9 technique. N=C3=A9cessite la location d=E2=80=99une li=
+vebox pro.                                 <br>                            =
+      Engagement minimum de 12 mois de l=E2=80=99offre souscrite.          =
+                       <br>                                  Voir condition=
+s et d=C3=A9tails de chaque offre sur orangepro.fr*                        =
+         <br>                                  Offre diff=C3=A9r=C3=A9e de =
+remboursement r=C3=A9serv=C3=A9e aux professionnels (sur pr=C3=A9sentation =
+de justificatifs) pour toute premi=C3=A8re souscription entre le 6 octobre =
+2016 au 8 f=C3=A9vrier 2017 inclus =C3=A0 l=E2=80=99une des offres internet=
+ pro d=E2=80=99Orange suivantes : La Fibre pro, internet pro fibre, Optimal=
+e Pro, Internet pro pour et sans ligne fixe classique et pour toute r=C3=
+=A9siliation d=E2=80=99une offre internet haut d=C3=A9bit ou tr=C3=A8s haut=
+ d=C3=A9bit d=E2=80=99un autre op=C3=A9rateur.                             =
+    Une seule offre diff=C3=A9r=C3=A9e de remboursement par                =
+                 client (m=C3=AAme siret ou siren). Offre non cumulable ave=
+c toute autre offre promotionnelle en cours.                               =
+  Le montant du remboursement sera d=C3=A9duit sur la facture du client dan=
+s les 8 semaines suivant la r=C3=A9ception compl=C3=A8te des pi=C3=A8ces ju=
+stificatives                                 demand=C3=A9es et du coupon de=
+ remboursement, jusqu=E2=80=99au 08/04/2017 inclus.                        =
+         Toute demande illisible, incompl=C3=A8te ou ne r=C3=A9pondant pas =
+aux conditions de l=E2=80=99offre sera consid=C3=A9r=C3=A9e comme nulle.   =
+                              <br>                                  (3) Lis=
+te des destinations sur orangepro.fr                                  <br> =
+                                 (4) Les communications illimit=C3=A9es son=
+t autoris=C3=A9es dans la limite de 500 correspondants diff=C3=A9rents/mois=
+.                                  <br>                                  (5=
+) Application pour stocker vos documents de fa=C3=A7on s=C3=A9curis=C3=
+=A9e et les synchroniser entre vos diff=C3=A9rents terminaux. Option offert=
+e au lieu de 6 =E2=82=AC/mois.  Service compatible sur ordinateurs de type =
+PC et Mac uniquement avec webmail orange.fr, Outlook ou Messagerie pro d=
+=E2=80=99Orange.<br>                                  (6) Pour La Fibre pro=
+, d=C3=A9bit en r=C3=A9ception jusqu=E2=80=99=C3=A0 1Gbit/s (d=C3=A9bit IP =
+maximum de 940 Mbit/s) et d=C3=A9bit en =C3=A9mission jusqu=E2=80=99=C3=
+=A0 200 Mbit/s. Pour Internet pro fibre, d=C3=A9bit en =C3=A9mission et en =
+r=C3=A9ception jusqu=E2=80=99=C3=A0 200 Mbit/s.                            =
+      <br>                                  (7) Voir le d=C3=A9tail des ser=
+vices sur orangepro.fr=C2=A0                                 <br>          =
+                        (8) Intervention=C2=A0en France m=C3=A9tropolitaine=
+ du lundi au samedi (hors jours f=C3=A9ri=C3=A9s) de 8h =C3=A0 20h dans les=
+ 8h qui suivent=C2=A0l=E2=80=99enregistrement de la signalisation si les ca=
+uses =C3=A0=C2=A0l=E2=80=99origine du dysfonctionnement le permettent.     =
+                              <br><br>                Conform=C3=A9ment =
+=C3=A0 la loi =C2=AB Informatique et libert=C3=A9s =C2=BB du 06/01/78, vous=
+ disposez d=E2=80=99un droit d=E2=80=99acc=C3=A8s, de rectification et d=
+=E2=80=99opposition aux informations                                 vous c=
+oncernant en =C3=A9crivant =C3=A0 : Orange service clients - Gestion des do=
+nn=C3=A9es personnelles 33734 Bordeaux Cedex 9, avec la copie de votre pi=
+=C3=A8ce d=E2=80=99identit=C3=A9.                                  =09=09=
+=09=09=09Se d=C3=A9sinscrire                             
+
+--b1_c8b707dc17e8e4f569381f185c8b87e4
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>  <head>  <meta http-equiv=3D"Content-Type" content=3D"text/html; cha=
+rset=3Dutf-8">  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">=
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0">  <meta name=3D"format-detection" content=3D"telephone=3Dno">  =09=09<=
+style type=3D"text/css">          #outlook a{padding:0;} /* Force Outlook t=
+o provide a "view in browser" menu link. */          body{width:100% !impor=
+tant; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; p=
+adding:0;}          /* Prevent Webkit and Windows Mobile platforms from cha=
+nging default font sizes, while not breaking desktop design. */          .E=
+xternalClass {width:100%;} /* Force Hotmail to display emails at full width=
+ */          .ExternalClass, .ExternalClass p, .ExternalClass span, .Extern=
+alClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}   =
+       img{-ms-interpolation-mode: bicubic;}          </style>  </head>  <b=
+ody style=3D"margin:0;padding-top:0;padding-bottom:0;padding-right:0;paddin=
+g-left:0;min-width:100%;background-color:#e3e3e3;">          <table cellpad=
+ding=3D"0" cellspacing=3D"0" style=3D"width:100%;background-color:#e3e3e3">=
+<tr>  <td style=3D"text-align:center;background-color:#e3e3e3">  <!--[if (g=
+te mso 9)|(IE)]>                      <table width=3D"640" align=3D"center"=
+ cellpadding=3D"0" cellspacing=3D"0" border=3D"0">                      <tr=
+><td>                      <![endif]-->                      <table cellpad=
+ding=3D"0" cellspacing=3D"0" align=3D"center" style=3D"background-color:#00=
+0000;margin:0 auto;width:100%;max-width:640px">  <!-- ONE COLUM -->  <tr>  =
+<td>                                  <table cellpadding=3D"0" cellspacing=
+=3D"0" style=3D"width:100%">  <tr>  <td style=3D"padding:10px 10px 40px 10p=
+x;text-align:center;font-family:sans-serif;font-size:12px;color:#ffffff;lin=
+e-height:1.3">Cet email est envoy=C3=A9 par ITEK.                          =
+                    <br>                                              Si ce=
+ message n=E2=80=99est pas lisible, merci de suivre <a href=3D"http://hyqox=
+exo.ovh/cls/rapp/orangcpc15122016/cynowi.php?email=3Drfu5t%253fta%253wtmts%=
+252a40e%253c0ab3is%2518l" style=3D"font-family:sans-serif;font-size:12px;co=
+lor:#ffffff;">ce lien</a>  </td>                                          <=
+/tr>  <tr>  <td style=3D"text-align:center;padding: 20px 0"><a href=3D"http=
+://hyqoxexo.ovh/cls/rapp/orangcpc15122016/xonuca.php?email=3Drfu5t%253fta%2=
+53wtmts%252a40e%253c0ab3is%2518l" style=3D"text-decoration:none"><img style=
+=3D"display:block;border-width:0;width:100%;max-width:640px;max-height:326p=
+x;font-family:sans-serif;font-size:25px;color:#ffffff;background-color:#000=
+000;" src=3D"http://hyqoxexo.ovh/8326/rapp/orangcpc15122016/kimygi/png" alt=
+=3D"Ouvrir la porte de vos bureaux =C3=A0 la Fibre"></a></td>              =
+                            </tr>  </table>  </td>                         =
+     </tr>  <!-- THREE COLUMNS --><tr>  <td style=3D"text-align:center;font=
+-size:0;padding:10px 30px 0 30px">  <!--[if (gte mso 9)|(IE)]>             =
+                     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+">                                  <tr><td style=3D"width: 140px;" valign=
+=3D"top"><![endif]-->                                  <table cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"display:inline-block;width:100%;max-width=
+:140px;text-align:center;vertical-align:top;"><tr>  <td align=3D"center" st=
+yle=3D"width:1%;text-align:center;padding:0 12px 20px 12px;">              =
+                                <table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"width:100%;">  <tr>  <td align=3D"center"><img src=3D"http://hyqox=
+exo.ovh/8326/rapp/orangcpc15122016/jaberu/png" style=3D"display:block;borde=
+r-width:0" alt=3D""></td>                                                  =
+    </tr>  <tr>  <td height=3D"105" style=3D"text-align:center;background-c=
+olor:#1eab67;padding:5px 0;height:105px"><a href=3D"http://hyqoxexo.ovh/cls=
+/rapp/orangcpc15122016/xonuca.php?email=3Drfu5t%253fta%253wtmts%252a40e%253=
+c0ab3is%2518l" style=3D"text-decoration:none;color:#ffffff;font-family:sans=
+-serif;font-size:23px;">                                                   =
+          Internet pro fibre                                               =
+          </a></td>                                                      </=
+tr>  </table>  </td>                                          </tr></table>=
+  <!--[if (gte mso 9)|(IE)]>                                  </td><td styl=
+e=3D"width: 140px;" valign=3D"top"><![endif]--><table cellpadding=3D"0" cel=
+lspacing=3D"0" style=3D"display:inline-block;width:100%;max-width:140px;tex=
+t-align:center;vertical-align:top;"><tr>  <td align=3D"center" style=3D"wid=
+th:1%;text-align:center;padding:0 12px 20px 12px;">                        =
+                      <table cellspacing=3D"0" cellpadding=3D"0" style=3D"w=
+idth:100%;">  <tr>  <td align=3D"center"><img src=3D"http://hyqoxexo.ovh/83=
+26/rapp/orangcpc15122016/taqavo/png" style=3D"display:block;border-width:0"=
+ alt=3D""></td>                                                      </tr> =
+ <tr>  <td height=3D"105" style=3D"text-align:center;background-color:#1eab=
+67;padding:5px 0;height:105px"><a href=3D"http://hyqoxexo.ovh/cls/rapp/oran=
+gcpc15122016/xonuca.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%25=
+18l" style=3D"text-decoration:none;color:#ffffff;font-family:sans-serif;fon=
+t-size:22px;">                                                             =
+D=C3=A8s 39=E2=82=AC HT /mois<sup>1)</sup></a></td>                        =
+                              </tr>  </table>  </td>                       =
+                   </tr></table>  <!--[if (gte mso 9)|(IE)]>               =
+                   </td><td style=3D"width: 140px;" valign=3D"top"><![endif=
+]--><table cellpadding=3D"0" cellspacing=3D"0" style=3D"display:inline-bloc=
+k;width:100%;max-width:140px;text-align:center;vertical-align:top;"><tr>  <=
+td align=3D"center" style=3D"width:1%;text-align:center;padding:0 12px 20px=
+ 12px;">                                              <table cellspacing=3D=
+"0" cellpadding=3D"0" style=3D"width:100%">  <tr>  <td align=3D"center"><im=
+g src=3D"http://hyqoxexo.ovh/8326/rapp/orangcpc15122016/zukonu/png" style=
+=3D"display:block;border-width:0" alt=3D""></td>                           =
+                           </tr>  <tr>  <td height=3D"105" style=3D"text-al=
+ign:center;background-color:#1eab67;padding:5px 0;height:105px"><a href=3D"=
+http://hyqoxexo.ovh/cls/rapp/orangcpc15122016/xonuca.php?email=3Drfu5t%253f=
+ta%253wtmts%252a40e%253c0ab3is%2518l" style=3D"text-decoration:none;color:#=
+ffffff;font-family:sans-serif;font-size:16px;">                            =
+                                 100=E2=82=AC HT rembours=C3=A9s <sup>2)</s=
+up></a></td>                                                      </tr>  </=
+table>  </td>                                          </tr></table>  <!--[=
+if (gte mso 9)|(IE)]>                                  </td></tr></table><!=
+[endif]-->  </td>                              </tr>  <tr>  <td style=3D"pa=
+dding:20px 40px">                                  <table cellpadding=3D"0"=
+ cellspacing=3D"0" style=3D"width:100%">  <tr>  <td align=3D"center" style=
+=3D"padding-bottom:20px">                                              <div=
+>  <!--[if mso]>                                                <v:rect xml=
+ns:v=3D"urn:schemas-microsoft-com:vml" xmlns:w=3D"urn:schemas-microsoft-com=
+:office:word" href=3D"http://" style=3D"height:45px;v-text-anchor:middle;wi=
+dth:190px;" strokecolor=3D"#ffffff" fillcolor=3D"#000000">                 =
+                                 <w:anchorlock/>                           =
+                       <center style=3D"color:#ffffff;font-family:sans-seri=
+f;font-size:18px;font-weight:bold;">J'en profite</center>                  =
+                              </v:rect>                                    =
+          <![endif]--><a href=3D"http://hyqoxexo.ovh/cls/rapp/orangcpc15122=
+016/libeha.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" styl=
+e=3D"background-color:#000000;border:3px solid #ffffff;color:#ffffff;displa=
+y:inline-block;font-family:sans-serif;font-size:18px;font-weight:bold;line-=
+height:45px;text-align:center;text-decoration:none;width:190px;-webkit-text=
+-size-adjust:none;mso-hide:all;">J'en profite</a>  </div>                  =
+                            </td>                                          =
+</tr>  <tr>  <td style=3D"padding:15px 0;text-align:left;line-height:16px">=
+<a href=3D"http://hyqoxexo.ovh/cls/rapp/orangcpc15122016/xonuca.php?email=
+=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" style=3D"font-family:san=
+s-serif;font-size:15px;color:#ffffff;text-decoration:none">                =
+                             Depuis mon t=C3=A9l=C3=A9phone fixe par intern=
+et, j=E2=80=99appelle vers les mobiles de France m=C3=A9tropolitaine (1h av=
+ec le forfait =C3=A9quilibre, en illimit=C3=A9 avec le forfait intense) et =
+vers les <span style=3D"color:#ff6501">fixes de France m=C3=A9tropolitaine =
+et de plus de 100 destinations<sup>3)</sup> en illimit=C3=A9<sup>4)</sup></=
+span>. Je b=C3=A9n=C3=A9ficie du service inclus SugarSync 100 G<sup>5)</sup=
+>. Je dispose d=E2=80=99internet jusqu=E2=80=99=C3=A0 200Mbit/s en d=C3=
+=A9bit sym=C3=A9trique<sup>6)</sup>.                                       =
+      </a></td>                                          </tr>  </table>  <=
+/td>                              </tr>  <tr>  <td style=3D"padding:0 40px"=
+>                                  <table cellpadding=3D"0" cellspacing=3D"=
+0" style=3D"width:100%;border:1px solid #ffffff"><tr>  <td style=3D"padding=
+:15px 30px">                                              <table cellpaddin=
+g=3D"0" cellspacing=3D"0" style=3D"width:100%">  <tr>  <td align=3D"left" s=
+tyle=3D"padding-bottom:6px"><a href=3D"http://hyqoxexo.ovh/cls/rapp/orangcp=
+c15122016/xonuca.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l=
+" style=3D"font-family:sans-serif;font-size:23px;color:#ff6501;text-decorat=
+ion:none">                                                             Le s=
+ervice Orange pro<sup>7)</sup></a></td>                                    =
+                  </tr>  <tr>  <td align=3D"left">                         =
+                                 <table cellpadding=3D"0" cellspacing=3D"0"=
+><tr>  <td valign=3D"top" style=3D"padding:5px 8px 0 0"><img src=3D"http://=
+hyqoxexo.ovh/8326/rapp/orangcpc15122016/mihovy/png" alt=3D""></td>         =
+                                                             <td style=3D"p=
+adding-bottom:5px"><a href=3D"http://hyqoxexo.ovh/cls/rapp/orangcpc15122016=
+/xonuca.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" style=
+=3D"font-family:sans-serif;font-size:16px;color:#ffffff;text-decoration:non=
+e;line-height:18px;">                                                      =
+                   prestation d=E2=80=99installation personnalis=C3=A9e r=
+=C3=A9alis=C3=A9e par des techniciens sp=C3=A9cialis=C3=A9s                =
+                                                     </a></td>             =
+                                                     </tr></table>  </td>  =
+                                                    </tr>  <tr>  <td align=
+=3D"left">                                                          <table =
+cellpadding=3D"0" cellspacing=3D"0"><tr>  <td valign=3D"top" style=3D"paddi=
+ng:5px 8px 0 0"><img src=3D"http://hyqoxexo.ovh/8326/rapp/orangcpc15122016/=
+qyjusu/png" alt=3D""></td>                                                 =
+                     <td style=3D"padding-bottom:5px"><a href=3D"http://hyq=
+oxexo.ovh/cls/rapp/orangcpc15122016/xonuca.php?email=3Drfu5t%253fta%253wtmt=
+s%252a40e%253c0ab3is%2518l" style=3D"font-family:sans-serif;font-size:16px;=
+color:#ffffff;text-decoration:none;line-height:18px;">                     =
+                                                    hotline commerciale et =
+technique d=C3=A9di=C3=A9e                                                 =
+                    </a></td>                                              =
+                    </tr></table>  </td>                                   =
+                   </tr>  <tr>  <td align=3D"left">                        =
+                                  <table cellpadding=3D"0" cellspacing=3D"0=
+"><tr>  <td valign=3D"top" style=3D"padding:5px 8px 0 0"><img src=3D"http:/=
+/hyqoxexo.ovh/8326/rapp/orangcpc15122016/qiwyvi/png" alt=3D""></td>        =
+                                                              <td style=3D"=
+padding-bottom:5px"><a href=3D"http://hyqoxexo.ovh/cls/rapp/orangcpc1512201=
+6/xonuca.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" style=
+=3D"font-family:sans-serif;font-size:16px;color:#ffffff;text-decoration:non=
+e;line-height:18px;">                                                      =
+                   services inclus d=C3=A9di=C3=A9s aux professionnels (IP =
+fixe, nom de domaine, Messagerie pro...)                                   =
+                                  </a></td>                                =
+                                  </tr></table>  </td>                     =
+                                 </tr>  <tr>  <td style=3D"text-align:cente=
+r;font-size:0;padding-top:20px">  <!--[if (gte mso 9)|(IE)]>               =
+                                           <table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"width: 100%;">                           =
+                               <tr><td style=3D"width: 102px;" valign=3D"to=
+p"><![endif]-->                                                          <t=
+able cellpadding=3D"0" cellspacing=3D"0" style=3D"display:inline-block;widt=
+h:100%;max-width:102px;vertical-align:middle;"><tr>  <td style=3D"width:1%;=
+padding:0 10px 10px 10px"><a href=3D"http://hyqoxexo.ovh/cls/rapp/orangcpc1=
+5122016/xonuca.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" =
+style=3D"etxt-decoration:none"><img style=3D"display:block;border-width:0;w=
+idth:100%;max-width:82px;max-height:100px;background-color:#000000;font-fam=
+ily:sans-serif;font-size:16px;color:#ffffff;" src=3D"http://hyqoxexo.ovh/83=
+26/rapp/orangcpc15122016/nofyba/png" alt=3D"Service garanti 8h"></a></td>  =
+                                                                </tr></tabl=
+e>  <!--[if (gte mso 9)|(IE)]>                                             =
+             </td><td style=3D"width: 396px" valign=3D"middle"><![endif]-->=
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"display:inline-block;wi=
+dth:100%;max-width:396px;vertical-align:middle;"><tr>  <td style=3D"width:1=
+%;padding:0 10px 10px 10px;text-align:left;line-height:1.3"><a href=3D"http=
+://hyqoxexo.ovh/cls/rapp/orangcpc15122016/xonuca.php?email=3Drfu5t%253fta%2=
+53wtmts%252a40e%253c0ab3is%2518l" style=3D"font-family:sans-serif;color:#ff=
+ffff;font-size:15px;text-decoration:none"><span style=3D"color:#ff6501;font=
+-weight:bold">Votre connexion Internet est interrompue</span> durant plus d=
+e 8h, nous vous pr=C3=AAtons un Airbox 4G accompagn=C3=A9 d=E2=80=99un pass=
+ data pr=C3=A9pay=C3=A9 de 5 Go.</a></td>                                  =
+                                </tr></table>  <!--[if (gte mso 9)|(IE)]>  =
+                                                        </td></tr></table><=
+![endif]-->  </td>                                                      </t=
+r>  </table>  </td>                                          </tr></table> =
+ </td>                              </tr>  <tr>  <td style=3D"padding:30px =
+20px"><a href=3D"http://hyqoxexo.ovh/cls/rapp/orangcpc15122016/xonuca.php?e=
+mail=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l">                    =
+                 <img style=3D"display:block;border-width:0;" src=3D"http:/=
+/hyqoxexo.ovh/8326/rapp/orangcpc15122016/golygi/png" alt=3D""></a></td>    =
+                          </tr>    </table>  <!--[if (gte mso 9)|(IE)]>    =
+                  </td></tr></table><![endif]--><!--[if (gte mso 9)|(IE)]> =
+                     <table width=3D"640" align=3D"center" cellpadding=3D"0=
+" cellspacing=3D"0" border=3D"0">                      <tr><td>            =
+          <![endif]--><table cellpadding=3D"0" cellspacing=3D"0" align=3D"c=
+enter" style=3D"background-color:#e3e3e3;margin:0 auto;width:100%;max-width=
+:640px"><tr>  <td height=3D"355" style=3D"font-family:sans-serif;font-size:=
+11px;color:#4c4c4c;padding:20px">Equipement Livebox pro n=C3=A9cessaire en =
+location =C3=A0 5=E2=82=AC HT/moisOffres soumises =C3=A0 conditions valable=
+s en France m=C3=A9tropolitaine r=C3=A9serv=C3=A9es aux professionnels (sur=
+ fourniture de justificatifs d=E2=80=99activit=C3=A9 professionnelle) sous =
+r=C3=A9serve d=E2=80=99=C3=A9ligibilit=C3=A9 technique et g=C3=A9ographique=
+. Les conditions g=C3=A9n=C3=A9rales d=E2=80=99utilisation des options et s=
+ervices des offres sont disponibles sur orangepro.fr - La fiche tarifaire e=
+n vigueur de l=E2=80=99offre est disponible aupr=C3=A8s de votre interlocut=
+eur commercial habituel ou sur orangepro.fr                                =
+ <br>    <br>                                  1) Pendant 12 mois puis 45=
+=E2=82=AC HT/mois avec engagement de 12 mois<br>                           =
+       (2) Offres pr=C3=A9cit=C3=A9es soumises =C3=A0 conditions valables e=
+n France M=C3=A9tropolitaine du 6 octobre 2016 au 8 f=C3=A9vrier 2017 inclu=
+s                                 sous r=C3=A9serve d=E2=80=99=C3=A9ligibil=
+it=C3=A9 et de compatibilit=C3=A9 technique. N=C3=A9cessite la location d=
+=E2=80=99une livebox pro.                                 <br>             =
+                     Engagement minimum de 12 mois de l=E2=80=99offre sousc=
+rite.                                 <br>                                 =
+ Voir conditions et d=C3=A9tails de chaque offre sur orangepro.fr*         =
+                        <br>                                  Offre diff=
+=C3=A9r=C3=A9e de remboursement r=C3=A9serv=C3=A9e aux professionnels (sur =
+pr=C3=A9sentation de justificatifs) pour toute premi=C3=A8re souscription e=
+ntre le 6 octobre 2016 au 8 f=C3=A9vrier 2017 inclus =C3=A0 l=E2=80=99une d=
+es offres internet pro d=E2=80=99Orange suivantes : La Fibre pro, internet =
+pro fibre, Optimale Pro, Internet pro pour et sans ligne fixe classique et =
+pour toute r=C3=A9siliation d=E2=80=99une offre internet haut d=C3=A9bit ou=
+ tr=C3=A8s haut d=C3=A9bit d=E2=80=99un autre op=C3=A9rateur.              =
+                   Une seule offre diff=C3=A9r=C3=A9e de remboursement par =
+                                client (m=C3=AAme siret ou siren). Offre no=
+n cumulable avec toute autre offre promotionnelle en cours.                =
+                 Le montant du remboursement sera d=C3=A9duit sur la factur=
+e du client dans les 8 semaines suivant la r=C3=A9ception compl=C3=A8te des=
+ pi=C3=A8ces justificatives                                 demand=C3=A9es =
+et du coupon de remboursement, jusqu=E2=80=99au 08/04/2017 inclus.         =
+                        Toute demande illisible, incompl=C3=A8te ou ne r=
+=C3=A9pondant pas aux conditions de l=E2=80=99offre sera consid=C3=A9r=
+=C3=A9e comme nulle.                                 <br>                  =
+                (3) Liste des destinations sur orangepro.fr                =
+                  <br>                                  (4) Les communicati=
+ons illimit=C3=A9es sont autoris=C3=A9es dans la limite de 500 correspondan=
+ts diff=C3=A9rents/mois.                                  <br>             =
+                     (5) Application pour stocker vos documents de fa=C3=
+=A7on s=C3=A9curis=C3=A9e et les synchroniser entre vos diff=C3=A9rents ter=
+minaux. Option offerte au lieu de 6 =E2=82=AC/mois.  Service compatible sur=
+ ordinateurs de type PC et Mac uniquement avec webmail orange.fr, Outlook o=
+u Messagerie pro d=E2=80=99Orange.<br>                                  (6)=
+ Pour La Fibre pro, d=C3=A9bit en r=C3=A9ception jusqu=E2=80=99=C3=A0 1Gbit=
+/s (d=C3=A9bit IP maximum de 940 Mbit/s) et d=C3=A9bit en =C3=A9mission jus=
+qu=E2=80=99=C3=A0 200 Mbit/s. Pour Internet pro fibre, d=C3=A9bit en =C3=
+=A9mission et en r=C3=A9ception jusqu=E2=80=99=C3=A0 200 Mbit/s.           =
+                       <br>                                  (7) Voir le d=
+=C3=A9tail des services sur orangepro.fr=C2=A0                             =
+    <br>                                  (8) Intervention=C2=A0en France m=
+=C3=A9tropolitaine du lundi au samedi (hors jours f=C3=A9ri=C3=A9s) de 8h =
+=C3=A0 20h dans les 8h qui suivent=C2=A0l=E2=80=99enregistrement de la sign=
+alisation si les causes =C3=A0=C2=A0l=E2=80=99origine du dysfonctionnement =
+le permettent.                                   <br><br>                Co=
+nform=C3=A9ment =C3=A0 la loi =C2=AB Informatique et libert=C3=A9s =C2=
+=BB du 06/01/78, vous disposez d=E2=80=99un droit d=E2=80=99acc=C3=A8s, de =
+rectification et d=E2=80=99opposition aux informations                     =
+            vous concernant en =C3=A9crivant =C3=A0 : Orange service client=
+s - Gestion des donn=C3=A9es personnelles 33734 Bordeaux Cedex 9, avec la c=
+opie de votre pi=C3=A8ce d=E2=80=99identit=C3=A9.</td>                     =
+         </tr></table>  <!--[if (gte mso 9)|(IE)]>                      </t=
+d></tr></table><![endif]-->  =09=09=09=09=09<a href=3D"http://hyqoxexo.ovh/=
+cls/rapp/orangcpc15122016/harula.php?email=3Drfu5t%253fta%253wtmts%252a40e%=
+253c0ab3is%2518l" _type=3D"mirrorPage" style=3D"color:#666666;font-weight:b=
+old;" _label=3D"Page miroir" _category=3D"Top mail">Se d=C3=A9sinscrire</a>=
+   </td>                  </tr></table>  <img alt=3D"" src=3D"http://hyqoxe=
+xo.ovh/8326/rapp/orangcpc15122016/sujiho/gif" border=3D"0" height=3D"1" wid=
+th=3D"1">  <a href=3D'http://oxjgsahrumqesdsr.com'></a></body>  </html>  
+
+
+--b1_c8b707dc17e8e4f569381f185c8b87e4--
+

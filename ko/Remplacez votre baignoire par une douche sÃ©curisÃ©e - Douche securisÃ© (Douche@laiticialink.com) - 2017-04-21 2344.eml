@@ -1,0 +1,156 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@laiticialink.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Fri, 21 Apr 2017 23:47:09 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 44B524A
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 23:47:09 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 4244660033
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 23:47:09 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id ZIaCUs_BKMpa for <resp-m2-miage@univ-rennes1.fr>;
+	Fri, 21 Apr 2017 23:47:09 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 27C3B60009
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 23:47:09 +0200 (CEST)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 2199F20033
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 23:47:09 +0200 (CEST)
+Received: from smtp-a12.instancenet.pro (smtp-a12.instancenet.pro [193.41.73.83])
+	by mxb2-1.relay.renater.fr (asm) with ESMTP id D819E600016
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 23:47:09 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=laiticialink.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp2; bh=hiljGKGEhsXetEOMvjhoC1WL
+	SN4=; b=bn/Cb2Hn2BM2jKOO6UIwrPOzAgBY+6kKw91xt2FDG9YBay8RaxJaOJZh
+	aZQBRwEtMR849uzwyYv2Veb+mXOAC7XRK5eHMrQYs5NimgebWCY6p5JkVgjUa5H+
+	YyAKGo9IR96uVfrZ90VJfXnQv/xwa9a6WoEJ8KJfM8c+o19hoYM=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=laiticialink.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp2; b=eEnaBe8yGb4bhaitQn
+	u67KionXBWwR/lTYF774Yh9/GNKNOCSqg/u7y2FuPvthj+jzBs0PCXetkuHk6lsz
+	DrOfygUQDt6FHG8vFzTkIf0ZPEi7Z6onP/oniMHhIZknnyh0rbuBLFs+5hWUraEd
+	PK0PnEf36I6do+0RHqOUBsT8Q=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Remplacez_votre_baignoire_par_une_douche_s=C3=A9curis=C3=A9e?=
+Date: Fri, 21 Apr 2017 23:44:21 +0200
+From: =?utf-8?Q?Douche_securis=C3=A9?= <Douche@laiticialink.com>
+Reply-to: =?utf-8?Q?Douche_securis=C3=A9?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@laiticialink.com>
+X-campaign_id: 707277502461181452_9
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==887
+List-Unsubscribe: <http://app.laiticialink.com/d/?camp=707277502461181452_9&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <c38634ea326cd8c87021b76def6d0ad3@laiticialink.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_c38634ea326cd8c87021b76def6d0ad3"
+X-Original-Source-IP: 193.41.73.83
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeliedrfeehgddtkecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpeffohhutghhvggpshgvtghurhhishoruceoffhouhgthhgvsehlrghithhitghirghlihhnkhdrtghomheqnecuffhomhgrihhnpehlrghithhitghirghlihhnkhdrtghomhenucfkphepudelfedrgedurdejfedrkeefnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqrgduvddrihhnshhtrghntggvnhgvthdrphhrohdpihhnvghtpeduleefrdeguddrjeefrdekfedpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsehlrghithhitghirghlihhnkhdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--Part1_c38634ea326cd8c87021b76def6d0ad3
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.laiticialink.com/v/?camp=3D707277502461181452_9&ms=3DcmVzcC1tM=
+i1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_c38634ea326cd8c87021b76def6d0ad3
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Remplacez votre baignoire par une douche s=C3=A9curis=C3=A9e</titl=
+e>
+</head><body marginheight=3D"0" topmargin=3D"0" marginwidth=3D"0" leftmar=
+gin=3D"0" style=3D"-moz-text-size-adjust:none; -ms-text-size-adjust:none;=
+ -webkit-text-size-adjust:none; padding:0px; margin:0px; text-size-adjust=
+:none;">
+<center><p>
+<a href=3D"http://app.laiticialink.com/v/?camp=3D707277502461181452_9&ms=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si=
+ cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"colo=
+r:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">=
+Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p>=
+   	Douche s&eacute;curis&eacute;e 	   <img src=3D"http://app.laiticialin=
+k.com/r/?rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vcHgvUVB0bTU4eXc1VzUycmR=
+UMWhmVkNvdw=3D=3D" height=3D"1" border=3D"0" width=3D"1">  <table id=3D"T=
+able_01" style=3D"border: solid 1px #e6e6e6;margin:0px auto;" height=3D"1=
+068" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" width=3D"600"> 	<tb=
+ody><tr> 		<td> 			<a href=3D"http://app.laiticialink.com/r/?m=3DcmVzcC1t=
+Mi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D707277502461181452_9&rc=3DaHR0cDov=
+L3d3dy50YXJnZXRtb292ZS5jb20vY2xjL1FQdG01OHl3NVc1MnJkVDFoZlZDb3c=3D" targe=
+t=3D"_blank"><img src=3D"http://app.laiticialink.com/r/?rc=3DaHR0cDovL21l=
+ZGlhcy1hcGkuY29tL2RvdWNoZS
+ 1zZWN1cmlzZWUvaW1hZ2VzL2RvdWNoZS1zZWN1cmlzZWUtMV8wMS5qcGc=3D" alt=3D"Ins=
+tallation douche s&eacute;curis&eacute;e" height=3D"162" width=3D"600"></=
+a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.laiticialink.com/r/?=
+m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D707277502461181452_9&r=
+c=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5jb20vY2xjL1FQdG01OHl3NVc1MnJkVDFoZlZDb=
+3c=3D" target=3D"_blank"><img src=3D"http://app.laiticialink.com/r/?rc=3D=
+aHR0cDovL21lZGlhcy1hcGkuY29tL2RvdWNoZS1zZWN1cmlzZWUvaW1hZ2VzL2RvdWNoZS1zZ=
+WN1cmlzZWUtMV8wMi5qcGc=3D" alt=3D"Installation douche s&eacute;curis&eacu=
+te;e" height=3D"330" width=3D"600"></a></td> 	</tr> 	<tr> 		<td> 			<a hr=
+ef=3D"http://app.laiticialink.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5l=
+czEuZnI=3D&c=3D707277502461181452_9&rc=3DaHR0cDovL3d3dy50YXJnZXRtb292ZS5j=
+b20vY2xjL1FQdG01OHl3NVc1MnJkVDFoZlZDb3c=3D" target=3D"_blank"><img src=3D=
+"http://app.laiticialink.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2RvdWNo=
+ZS1zZWN1cmlzZWUvaW1hZ2VzL2RvdWNoZS1zZWN1cmlzZWUtMV8wMy5qcGc=3D" alt=3D"Do=
+uche s&eacute;curis&eacu
+ te;e pour s&eacute;niors" height=3D"473" width=3D"600"></a></td> 	</tr> =
+	<tr> 		<td> 			<a href=3D"http://app.laiticialink.com/r/?m=3DcmVzcC1tMi1=
+taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D707277502461181452_9&rc=3DaHR0cDovL3d=
+3dy50YXJnZXRtb292ZS5jb20vY2xjL1FQdG01OHl3NVc1MnJkVDFoZlZDb3c=3D" target=3D=
+"_blank"><img src=3D"http://app.laiticialink.com/r/?rc=3DaHR0cDovL21lZGlh=
+cy1hcGkuY29tL2RvdWNoZS1zZWN1cmlzZWUvaW1hZ2VzL2RvdWNoZS1zZWN1cmlzZWUtMV8wN=
+C5qcGc=3D" alt=3D"Douche s&eacute;curis&eacute;e pour s&eacute;niors" hei=
+ght=3D"103" width=3D"600"></a></td> 	</tr> </tbody></table>   <img src=3D=
+"http://app.laiticialink.com/t/?i=3D707277502461181452_9&m=3DcmVzcC1tMi1t=
+aWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.laiticialink.com/images/b=
+lank.jpg" alt=3D"_pspacer4"  /><p>
+<a href=3D"http://app.laiticialink.com/d/?camp=3D707277502461181452_9&ms=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne=
+ plus recevoir d'informations de notre part" style=3D"color:#00F; font-fa=
+mily:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacut=
+e;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; u=
+n quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_c38634ea326cd8c87021b76def6d0ad3--
+

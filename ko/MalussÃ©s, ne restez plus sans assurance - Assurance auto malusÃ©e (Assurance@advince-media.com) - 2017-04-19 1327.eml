@@ -1,0 +1,159 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@advince-media.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Wed, 19 Apr 2017 13:28:26 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 43ACE4A9
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 19 Apr 2017 13:28:26 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 38007602A0
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 19 Apr 2017 13:28:26 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id yD2cyOt_OLSe for <resp-m2-miage@univ-rennes1.fr>;
+	Wed, 19 Apr 2017 13:28:26 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 199E260063
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 19 Apr 2017 13:28:26 +0200 (CEST)
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 1C6A920033
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 19 Apr 2017 13:28:26 +0200 (CEST)
+Received: from smtp-a38.cibledirecte.fr (smtp-a38.cibledirecte.fr [193.41.73.39])
+	by mxb1-1.relay.renater.fr (asm) with ESMTP id BE27760000C
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 19 Apr 2017 13:14:29 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=advince-media.com; h=to
+	:subject:date:from:reply-to:message-id:list-unsubscribe
+	:mime-version:content-type; s=smtp3; bh=NYFuyJf2bPTXCr89UIAljH6J
+	ayg=; b=HaLIFEpDJLYThJR+DgbfAfQc8Ss1002cpLKOOIvyNSDznNG1cI0SpR3Q
+	yBIaDu4yxixRIfvJsUCa0dnZzgIfOjZIiSV6BFz5P7MFSmWYnLaRynwNi6R39Me9
+	O1mFFPELOQifG2AMNky/F6fN+4Ta/82Nxb6Cc1wv4VXw5yD4Kwk=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=advince-media.com; h=to
+	:subject:date:from:reply-to:message-id:list-unsubscribe
+	:mime-version:content-type; q=dns; s=smtp3; b=RpAWr08CqzJUj3n8C0
+	ucXtCEPwNHaWPB8VwZdjrVpQESUNnPDbpLaexE9HcC4MaMMUxuZfZwlrKRsqMMxK
+	BhiJCVn7GL3/j2Afp6xj/A8+ObEwz6JTPVO2ciI+vq6i+Ty2wNmJZdfciDpLVM14
+	9X0wHGw//V/o9YgAkZ0vUWIUc=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Maluss=C3=A9s,_ne_restez_plus_sans_assurance?=
+Date: Wed, 19 Apr 2017 13:27:10 +0200
+From: =?utf-8?Q?Assurance_auto_malus=C3=A9e?= <Assurance@advince-media.com>
+Reply-to: =?utf-8?Q?Assurance_auto_malus=C3=A9e?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@advince-media.com>
+Precedence: <bulk>
+Message-ID: <6f4fbf9c6cc364eeaaecf0779c27ee42@advince-media.com>
+List-Unsubscribe: <http://app.advince-media.com/d/?camp=49615160573952_7&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+X-campaign-id: 49615160573952_7
+X-uid-id-m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==665
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_6f4fbf9c6cc364eeaaecf0779c27ee42"
+X-Original-Source-IP: 193.41.73.39
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeliedrfedtgdegudcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrphfkjfggtgesrgdtjhertddtjeenucfhrhhomheptehsshhurhgrnhgtvggprghuthhopghmrghluhhsrogvuceotehsshhurhgrnhgtvgesrgguvhhinhgtvgdqmhgvughirgdrtghomheqnecuffhomhgrihhnpegrughvihhntggvqdhmvgguihgrrdgtohhmnecukfhppeduleefrdeguddrjeefrdefleenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrfeekrdgtihgslhgvughirhgvtghtvgdrfhhrpdhinhgvthepudelfedrgedurdejfedrfeelpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesrgguvhhinhgtvgdqmhgvughirgdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+
+--Part1_6f4fbf9c6cc364eeaaecf0779c27ee42
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.advince-media.com/v/?camp=3D49615160573952_7&ms=3DcmVzcC1tMi1t=
+aWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_6f4fbf9c6cc364eeaaecf0779c27ee42
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Maluss=C3=A9s, ne restez plus sans assurance</title>
+</head><body marginwidth=3D"0" style=3D"text-size-adjust:none; -moz-text-=
+size-adjust:none; -webkit-text-size-adjust:none; padding:0px; -ms-text-si=
+ze-adjust:none; margin:0px;" leftmargin=3D"0" topmargin=3D"0" marginheigh=
+t=3D"0">
+<center><p>
+<a href=3D"http://app.advince-media.com/v/?camp=3D49615160573952_7&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si =
+cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"color=
+:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">S=
+i cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p>&=
+nbsp;   	<img src=3D"http://app.advince-media.com/r/?rc=3DaHR0cDovL3RtZml=
+sYS5jb20vcHgvOEtsaUI5TUhQZW5DVnVHcUNnbDhtUQ=3D=3D" width=3D"1" height=3D"=
+1" border=3D"0"> <!-- Save for Web Slices (ephad.jpg) --> <table id=3D"Ta=
+ble_01" style=3D"border: solid 1px #e6e6e6;margin:0 auto;" cellspacing=3D=
+"0" cellpadding=3D"0" width=3D"600" height=3D"955" border=3D"0"> 	<tbody>=
+<tr> 		<td> 			<a href=3D"http://app.advince-media.com/r/?m=3DcmVzcC1tMi1=
+taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D49615160573952_7&rc=3DaHR0cDovL3RtZml=
+sYS5jb20vY2xjLzhLbGlCOU1IUGVuQ1Z1R3FDZ2w4bVE=3D" style=3D"text-decoration=
+:none;" target=3D"_blank"><img src=3D"http://app.advince-media.com/r/?rc=3D=
+aHR0cDovL21lZGlhcy1hcGkuY29tL2VocGFk
+ L2ltYWdlcy9lcGhhZF8wMS5qcGc=3D" alt=3D"Investir EHPAD" width=3D"600" hei=
+ght=3D"156"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.advinc=
+e-media.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D4961516=
+0573952_7&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjLzhLbGlCOU1IUGVuQ1Z1R3FDZ2w4bV=
+E=3D" style=3D"text-decoration:none;" target=3D"_blank"><img src=3D"http:=
+//app.advince-media.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2VocGFkL2ltY=
+Wdlcy9lcGhhZF8wMi5qcGc=3D" alt=3D"Investir EHPAD" width=3D"600" height=3D=
+"246"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.advince-medi=
+a.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D4961516057395=
+2_7&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjLzhLbGlCOU1IUGVuQ1Z1R3FDZ2w4bVE=3D" =
+style=3D"text-decoration:none;" target=3D"_blank"><img src=3D"http://app.=
+advince-media.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL2VocGFkL2ltYWdlcy9=
+lcGhhZF8wMy5qcGc=3D" alt=3D"Investir EHPAD" width=3D"600" height=3D"154">=
+</a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.advince-media.com/=
+r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZ
+ nI=3D&c=3D49615160573952_7&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjLzhLbGlCOU1I=
+UGVuQ1Z1R3FDZ2w4bVE=3D" style=3D"text-decoration:none;" target=3D"_blank"=
+><img src=3D"http://app.advince-media.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGk=
+uY29tL2VocGFkL2ltYWdlcy9lcGhhZF8wNC5qcGc=3D" alt=3D"Investir EHPAD" width=
+=3D"600" height=3D"287"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http:=
+//app.advince-media.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D=
+&c=3D49615160573952_7&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjLzhLbGlCOU1IUGVuQ1=
+Z1R3FDZ2w4bVE=3D" style=3D"text-decoration:none;" target=3D"_blank"><img =
+src=3D"http://app.advince-media.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL=
+2VocGFkL2ltYWdlcy9lcGhhZF8wNS5qcGc=3D" alt=3D"Investir EHPAD" width=3D"60=
+0" height=3D"112"></a></td> 	</tr> </tbody></table> <!-- End Save for Web=
+ Slices -->  <img src=3D"http://app.advince-media.com/t/?i=3D496151605739=
+52_7&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.advi=
+nce-media.com/images/blank.jpg" alt=3D"_pspacer4"  /><p>
+<a href=3D"http://app.advince-media.com/d/?camp=3D49615160573952_7&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne =
+plus recevoir d'informations de notre part" style=3D"color:#00F; font-fam=
+ily:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute=
+;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un=
+ quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_6f4fbf9c6cc364eeaaecf0779c27ee42--
+

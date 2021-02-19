@@ -1,0 +1,354 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@onlineture.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 26 Jun 2017 01:43:18 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id DB84D4D0
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 26 Jun 2017 01:43:18 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D767E600CB
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 26 Jun 2017 01:43:18 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 5dHV-IKgtdpK for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 26 Jun 2017 01:43:18 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id B1CC3600AD
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 26 Jun 2017 01:43:18 +0200 (CEST)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id A977D20033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 26 Jun 2017 01:43:18 +0200 (CEST)
+Received: from smtp-a46.easyvu.com (smtp-a46.easyvu.com [185.52.34.81])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id D40A120B70
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 26 Jun 2017 01:44:25 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=onlineture.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp3; bh=hPKex33KXlcJFtzAg6HqH+JJ
+	/YavwEBnNACSMaOMKLU=; b=X6wQcxDZNNfrCeRPctc1pXuSyM7fpY1Zub2JcrQW
+	RL1FQLiQKmOY8lwtayRsXd5LcYw25S0n2acQPbEp7ChISoHwFe8BnvsvSzQn1CNX
+	NHZ7N/D4fl7o0vhTDDBxNDHPD5fKYE1mthsFDxAoZX+zNe9pyRMYtmf1lDzCtvKN
+	YMo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=onlineture.com; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp3; b=ir6N56FSTFrlv+uUQ+jfCUHXIw6vYMM
+	UX1amTpxWlJhNi8Wu3Urp0AIHuwmJcz7xFTqjBVrMh3W1inTfbu9LWhSSUdvufjX
+	IEbQbxHFC+djpzp95jY8uyrL5lpEjqG/LW3/D5MK7yBOZlkVHRLEovLrGFmcpoj+
+	3w89o3690XPY=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****Nettoyage : Faites mousser toute votre entreprise !
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Sun, 25 Jun 2017 23:49:06 +0200
+From: Autolaveuse <Autolaveuse@onlineture.com>
+Reply-to: Autolaveuse <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@onlineture.com>
+X-campaign_id: 595299709214687485633341954_8
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==163
+List-Unsubscribe: <http://app.onlineture.com/d/?camp=595299709214687485633341954_8&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <06241151f698734a80ae54bf6a2b1931@onlineture.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_06241151f698734a80ae54bf6a2b1931"
+X-Original-Source-IP: 185.52.34.81
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrleekgddukeelucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepvffufffhrhfjkfggtgesrgdtjhertddtjeenucfhrhhomheptehuthholhgrvhgvuhhsvgcuoeetuhhtohhlrghvvghushgvsehonhhlihhnvghtuhhrvgdrtghomheqnecuffhomhgrihhnpehonhhlihhnvghtuhhrvgdrtghomhenucfkphepudekhedrhedvrdefgedrkedunecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqrgegiedrvggrshihvhhurdgtohhmpdhinhgvthepudekhedrhedvrdefgedrkedupdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesohhnlhhinhgvthhurhgvrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+--Part1_06241151f698734a80ae54bf6a2b1931
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.onlineture.com/v/?camp=3D595299709214687485633341954_8&ms=3Dcm=
+VzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_06241151f698734a80ae54bf6a2b1931
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Nettoyage : Faites mousser toute votre entreprise !</title>
+</head><body leftmargin=3D"0" marginheight=3D"0" marginwidth=3D"0" style=3D=
+"padding:0px; margin:0px; -webkit-text-size-adjust:none; -moz-text-size-a=
+djust:none; text-size-adjust:none; -ms-text-size-adjust:none;" topmargin=3D=
+"0">
+<center><p>
+<a href=3D"http://app.onlineture.com/v/?camp=3D59529970921468748563334195=
+4_8&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" ti=
+tle=3D"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." styl=
+e=3D"color:#00F; font-family:'Arial'; font-size:12px; text-decoration:und=
+erline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien=
+.</a></p> &nbsp;<base target=3D"_blank">  <!--[if (gte mso 9)|(IE)]>     =
+<table id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600">     <![endif]-=
+-><!--[if gte mso 9]>         <table id=3D"tableForOutlook" align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><t=
+d width=3D"600">         <![endif]--><!--[if gte mso 8]>         <table i=
+d=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"600"><tr><td width=3D"600">         <![endif]--><=
+!--[if gte mso 7]>         <table id=3D"tableForOutlook" align=3D"center"=
+ border=3D"0" cellpadding=3D"0" c
+ ellspacing=3D"0" width=3D"600"><tr><td width=3D"600">         <![endif]-=
+->      <table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"max-width:600px; margin:0 auto;" width=3D"100%">     <tb=
+ody><tr bgcolor=3D"#ffffff">       <td align=3D"center" style=3D"padding:=
+10px;"><span style=3D" font-family:Verdana, Arial, Helvetica, sans-serif;=
+ font-size:11px ; font-weight: normal; color:#535353;">Nettoyage : Faites=
+ mousser toute votre entreprise !         <a href=3D"http://app.onlinetur=
+e.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D5952997092146=
+87485633341954_8&rc=3DaHR0cDovL2Nsay50cmFkZWRvdWJsZXIuY29tL2NsaWNrP3A9Mjc=
+3ODY5JmFtcDthPTI5MzkwMTQmYW1wO2c9MjM3ODY0NjYmYW1wO3VybD1odHRwOi8vZW50cmVw=
+cmlzZS1kZXZpcy5uZXQvNjYxM19NQl9ORU9QLz9xY3A9NjYxM19NQl9ORU9QJmFtcDt1dG1fc=
+291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW=
+1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"text-decoration:underline; color:#=
+2d95ff;" target=3D"_blank">Comparez les offres &gt;</a></span></td>     <=
+/tr>     =20
+     			<tr> 				<td bgcolor=3D"#ffffff" height=3D"20" style=3D"line-heig=
+ht:20px; height:20px; font-size: 0;"> 				</td> 			</tr>                 =
+     			<tr> 				<td align=3D"center" bgcolor=3D"#ffffff"> 					<table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0"> 						<tbody><tr> 							=
+<td width=3D"40"> 							</td>  							<td style=3D"max-width:410px !impo=
+rtant;" align=3D"center" bgcolor=3D"#ffffff"><span style=3D"font-family:V=
+erdana, Arial, Helvetica, sans-serif; font-size:28px; font-weight:bold; l=
+etter-spacing:2px; color:#535353;">AUTOLAVEUSE</span> 							</td>  					=
+		<td width=3D"40"> 							</td> 						</tr> 					</tbody></table> 				</=
+td> 			</tr>                  			<tr> 				<td bgcolor=3D"#ffffff" height=3D=
+"6" style=3D"line-height:6px; height:6px; font-size: 0;"> 				</td> 			</=
+tr>                                      			<tr> 				<td align=3D"center"=
+ bgcolor=3D"#ffffff"> 					<table border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0"> 						<tbody><tr> 							<td width=3D"40"> 							</td>  					=
+		<td align=3D
+ "center" bgcolor=3D"#ffffff"><span style=3D"font-family:Verdana, Arial, =
+Helvetica, sans-serif; font-size:18px; font-weight:bold; color:#00a2ff;">=
+Nettoyez rapidement les sols de vos locaux ! </span> 							</td>  						=
+	<td width=3D"40"> 							</td> 						</tr> 					</tbody></table> 				</t=
+d> 			</tr>                              			<tr> 				<td bgcolor=3D"#ffff=
+ff" height=3D"20" style=3D"line-height:20px; height:20px; font-size: 0;">=
+ 				</td> 			</tr>                          			<tr> 				<td align=3D"cen=
+ter" bgcolor=3D"#ffffff" style=3D"font-size: 0;" width=3D"600"> 					<tab=
+le align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> 			=
+			<tbody><tr> 							<td align=3D"center" style=3D"padding-top:0;padding=
+-bottom:0;padding-right:0;padding-left:0; font-size: 0;"> 						    <a hr=
+ef=3D"http://app.onlineture.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lcz=
+EuZnI=3D&c=3D595299709214687485633341954_8&rc=3DaHR0cDovL2Nsay50cmFkZWRvd=
+WJsZXIuY29tL2NsaWNrP3A9Mjc3ODY5JmFtcDthPTI5MzkwMTQmYW1wO2c9MjM3ODY0NjYmYW=
+1wO3VybD1o
+ dHRwOi8vZW50cmVwcmlzZS1kZXZpcy5uZXQvNjYxM19NQl9ORU9QLz9xY3A9NjYxM19NQl9O=
+RU9QJmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2Ftc=
+GFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"text-decoration:n=
+one; color:#ffffff; text-transform:uppercase;" target=3D"_blank"><img alt=
+=3D"" src=3D"http://app.onlineture.com/r/?rc=3DaHR0cDovL3ZodC50cmFkZWRvdW=
+JsZXIuY29tL2ZpbGUvMjc3ODY5L2ltZy9hbmltYXRpb24uZ2lm" style=3D"background-c=
+olor:#f09b00 color:#ffffff; font-size:18px; font-family:Verdana, Arial, H=
+elvetica, sans-serif; text-align:center; margin:0 auto; max-width:600px; =
+display:block;" width=3D"100%"></a></td> 						</tr> 					</tbody></table=
+> 				</td> 			</tr>                                          			<tr> 			=
+	<td bgcolor=3D"#e4e4e4" height=3D"30" style=3D"line-height:30px; height:=
+30px; font-size: 0;"> 				</td> 			</tr>                          <tr> 		=
+		<td align=3D"center" bgcolor=3D"#e4e4e4"> 					<table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> 						<tbody><tr> 					=
+	=09
+ <td width=3D"30"> 							</td>  							<td align=3D"center" style=3D"pad=
+ding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"> 						    <=
+a href=3D"http://app.onlineture.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm=
+5lczEuZnI=3D&c=3D595299709214687485633341954_8&rc=3DaHR0cDovL2Nsay50cmFkZ=
+WRvdWJsZXIuY29tL2NsaWNrP3A9Mjc3ODY5JmFtcDthPTI5MzkwMTQmYW1wO2c9MjM3ODY0Nj=
+YmYW1wO3VybD1odHRwOi8vZW50cmVwcmlzZS1kZXZpcy5uZXQvNjYxM19NQl9ORU9QLz9xY3A=
+9NjYxM19NQl9ORU9QJmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFt=
+cDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"text=
+-decoration:none; color:#ffffff; text-transform:uppercase;" target=3D"_bl=
+ank"><img alt=3D"En savoir plus >" src=3D"http://app.onlineture.com/r/?rc=
+=3DaHR0cDovL3ZodC50cmFkZWRvdWJsZXIuY29tL2ZpbGUvMjc3ODY5L2ltZy9jdGEuanBn" =
+style=3D"background-color:#00abea; color:#ffffff; font-size:14px; font-we=
+ight:bold; font-family:Verdana, Verdana, Verdana, Arial, Helvetica, sans-=
+serif; text-align:center; margin:0 auto; max-width:280px; display:block
+ ;" width=3D"100%"></a></td>  							<td width=3D"30"> 							</td> 					=
+	</tr> 					</tbody></table> 				</td> 			</tr>                          =
+                            			<tr> 				<td bgcolor=3D"#e4e4e4" height=3D=
+"30" style=3D"line-height:30px; height:30px; font-size: 0;"> 				</td> 		=
+	</tr>                          <tr> 				<td bgcolor=3D"#ffffff" class=3D=
+"three-column" style=3D"text-align:center;font-size:0"> 					<!--[if (gte=
+ mso 9)|(IE)]>                         <table width=3D"100%" style=3D"bor=
+der-spacing:0;font-family:sans-serif;color:#333333;" border=3D"0"  cellpa=
+dding=3D"0" cellspacing=3D"0" >                         <tr>             =
+            <td width=3D"200" valign=3D"top" style=3D"padding-top:0;paddi=
+ng-bottom:0;padding-right:0;padding-left:0;" >                         <!=
+[endif]-->   					<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ class=3D"column" style=3D"border-spacing:0;font-family:sans-serif;color:=
+#333333;text-align:center;max-width:200px;display:inline-block;vertical-a=
+lign:top;m
+ argin-top:0;margin-bottom:0;"> 						<tbody><tr> 							<td style=3D"pad=
+ding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"> 								<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"contents" s=
+tyle=3D"border-spacing:0;font-family:sans-serif;color:#333333;font-size:1=
+4px;text-align:center;" width=3D"200">                                   =
+                               			<tbody><tr> 				<td bgcolor=3D"#ffffff"=
+ height=3D"30" style=3D"font-size: 0; line-height:30px;"> 				</td> 			</=
+tr>                                                                  			<=
+tr> 				<td align=3D"center" bgcolor=3D"#ffffff"> 					<table align=3D"ce=
+nter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> 						<tbody><tr>=
+ 							<td width=3D"30"> 							</td>  							<td align=3D"center" style=
+=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"> 				=
+		    <a href=3D"http://app.onlineture.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml=
+2LXJlbm5lczEuZnI=3D&c=3D595299709214687485633341954_8&rc=3DaHR0cDovL2Nsay=
+50cmFkZWRvdWJsZX
+ IuY29tL2NsaWNrP3A9Mjc3ODY5JmFtcDthPTI5MzkwMTQmYW1wO2c9MjM3ODY0NjYmYW1wO3=
+VybD1odHRwOi8vZW50cmVwcmlzZS1kZXZpcy5uZXQvNjYxM19NQl9ORU9QLz9xY3A9NjYxM19=
+NQl9ORU9QJmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1f=
+Y2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"text-decorat=
+ion:none; color:#ffffff; text-transform:uppercase;" target=3D"_blank"><im=
+g alt=3D"" src=3D"http://app.onlineture.com/r/?rc=3DaHR0cDovL3ZodC50cmFkZ=
+WRvdWJsZXIuY29tL2ZpbGUvMjc3ODY5L2ltZy9jaGVjay5qcGc=3D" style=3D"backgroun=
+d-color:#535353; color:#3f2d00; font-size:18px; font-weight:bold; font-fa=
+mily:Verdana, Verdana, Verdana, Arial, Helvetica, sans-serif; text-align:=
+center; margin:0 auto; max-width:100px; display:block;" width=3D"100%"></=
+a></td>  							<td width=3D"30"> 							</td> 						</tr> 					</tbody><=
+/table> 				</td> 			</tr>   			<tr> 				<td bgcolor=3D"#ffffff" height=3D=
+"10" style=3D"font-size: 0; line-height:10px;"> 				</td> 			</tr>  					=
+				<tr> 										<td bgcolor=3D"#ffffff" height=3D"60" style=3D"vertic
+ al-align:top; padding:0 20px;" valign=3D"middle"><span style=3D"font-fam=
+ily:Verdana, Arial, Helvetica, sans-serif; font-size:12px ; font-weight:b=
+old; color:#3e3e3e;">Plusieurs mod&egrave;les disponibles selon la surfac=
+e</span> 										</td> 									</tr>                                  =
+                                   			<tr> 				<td bgcolor=3D"#ffffff" he=
+ight=3D"30" style=3D"font-size: 0; line-height:30px;"> 				</td> 			</tr>=
+ 								</tbody></table> 							</td> 						</tr> 					</tbody></table> =
+					<!--[if (gte mso 9)|(IE)]>                         </td><td width=3D=
+"200" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-righ=
+t:0;padding-left:0;" >                         <![endif]-->   					<table=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"column" style=3D=
+"border-spacing:0;font-family:sans-serif;color:#333333;text-align:center;=
+max-width:200px;display:inline-block;vertical-align:top;margin-top:0;marg=
+in-bottom:0;"> 						<tbody><tr> 							<td style=3D"padding-top:0;
+ padding-bottom:0;padding-right:0;padding-left:0;"> 								<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"contents" style=3D"bo=
+rder-spacing:0;font-family:sans-serif;color:#333333;font-size:14px;text-a=
+lign:center;" width=3D"200">                                             =
+                                                     			<tbody><tr> 				<=
+td bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size: 0; line-height:3=
+0px;"> 				</td> 			</tr>  		                                			<tr> 				=
+<td align=3D"center" bgcolor=3D"#ffffff"> 					<table align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0"> 						<tbody><tr> 							=
+<td width=3D"30"> 							</td>  							<td align=3D"center" style=3D"padd=
+ing-top:0;padding-bottom:0;padding-right:0;padding-left:0;"> 						    <a=
+ href=3D"http://app.onlineture.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5=
+lczEuZnI=3D&c=3D595299709214687485633341954_8&rc=3DaHR0cDovL2Nsay50cmFkZW=
+RvdWJsZXIuY29tL2NsaWNrP3A9Mjc3ODY5JmFtcDthPTI5MzkwMTQmYW1wO2c9MjM3ODY0NjY=
+mYW1wO3VybD1od
+ HRwOi8vZW50cmVwcmlzZS1kZXZpcy5uZXQvNjYxM19NQl9ORU9QLz9xY3A9NjYxM19NQl9OR=
+U9QJmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcG=
+FpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"text-decoration:no=
+ne; color:#ffffff; text-transform:uppercase;" target=3D"_blank"><img alt=3D=
+"" src=3D"http://app.onlineture.com/r/?rc=3DaHR0cDovL3ZodC50cmFkZWRvdWJsZ=
+XIuY29tL2ZpbGUvMjc3ODY5L2ltZy9jaGVjay5qcGc=3D" style=3D"background-color:=
+#535353; color:#3f2d00; font-size:18px; font-weight:bold; font-family:Ver=
+dana, Verdana, Verdana, Arial, Helvetica, sans-serif; text-align:center; =
+margin:0 auto; max-width:100px; display:block;" width=3D"100%"></a></td> =
+ 							<td width=3D"30"> 							</td> 						</tr> 					</tbody></table> =
+				</td> 			</tr>   			<tr> 				<td bgcolor=3D"#ffffff" height=3D"10" st=
+yle=3D"font-size: 0; line-height:10px;"> 				</td> 			</tr>  									<tr=
+> 										<td bgcolor=3D"#ffffff" height=3D"60" style=3D"vertical-align=
+: top; padding:0 20px;" valign=3D"middle"><span style=3D"font-family:Verd=
+an
+ a, Arial, Helvetica, sans-serif; font-size:12px ; font-weight:bold; colo=
+r:#3e3e3e;">Traitez tous les types de surfaces</span> 										</td> 			=
+						</tr> 								</tbody></table> 							</td> 						</tr>            =
+                     			<tr> 				<td bgcolor=3D"#ffffff" height=3D"30" st=
+yle=3D"font-size: 0; line-height:30px;"> 				</td> 			</tr> 					</tbody>=
+</table> 					<!--[if (gte mso 9)|(IE)]>                         </td><td=
+ width=3D"200" valign=3D"top" style=3D"padding-top:0;padding-bottom:0;pad=
+ding-right:0;padding-left:0;" >                         <![endif]-->   		=
+			<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"colum=
+n" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;text-al=
+ign:center;max-width:200px;display:inline-block;vertical-align:top;margin=
+-top:0;margin-bottom:0;"> 						<tbody><tr> 							<td style=3D"padding-t=
+op:0;padding-bottom:0;padding-right:0;padding-left:0;"> 								<table bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"contents" style=3D=
+"
+ border-spacing:0;font-family:sans-serif;color:#333333;font-size:14px;tex=
+t-align:center;" width=3D"200">                                          =
+                                                        			<tbody><tr> 		=
+		<td bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size: 0; line-heigh=
+t:30px;"> 				</td> 			</tr>                                             =
+                     			<tr> 				<td align=3D"center" bgcolor=3D"#ffffff"=
+> 					<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0"> 						<tbody><tr> 							<td width=3D"30"> 							</td>  							<=
+td align=3D"center" style=3D"padding-top:0;padding-bottom:0;padding-right=
+:0;padding-left:0;"> 						    <a href=3D"http://app.onlineture.com/r/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D59529970921468748563334195=
+4_8&rc=3DaHR0cDovL2Nsay50cmFkZWRvdWJsZXIuY29tL2NsaWNrP3A9Mjc3ODY5JmFtcDth=
+PTI5MzkwMTQmYW1wO2c9MjM3ODY0NjYmYW1wO3VybD1odHRwOi8vZW50cmVwcmlzZS1kZXZpc=
+y5uZXQvNjYxM19NQl9ORU9QLz9xY3A9NjYxM19NQl9ORU9QJmFtcDt1dG1fc291cmNlPW4mYW=
+1w
+ O3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292=
+ZXJyaWRlPTE=3D" style=3D"text-decoration:none; color:#ffffff; text-transf=
+orm:uppercase;" target=3D"_blank"><img alt=3D"" src=3D"http://app.onlinet=
+ure.com/r/?rc=3DaHR0cDovL3ZodC50cmFkZWRvdWJsZXIuY29tL2ZpbGUvMjc3ODY5L2ltZ=
+y9jaGVjay5qcGc=3D" style=3D"background-color:#535353; color:#3f2d00; font=
+-size:18px; font-weight:bold; font-family:Verdana, Verdana, Verdana, Aria=
+l, Helvetica, sans-serif; text-align:center; margin:0 auto; max-width:100=
+px; display:block;" width=3D"100%"></a></td>  							<td width=3D"30"> 		=
+					</td> 						</tr> 					</tbody></table> 				</td> 			</tr>   			<tr>=
+ 				<td bgcolor=3D"#ffffff" height=3D"10" style=3D"font-size: 0; line-he=
+ight:10px;"> 				</td> 			</tr>  									<tr> 										<td bgcolor=3D"#=
+ffffff" height=3D"60" style=3D"vertical-align: top; padding:0 20px;" vali=
+gn=3D"middle"><span style=3D"font-family:Verdana, Arial, Helvetica, sans-=
+serif; font-size:12px ; font-weight:bold; color:#3e3e3e;">Lave et s&egrav=
+e;ch
+ e vos sols en m&ecirc;me temps</span> 										</td> 									</tr>    =
+                                                                         =
+                                                             			<tr> 				=
+<td bgcolor=3D"#ffffff" height=3D"30" style=3D"font-size: 0; line-height:=
+30px;"> 				</td> 			</tr> 								</tbody></table> 							</td> 						</=
+tr> 					</tbody></table> 					<!--[if (gte mso 9)|(IE)]>                =
+         </td>                         </tr>                         </ta=
+ble>                         <![endif]--> 				</td> 			</tr>    </tbody><=
+/table>   <!--[if gte mso 7]>     </td></tr></table>     <![endif]--><!--=
+[if gte mso 8]>     </td></tr></table>     <![endif]--><!--[if gte mso 9]=
+>     </td></tr></table>     <![endif]--><!--[if (gte mso 9)|(IE)]>     <=
+/td></tr></table>     <![endif]--><img src=3D"http://app.onlineture.com/t=
+/?i=3D595299709214687485633341954_8&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lc=
+zEuZnI=3D&url=3Dhttp://app.onlineture.com/images/blank.jp
+ g" alt=3D"_pspacer6"  /><p>
+<a href=3D"http://app.onlineture.com/d/?camp=3D59529970921468748563334195=
+4_8&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" ti=
+tle=3D"Ne plus recevoir d'informations de notre part" style=3D"color:#00F=
+; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour s=
+e d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&=
+eacute; un quelconque d&eacute;rangement, nous vous prions de nous en exc=
+user.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_06241151f698734a80ae54bf6a2b1931--
+

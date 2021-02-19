@@ -1,0 +1,112 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@hatclouz.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 24 Oct 2016 16:58:23 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 4AEBF199
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 16:58:23 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 48CC160309
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 16:58:23 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id l7zakDjdlCLP for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 24 Oct 2016 16:58:23 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 36747602FA
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 16:58:23 +0200 (CEST)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 30B4320033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 16:58:23 +0200 (CEST)
+Received: from ip-81-93-246-99.sd-france.net (ip-81-93-246-99.sd-france.net [81.93.246.99])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 015482800B6
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 16:58:22 +0200 (CEST)
+Received: from hatclouz.fr (unknown [188.130.7.25])
+	by srv2577.localdomain (Postfix) with ESMTP id 716DB135A0D
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 16:57:31 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=hatclouz.fr;
+	s=hatclouzfr; t=1477321051;
+	bh=MP1+5Wf0vKvcdpcfTloniGctRAuHDfYDNRPV6whmwu8=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:
+	 MIME-Version:Content-Type;
+	b=1VZE5991+0wEZ7eTF/2GfLsAzz/atpdr0ALi7aHVn/lwxf+E14xlih2PKGgmf7aaf
+	 plGw3ztIMUsUhoZ+0VgCr8DBJvPdBwdhutY+Eeib37ieBHTEDTXS8on4tsjdtBwsU+
+	 CMLvZL2ypuh5o+Er8vA7HgkrrQxfo7672IGPNfi4=
+Date: Mon, 24 Oct 2016 16:57:31 +0200
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+From: fenetres <fenetres@hatclouz.fr>
+Reply-to: fenetres <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@hatclouz.fr>
+Subject: *****Spam*****=?utf-8?Q?Am=C3=A9liorer_votre_isolation_en_changeant_vos_anciennes_fen?=
+ =?utf-8?Q?=C3=AAtres_!?=
+X-campaign_id: 8571_6
+Precedence: bulk
+X-uid_id_m: <cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==231>
+List-Unsubscribe: <http://www.hatclouz.fr/d/?camp=8571_6&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <fb4ba8e3646087a3931cca3448becdc4@hatclouz.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_fb4ba8e3646087a3931cca3448becdc4"
+X-Original-Source-IP: 81.93.246.99
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrieehgdektdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpeffvffhrhfuphfjkfggtgesrgdtjhertddtjeenucfhrhhomhepfhgvnhgvthhrvghsuceofhgvnhgvthhrvghssehhrghttghlohhuiidrfhhrqeenucffohhmrghinhephhgrthgtlhhouhiirdhfrhenucfkphepkedurdelfedrvdegiedrleelpddukeekrddufedtrdejrddvheenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepihhpqdekuddqleefqddvgeeiqdelledrshguqdhfrhgrnhgtvgdrnhgvthdpihhnvghtpeekuddrleefrddvgeeirdelledpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsehhrghttghlohhuiidrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+
+--Part1_fb4ba8e3646087a3931cca3448becdc4
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+Pour visualiser et se désabonner ce message,
+ 
+Veuillez, copier puis coller, l'adresse URL complète ci-dessous dans la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entrée" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - - 
+
+http://www.hatclouz.fr/v/?camp=8571_6&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+
+- - - - - - - - - - - - - - - - - 
+
+
+
+
+--Part1_fb4ba8e3646087a3931cca3448becdc4
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Améliorer votre isolation en changeant vos anciennes fenêtres !</title>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="center">
+<a href="http://www.hatclouz.fr/v/?camp=8571_6&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></td></tr><tr><td  align="center">                        Fenetres    <img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvcHgvTXpBeE1WOThYelF5T1Y5OFh6STNYM3hmTUY5OFh6QS9hSFIwY0RvdkwzZDNkeTV5WldGamRHbHZiaTFvWVdKcGRHRjBMbU52YlM5bVpXNWxkSEpsY3c=" width="1" border="0" height="1">  <center> <table id="Tableau_01" width="600" cellspacing="0" cellpadding="0" border="0" height="1250"> 	<tbody><tr> 		<td bgcolor="#993333"> 			<a
+href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL2ZlbmV0cmVzMS9pbWFnZXMvbG9nby5wbmc=" alt="logo-Fenetre" width="200" height="50"></a></td> 		<td style=" text-align:right; font-family:'Century Gothic', Arial, Helvetica, sans-serif; font-size:24px; text-transform:uppercase; padding:10px;" width="300" bgcolor="#993333" height="80"><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;color:#FFFFFF;"
+target="_blank">fen&ecirc;tres</a> </td> 	</tr> 	<tr> 		<td colspan="2"> 			<a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL2ZlbmV0cmVzMS9pbWFnZXMvaW1hZ2VQcmluY2lwYWxlLmpwZw==" alt="image-fenetres" width="600" height="375"></a></td> 	</tr> 	<tr> 		<td colspan="2" style=" font-family:'Century Gothic', Arial, Helvetica, sans-serif; font-size:24px; text-align:center; padding:10px 0;" width="600" bgcolor="#993333" height="82"><a
+href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;color:#FFFFFF;" target="_blank">Am&eacute;liorer votre isolation en changeant vos anciennes fen&ecirc;tres !</a></td> 	</tr> 	<tr> 		<td colspan="2" style=" font-family:Arial, Helvetica, sans-serif; font-size:16px; padding:10px;" width="600" bgcolor="#993333" height="50"><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;color:#FFFFFF;" target="_blank">Une bonne isolation de vos fen&ecirc;tres est indispensable et vous permettera d&rsquo;avoir:</a></td> 	</tr> 	<t
+ r>
+		<td colspan="2"> 			<a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL2ZlbmV0cmVzMS9pbWFnZXMvaWNvbmVzRmVuZXRyZS5qcGc=" alt="icone-Fenetre" width="600" height="194"></a></td> 	</tr> 	<tr> 		<td colspan="2"> 			<a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;" target="_blank"><img
+src="http://www.hatclouz.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL2ZlbmV0cmVzMS9pbWFnZXMvYXZhbnRhZ2VzRmVuZXRyZS5qcGc=" alt="avantage fenetre" width="600" height="170"></a></td> 	</tr> 	<tr> 		<td colspan="2" style=" font-family:Arial, Helvetica, sans-serif; font-size:16px; padding:10px;" width="600" height="85"><a href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;color:#333333;" target="_blank"><span style="color:#993333;">R&eacute;action habitat</span> peut vous aider &agrave; trouver un professionnel qui vous accompagnera dans le choix et l'installation de votre climatiseur.</a> </td> 	</tr> 	<tr> 		<td colspan="2"> 			<a
+href="http://www.hatclouz.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=8571_6&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXhNVjk4WHpReU9WOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOW1aVzVsZEhKbGN3" style="text-decoration:none;color:#333333;" target="_blank"><img src="http://www.hatclouz.fr/r/?rc=aHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL2ZlbmV0cmVzMS9pbWFnZXMvcHJvY2VkdXJlLmpwZw==" alt="proc&eacute;dureFenetres" width="600" height="214"></a></td> 	</tr> </tbody></table> </center>                   <img src="http://www.hatclouz.fr/t/?i=8571_6&m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&url=http://www.hatclouz.fr/images/blank.jpg" alt="_pspacer7"  /></td></tr><tr><td align="center">
+<a href="http://www.hatclouz.fr/d/?camp=8571_6&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Ne plus recevoir d'informations de notre part" style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</td></tr></tbody></table>
+</body>
+</html>
+
+
+
+--Part1_fb4ba8e3646087a3931cca3448becdc4--
+
+

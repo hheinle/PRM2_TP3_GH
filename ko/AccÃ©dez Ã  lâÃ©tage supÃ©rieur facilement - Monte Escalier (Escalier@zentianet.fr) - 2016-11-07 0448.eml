@@ -1,0 +1,116 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@zentianet.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 07 Nov 2016 04:48:04 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 0685A47
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 04:48:04 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 048766011B
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 04:48:04 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id A7tx1y4yETta for <resp-m2-miage@univ-rennes1.fr>;
+	Mon,  7 Nov 2016 04:48:03 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E36B160005
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 04:48:03 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id DDF5720033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 04:48:03 +0100 (CET)
+Received: from ip-46-21-204-57.euro-web.com (ip-46-21-204-57.euro-web.com [46.21.204.57])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id A3F53280088
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 04:48:03 +0100 (CET)
+Received: from zentianet.fr (srv1253.sd-france.net [81.93.240.253])
+	by srv2166.sd-france.net (Postfix) with ESMTP id 948251206C2
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  7 Nov 2016 04:48:03 +0100 (CET)
+X-SenderID: Sendmail Sender-ID Filter v1.0.0 srv2166.sd-france.net 948251206C2
+Authentication-Results: srv2166.sd-france.net; sender-id=pass header.from=Escalier@zentianet.fr; spf=pass smtp.mfrom=wjxu-r7-rnflj_jc7k-g3cc3hq.4g@zentianet.fr
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=zentianet.fr;
+	s=zentianetfr; t=1478490483;
+	bh=bG/2EfDc986Y6zAWtv4FqDBaSbyolSf7KenYO++XdxU=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:
+	 MIME-Version:Content-Type;
+	b=SZyF9Ml92Oi5Rc4GSAP4AOA/BPtjVMvqU6zJ83Ehr6iS93ncuJ9vXJSkK34uE3Ofj
+	 SFIMYhV18N/lyxrkWSlW35dc16LUJ4NzlL1T+hFv8Pim4KMyK93A86Ct65xYmN13Mb
+	 arEiaYEUxr1XOsejh4aj4pp/NH3O3gklHsK1Cd1M=
+Date: Mon, 7 Nov 2016 04:48:03 +0100
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+From: Monte Escalier <Escalier@zentianet.fr>
+Reply-to: Monte Escalier <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@zentianet.fr>
+Subject: *****Spam*****=?utf-8?Q?Acc=C3=A9dez_=C3=A0_l=E2=80=99=C3=A9tage_sup=C3=A9rieur_facilem?=
+ =?utf-8?Q?ent?=
+X-campaign_id: 53525167893527_12
+Precedence: bulk
+X-uid_id_m: <cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==951>
+List-Unsubscribe: <http://www.zentianet.fr/d/?camp=53525167893527_12&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <62b0f72879c7d13b59e56222ba2e0950@zentianet.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_62b0f72879c7d13b59e56222ba2e0950"
+X-Original-Source-IP: 46.21.204.57
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrleefgddvvdekucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepfffvhfhrufhpjffkgggtsegrtdhjredttdejnecuhfhrohhmpefoohhnthgvucfgshgtrghlihgvrhcuoefgshgtrghlihgvrhesiigvnhhtihgrnhgvthdrfhhrqeenucffohhmrghinhepiigvnhhtihgrnhgvthdrfhhrnecukfhppeegiedrvddurddvtdegrdehjedpkedurdelfedrvdegtddrvdehfeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepihhpqdegiedqvdduqddvtdegqdehjedrvghurhhoqdifvggsrdgtohhmpdhinhgvthepgeeirddvuddrvddtgedrheejpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesiigvnhhtihgrnhgvthdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+
+--Part1_62b0f72879c7d13b59e56222ba2e0950
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+Pour visualiser et se désabonner ce message,
+ 
+Veuillez, copier puis coller, l'adresse URL complète ci-dessous dans la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entrée" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - - 
+
+http://www.zentianet.fr/v/?camp=53525167893527_12&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+
+- - - - - - - - - - - - - - - - - 
+
+
+
+
+--Part1_62b0f72879c7d13b59e56222ba2e0950
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Accédez à l’étage supérieur facilement </title>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="center">
+<a href="http://www.zentianet.fr/v/?camp=53525167893527_12&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></td></tr><tr><td  align="center">                                  &Eacute;tude gratuite et personnalis&eacute;e   <img src="http://www.zentianet.fr/r/?rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvcHgvTmpRNVgzeGZNamN6WDN4Zk1qZGZmRjh3WDN4Zk1BL2FIUjBjRG92TDIxdmJuUmxMV1Z6WTJGc2FXVnlMbkpsWVdOMGFXOXVMV2hoWW1sMFlYUXVZMjl0THc=" border="0" width="1" height="1"> <table id="Tableau_01" style="margin: 30px auto; border:solid 1px #E6E6E6;" border="0" width="600" height="831" cellspacing="0" cellpadding="0">     <tbody><tr>         <td colspan="3" bgcolor="#3A4252">             <a
+href="http://www.zentianet.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=53525167893527_12&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05qUTVYM3hmTWpjelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwyMXZiblJsTFdWelkyRnNhV1Z5TG5KbFlXTjBhVzl1TFdoaFltbDBZWFF1WTI5dEx3" target="_blank">             <img src="http://www.zentianet.fr/r/?rc=aHR0cDovL21vbnRlLWVzY2FsaWVyLnJlYWN0aW9uLWhhYml0YXQuY29tL21haWxpbmcvbW9udGUtZXNjYWxpZXIvbW9udGUtZXNjYWxpZXJfMDEuanBn" alt="logo" width="600" height="73"></a></td>     </tr>     <tr>         <td colspan="3" bgcolor="#3A4252" align="center" width="600" height="45">             <a href="http://www.zentianet.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=53525167893527_12&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05qUTVYM3hmTWpjelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwyMXZiblJsTFdWelkyRnNhV1Z5TG5KbFlXTjBhVzl1TFdoaFltbDBZWFF1WTI5dEx3" style="text-decoration: none;" target="_blank">                 <font style="font-family: 'Brand
+ on
+Grotesque', sans-serif;font-size: 20px;text-transform: uppercase;color: #f3eeea;">Acc&eacute;dez &agrave; l&rsquo;&eacute;tage sup&eacute;rieur facilement !</font></a></td>     </tr>     <tr>         <td colspan="3">             <a href="http://www.zentianet.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=53525167893527_12&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05qUTVYM3hmTWpjelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwyMXZiblJsTFdWelkyRnNhV1Z5TG5KbFlXTjBhVzl1TFdoaFltbDBZWFF1WTI5dEx3" target="_blank">             <img src="http://www.zentianet.fr/r/?rc=aHR0cDovL21vbnRlLWVzY2FsaWVyLnJlYWN0aW9uLWhhYml0YXQuY29tL21haWxpbmcvbW9udGUtZXNjYWxpZXIvbW9udGUtZXNjYWxpZXJfMDMuanBn" alt="Monte escalier" width="600" height="371"></a></td>     </tr>     <tr>         <td bgcolor="#FFFFFF" width="30"> <br></td>         <td style="border-bottom:1px solid #eee;" bgcolor="#FFFFFF" width="540" height="65">             <a
+href="http://www.zentianet.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=53525167893527_12&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05qUTVYM3hmTWpjelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwyMXZiblJsTFdWelkyRnNhV1Z5TG5KbFlXTjBhVzl1TFdoaFltbDBZWFF1WTI5dEx3" style="text-decoration: none;" target="_blank">                 <font style="font-family:'Adelle', sans-serif; font-size:22px; font-weight:bold; color:#3a4252;">Qu&rsquo;est ce qu&rsquo;un monte escalier ?</font></a>         </td>         <td bgcolor="#FFFFFF" width="30"> <br></td>     </tr>     <tr>         <td bgcolor="#FFFFFF" width=""> <br></td>         <td bgcolor="#FFFFFF" height="142">             <a href="http://www.zentianet.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=53525167893527_12&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05qUTVYM3hmTWpjelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwyMXZiblJsTFdWelkyRnNhV1Z5TG5KbFlXTjBhVzl1TFdoaFltbDBZWFF1WTI5dEx3" style="text-decoration: none;"
+target="_blank">                 <p style="font-family:'Brandon Grotesque', sans-serif; font-size:18px; color:#444;" align="justify">                     Le monte escalier permet aux personnes &agrave; mobilit&eacute; r&eacute;duite de continuer &agrave; utiliser les escaliers sans aucun effort. Il suffit de s'asseoir sur le fauteuil, d'attacher sa ceinture et votre monte escalier, gr&acirc;ce &agrave; son moteur int&eacute;gr&eacute;, vous conduira &agrave; l'autre extr&eacute;mit&eacute; de votre escalier.                 </p>                 <p style="font-family:'Brandon Grotesque', sans-serif; font-size:18px; color:#3B4253; font-weight:bold;" align="justify">                     Pour l'achat de votre monte escalier, vous pouvez disposer de diff&eacute;rentes aides au financement  :                 </p>                 <ul style="list-style: circle outside none; color:#CE5047;">                     <li style="line-height: 24px;"><font style="font-family:'Brandon Grotesque
+ ',
+sans-serif; font-size:18px; color:#095994;">la TVA r&eacute;duite ;</font></li>                     <li style="line-height: 24px;"><font style="font-family:'Brandon Grotesque', sans-serif; font-size:18px; color:#095994;">le cr&eacute;dit d'imp&ocirc;t de 25% ;</font></li>                 </ul>             </a>         </td>         <td bgcolor="#FFFFFF" width=""> <br></td>     </tr>     <tr>         <td colspan="3" bgcolor="#FFFFFF" align="center" width="600" height="135">             <table bgcolor="#CE5047" width="350" cellspacing="0" cellpadding="15">                 <tbody><tr>                     <td align="center">                         <a href="http://www.zentianet.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=53525167893527_12&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL05qUTVYM3hmTWpjelgzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwyMXZiblJsTFdWelkyRnNhV1Z5TG5KbFlXTjBhVzl1TFdoaFltbDBZWFF1WTI5dEx3" style="text-decoration: none;" target="_blank">              
+        
+       <font style="color:#FFF;font-family:Arial, Helvetica, sans-serif; font-size:18px;">COMPAREZ LES OFFRES</font>                         </a>                     </td>                 </tr>             </tbody></table>         </td>     </tr> </tbody></table>                  <img src="http://www.zentianet.fr/t/?i=53525167893527_12&m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&url=http://www.zentianet.fr/images/blank.jpg" alt="_pspacer7"  /></td></tr><tr><td align="center">
+<a href="http://www.zentianet.fr/d/?camp=53525167893527_12&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Ne plus recevoir d'informations de notre part" style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</td></tr></tbody></table>
+</body>
+</html>
+
+
+
+--Part1_62b0f72879c7d13b59e56222ba2e0950--
+
+

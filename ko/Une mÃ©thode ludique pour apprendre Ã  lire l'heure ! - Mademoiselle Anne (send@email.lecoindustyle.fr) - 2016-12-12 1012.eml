@@ -1,0 +1,127 @@
+Return-Path: <bounce@email.lecoindustyle.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 12 Dec 2016 10:15:51 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id F31DC47
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:15:50 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id F0C016019F
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:15:50 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id vJMS6rdXK1ui for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 12 Dec 2016 10:15:50 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D8C416018E
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:15:50 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id D100620033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:15:50 +0100 (CET)
+Received: from e38.lecoindustyle.fr (e38.lecoindustyle.fr [212.129.39.52])
+	(using TLSv1 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb1-2.relay.renater.fr (asm) with ESMTPS id 9E1B22800FE
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:15:41 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key; d=email.lecoindustyle.fr;
+ h=List-Unsubscribe:Date:Subject:From:Reply-To:To:MIME-Version:Content-Type:Message-ID:List-ID; i=send@email.lecoindustyle.fr;
+ bh=76auycraD8havHsY2myiBObyqDU=;
+ b=J5XgY1lvJSmbaGcgiTb5z9kfA4SD66avQ/3ZGsUFDQGO75J5imP32qlegtJLYd4NSkmDO9HH0ygk
+   YXkWs7cpkrfcYvVeuGAeb+opr3OslS36O7XY0I5v71+7ZFDT9gSmwLuKnIKG/pGcnF7NNzI5oIvs
+   hecKrCVg7lPDBCtq70s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key; d=email.lecoindustyle.fr;
+ b=nL/K/qjnCGqecRozeysKABhUnrtomJ5ecCHbUQnFfhFvDEQgKdlzQ0I3XPhpQYIKJNW3i9I67/g/
+   X73Ru2gGBgOi8KT2m3hDCFEB9lgdPYLq2gmVSFvRFxgzVeznawkWLpq3bp1mJzNuH5hFNtVRJQbM
+   VQwT6iHcyjfiPZwduoM=;
+Received: by e.lecoindustyle.fr id h9plcc0001g5 for <resp-m2-miage@univ-rennes1.fr>; Mon, 12 Dec 2016 10:15:46 +0100 (envelope-from <bounce@email.lecoindustyle.fr>)
+List-Unsubscribe: <mailto:bounce@email.lecoindustyle.fr?subject=Unsubscribe%201481533955.584e6a035ab719.06290561@link.lamodedunet.fr>, <http://link.lamodedunet.fr/p/u/xDVOtVanOjtE3mBJnP4IG-UiSPgJMKzOsl-wdN9noIaysPqwDoJ57Ia7djMnsBH7enHXYOhF3-WcjER4Gy7kwDmZ2Fgcae7xOD83TbPQgYIPYsg3gtsVG_6Ok5vKEsAO>
+Date: Mon, 12 Dec 2016 10:12:35 CET
+Subject: =?utf-8?B?VW5lIG3DqXRob2RlIGx1ZGlxdWUgcG91ciBhcHByZW5kcmUgw6AgbGlyZSBsJ2hldXJlICE=?=
+From: =?utf-8?B?TWFkZW1vaXNlbGxlIEFubmU=?= <send@email.lecoindustyle.fr>
+Reply-To: reply@email.lecoindustyle.fr
+To: <resp-m2-miage@univ-rennes1.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=1481533955_9259e21e98a21d10d40c1346db996447=_"
+Message-ID: <1481533955.584e6a035ab719.06290561@link.lamodedunet.fr>
+List-ID: 26b7ad517285e1dc8cfa389cfc52eea1
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 212.129.39.52
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedriedugdehgecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefjfffuhfhrvfggtgfkjeesrgdtreertddtjeenucfhrhhomhepofgruggvmhhoihhsvghllhgvucetnhhnvgcuoehsvghnugesvghmrghilhdrlhgvtghoihhnughushhthihlvgdrfhhrqeenucffohhmrghinheplhgrmhhouggvughunhgvthdrfhhrnecukfhppedvuddvrdduvdelrdefledrhedvnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopegvfeekrdhlvggtohhinhguuhhsthihlhgvrdhfrhdpihhnvghtpedvuddvrdduvdelrdefledrhedvpdhmrghilhhfrhhomhepsghouhhntggvsegvmhgrihhlrdhlvggtohhinhguuhhsthihlhgvrdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+
+--_=1481533955_9259e21e98a21d10d40c1346db996447=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlvbmFsLy9
+FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5zaXRpb25hbC5kdG
+QiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0bWwiPg0KPGhlYWQ+PG1ld
+GEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRm
+LTgiIC8+DQoJPHRpdGxlPk1hZGVtb2lzZWxsZSBBbm5lPC90aXRsZT4NCjwvaGVhZD4NCjxib2R5IGJ
+nY29sb3I9IiNmZmYiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj50YWJsZSx0ZCx0ciB7DQoJbWFyZ2
+luOiAwOw0KCXBhZGRpbmc6IDA7DQp9DQp0ZCB7DQoJcGFkZGluZy1ib3R0b206IDBweDsNCn0NCjwvc
+3R5bGU+DQo8cD4mbmJzcDs8L3A+DQoNCjxjZW50ZXI+DQo8cCBzdHlsZT0iZm9udC1mYW1pbHk6IEFy
+aWFsOyBmb250LXNpemU6IDEycHg7Ij5TaSBjZSBtZXNzYWdlIG5lIHMmIzM5O2FmZmljaGUgcGFzIGN
+vcnJlY3RlbWVudCwgPGEgaHJlZj0iaHR0cDovL2xpbmsubGFtb2RlZHVuZXQuZnIvcC9kL1FySWNWZ3
+F5N0xYeUFIcEs4VjdYS2M1UHQxOTZLeFlMWHI4UFYtUG5tc0FPWkczRVBrdnhIX3FhNEdYVXJ6M2Jkb
+WpxUE8xb1l2RmtkaFJFc2R3OTNlNmUzYVhYZTlBdTdjQmNWUXVqUm5YWmNoSUUyajd6c0lGVEtWTXc3
+WVYzIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsOyBmb250LXNpemU6IDEycHg7IGNvbG9yOiAjNjY
+2OyB0ZXh0LWRlY29yYXRpb246IG5vbmU7IiB0YXJnZXQ9Il9ibGFuayI+IGNvbnN1bHRleiBsYSB2ZX
+JzaW9uIGVuIGxpZ25lPC9hPjwvcD4NCjwvY2VudGVyPg0KDQo8Y2VudGVyPg0KPHRhYmxlIGFsaWduP
+SJjZW50ZXIiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgc3R5bGU9IndpZHRoOiA2NTBw
+eDsiPg0KCTx0Ym9keT4NCgkJPHRyPg0KCQkJPHRkPjxhIGhyZWY9Imh0dHA6Ly9saW5rLmxhbW9kZWR
+1bmV0LmZyL3AvbC9vY1JBR2NVT01wd3N3ZXFsN0w1RkNkb0liLVhGaHFTYVJwd25CYi1Rc3k1S0lKU0
+FYcy1GQ29aX2dLTUE3QVZlRkcwOVpCMzJvVTFSclhxeDBQakd2SGN0Qkx3UEdCSjM3dzFDMDBNSVJkT
+HFwcThyck5wTnpvYUJyQlhiTmRNR1NQM2REU0hmSFVHTE5lRmZ3Q3pTSVEiPjxpbWcgYWx0PSJEw6lj
+b3V2cmV6IHVuZSBtw6l0aG9kZSBmcmFuw6dhaXNlIHVuaXF1ZSIgaGVpZ2h0PSI1MTgiIHNyYz0iaHR
+0cDovL2ltZy52aWVuc2F2b3VzLmZyL2ltYWdlcy9yaXMvNjIvaW1hZ2VzL2ltYWdlcy8xLmpwZyIgd2
+lkdGg9IjY1MCIgLz48L2E+PC90ZD4NCgkJPC90cj4NCgk8L3Rib2R5Pg0KPC90YWJsZT4NCg0KPHRhY
+mxlIGFsaWduPSJjZW50ZXIiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgc3R5bGU9Indp
+ZHRoOiA2NTBweDsiPg0KCTx0Ym9keT4NCgkJPHRyPg0KCQkJPHRkPjxhIGhyZWY9Imh0dHA6Ly9saW5
+rLmxhbW9kZWR1bmV0LmZyL3AvbC9TNHNtdmhFOU1LX2hrZ0JzbE9aNThaLXFjYXpIX0ZuMzJXQWxNQU
+hKUmcxZ2ZKc1FpXzRMTWNURURaNkxmVmJUUkRJREo3bU42bG4xWXNvN3JRTlNXUndnUzBKZTVFN3Zwb
+3ZCUDBUTXZycUFNcGpiVDZWWXNCUzhsZHZnbmEyMTBydmV0dWlfdFVCXzhvb0NqMjlNN0EiPjxpbWcg
+YWx0PSJNYSBwcmVtacOocmUgbW9udHJlIiBoZWlnaHQ9IjMwMCIgc3JjPSJodHRwOi8vaW1nLnZpZW5
+zYXZvdXMuZnIvaW1hZ2VzL3Jpcy82Mi9pbWFnZXMvaW1hZ2VzLzIuanBnIiB3aWR0aD0iMzYwIiAvPj
+wvYT48L3RkPg0KCQkJPHRkPjxhIGhyZWY9Imh0dHA6Ly9saW5rLmxhbW9kZWR1bmV0LmZyL3AvbC92S
+DRfRm9reG9pUV9XMnVCd2dhRTl0elhudW01M3RuY1REMUppRTdBU0NiY24zM3cwYVhIQ0pjS2h2Mm43
+RVhQUzMzNlNscE9tVWNrNlB5LTNKbjk1UjV2bHFNTzFaTXpJX0lXc1R5dkFFYWFMbmstckxRWEhnYVd
+HMGlwenY1dnVScGh3TjFXb0c2aENacmlrOVJsZGciPjxpbWcgYWx0PSJNb24gcHJlbWllciByw6l2ZW
+lsIiBoZWlnaHQ9IjMwMCIgc3JjPSJodHRwOi8vaW1nLnZpZW5zYXZvdXMuZnIvaW1hZ2VzL3Jpcy82M
+i9pbWFnZXMvaW1hZ2VzLzMuanBnIiB3aWR0aD0iMjkwIiAvPjwvYT48L3RkPg0KCQk8L3RyPg0KCTwv
+dGJvZHk+DQo8L3RhYmxlPg0KDQo8dGFibGUgYWxpZ249ImNlbnRlciIgY2VsbHBhZGRpbmc9IjAiIGN
+lbGxzcGFjaW5nPSIwIiBzdHlsZT0id2lkdGg6IDY1MHB4OyI+DQoJPHRib2R5Pg0KCQk8dHI+DQoJCQ
+k8dGQ+PGEgaHJlZj0iaHR0cDovL2xpbmsubGFtb2RlZHVuZXQuZnIvcC9sLzhoSXJOZkpKOEQ4OTVFT
+m5GSW1FalZMQ2lHU1ZHTFFwWkhTdXMzWVVDVEFQRk85anlGc0FxMGt1OWZpeW5ZdUU2UXV3SzZQaWRB
+NmZhZ3cxTzd1TDNNZGpPS3RQNy1HZV9JZXdUQm5LS3NZY0RQWktPR0pSY2cweWVsRlhnUzVfOHcwV2N
+sSjRZSWpfUEExX2lIWEUwdyI+PGltZyBhbHQ9IkxlIGNvZmZyZXQgbW9udHJlICsgbGl2cmUiIGhlaW
+dodD0iNjA1IiBzcmM9Imh0dHA6Ly9pbWcudmllbnNhdm91cy5mci9pbWFnZXMvcmlzLzYyL2ltYWdlc
+y9pbWFnZXMvNC5qcGciIHdpZHRoPSI2NTAiIC8+PC9hPjwvdGQ+DQoJCTwvdHI+DQoJCTx0cj4NCgkJ
+CTx0ZD48YSBocmVmPSJodHRwOi8vbGluay5sYW1vZGVkdW5ldC5mci9wL2wvTURzT3dhMmN4bF9KSWF
+NV0ZRRUtraFE1UENHRUZtX2x2RGM0aU9ETVcwQW9vNUFJQk9oRW5HTGptejdpU3NRTV9CVEo0R05teE
+9FeGNUMWFlek83bUlzYWJKbUhJd0NMMERjQUYwbjZEM3NtVjJRYkQtX3RQTU9EUHlxay1nTnlfam42Q
+0xELVR5bC1aS3BKRUhieVVRIj48aW1nIGFsdD0iTGUgcsOpdmVpbCBldCBsZSBsaXZyZSIgaGVpZ2h0
+PSI0MTgiIHNyYz0iaHR0cDovL2ltZy52aWVuc2F2b3VzLmZyL2ltYWdlcy9yaXMvNjIvaW1hZ2VzL2l
+tYWdlcy81LmpwZyIgd2lkdGg9IjY1MCIgLz48L2E+PC90ZD4NCgkJPC90cj4NCgk8L3Rib2R5Pg0KPC
+90YWJsZT4NCjwvY2VudGVyPg0KDQo8Y2VudGVyPjxhIGhyZWY9Imh0dHA6Ly9saW5rLmxhbW9kZWR1b
+mV0LmZyL3AvdS85Z1JNX0pnTkZYQnp2aEwxRndrcXBzOEpCMV9BaUVxY1VjREh6SzNQMmtiTWt6VFNq
+dkc0MWNIUkJCRk41eUNMMlJIWFhQdW1VRHVPaVV4UGNzcUJWRzFna3Joalg1WXNDSHBiUjNyNU5tUWh
+UTmJFMXNxZV9yUmFmUTJ2a01oNSIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbDsgZm9udC1zaXplOi
+AxMnB4OyBjb2xvcjogIzY2NjsgdGV4dC1kZWNvcmF0aW9uOiBub25lOyIgdGFyZ2V0PSJfYmxhbmsiP
+lBvdXIgdm91cyBkw6lzYWJvbm5lciwgYWNjw6lkZXogw6AgY2V0dGUgcGFnZS48L2E+PC9jZW50ZXI+
+DQoNCjxwPiZuYnNwOzwvcD4NCjxpbWcgd2lkdGg9IjEiIHN0eWxlPSIxIiBzcmM9Imh0dHA6Ly9saW5
+rLmxhbW9kZWR1bmV0LmZyL3Avby9jZFhTbFNqTWJseWJaelBmQVVKMUw0V2YxT2pQeDZvd3hDanpkMz
+VHNlpXVHZWM01JWC12V0s0SXlEODZUTTlmMHV4YXJiblk1VjRtZ2NldG1Hc3JIQkY1WWpyd0pFdVlSQ
+zNGeW4wRGhJa3FKMjlFdDlMLWZVVTZiSXRTV005OS5naWYiLz48L2JvZHk+DQo8L2h0bWw+
+
+
+--_=1481533955_9259e21e98a21d10d40c1346db996447=_--
+

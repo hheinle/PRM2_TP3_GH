@@ -1,0 +1,736 @@
+Return-Path: <noreply@newsletters.ka-deau.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Tue, 21 Feb 2017 07:17:03 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id A364223A
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 21 Feb 2017 07:17:03 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 9C663601DB
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 21 Feb 2017 07:17:03 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id yzSXRiA_8dHG for <resp-m2-miage@univ-rennes1.fr>;
+	Tue, 21 Feb 2017 07:17:03 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 71D2F601DA
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 21 Feb 2017 07:17:03 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 6544A20033
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 21 Feb 2017 07:17:03 +0100 (CET)
+Received: from newsletters.ka-deau.fr (newsletters.ka-deau.fr [185.24.145.12])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 2183C60006A
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 21 Feb 2017 07:17:03 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=discount-du-jour.fr;
+ q=dns/txt; s=mail; bh=k+zqvXvg0WsQut8clV0ZNsxk5Cpld+c1QVBOq/gCO1o=;
+ h=from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe;
+        b=D9SPKc+w3X/U/JjXNkkkEQXs7IdkQZo+IMAa1Fg9A1pvmkgPHQX7ho09B2Pz9aIJGTca2kegTGXv
+        kyADGu46TCfFc7Q0oBDr7Q8xX3Tm/XMVSyN2JoD8HlMglwyQWc5Dy1Sj6gt9Ndy2/pC7BsoNywRp
+        TvTC/7JRI9TpB4tz9qo=
+To: <resp-m2-miage@univ-rennes1.fr>
+Subject: =?UTF-8?Q?Re:_coucou?=
+From: =?UTF-8?Q?Franck=20-=20Discount=20du=20Jour?= <contact@discount-du-jour.fr>
+List-Id: MTAxNjA4MC04NjgwMzc5LTE3Ng== <MTAxNjA4MC04NjgwMzc5LTE3Ng==.list-id.newsletters.ka-deau.fr>
+List-Unsubscribe: <mailto:unsubscribe@newsletters.ka-deau.fr?subject=unsub-4pmvjgkfh8ioarj&body=4pmvjgkfh8ioarj>,<http://r.newsletters.ka-deau.fr/5cabqw8g2kioarg.html>
+Content-Type: multipart/alternative; boundary="-------?=_12017-6378616342941"
+MIME-Version: 1.0
+Precedence: bulk
+Feedback-ID: ded_185.24.145.12:1016080:1016080_766:Sendinblue
+X-Mailer: Sendinblue
+X-Mailin-Client: 1016080
+X-Mailin-Campaign: 766
+Reply-To: contact@discount-du-jour.fr
+Message-Id: <201702210710.4pmvjgkfh8ioarj@newsletters.ka-deau.fr>
+Date: Tue, 21 Feb 2017 07:10:24 +0100
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 185.24.145.12
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelhedrudefgddutddtucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepvffuhfejjfgtgghpofhrkfffsegrtderreertdejnecuhfhrohhmpefhrhgrnhgtkhcuqdcuffhishgtohhunhhtucguuhculfhouhhruceotghonhhtrggtthesughishgtohhunhhtqdguuhdqjhhouhhrrdhfrheqnecuffhomhgrihhnpehkrgdquggvrghurdhfrhenucfkphepudekhedrvdegrddugeehrdduvdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepnhgvfihslhgvthhtvghrshdrkhgrqdguvggruhdrfhhrpdhinhgvthepudekhedrvdegrddugeehrdduvddpmhgrihhlfhhrohhmpehnohhrvghplhihsehnvgifshhlvghtthgvrhhsrdhkrgdquggvrghurdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+---------?=_12017-6378616342941
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=C2=A0   [=0AVoir ce message sur internet  ]( http://r.newsletters.ka-deau.=
+fr/5cabqw8g2kioarf.html )  =C2=A0=0A=C2=A0    [   ]( http://r.newsletters.k=
+a-deau.fr/ld5azkxsa58ioard.html )=0A=C2=A0=0A=C2=A0=0ACes sites que vous ut=
+ilisez ont...   =C2=A0=0A=C2=A0=0AL'ART ET LA MANI=C3=88RE D'ENTRETENIR DE =
+FAUSSES PROMESSES !   =C2=A0=0A=0A=0A=C2=A0=0A=C2=A0CESSEZ DE VOUS LEURRER =
+  =C2=A0=0A=C2=A0=0A=C3=89conomisez TOUTE l'ann=C3=A9e (sans risque) !   =
+=C2=A0=0A=C2=A0      [ OUI, JE VEUX EN SAVOIR PLUS =E2=80=BA=E2=80=BA ]( ht=
+tp://r.newsletters.ka-deau.fr/ld5azkxsaxoioard.html )      =C2=A0=0A=C2=
+=A0=0A[ Recevez tout de suite votre surprise (gratuit) ]( http://r.newslett=
+ers.ka-deau.fr/ld5azkxsbq4ioard.html )   =C2=A0=0A=C2=A0=0ABien =C3=A0 vous=
+,=C2=A0=0A=0A- Pascal=0A=C2=A0=0AP.S. : Nous sommes une petite entreprise f=
+amiliale qui embauche en France.=C2=A0=0A=0A--->=C2=A0[ Cliquez-ICI pour no=
+us aider =C3=A0 cr=C3=A9er des emplois=C2=A0 ]( http://r.newsletters.ka-dea=
+u.fr/ld5azkxscikioard.html )   =C2=A0           =C2=A0=0A=0AThis email was =
+sent to resp-m2-miage@univ-rennes1.fr=0A[=0AD=C3=A9sinscription ici  ]( htt=
+p://r.newsletters.ka-deau.fr/5cabqw8g2kioarg.html ) =C2=A0     =C2=A0=0A=0A=
+=C2=A9 2017 Discount Du Jour  =C2=A0
+
+
+---------?=_12017-6378616342941
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:sc=
+hemas-microsoft-com:office:office"><head><meta http-equiv=3D"X-UA-Compatibl=
+e" content=3D"IE=3Dedge" /><meta name=3D"viewport" content=3D"width=3Ddevic=
+e-width, initial-scale=3D1" /><meta http-equiv=3D"Content-Type" content=3D"=
+text/html; charset=3Dutf-8" /><meta name=3D"apple-mobile-web-app-capable" c=
+ontent=3D"yes" /><meta name=3D"apple-mobile-web-app-status-bar-style" conte=
+nt=3D"black" /><meta name=3D"format-detection" content=3D"telephone=3Dno" /=
+><title>Re: coucou</title><style type=3D"text/css">=0A        /* Resets */=
+=0A        .ReadMsgBody { width: 100%; background-color: #ebebeb;}=0A      =
+  .ExternalClass {width: 100%; background-color: #ebebeb;}=0A        .Exter=
+nalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .Exte=
+rnalClass td, .ExternalClass div {line-height:100%;}=0A        body {-webki=
+t-text-size-adjust:none; -ms-text-size-adjust:none;}=0A        body {margin=
+:0; padding:0;}=0A        .yshortcuts a {border-bottom: none !important;}=
+=0A        .rnb-del-min-width{ min-width: 0 !important; }=0A=0A        /* A=
+dd new outlook css start */=0A        .templateContainer{=0A            max=
+-width:590px !important;=0A            width:auto !important;=0A        }=
+=0A        /* Add new outlook css end */=0A=0A        /* Image width by def=
+ault for 3 columns */=0A        img[class=3D"rnb-col-3-img"] {=0A        ma=
+x-width:170px;=0A        }=0A=0A        /* Image width by default for 2 col=
+umns */=0A        img[class=3D"rnb-col-2-img"] {=0A        max-width:264px;=
+=0A        }=0A=0A        /* Image width by default for 2 columns aside sma=
+ll size */=0A        img[class=3D"rnb-col-2-img-side-xs"] {=0A        max-w=
+idth:180px;=0A        }=0A=0A        /* Image width by default for 2 column=
+s aside big size */=0A        img[class=3D"rnb-col-2-img-side-xl"] {=0A    =
+    max-width:350px;=0A        }=0A=0A        /* Image width by default for=
+ 1 column */=0A        img[class=3D"rnb-col-1-img"] {=0A        max-width:5=
+50px;=0A        }=0A=0A        /* Image width by default for header */=0A  =
+      img[class=3D"rnb-header-img"] {=0A        max-width:590px;=0A        =
+}=0A=0A        /* Ckeditor line-height spacing */=0A        .rnb-force-col =
+p, ul, ol{margin:0px!important;}=0A        .rnb-del-min-width p, ul, ol{mar=
+gin:0px!important;}=0A=0A        /* tmpl-2 preview */=0A        .rnb-tmpl-w=
+idth{ width:100%!important;}=0A=0A        /* tmpl-11 preview */=0A        .=
+rnb-social-width{padding-right:15px!important;}=0A=0A        /* tmpl-11 pre=
+view */=0A        .rnb-social-align{float:right!important;}=0A=0A        @m=
+edia only screen and (min-width:590px){=0A        /* mac fix width */=0A   =
+     .templateContainer{width:590px !important;}=0A        }=0A=0A        @=
+media screen and (max-width: 360px){=0A        /* yahoo app fix width "tmpl=
+-2 tmpl-10 tmpl-13" in android devices */=0A        .rnb-yahoo-width{ width=
+:360px!important;}=0A        }=0A=0A        @media screen and (max-width: 4=
+80px) {=0A        td[class=3D"rnb-container-padding"] {=0A        padding-l=
+eft: 10px !important;=0A        padding-right: 10px !important;=0A        }=
+=0A=0A        /* force container nav to (horizontal) blocks */=0A        td=
+[class=3D"rnb-force-nav"] {=0A        display: block;=0A        }=0A       =
+ }=0A=0A        @media only screen and (max-width : 600px) {=0A=0A        /=
+* center the address &amp; social icons */=0A        .rnb-text-center {text=
+-align:center !important;}=0A=0A        /* force container columns to (hori=
+zontal) blocks */=0A        td[class~=3D"rnb-force-col"] {=0A        displa=
+y: block;=0A        padding-right: 0 !important;=0A        padding-left: 0 =
+!important;=0A        width:100%;=0A        }=0A=0A        table[class~=3D"=
+rnb-container"] {=0A         width: 100% !important;=0A        }=0A=0A     =
+   table[class=3D"rnb-btn-col-content"] {=0A        width: 100% !important;=
+=0A        }=0A        table[class=3D"rnb-col-3"] {=0A        /* unset tabl=
+e align=3D"left/right" */=0A        float: none !important;=0A        width=
+: 100% !important;=0A=0A        /* change left/right padding and margins to=
+ top/bottom ones */=0A        margin-bottom: 10px;=0A        padding-bottom=
+: 10px;=0A        /*border-bottom: 1px solid #eee;*/=0A        }=0A=0A     =
+   table[class=3D"rnb-last-col-3"] {=0A        /* unset table align=3D"left=
+/right" */=0A        float: none !important;=0A        width: 100% !importa=
+nt;=0A        }=0A=0A        table[class=3D"rnb-col-2"] {=0A        /* unse=
+t table align=3D"left/right" */=0A        float: none !important;=0A       =
+ width: 100% !important;=0A=0A        /* change left/right padding and marg=
+ins to top/bottom ones */=0A        margin-bottom: 10px;=0A        padding-=
+bottom: 10px;=0A        /*border-bottom: 1px solid #eee;*/=0A        }=0A=
+=0A        table[class=3D"rnb-col-2-noborder-onright"] {=0A        /* unset=
+ table align=3D"left/right" */=0A        float: none !important;=0A        =
+width: 100% !important;=0A=0A        /* change left/right padding and margi=
+ns to top/bottom ones */=0A        margin-bottom: 10px;=0A        padding-b=
+ottom: 10px;=0A        }=0A=0A        table[class=3D"rnb-col-2-noborder-onl=
+eft"] {=0A        /* unset table align=3D"left/right" */=0A        float: n=
+one !important;=0A        width: 100% !important;=0A=0A        /* change le=
+ft/right padding and margins to top/bottom ones */=0A        margin-top: 10=
+px;=0A        padding-top: 10px;=0A        }=0A=0A        table[class=3D"rn=
+b-last-col-2"] {=0A        /* unset table align=3D"left/right" */=0A       =
+ float: none !important;=0A        width: 100% !important;=0A        }=0A=
+=0A        table[class=3D"rnb-col-1"] {=0A        /* unset table align=3D"l=
+eft/right" */=0A        float: none !important;=0A        width: 100% !impo=
+rtant;=0A        }=0A=0A        img[class=3D"rnb-col-3-img"] {=0A        /*=
+*max-width:none !important;**/=0A        width:100% !important;=0A        }=
+=0A=0A        img[class=3D"rnb-col-2-img"] {=0A        /**max-width:none !i=
+mportant;**/=0A        width:100% !important;=0A        }=0A=0A        img[=
+class=3D"rnb-col-2-img-side-xs"] {=0A        /**max-width:none !important;*=
+*/=0A        width:100% !important;=0A        }=0A=0A        img[class=3D"r=
+nb-col-2-img-side-xl"] {=0A        /**max-width:none !important;**/=0A     =
+   width:100% !important;=0A        }=0A=0A        img[class=3D"rnb-col-1-i=
+mg"] {=0A        /**max-width:none !important;**/=0A        width:100% !imp=
+ortant;=0A        }=0A=0A        img[class=3D"rnb-header-img"] {=0A        =
+/**max-width:none !important;**/=0A        width:100% !important;=0A       =
+ margin:0 auto;=0A        }=0A=0A        img[class=3D"rnb-logo-img"] {=0A  =
+      /**max-width:none !important;**/=0A        width:100% !important;=0A =
+       }=0A=0A        td[class=3D"rnb-mbl-float-none"] {=0A        float:in=
+herit !important;=0A        }=0A=0A        .img-block-center{text-align:cen=
+ter!important;}=0A=0A        .logo-img-center=0A        {=0A            flo=
+at:inherit!important;=0A        }=0A=0A        /* tmpl-11 preview */=0A    =
+    .rnb-social-align{margin:0 auto!important; float:inherit!important;}=0A=
+=0A    }</style><!--[if gte mso 11]><style type=3D"text/css">table{border-s=
+pacing: 0; }table td {border-collapse: separate;}</style><![endif]--><!--[i=
+f !mso]><!--><style type=3D"text/css">table{border-spacing: 0;} table td {b=
+order-collapse: collapse;}</style> <!--<![endif]--><!--[if gte mso 15]><xml=
+><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInc=
+h></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><o:O=
+fficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o=
+:OfficeDocumentSettings></xml><![endif]--></head><body>=0A=0A<table border=
+=3D"0" align=3D"center" width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" =
+class=3D"main-template" bgcolor=3D"#efefef" style=3D"background-color:#efef=
+ef;">=0A=0A=09<tbody><tr style=3D"display:none !important; font-size:1px; m=
+so-hide: all;"><td></td><td></td></tr>=0A    <tr>=0A        <td align=3D"ce=
+nter" valign=3D"top">=0A        <!--[if gte mso 9]>=0A                     =
+   <table align=3D"center" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"590" style=3D"width:590px;">=0A                        <tr>=0A   =
+                     <td align=3D"center" valign=3D"top" width=3D"590" styl=
+e=3D"width:590px;">=0A                        <![endif]-->=0A            <t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" class=
+=3D"templateContainer" style=3D"max-width:590px!important; width: 590px;">=
+=0A        <tbody><tr>=0A=0A        <td align=3D"center" valign=3D"top" bgc=
+olor=3D"#efefef" style=3D"background-color:#efefef;">=0A=0A            <tab=
+le class=3D"rnb-del-min-width rnb-tmpl-width" width=3D"100%" cellpadding=3D=
+"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#efefef" style=3D"min-width:5=
+90px; background-color:#efefef" name=3D"Layout_0" id=3D"Layout_0">=0A      =
+          <tbody><tr>=0A                    <td class=3D"rnb-del-min-width"=
+ valign=3D"top" align=3D"center" style=3D"min-width: 590px; background-colo=
+r: rgb(239, 239, 239);">=0A                        <table cellpadding=3D"0"=
+ border=3D"0" align=3D"center" cellspacing=3D"0">=0A                       =
+     <tbody><tr>=0A                                <td height=3D"10" style=
+=3D"font-size:1px; line-height:1px;">&nbsp;</td>=0A                        =
+    </tr>=0A                            <tr>=0A                            =
+    <td align=3D"center" height=3D"20" style=3D"font-size: 13px; color: rgb=
+(153, 153, 153); font-weight: normal; text-align: center; font-family: Aria=
+l, Helvetica, sans-serif;">=0A                                    <span sty=
+le=3D"color: rgb(153, 153, 153); text-decoration: none;">=0A               =
+                         <a target=3D"_blank" href=3D"http://r.newsletters.=
+ka-deau.fr/5cabqw8g2kioarf.html" style=3D"text-decoration: none; color: rgb=
+(153, 153, 153);"><div>Voir ce message sur internet</div>=0A</a></span>=0A =
+                               </td>=0A                            </tr>=0A=
+                            <tr>=0A                                <td heig=
+ht=3D"10" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>=0A         =
+                   </tr>=0A                        </tbody></table>=0A     =
+               </td>=0A                </tr>=0A            </tbody></table>=
+=0A            </td>=0A    </tr><tr>=0A=0A        <td align=3D"center" vali=
+gn=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#efefef;">=0A=0A  =
+          <div>=0A                <!--[if mso]>=0A                <table al=
+ign=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" style=3D"width:100%;">=0A                <tr>=0A                <![endif]=
+-->=0A                =0A                <!--[if mso]>=0A                <t=
+d valign=3D"top" width=3D"590" style=3D"width:590px;">=0A                <!=
+[endif]-->=0A            <table class=3D"rnb-del-min-width" width=3D"100%" =
+cellpadding=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#efefef" style=
+=3D"min-width:590px; background-color:#efefef;" name=3D"Layout_1" id=3D"Lay=
+out_1">=0A                <tbody><tr>=0A                    <td class=3D"rn=
+b-del-min-width" align=3D"center" valign=3D"top" bgcolor=3D"#efefef" style=
+=3D"min-width:590px; background-color: #efefef;">=0A                       =
+ <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"rnb-container" bgcolor=3D"#ffffff" style=3D"background-color: rgb(255=
+, 255, 255); border-radius: 0px; padding-left: 20px; padding-right: 20px; b=
+order-collapse: separate;">=0A                            <tbody><tr>=0A   =
+                             <td height=3D"20" style=3D"font-size:1px; line=
+-height:1px;">&nbsp;</td>=0A                            </tr>=0A           =
+                 <tr>=0A                                <td valign=3D"top" =
+class=3D"rnb-container-padding" bgcolor=3D"#ffffff" style=3D"background-col=
+or: #ffffff;" align=3D"left">=0A                                    <table =
+width=3D"100%" cellpadding=3D"0" border=3D"0" align=3D"center" cellspacing=
+=3D"0">=0A                                        <tbody><tr>=0A           =
+                                 <td valign=3D"top" align=3D"center">=0A   =
+                                             <table cellpadding=3D"0" borde=
+r=3D"0" align=3D"center" cellspacing=3D"0" ng-class=3D"{'logo-img-center':c=
+ol.td.align}" class=3D"logo-img-center"> =0A                               =
+                     <tbody><tr>=0A                                        =
+                <td valign=3D"middle" align=3D"center">=0A                 =
+                                           <a style=3D"text-decoration:none=
+;" target=3D"_blank" href=3D"http://r.newsletters.ka-deau.fr/ld5azkxsa58ioa=
+rd.html">=0A                                                               =
+ <span><img width=3D"414" vspace=3D"0" hspace=3D"0" border=3D"0" alt=3D"" s=
+tyle=3D"max-width:414px;" class=3D"rnb-logo-img" src=3D"http://img.mailinbl=
+ue.com/1016080/images/rnb/original/58a6c91e140ba0e8328b4704.jpg">=0A       =
+                                                     </span></a><div style=
+=3D"border-top:0px None #9c9c9c;border-right:0px None #9c9c9c;border-bottom=
+:0px None #9c9c9c;border-left:0px None #9c9c9c;display:inline-block;"></div=
+>=0A                                                        </td>=0A       =
+                                             </tr>=0A                      =
+                          </tbody></table>=0A                              =
+                  </td>=0A                                        </tr>=0A =
+                                   </tbody></table></td>=0A                =
+            </tr>=0A                            <tr>=0A                    =
+            <td height=3D"20" style=3D"font-size:1px; line-height:1px;">&nb=
+sp;</td>=0A                            </tr>=0A                        </tb=
+ody></table>=0A                    </td>=0A                </tr>=0A        =
+    </tbody></table>=0A            <!--[if mso]>=0A                </td>=0A=
+                <![endif]-->=0A                =0A                <!--[if m=
+so]>=0A                </tr>=0A                </table>=0A                <=
+![endif]-->=0A        </div></td>=0A    </tr><tr>=0A=0A        <td align=3D=
+"center" valign=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#efef=
+ef;">=0A=0A            <div>=0A                <!--[if mso]>=0A            =
+    <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"width:100%;">=0A                <tr>=0A            =
+    <![endif]-->=0A                =0A                <!--[if mso]>=0A     =
+           <td valign=3D"top" width=3D"590" style=3D"width:590px;">=0A     =
+           <![endif]-->=0A            <table class=3D"rnb-del-min-width" wi=
+dth=3D"100%" cellpadding=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#e=
+fefef" style=3D"min-width:100%; background-color:#efefef;" name=3D"Layout_1=
+6">=0A                <tbody><tr>=0A                    <td class=3D"rnb-de=
+l-min-width" align=3D"center" valign=3D"top" bgcolor=3D"#efefef" style=3D"b=
+ackground-color: #efefef;">=0A                        <table width=3D"100%"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"rnb-container" b=
+gcolor=3D"#a7d0ca" style=3D"background-color: rgb(167, 208, 202); padding-l=
+eft: 20px; padding-right: 20px; border-collapse: separate; border-radius: 0=
+px; border-bottom: 0px none rgb(200, 200, 200);">=0A=0A                    =
+                    <tbody><tr>=0A                                         =
+   <td height=3D"10" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>=
+=0A                                        </tr>=0A                        =
+                <tr>=0A                                            <td vali=
+gn=3D"top" class=3D"rnb-container-padding" bgcolor=3D"#a7d0ca" style=3D"bac=
+kground-color: #a7d0ca;" align=3D"left">=0A=0A                             =
+                   <table width=3D"100%" border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" class=3D"rnb-columns-container">=0A                         =
+                           <tbody><tr>=0A                                  =
+                      <td class=3D"rnb-force-col" valign=3D"top" style=3D"p=
+adding-right: 0px;">=0A=0A                                                 =
+           <table border=3D"0" valign=3D"top" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" align=3D"left" class=3D"rnb-col-1">=0A=0A            =
+                                                    <tbody><tr>=0A         =
+                                                           <td style=3D"fon=
+t-size:23px; font-family:'Trebuchet MS',Helvetica,sans-serif, sans-serif; c=
+olor:#19171c;"><div style=3D"text-align: center; letter-spacing:5px"><span =
+style=3D"font-size:12px;"><span style=3D"background-color: transparent;">Ce=
+s sites que vous utilisez ont...</span></span></div>=0A</td>=0A            =
+                                                    </tr>=0A               =
+                                                 </tbody></table>=0A=0A    =
+                                                        </td></tr>=0A      =
+                                          </tbody></table></td>=0A         =
+                               </tr>=0A                                    =
+    <tr>=0A                                            <td height=3D"1" sty=
+le=3D"font-size:1px; line-height:1px;border-bottom:0px;">&nbsp;</td>=0A    =
+                                    </tr>=0A                               =
+     </tbody></table>=0A                    </td>=0A                </tr>=
+=0A            </tbody></table><!--[if mso]>=0A                </td>=0A    =
+            <![endif]-->=0A                =0A                <!--[if mso]>=
+=0A                </tr>=0A                </table>=0A                <![en=
+dif]-->=0A=0A            </div></td>=0A    </tr><tr>=0A=0A        <td align=
+=3D"center" valign=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#e=
+fefef;">=0A=0A            <div>=0A                <!--[if mso]>=0A         =
+       <table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"=
+0" width=3D"100%" style=3D"width:100%;">=0A                <tr>=0A         =
+       <![endif]-->=0A                =0A                <!--[if mso]>=0A  =
+              <td valign=3D"top" width=3D"590" style=3D"width:590px;">=0A  =
+              <![endif]-->=0A            <table class=3D"rnb-del-min-width"=
+ width=3D"100%" cellpadding=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D=
+"#efefef" style=3D"min-width:100%; background-color:#efefef;" name=3D"Layou=
+t_5">=0A                <tbody><tr>=0A                    <td class=3D"rnb-=
+del-min-width" align=3D"center" valign=3D"top" bgcolor=3D"#efefef" style=3D=
+"background-color: #efefef;">=0A                        <table width=3D"100=
+%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"rnb-container"=
+ bgcolor=3D"#a7d0ca" style=3D"background-color: rgb(167, 208, 202); padding=
+-left: 20px; padding-right: 20px; border-collapse: separate; border-radius:=
+ 0px; border-bottom: 0px none rgb(200, 200, 200);">=0A=0A                  =
+                      <tbody><tr>=0A                                       =
+     <td height=3D"30" style=3D"font-size:1px; line-height:1px;">&nbsp;</td=
+>=0A                                        </tr>=0A                       =
+                 <tr>=0A                                            <td val=
+ign=3D"top" class=3D"rnb-container-padding" bgcolor=3D"#a7d0ca" style=3D"ba=
+ckground-color: #a7d0ca;" align=3D"left">=0A=0A                            =
+                    <table width=3D"100%" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" class=3D"rnb-columns-container">=0A                        =
+                            <tbody><tr>=0A                                 =
+                       <td class=3D"rnb-force-col" valign=3D"top" style=3D"=
+padding-right: 0px;">=0A=0A                                                =
+            <table border=3D"0" valign=3D"top" cellspacing=3D"0" cellpaddin=
+g=3D"0" width=3D"100%" align=3D"left" class=3D"rnb-col-1">=0A=0A           =
+                                                     <tbody><tr>=0A        =
+                                                            <td style=3D"fo=
+nt-size:23px; font-family:'Trebuchet MS',Helvetica,sans-serif, sans-serif; =
+color:#19171c;"><div style=3D"text-align: center; letter-spacing:5px"><span=
+ style=3D"background-color: transparent;">L'ART ET LA MANI=C3=88RE D'ENTRET=
+ENIR DE FAUSSES PROMESSES !</span></div>=0A</td>=0A                        =
+                                        </tr>=0A                           =
+                                     </tbody></table>=0A=0A                =
+                                            </td></tr>=0A                  =
+                              </tbody></table></td>=0A                     =
+                   </tr>=0A                                        <tr>=0A =
+                                           <td height=3D"20" style=3D"font-=
+size:1px; line-height:1px;border-bottom:0px;">&nbsp;</td>=0A               =
+                         </tr>=0A                                    </tbod=
+y></table>=0A                    </td>=0A                </tr>=0A          =
+  </tbody></table><!--[if mso]>=0A                </td>=0A                <=
+![endif]-->=0A                =0A                <!--[if mso]>=0A          =
+      </tr>=0A                </table>=0A                <![endif]-->=0A=0A=
+            </div></td>=0A    </tr><tr>=0A=0A        <td align=3D"center" v=
+align=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#efefef;">=0A=
+=0A            <div>=0A                <!--[if mso]>=0A                <tab=
+le align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D=
+"100%" style=3D"width:100%;">=0A                <tr>=0A                <![e=
+ndif]-->=0A                =0A                <!--[if mso]>=0A             =
+   <td valign=3D"top" width=3D"590" style=3D"width:590px;">=0A             =
+   <![endif]-->=0A            <table class=3D"rnb-del-min-width" width=3D"1=
+00%" cellpadding=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#efefef" s=
+tyle=3D"min-width:100%; background-color:#efefef;" name=3D"Layout_6" id=3D"=
+Layout_6">=0A                <tbody><tr>=0A                    <td class=3D=
+"rnb-del-min-width" valign=3D"top" align=3D"center" style=3D"min-width: 590=
+px;">=0A                        <table width=3D"100%" class=3D"rnb-containe=
+r" cellpadding=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center" cell=
+spacing=3D"0" style=3D"background-color:#ffffff;">=0A                      =
+      <tbody><tr>=0A                                <td valign=3D"top" alig=
+n=3D"center">=0A                                    <table cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0">=0A                                       =
+ <tbody><tr>=0A                                            <td>=0A         =
+                                           <div style=3D"display:block; bor=
+der-radius:0px; width:590;max-width:590px !important;border-top:0px None #0=
+00;border-right:0px None #000;border-bottom:0px None #000;border-left:0px N=
+one #000;border-collapse: separate;border-radius: 0px;">=0A                =
+                                    <img border=3D"0" hspace=3D"0" vspace=
+=3D"0" width=3D"590" class=3D"rnb-header-img" alt=3D"" style=3D"display:blo=
+ck;border-radius: 0px;" src=3D"http://img.mailinblue.com/1172781/images/rnb=
+/original/583c7b56150ba0f6518b45c7.gif"></div>=0A                          =
+                  </td>=0A                                        </tr>=0A =
+                                   </tbody></table>=0A=0A                  =
+              </td>=0A                            </tr>=0A                 =
+       </tbody></table>=0A                    </td>=0A                </tr>=
+</tbody></table>=0A            <!--[if mso]>=0A                </td>=0A    =
+            <![endif]-->=0A                =0A                <!--[if mso]>=
+=0A                </tr>=0A                </table>=0A                <![en=
+dif]-->=0A        </div></td>=0A    </tr><tr>=0A=0A        <td align=3D"cen=
+ter" valign=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#efefef;"=
+>=0A=0A            <div>=0A                <!--[if mso]>=0A                =
+<table align=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" widt=
+h=3D"100%" style=3D"width:100%;">=0A                <tr>=0A                =
+<![endif]-->=0A                =0A                <!--[if mso]>=0A         =
+       <td valign=3D"top" width=3D"590" style=3D"width:590px;">=0A         =
+       <![endif]-->=0A            <table class=3D"rnb-del-min-width" width=
+=3D"100%" cellpadding=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#efef=
+ef" style=3D"min-width:100%; background-color:#efefef;" name=3D"Layout_9">=
+=0A                <tbody><tr>=0A                    <td class=3D"rnb-del-m=
+in-width" align=3D"center" valign=3D"top" bgcolor=3D"#efefef" style=3D"back=
+ground-color: #efefef;">=0A                        <table width=3D"100%" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"rnb-container" bgco=
+lor=3D"#a7d0ca" style=3D"background-color: rgb(167, 208, 202); padding-left=
+: 20px; padding-right: 20px; border-collapse: separate; border-radius: 0px;=
+ border-bottom: 0px none rgb(200, 200, 200);">=0A=0A                       =
+                 <tbody><tr>=0A                                            =
+<td height=3D"10" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>=0A =
+                                       </tr>=0A                            =
+            <tr>=0A                                            <td valign=
+=3D"top" class=3D"rnb-container-padding" bgcolor=3D"#a7d0ca" style=3D"backg=
+round-color: #a7d0ca;" align=3D"left">=0A=0A                               =
+                 <table width=3D"100%" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" class=3D"rnb-columns-container">=0A                           =
+                         <tbody><tr>=0A                                    =
+                    <td class=3D"rnb-force-col" valign=3D"top" style=3D"pad=
+ding-right: 0px;">=0A=0A                                                   =
+         <table border=3D"0" valign=3D"top" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" align=3D"left" class=3D"rnb-col-1">=0A=0A            =
+                                                    <tbody><tr>=0A         =
+                                                           <td style=3D"fon=
+t-size:26px; font-family:'Trebuchet MS',Helvetica,sans-serif, sans-serif; c=
+olor:#19171c;"><div style=3D"line-height: 150%; text-align: center; letter-=
+spacing:10px">&nbsp;<b style=3D"font-size: 22px; background-color: transpar=
+ent;">CESSEZ DE VOUS LEURRER</b></div>=0A</td>=0A                          =
+                                      </tr>=0A                             =
+                                   </tbody></table>=0A=0A                  =
+                                          </td></tr>=0A                    =
+                            </tbody></table></td>=0A                       =
+                 </tr>=0A                                        <tr>=0A   =
+                                         <td height=3D"0" style=3D"font-siz=
+e:1px; line-height:1px;border-bottom:0px;">&nbsp;</td>=0A                  =
+                      </tr>=0A                                    </tbody><=
+/table>=0A                    </td>=0A                </tr>=0A            <=
+/tbody></table><!--[if mso]>=0A                </td>=0A                <![e=
+ndif]-->=0A                =0A                <!--[if mso]>=0A             =
+   </tr>=0A                </table>=0A                <![endif]-->=0A=0A   =
+         </div></td>=0A    </tr><tr>=0A=0A        <td align=3D"center" vali=
+gn=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#efefef;">=0A=0A  =
+          <div>=0A                <!--[if mso]>=0A                <table al=
+ign=3D"left" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%=
+" style=3D"width:100%;">=0A                <tr>=0A                <![endif]=
+-->=0A                =0A                <!--[if mso]>=0A                <t=
+d valign=3D"top" width=3D"590" style=3D"width:590px;">=0A                <!=
+[endif]-->=0A            <table class=3D"rnb-del-min-width" width=3D"100%" =
+cellpadding=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#efefef" style=
+=3D"min-width:100%; background-color:#efefef;" name=3D"Layout_17">=0A      =
+          <tbody><tr>=0A                    <td class=3D"rnb-del-min-width"=
+ align=3D"center" valign=3D"top" bgcolor=3D"#efefef" style=3D"background-co=
+lor: #efefef;">=0A                        <table width=3D"100%" border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" class=3D"rnb-container" bgcolor=3D"#a=
+7d0ca" style=3D"background-color: rgb(167, 208, 202); padding-left: 20px; p=
+adding-right: 20px; border-collapse: separate; border-radius: 0px; border-b=
+ottom: 0px none rgb(200, 200, 200);">=0A=0A                                =
+        <tbody><tr>=0A                                            <td heigh=
+t=3D"10" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>=0A          =
+                              </tr>=0A                                     =
+   <tr>=0A                                            <td valign=3D"top" cl=
+ass=3D"rnb-container-padding" bgcolor=3D"#a7d0ca" style=3D"background-color=
+: #a7d0ca;" align=3D"left">=0A=0A                                          =
+      <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" class=3D"rnb-columns-container">=0A                                      =
+              <tbody><tr>=0A                                               =
+         <td class=3D"rnb-force-col" valign=3D"top" style=3D"padding-right:=
+ 0px;">=0A=0A                                                            <t=
+able border=3D"0" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" width=
+=3D"100%" align=3D"left" class=3D"rnb-col-1">=0A=0A                        =
+                                        <tbody><tr>=0A                     =
+                                               <td style=3D"font-size:16px;=
+ font-family:'Trebuchet MS',Helvetica,sans-serif, sans-serif; color:#19171c=
+;"><div style=3D"text-align: center;letter-spacing:5px"><span style=3D"font=
+-size:14px;"><em>=C3=89conomisez TOUTE l'ann=C3=A9e (sans risque) !</em></s=
+pan></div>=0A</td>=0A                                                      =
+          </tr>=0A                                                         =
+       </tbody></table>=0A=0A                                              =
+              </td></tr>=0A                                                =
+</tbody></table></td>=0A                                        </tr>=0A   =
+                                     <tr>=0A                               =
+             <td height=3D"10" style=3D"font-size:1px; line-height:1px;bord=
+er-bottom:0px;">&nbsp;</td>=0A                                        </tr>=
+=0A                                    </tbody></table>=0A                 =
+   </td>=0A                </tr>=0A            </tbody></table><!--[if mso]=
+>=0A                </td>=0A                <![endif]-->=0A                =
+=0A                <!--[if mso]>=0A                </tr>=0A                =
+</table>=0A                <![endif]-->=0A=0A            </div></td>=0A    =
+</tr><tr>=0A=0A        <td align=3D"center" valign=3D"top" bgcolor=3D"#efef=
+ef" style=3D"background-color:#efefef;">=0A=0A            <div>=0A         =
+       <!--[if mso]>=0A                <table align=3D"left" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100%;">=0A=
+                <tr>=0A                <![endif]-->=0A                =0A  =
+              <!--[if mso]>=0A                <td valign=3D"top" width=3D"5=
+90" style=3D"width:590px;">=0A                <![endif]-->=0A            <t=
+able class=3D"rnb-del-min-width" width=3D"100%" cellpadding=3D"0" border=3D=
+"0" cellspacing=3D"0" bgcolor=3D"#efefef" style=3D"min-width:590px; backgro=
+und-color:#efefef;" name=3D"Layout_11" id=3D"Layout_11">=0A                =
+<tbody><tr>=0A                    <td class=3D"rnb-del-min-width" align=3D"=
+center" valign=3D"top" bgcolor=3D"#efefef" style=3D"min-width:590px; backgr=
+ound-color: #efefef;">=0A                        <table width=3D"100%" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"mso-button-block rnb-=
+container" bgcolor=3D"#a7d0ca" style=3D"background-color: rgb(167, 208, 202=
+); border-radius: 0px; padding-left: 20px; padding-right: 20px; border-coll=
+apse: separate;">=0A                            <tbody><tr>=0A             =
+                   <td height=3D"20" style=3D"font-size:1px; line-height:1p=
+x;">&nbsp;</td>=0A                            </tr>=0A                     =
+       <tr>=0A                                <td valign=3D"top" class=3D"r=
+nb-container-padding" bgcolor=3D"#a7d0ca" style=3D"background-color: #a7d0c=
+a;" align=3D"left">=0A=0A                                    <table width=
+=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"rnb-col=
+umns-container">=0A                                        <tbody><tr>=0A  =
+                                          <td class=3D"rnb-force-col" valig=
+n=3D"top">=0A=0A                                                <table bord=
+er=3D"0" valign=3D"top" cellspacing=3D"0" cellpadding=3D"0" width=3D"550" a=
+lign=3D"center" class=3D"rnb-col-1">=0A=0A                                 =
+                   <tbody><tr>=0A                                          =
+              <td valign=3D"top">=0A                                       =
+                     <table cellpadding=3D"0" border=3D"0" align=3D"center"=
+ cellspacing=3D"0" class=3D"rnb-btn-col-content" style=3D"margin:auto; bord=
+er-collapse: separate;">=0A                                                =
+                <tbody><tr>=0A                                             =
+                       <td width=3D"auto" valign=3D"middle" bgcolor=3D"#ee4=
+749" align=3D"center" height=3D"50" style=3D"font-size:18px; font-family:'T=
+rebuchet MS',Helvetica,sans-serif; color:#ffffff; font-weight:normal; paddi=
+ng-left:14px; padding-right:14px; background-color:#ee4749;border-radius:0p=
+x;border-top:0px None #000;border-right:0px None #000;border-bottom:0px Non=
+e #000;border-left:0px None #000;">=0A                                     =
+                                   <span style=3D"color:#ffffff; font-weigh=
+t:normal;">=0A                                                             =
+                   <a style=3D"text-decoration:none; color:#ffffff; font-we=
+ight:normal;" target=3D"_blank" href=3D"http://r.newsletters.ka-deau.fr/ld5=
+azkxsaxoioard.html">OUI, JE VEUX EN SAVOIR PLUS =E2=80=BA=E2=80=BA</a>=0A  =
+                                                                          <=
+/span>=0A                                                                  =
+  </td>=0A                                                                <=
+/tr></tbody></table>=0A                                                    =
+    </td>=0A                                                    </tr>=0A   =
+                                                 </tbody></table>=0A       =
+                                         </td>=0A                          =
+              </tr>=0A                                    </tbody></table><=
+/td>=0A                            </tr>=0A                            <tr>=
+=0A                                <td height=3D"10" style=3D"font-size:1px=
+; line-height:1px;">&nbsp;</td>=0A                            </tr>=0A     =
+                   </tbody></table>=0A=0A                    </td>=0A      =
+          </tr>=0A            </tbody></table>=0A            <!--[if mso]>=
+=0A                </td>=0A                <![endif]-->=0A                =
+=0A                <!--[if mso]>=0A                </tr>=0A                =
+</table>=0A                <![endif]-->=0A            </div></td>=0A    </t=
+r><tr>=0A=0A        <td align=3D"center" valign=3D"top" bgcolor=3D"#efefef"=
+ style=3D"background-color:#efefef;">=0A=0A            <div>=0A            =
+    <!--[if mso]>=0A                <table align=3D"left" border=3D"0" cell=
+spacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100%;">=0A   =
+             <tr>=0A                <![endif]-->=0A                =0A     =
+           <!--[if mso]>=0A                <td valign=3D"top" width=3D"590"=
+ style=3D"width:590px;">=0A                <![endif]-->=0A            <tabl=
+e class=3D"rnb-del-min-width" width=3D"100%" cellpadding=3D"0" border=3D"0"=
+ cellspacing=3D"0" bgcolor=3D"#efefef" style=3D"min-width:100%; background-=
+color:#efefef;" name=3D"Layout_18">=0A                <tbody><tr>=0A       =
+             <td class=3D"rnb-del-min-width" align=3D"center" valign=3D"top=
+" bgcolor=3D"#efefef" style=3D"background-color: #efefef;">=0A             =
+           <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" class=3D"rnb-container" bgcolor=3D"#a7d0ca" style=3D"background-colo=
+r: rgb(167, 208, 202); padding-left: 20px; padding-right: 20px; border-coll=
+apse: separate; border-radius: 0px; border-bottom: 0px none rgb(200, 200, 2=
+00);">=0A=0A                                        <tbody><tr>=0A         =
+                                   <td height=3D"0" style=3D"font-size:1px;=
+ line-height:1px;">&nbsp;</td>=0A                                        </=
+tr>=0A                                        <tr>=0A                      =
+                      <td valign=3D"top" class=3D"rnb-container-padding" bg=
+color=3D"#a7d0ca" style=3D"background-color: #a7d0ca;" align=3D"left">=0A=
+=0A                                                <table width=3D"100%" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"rnb-columns-contain=
+er">=0A                                                    <tbody><tr>=0A  =
+                                                      <td class=3D"rnb-forc=
+e-col" valign=3D"top" style=3D"padding-right: 0px;">=0A=0A                 =
+                                           <table border=3D"0" valign=3D"to=
+p" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"left" class=
+=3D"rnb-col-1">=0A=0A                                                      =
+          <tbody><tr>=0A                                                   =
+                 <td style=3D"font-size:16px; font-family:'Trebuchet MS',He=
+lvetica,sans-serif, sans-serif; color:#19171c;"><div style=3D"text-align: c=
+enter;letter-spacing:5px"><span style=3D"font-size:13px;"><a href=3D"http:/=
+/r.newsletters.ka-deau.fr/ld5azkxsbq4ioard.html" style=3D"color: rgb(56, 14=
+4, 194);"><em>Recevez tout de suite votre surprise (gratuit)</em></a></span=
+></div>=0A</td>=0A                                                         =
+       </tr>=0A                                                            =
+    </tbody></table>=0A=0A                                                 =
+           </td></tr>=0A                                                </t=
+body></table></td>=0A                                        </tr>=0A      =
+                                  <tr>=0A                                  =
+          <td height=3D"10" style=3D"font-size:1px; line-height:1px;border-=
+bottom:0px;">&nbsp;</td>=0A                                        </tr>=0A=
+                                    </tbody></table>=0A                    =
+</td>=0A                </tr>=0A            </tbody></table><!--[if mso]>=
+=0A                </td>=0A                <![endif]-->=0A                =
+=0A                <!--[if mso]>=0A                </tr>=0A                =
+</table>=0A                <![endif]-->=0A=0A            </div></td>=0A    =
+</tr><tr>=0A=0A        <td align=3D"center" valign=3D"top" bgcolor=3D"#efef=
+ef" style=3D"background-color:#efefef;">=0A=0A            <div>=0A         =
+       <!--[if mso]>=0A                <table align=3D"left" border=3D"0" c=
+ellspacing=3D"0" cellpadding=3D"0" width=3D"100%" style=3D"width:100%;">=0A=
+                <tr>=0A                <![endif]-->=0A                =0A  =
+              <!--[if mso]>=0A                <td valign=3D"top" width=3D"5=
+90" style=3D"width:590px;">=0A                <![endif]-->=0A            <t=
+able class=3D"rnb-del-min-width" width=3D"100%" cellpadding=3D"0" border=3D=
+"0" cellspacing=3D"0" bgcolor=3D"#efefef" style=3D"min-width:100%; backgrou=
+nd-color:#efefef;" name=3D"Layout_14">=0A                <tbody><tr>=0A    =
+                <td class=3D"rnb-del-min-width" align=3D"center" valign=3D"=
+top" bgcolor=3D"#efefef" style=3D"background-color: #efefef;">=0A          =
+              <table width=3D"100%" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0" class=3D"rnb-container" bgcolor=3D"#ffffff" style=3D"background-c=
+olor: rgb(255, 255, 255); padding-left: 20px; padding-right: 20px; border-c=
+ollapse: separate; border-radius: 0px; border-bottom: 0px none rgb(200, 200=
+, 200);">=0A=0A                                        <tbody><tr>=0A      =
+                                      <td height=3D"20" style=3D"font-size:=
+1px; line-height:1px;">&nbsp;</td>=0A                                      =
+  </tr>=0A                                        <tr>=0A                  =
+                          <td valign=3D"top" class=3D"rnb-container-padding=
+" bgcolor=3D"#ffffff" style=3D"background-color: #ffffff;" align=3D"left">=
+=0A=0A                                                <table width=3D"100%"=
+ border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"rnb-columns-cont=
+ainer">=0A                                                    <tbody><tr>=
+=0A                                                        <td class=3D"rnb=
+-force-col" valign=3D"top" style=3D"padding-right: 0px;">=0A=0A            =
+                                                <table border=3D"0" valign=
+=3D"top" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" align=3D"left" =
+class=3D"rnb-col-1">=0A=0A                                                 =
+               <tbody><tr>=0A                                              =
+                      <td style=3D"font-size:14px; font-family:Arial,Helvet=
+ica,sans-serif, sans-serif; color:#555;"><div>Bien =C3=A0 vous,&nbsp;<br>=
+=0A<br>=0A- Pascal</div>=0A=0A<div>&nbsp;</div>=0A=0A<div><span style=3D"ba=
+ckground-color: transparent;">P.S. : Nous sommes une petite entreprise fami=
+liale qui embauche en France.&nbsp;</span></div>=0A=0A<div><br>=0A---&gt;&n=
+bsp;<a href=3D"http://r.newsletters.ka-deau.fr/ld5azkxscikioard.html" style=
+=3D"color: rgb(153, 153, 153);">Cliquez-ICI pour nous aider =C3=A0 cr=C3=
+=A9er des emplois&nbsp;</a></div>=0A</td>=0A                               =
+                                 </tr>=0A                                  =
+                              </tbody></table>=0A=0A                       =
+                                     </td></tr>=0A                         =
+                       </tbody></table></td>=0A                            =
+            </tr>=0A                                        <tr>=0A        =
+                                    <td height=3D"20" style=3D"font-size:1p=
+x; line-height:1px;border-bottom:0px;">&nbsp;</td>=0A                      =
+                  </tr>=0A                                    </tbody></tab=
+le>=0A                    </td>=0A                </tr>=0A            </tbo=
+dy></table><!--[if mso]>=0A                </td>=0A                <![endif=
+]-->=0A                =0A                <!--[if mso]>=0A                <=
+/tr>=0A                </table>=0A                <![endif]-->=0A=0A       =
+     </div></td>=0A    </tr><tr>=0A=0A        <td align=3D"center" valign=
+=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#efefef;">=0A=0A    =
+        <table class=3D"rnb-del-min-width" width=3D"100%" cellpadding=3D"0"=
+ border=3D"0" cellspacing=3D"0" style=3D"min-width:590px; background-color:=
+#efefef;" name=3D"Layout_" id=3D"Layout_">=0A                <tbody><tr>=0A=
+                    <td class=3D"rnb-del-min-width" valign=3D"top" align=3D=
+"center" bgcolor=3D"#efefef" style=3D"min-width:590px; background-color:#ef=
+efef;">=0A                        <table width=3D"100%" cellpadding=3D"0" b=
+order=3D"0" height=3D"30" cellspacing=3D"0" bgcolor=3D"#efefef" style=3D"ba=
+ckground-color:#efefef;">=0A                            <tbody><tr>=0A     =
+                           <td valign=3D"top" height=3D"30">=0A            =
+                        <img width=3D"20" height=3D"30" style=3D"display:bl=
+ock; max-height:30px; max-width:20px;" alt=3D"" src=3D"http://img.mailinblu=
+e.com/new_images/rnb/rnb_space.gif">=0A                                </td=
+>=0A                            </tr>=0A                        </tbody></t=
+able>=0A                    </td>=0A                </tr>=0A            </t=
+body></table>=0A            </td>=0A    </tr><tr>=0A=0A        <td align=3D=
+"center" valign=3D"top" bgcolor=3D"#efefef" style=3D"background-color:#efef=
+ef;">=0A=0A            <table class=3D"rnb-del-min-width rnb-tmpl-width" wi=
+dth=3D"100%" cellpadding=3D"0" border=3D"0" cellspacing=3D"0" bgcolor=3D"#e=
+fefef" style=3D"min-width:590px; background-color:#efefef;" name=3D"Layout_=
+3" id=3D"Layout_3">=0A                <tbody><tr>=0A                    <td=
+ class=3D"rnb-del-min-width" align=3D"center" valign=3D"top" bgcolor=3D"#ef=
+efef" style=3D"min-width:590px; background-color: #efefef;">=0A            =
+            <table width=3D"590" class=3D"rnb-container" cellpadding=3D"0" =
+border=3D"0" align=3D"center" cellspacing=3D"0" style=3D"padding-right:20px=
+; padding-left:20px;">=0A                            <tbody><tr>=0A        =
+                        <td height=3D"10" style=3D"font-size:1px; line-heig=
+ht:1px;">&nbsp;</td>=0A                            </tr>=0A                =
+            <tr>=0A                                <td>=0A                 =
+                   <div style=3D"font-size:14px; color:#919191; font-weight=
+:normal; text-align:center; font-family:Arial,Helvetica,sans-serif;"><div>T=
+his email was sent to resp-m2-miage@univ-rennes1.fr</div>=0A</div>=0A      =
+                              <div style=3D"font-size:14px; font-weight:nor=
+mal; text-align:center; font-family:Arial,Helvetica,sans-serif;">=0A       =
+                                 <a style=3D"text-decoration:none; color:#9=
+19191;font-size:14px;font-weight:normal;font-family:Arial,Helvetica,sans-se=
+rif;" target=3D"_blank" href=3D"http://r.newsletters.ka-deau.fr/5cabqw8g2ki=
+oarg.html"><div>D=C3=A9sinscription ici</div>=0A</a></div>=0A              =
+                  </td></tr>=0A                            <tr>=0A         =
+                       <td height=3D"10" style=3D"font-size:1px; line-heigh=
+t:1px;">&nbsp;</td>=0A                            </tr>=0A                 =
+           </tbody></table>=0A                    </td>=0A                <=
+/tr>=0A            </tbody></table>=0A            </td>=0A    </tr><tr>=0A=
+=0A        <td align=3D"center" valign=3D"top" bgcolor=3D"#efefef" style=3D=
+"background-color:#efefef;">=0A=0A            <table class=3D"rnb-del-min-w=
+idth rnb-tmpl-width" width=3D"100%" cellpadding=3D"0" border=3D"0" cellspac=
+ing=3D"0" bgcolor=3D"#efefef" style=3D"min-width:590px; background-color:#e=
+fefef;" name=3D"Layout_4" id=3D"Layout_4">=0A                <tbody><tr>=0A=
+                    <td class=3D"rnb-del-min-width" align=3D"center" valign=
+=3D"top" bgcolor=3D"#efefef" style=3D"min-width:590px; background-color: #e=
+fefef;">=0A                        <table width=3D"590" class=3D"rnb-contai=
+ner rnb-yahoo-width" cellpadding=3D"0" border=3D"0" align=3D"center" cellsp=
+acing=3D"0" style=3D"padding-right:20px; padding-left:20px;">=0A           =
+                 <tbody><tr>=0A                                <td height=
+=3D"20" style=3D"font-size:1px; line-height:1px;">&nbsp;</td>=0A           =
+                 </tr>=0A                            <tr>=0A               =
+                 <td style=3D"font-size:14px; color:#919191; font-weight:no=
+rmal; text-align:center; font-family:Arial,Helvetica,sans-serif;">=0A      =
+                              <div><div>=C2=A9 2017 Discount Du Jour</div>=
+=0A</div>=0A                                </td></tr>=0A                  =
+          <tr>=0A                                <td height=3D"20" style=3D=
+"font-size:1px; line-height:1px;">&nbsp;</td>=0A                           =
+ </tr>=0A                        </tbody></table>=0A                    </t=
+d>=0A                </tr>=0A            </tbody></table>=0A            </t=
+d>=0A    </tr></tbody></table>=0A            <!--[if gte mso 9]>=0A        =
+                </td>=0A                        </tr>=0A                   =
+     </table>=0A                        <![endif]-->=0A                    =
+    </td>=0A        </tr>=0A        </tbody></table>=0A=0A<div><img width=
+=3D"1" height=3D"1" src=3D"http://r.newsletters.ka-deau.fr/5cabqw8g2kioarh.=
+jpg" /></div></body></html>
+
+
+---------?=_12017-6378616342941--
+

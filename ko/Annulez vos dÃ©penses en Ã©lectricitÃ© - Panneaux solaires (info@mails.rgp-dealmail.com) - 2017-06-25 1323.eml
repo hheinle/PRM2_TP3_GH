@@ -1,0 +1,382 @@
+Return-Path: <info@mails.rgp-dealmail.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 25 Jun 2017 13:23:56 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 3482A473
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 25 Jun 2017 13:23:56 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 2F66860055
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 25 Jun 2017 13:23:56 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id KV6pvOyjmuv5 for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 25 Jun 2017 13:23:56 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 02DB76000C
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 25 Jun 2017 13:23:56 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id EE97C20033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 25 Jun 2017 13:23:55 +0200 (CEST)
+Received: from im43.mxea43.com (im43.mxea43.com [62.210.86.80])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id 47CF7605D6
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 25 Jun 2017 13:24:24 +0200 (CEST)
+X-QHPSI: clean
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mails.rgp-dealmail.com; s=default; h=Date:To:From:Subject:
+	Message-ID:X-Mailer:Precedence:List-Unsubscribe:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=vJNxwEBg0OZsBWabhja4F
+	I8omDI=; b=qykvjDTNY4oWoKytZlBLsNiL1sn8IZ1y7KXLlgQokgv6/sNudDBuX
+	Eu5s8UwCEinTXeHnmEmgyi+r5w7JbfKlHdfbeXF1KzYcDyL9RioMEmbQU6FmdGcD
+	99V5aIYbjHvOSc49ZHx5VpAehHzGTlBVpXAiYiHNrEyuH7vD/N5XCI=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=simple;
+  s=default; d=mails.rgp-dealmail.com;
+  b=gb2c32yLCYpKcrN0Oy1HLD4yucFcRfgPNrojqPxj6/M4VXsNcI+6NTtjUgAVBMBX+p2bmlUJL8gpuFICIw7k3YbexBjGE2EEh5/Y8/3NYL/zC5KLS0FNRwJT3qSZMfsHUg/+jpymEOpxx/1M1qDrCx7B4FLgZrq6SEHSX+wLtBg=;
+Received: (indimail 55207 invoked from 62.210.149.114 by host im43 by uid 555); Sun, 25 Jun 2017 13:23:55 +0200
+Date: Sun, 25 Jun 2017 13:23:54 +0200
+To: resp-m2-miage@univ-rennes1.fr
+From: Panneaux solaires <info@mails.rgp-dealmail.com>
+Subject: =?utf-8?Q?Annulez_vos_d=C3=A9penses_en_=C3=A9lectricit=C3=A9?=
+Message-ID: <c54a6de4a4c17ceeb76073499c0bac3b@localhost.localdomain>
+X-Mailer: Mailxpertise
+X-List: 5
+X-Account: 1194
+X-Campaign: 1476
+X-Mode: 1
+X-Unique: 273910
+X-Abuse: abuse@mxea39.com
+Precedence: bulk
+List-Unsubscribe: <http://mails.rgp-dealmail.com/JTI2YSUzRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZlbSUzRHJlc3AtbTItbWlhZ2UlNDB1bml2LXJlbm5lczEuZnIlMjZ0JTNEYyUyNmwlM0QyODg3NiUyNmYlM0Qy>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c54a6de4a4c17ceeb76073499c0bac3b"
+Content-Transfer-Encoding: quoted-printable
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 62.210.86.80
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrleekgdeflecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpeffvffhuffkofhpjfggtgfgsegrqhhjphertdejnecuhfhrohhmpefrrghnnhgvrghugicushholhgrihhrvghsuceoihhnfhhosehmrghilhhsrdhrghhpqdguvggrlhhmrghilhdrtghomheqnecuffhomhgrihhnpehrghhpqdguvggrlhhmrghilhdrtghomhenucfkphepiedvrddvuddtrdekiedrkedtnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehimhegfedrmhigvggrgeefrdgtohhmpdhinhgvthepiedvrddvuddtrdekiedrkedtpdhmrghilhhfrhhomhepihhnfhhosehmrghilhhsrdhrghhpqdguvggrlhhmrghilhdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--b1_c54a6de4a4c17ceeb76073499c0bac3b
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+http://mails.rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlM=
+jZsJTNEMjg4NzMlMjZzJTNENzY4NTkxNyUyNnQlM0RjJTI2bHMlM0Q1=0A
+
+ =09=09 [1]
+
+ =09=09Le Placement [1]
+
+ =09=09Eco [1]
+
+ =09=09Renouvelable [1]
+
+ Installer un panneau
+ solaire photovoltaique et produisez votre electricite =09=09
+
+ =09=09 [1]
+ =09=09en savoir plus [1]
+
+ =09=09Installer des panneaux photovolta=C3=AFques, c=E2=80=99est profiter =
+d=E2=80=99une source d=E2=80=99=C3=A9nergie
+renouvelable propre, in=C3=A9puisable et totalement gratuite. En produisant=
+ votre =C3=A9lectricit=C3=A9, vous
+gagnez en ind=C3=A9pendance, vous contribuez =C3=A0 la protection de l=E2=
+=80=99environnement et vous faites des
+=C3=A9conomies. [1]
+
+http://mails.rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlM=
+jZsJTNEMjg4NzUlMjZzJTNENzY4NTkxNyUyNnQlM0RjJTI2bHMlM0Q1=0A
+
+Links:
+------
+[1]=0Ahttp://clicks.trckgtyh.com/click_c(1820)-s(1695)-m(15926)-e(46935)?u=
+=3Dhttp%3A%2F%2Fwww.mieux-choisir-solaire.com%2Fpho%2Flan%2F02%2F%3Futm_sou=
+rce%3Dag2%26utm_medium%3Demail%26utm_campaign%3D1695%26civ%3D%26ville%3D%26=
+nom%3D%26prenom%3D%26tel%3D%26cp%3D%26email%3D
+
+
+--b1_c54a6de4a4c17ceeb76073499c0bac3b
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A=09<meta content=3D"text/html; charset=3Dutf=
+-8" http-equiv=3D"Content-Type">=0A=09<title></title>=0A=09<style type=3D"t=
+ext/css">* {=09margin-top: 0px;=09margin-bottom: 0px;=09padding: 0px;=09bor=
+der: none;=09line-height: normal;=09outline: none;=09list-style: none;=09fo=
+nt-family: Arial, Helvetica, sans-serif;=0A=09-webkit-text-size-adjust: non=
+e;}=0Abody {=09margin-top: 0 !important;=09margin-bottom: 0 !important;=09p=
+adding-top: 0 !important;=09padding-bottom: 0 !important;=09width: 100% !im=
+portant;=09-webkit-text-size-adjust: 100% !important;=09-ms-text-size-adjus=
+t: 100% !important;=09-webkit-font-smoothing: antialiased !important;}=0Aim=
+g {=09border: 0 !important;=09outline: none !important;}=0Atable {=09border=
+-collapse: collapse;=09mso-table-lspace: 0px;=09mso-table-rspace: 0px;}=0At=
+d {=09border-collapse: collapse;=09mso-line-height-rule: exactly;}=0A.Exter=
+nalClass * {=09line-height: 100%}=0Aspan {=09border-collapse: collapse;=09m=
+so-line-height-rule: exactly;}=0A.ExternalClass, .ExternalClass p, .Externa=
+lClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {=
+=0A=09line-height: 100%;=0A}=0A=0A @media only screen and (max-width: 480px=
+) {=0Atable[class=3Dfull] {=09width: 100% !important;}=0Atd[class=3Dhide] {=
+=09display: none !important;}=0Atd[class=3Dsides] {=09width: 15px !importan=
+t;}=0Atd[class=3Dheights] {=09height: 15px !important;}=0Atd[class=3Dpaddin=
+g_top] {=09padding-top: 15px !important;}=0A.img_size { width:55px !importa=
+nt; height:auto !important;}=0A.font_x { font-size:29px !important; line-he=
+ight:29px !important;}=0A.font_y { font-size:44px !important; line-height:4=
+4px !important;}=0A.font_z { font-size:27px !important; line-height:27px !i=
+mportant;}=0A.br { display:none !important;}=0A.font_ab { font-size:17px !i=
+mportant; line-height:21px !important;}=0A.auto { width:85px !important;}=
+=0A}=0A=0A @media only screen and (min-width: 480px) and (max-width: 599px)=
+ {=0Atable[class=3Dfull] {=09width: 100% !important;}=0Atd[class=3Dhide] {=
+=09display: none !important;}=0Atd[class=3Dsides] {=09width: 15px !importan=
+t;}=0Atd[class=3Dheights] {=09height: 15px !important;}=0Atd[class=3Dpaddin=
+g_top] {=09padding-top: 15px !important;}=0A.img_size { width:85px !importa=
+nt; height:auto !important;}=0A.font_x { font-size:43px !important; line-he=
+ight:43px !important;}=0A.font_y { font-size:51px !important; line-height:5=
+1px !important;}=0A.font_z { font-size:41px !important; line-height:41px !i=
+mportant;}=0A.br { display:none !important;}=0A.font_ab { font-size:18px !i=
+mportant; line-height:22px !important;}=0A.auto { width:120px !important;}=
+=0A}=0A=09</style>=0A</head>=0A<body bgcolor=3D"#f2f2f2" leftmargin=3D"0" m=
+arginheight=3D"0" marginwidth=3D"0" offset=3D"0" style=3D"font-family:Arial=
+, Helvetica, sans-serif; color:#000000; margin-top: 0; margin-bottom: 0; pa=
+dding-top: 0; padding-bottom: 0; width: 100% !important; -webkit-text-size-=
+adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: antialias=
+ed;" topmargin=3D"0">=0A<div style=3D"text-align:center;"><div align=3D"cen=
+ter"><font color=3D"#000000" style=3D"font-size:11px;font-family:Verdana,Ar=
+ial,Helvetica,sans-serif;"><br>Vous recevez cet email car vous =C3=AAtre in=
+scrits au programme la canop=C3=A9e.<br>Pour visualiser correctement ce mes=
+sage, acc=C3=A9dez =C3=A0 la <a href=3D"http://mails.rgp-dealmail.com/YSUzR=
+DExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZsJTNEMjg4NzQlMjZzJTNENzY4NTkxNyUy=
+NnQlM0RjJTI2bHMlM0Q1JTI2dW5zdWJzY3JpYmUlM0QlMjZtaXJyb3IlM0QlMjZlbWFpbCUzRGN=
+tVnpjQzF0TWkxdGFXRm5aVUIxYm1sMkxYSmxibTVsY3pFdVpuSSUzRA=3D=3D">version en l=
+igne</a><br><br></font></div></div>=0A=0A<table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"100%">=0A=09<tbody>=0A=09=09<tr>=0A=09=09=09=
+<td bgcolor=3D"#f2f2f2">=0A=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"full" width=3D"600">=0A=09=09=09=
+=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td bgcolor=3D"#ffffff=
+">=0A=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#f2f2f2" class=3D"hide"=
+ height=3D"27"></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td background=3D"http://mails.rgp-=
+dealmail.com/img/1476/images/142507078594c.png" bgcolor=3D"#033589" height=
+=3D"411" style=3D"background-position:center; background-repeat:no-repeat;"=
+ valign=3D"top"><!--[if gte mso 9]>=0A  <v:rect xmlns:v=3D"urn:schemas-micr=
+osoft-com:vml" fill=3D"true" stroke=3D"false" style=3D"width:600px;height:4=
+11px;">=0A    <v:fill type=3D"tile" src=3D"http://mails.rgp-dealmail.com/im=
+g/1476/images/142507078594c.png" color=3D"#ffffff" />=0A    <v:textbox inse=
+t=3D"0,0,0,0">=0A  <![endif]-->=0A=09=09=09=09=09=09=09=09=09<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=
+=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09<td height=3D"33"></td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"s=
+ides" width=3D"61"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td a=
+lign=3D"left" class=3D"auto" valign=3D"top" width=3D"141"><a href=3D"http:/=
+/mails.rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZsJTN=
+EMjg4NzclMjZzJTNENzY4NTkxNyUyNnQlM0RjJTI2bHMlM0Q1" target=3D"_blank"><img a=
+lt=3D"" border=3D"0" class=3D"img_size" height=3D"105" src=3D"http://mails.=
+rgp-dealmail.com/img/1476/images/410799553594c.png" style=3D"display:block;=
+" width=3D"104"></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td valign=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbod=
+y>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"8=
+" style=3D"font-size:0px; line-height:0px;"></td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"font_x" style=3D"font-family:Ari=
+al, Helvetica, sans-serif; font-size:46px; line-height:46px; color:#ffffff;=
+ font-weight:bold; text-transform:uppercase;"><a class=3D"font_x" href=3D"h=
+ttp://mails.rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMj=
+ZsJTNEMjg4NzglMjZzJTNENzY4NTkxNyUyNnQlM0RjJTI2bHMlM0Q1" style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; font-size:46px; line-height:46px; color:#ff=
+ffff; font-weight:bold; text-transform:uppercase; text-decoration:none;" ta=
+rget=3D"_blank">Le Placement</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td class=3D"font_y" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:57px; line-height:57px; color:#f1456d; font-weight=
+:bold; text-transform:uppercase;"><a class=3D"font_y" href=3D"http://mails.=
+rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZsJTNEMjg4Nz=
+klMjZzJTNENzY4NTkxNyUyNnQlM0RjJTI2bHMlM0Q1" style=3D"font-family:Arial, Hel=
+vetica, sans-serif; font-size:57px; line-height:57px; color:#f1456d; font-w=
+eight:bold; text-transform:uppercase; text-decoration:none;" target=3D"_bla=
+nk">Eco</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td cl=
+ass=3D"font_z" style=3D"font-family:Arial, Helvetica, sans-serif; font-size=
+:44px; line-height:44px; color:#ffffff; font-weight:bold; text-transform:up=
+percase;"><a class=3D"font_z" href=3D"http://mails.rgp-dealmail.com/YSUzRDE=
+xOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZsJTNEMjg4ODAlMjZzJTNENzY4NTkxNyUyNn=
+QlM0RjJTI2bHMlM0Q1" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:44px; line-height:44px; color:#ffffff; font-weight:bold; text-transfo=
+rm:uppercase; text-decoration:none;" target=3D"_blank">Renouvelable</a></td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"32"></t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#ff=
+ffff">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"12" style=3D"font-size:0p=
+x; line-height:0px;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"sides=
+" width=3D"15"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"font_ab" style=3D"font-=
+family:Tahoma, Arial, Helvetica, sans-serif; font-size:19px; line-height:23=
+px; color:#000000; text-transform:uppercase; font-weight:bold;"><a class=3D=
+"font_ab" href=3D"http://mails.rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEMTQ3NiU=
+yNmUlM0QyNzM5MTAlMjZsJTNEMjg4ODElMjZzJTNENzY4NTkxNyUyNnQlM0RjJTI2bHMlM0Q1" =
+style=3D"font-family:Tahoma, Arial, Helvetica, sans-serif; font-size:19px; =
+line-height:23px; color:#000000; text-transform:uppercase; font-weight:bold=
+; text-decoration:none;" target=3D"_blank">Installer un panneau<br class=3D=
+"br">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09solaire photovoltaique et produisez votre electrici=
+te</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"sides" width=3D"15"></td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td height=3D"17" style=3D"font-size:0px; line-h=
+eight:0px;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td class=3D"sides" width=3D"27"></td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"=
+50"></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09=09=09=09<!--[if gte mso 9]>=0A    </v:textbox>=0A  </v:rect>=0A  <![end=
+if]--></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09=09=09=09<td height=3D"21"></td>=0A=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td=
+>=0A=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=
+=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d class=3D"sides" width=3D"175"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"250">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"cent=
+er" bgcolor=3D"#f9154a" height=3D"48" valign=3D"middle">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"198">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valig=
+n=3D"middle" width=3D"29"><a href=3D"http://mails.rgp-dealmail.com/YSUzRDEx=
+OTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZsJTNEMjg4ODIlMjZzJTNENzY4NTkxNyUyNnQ=
+lM0RjJTI2bHMlM0Q1" target=3D"_blank"><img alt=3D"" border=3D"0" height=3D"2=
+1" src=3D"http://mails.rgp-dealmail.com/img/1476/images/1324700282594.png" =
+style=3D"display:block;" width=3D"21"></a></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td style=3D"font-family: Arial, Helvetica, s=
+ans-serif; font-size:20px; line-height:22px; color:#ffffff; text-transform:=
+uppercase; font-weight:bold;"><a href=3D"http://mails.rgp-dealmail.com/YSUz=
+RDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZsJTNEMjg4ODMlMjZzJTNENzY4NTkxNyU=
+yNnQlM0RjJTI2bHMlM0Q1" style=3D"font-family: Arial, Helvetica, sans-serif; =
+font-size:20px; line-height:22px; color:#ffffff; text-transform:uppercase; =
+font-weight:bold; text-decoration:none;" target=3D"_blank">en savoir plus</=
+a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"sides" width=3D"175"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=
+=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09=09=09=09<td height=3D"35"></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=
+=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"sides" =
+width=3D"36"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"font-=
+family: Arial, Helvetica, sans-serif; font-size:12px; line-height:15px; col=
+or:#010101;"><a href=3D"http://mails.rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEM=
+TQ3NiUyNmUlM0QyNzM5MTAlMjZsJTNEMjg4ODQlMjZzJTNENzY4NTkxNyUyNnQlM0RjJTI2bHMl=
+M0Q1" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:12px; l=
+ine-height:15px; color:#010101; text-decoration:none;" target=3D"_blank">In=
+staller des panneaux photovolta=C3=AFques, c=E2=80=99est profiter d=E2=80=
+=99une source d=E2=80=99=C3=A9nergie renouvelable propre, in=C3=A9puisable =
+et totalement gratuite. En produisant votre =C3=A9lectricit=C3=A9, vous gag=
+nez en ind=C3=A9pendance, vous contribuez =C3=A0 la protection de l=E2=80=
+=99environnement et vous faites des =C3=A9conomies.</a></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"sides" width=3D"30"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tbody>=0A=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09<td height=3D"35"></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tbody>=0A=09=09=09</tabl=
+e>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tbody>=0A</table>=0A<img alt=3D"" =
+src=3D"http://clicks.trckgtyh.com/display_c(1820)-s(1468)-m(15926)-e(46936)=
+"><span style=3D"text-align:center;"><div align=3D"center"><font color=3D"#=
+000000" style=3D"font-size:11px;font-family:Verdana,Arial,Helvetica,sans-se=
+rif;"><br>Conform=C3=A9ment =C3=A0 la loi Informatique et Libert=C3=A9s vou=
+s disposez d'un droit d'acc=C3=A8s, de modification et de suppression de vo=
+s donn=C3=A9es. <br>Pour cesser de recevoir nos informations sur l'adresse =
+resp-m2-miage@univ-rennes1.fr, <a href=3D"http://mails.rgp-dealmail.com/YSU=
+zRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM5MTAlMjZsJTNEMjg4NzYlMjZzJTNENzY4NTkxNy=
+UyNnQlM0RjJTI2bHMlM0Q1">d=C3=A9sabonnez-vous</a>.</font></div></span><img s=
+rc=3D"http://mails.rgp-dealmail.com/YSUzRDExOTQlMjZjJTNEMTQ3NiUyNmUlM0QyNzM=
+5MTAlMjZzJTNENzY4NTkxNyUyNmxzJTNENSUyNnQlM0Rv" alt=3D"Afficher les images" =
+width=3D"1" height=3D"1" /></body>=0A</html>
+
+
+--b1_c54a6de4a4c17ceeb76073499c0bac3b--
+

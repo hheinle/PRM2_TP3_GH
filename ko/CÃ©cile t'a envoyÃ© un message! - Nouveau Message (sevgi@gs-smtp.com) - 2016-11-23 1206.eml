@@ -1,0 +1,145 @@
+Return-Path: <sevgi-resp+2Dm2+2Dmiage=univ-rennes1.fr@gs-smtp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Wed, 23 Nov 2016 12:06:10 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 80E4B29A
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 12:06:10 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 7CCA2604FF
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 12:06:10 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 8Z4008jjU1Oo for <resp-m2-miage@univ-rennes1.fr>;
+	Wed, 23 Nov 2016 12:06:10 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 5E4B260353
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 12:06:10 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 50BB220033
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 12:06:10 +0100 (CET)
+Received: from mta3665.gs-smtp.com (mta3665.gs-smtp.com [212.146.236.66])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb1-2.relay.renater.fr (asm) with ESMTPS id 0B1EF280216
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 12:06:08 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=sev; d=gs-smtp.com;
+ h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type:Content-Transfer-Encoding; i=sevgi@gs-smtp.com;
+ bh=fixortgDJyDMP7mE8g4TssMzJeI=;
+ b=FK0Xxdgxvq71kzcQY3M/BsInJNE0pk3FK4MG/jbE3StuXhgkxgB/uTqlzN4NWdzDRe+GZVL0KwqN
+   2CcZ9IFvo9jMn9OWvwozeTMK4QcHDqSmGboMTWjVpCOOJD7EcOJwF8dvCYKCEAD4nOAkHLMINan0
+   EvwPJ1XOaC5BqSZ/kQI=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=sev; d=gs-smtp.com;
+ b=WW1sSYQt+CZ8uLhH+yROWt9oaynpI0shXuSgX6U+wynwOKpvxatFr7anChykt+EQyaZ6Q5twelJ8
+   rP2LKZZA0JefDTPmeV+FT+eRnSQ7CCv/xbqPwZ08xlDM4mtztZpk8GQyv4tzzGjsYj2zIsj6wRMv
+   YpyUJ0oTqXAzXi8pk0Q=;
+Received: from gs-smtp.com (95.211.73.3) by mta16.gs-smtp.com id h6lsdg23nkst for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 13:09:10 +0200 (envelope-from <sevgi-resp+2Dm2+2Dmiage=univ-rennes1.fr@gs-smtp.com>)
+From: Nouveau Message <sevgi@gs-smtp.com>
+To: resp-m2-miage@univ-rennes1.fr
+Subject: =?UTF-8?B?Q8OpY2lsZSB0J2EgZW52b3nDqSB1biBtZXNzYWdlIQ==?=
+Date: 23 Nov 2016 13:06:05 +0200
+Message-ID: <20161123130605.3B6369AE8BEC3779@gs-smtp.com>
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="iso-8859-9"
+Content-Transfer-Encoding: 8bit
+X-Original-Source-IP: 212.146.236.66
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 0
+X-Renater-SpamScore: 1
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrvdejgddvhecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecuogfuphgrmhfkphculddumdenucfjughrpefhvffufffkgggtgfeshhekfedttddtmhenucfhrhhomheppfhouhhvvggruhcuofgvshhsrghgvgcuoehsvghvghhisehgshdqshhmthhprdgtohhmqeenucffohhmrghinhepthifihhtthgvrhdrtghomhdpphhinhhtvghrvghsthdrtghomhdpghhoohhglhgvrdgtohhmpdifihhnvdhkrdgtohhmpdihohhuthhusggvrdgtohhmpdhfrggtvggsohhokhdrtghomhdpihhnshhtrghgrhgrmhdrtghomhenucfkphepvdduvddrudegiedrvdefiedrieeipdelhedrvdduuddrjeefrdefnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehmthgrfeeiieehrdhgshdqshhmthhprdgtohhmpdhinhgvthepvdduvddrudegiedrvdefiedrieeipdhmrghilhhfrhhomhepshgvvhhgihdqrhgvshhpoddvffhmvddovdffmhhirghgvgepuhhnihhvqdhrvghnnhgvshdurdhfrhesghhsqdhsmhhtphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+<style type="text/css">
+body{margin:0;background-color:#edecee;color:#222222}
+a{outline:none;color:#7e80aa;text-decoration:underline}
+a:hover{text-decoration:none}
+</style>
+</head>
+<table width="100%" height="100%" bgcolor="#edecee" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse;font-family:Arial,sans-serif">
+<tr>
+<td align="center" valign="top" style="padding:0 5px 20px">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse;max-width:640px;min-width:310px">
+<tr><td height="2" align="center" valign="top" bgcolor="#ffffff" style="font-size:0;line-height:0;height:2px"><img src="http://win2k.com/email/image/mail_rainbow_stripe.png" width="100%" height="2" border="0" /></td></tr>
+<tr><td height="48" align="center" valign="middle" bgcolor="#ffffff" style="line-height:0"></td></tr>
+<tr>
+<td align="cnter" valign="top" bgcolor="#ffffff">
+<div style="font-size:14px;line-height:20px;color:#333333;border-bottom:1px solid #e6e5e7;padding:0 3% 30px;min-height:140px;overflow:hidden">
+<!-- CONTENT -->
+<div style="font-size:20px;text-align:center;line-height:20px">
+Salut <b></b>!
+<br>Cécile t'a envoyé un message!
+</div>
+<div style="padding:40px 0">
+<table border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse">
+<tr>
+<td height="120" width="140" valign="top" align="left" style="line-height:0">
+<a style="width:120px;height:120px;border-radius:6px;display:inline-block;background-color:#ece8ef;color:#7e80aa;text-decoration:none;line-height:0;text-align:center;vertical-align:middle;overflow:hidden" target="_blank" href="http://win2k.com/email/redirect/01_fr.html"><img style="width:100%;max-width:120px;max-height:120px;vertical-align:middle" src="http://win2k.com/email/image/fr/main1.jpg" border="0" alt="Cécile" /></a>
+</td>
+<td valign="top" align="left">
+<a style="display:block;padding-bottom:16px;text-decoration:none" href="http://win2k.com/email/redirect/01_fr.html">
+<span style="font-size:18px;color:#550a4d;display:block;padding-bottom:3px"><b>Cécile</b>, 22</span>
+</a>
+<a style="background-color:#550a4d;font-size:15px;font-weight:bold;color:#ffffff;text-shadow:-1px -1px 0 #280024;border-radius:3px;display:inline-block;padding:11px 24px;text-decoration:none;text-align:center;line-height:1" target="_blank" href="http://win2k.com/email/redirect/01_fr.html">Lis le Message</a>
+</td>
+</tr>
+</table>
+</div>
+<div style="font-size:15px;color:#777777;text-align:center;padding:36px 5% 20px;border-top:1px dashed #d9dae6">
+Si tu ne lis pas le message envoyé de tes amis, il sera supprimé! Ces personnes veulent aussi te rencontrer:
+</div>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" style="border-collapse:collapse">
+<tr>
+<td style="color:#ffffff">.</td>
+<td width="250" valign="top" align="center">
+<div style="display:inline-block;padding-bottom:5px"><a style="width:80px;height:80px;border-radius:4px;display:block;background-color:#ece8ef;color:#7e80aa;text-decoration:none;line-height:0;text-align:center;vertical-align:middle;overflow:hidden" target="_blank" href="http://win2k.com/email/redirect/01_fr.html"><img style="max-width:80px;max-height:80px;vertical-align:middle" src="http://win2k.com/email/image/fr/a1.jpg" border="0"/></a></div>
+<div style="display:inline-block;padding-bottom:5px"><a style="width:80px;height:80px;border-radius:4px;display:block;background-color:#ece8ef;color:#7e80aa;text-decoration:none;line-height:0;text-align:center;vertical-align:middle;overflow:hidden" target="_blank" href="http://win2k.com/email/redirect/01_fr.html"><img style="max-width:80px;max-height:80px;vertical-align:middle" src="http://win2k.com/email/image/fr/a2.jpg" border="0"/></a></div>
+<div style="display:inline-block;padding-bottom:5px"><a style="width:80px;height:80px;border-radius:4px;display:block;background-color:#ece8ef;color:#7e80aa;text-decoration:none;line-height:0;text-align:center;vertical-align:middle;overflow:hidden" target="_blank" href="http://win2k.com/email/redirect/01_fr.html"><img style="max-width:80px;max-height:80px;vertical-align:middle" src="http://win2k.com/email/image/fr/a3.jpg" border="0"/></a></div>
+<div style="display:inline-block;padding-bottom:5px"><a style="width:80px;height:80px;border-radius:4px;display:block;background-color:#ece8ef;color:#7e80aa;text-decoration:none;line-height:0;text-align:center;vertical-align:middle;overflow:hidden" target="_blank" href="http://win2k.com/email/redirect/01_fr.html"><img style="max-width:80px;max-height:80px;vertical-align:middle" src="http://win2k.com/email/image/fr/a4.jpg" border="0"/></a></div>
+<div style="display:inline-block;padding-bottom:5px"><a style="width:80px;height:80px;border-radius:4px;display:block;background-color:#ece8ef;color:#7e80aa;text-decoration:none;line-height:0;text-align:center;vertical-align:middle;overflow:hidden" target="_blank" href="http://win2k.com/email/redirect/01_fr.html"><img style="max-width:80px;max-height:80px;vertical-align:middle" src="http://win2k.com/email/image/fr/a5.jpg" border="0"/></a></div>
+<div style="display:inline-block;padding-bottom:5px"><a style="width:80px;height:80px;border-radius:4px;display:block;background-color:#ece8ef;color:#7e80aa;text-decoration:none;line-height:0;text-align:center;vertical-align:middle;overflow:hidden" target="_blank" href="http://win2k.com/email/redirect/01_fr.html"><img style="max-width:80px;max-height:80px;vertical-align:middle" src="http://win2k.com/email/image/fr/a6.jpg" border="0"/></a></div>
+</td>
+<td style="color:#ffffff">.</td>
+</tr>
+</table>
+<div style="padding-top:36px;border-bottom:1px dashed #d9dae6"></div>
+<!-- /CONTENT -->
+<a style="display:block;padding-top:48px;text-decoration:none;text-align:center;line-height:0" target="_blank" href="http://win2k.com/email/redirect/01_fr.html">
+<img src="http://win2k.com/email/image/mail_logo_heart.png" width="60" height="60" border="0" alt="HOOTT" />
+</a>
+<div style="font-size:14px;line-height:20px;color:#333333;padding-top:10px;text-align:center">
+Aie une HOOTT Journée!<br />Equipe HOOTT
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<div style="font-size:1px;border-bottom:1px solid #e1e0e2;padding:15px 0;line-height:0">
+<a style="display:inline-block;padding:0 6px;line-height:0" target="_blank" href="https://www.facebook.com/HOOTTapp"><img src="http://win2k.com/email/image/mail_icon_36_facebook.png" width="36" height="36" border="0" alt="Facebook" /></a>
+<a style="display:inline-block;padding:0 6px;line-height:0" target="_blank" href="https://twitter.com/HOOTTapp"><img src="http://win2k.com/email/image/mail_icon_36_twitter.png" width="36" height="36" border="0" alt="Twitter" /></a>
+<a style="display:inline-block;padding:0 6px;line-height:0" target="_blank" href="https://plus.google.com/108178007653118915452"><img src="http://win2k.com/email/image/mail_icon_36_google_plus.png" width="36" height="36" border="0" alt="Google Plus" /></a>
+<a style="display:inline-block;padding:0 6px;line-height:0" target="_blank" href="https://instagram.com/HOOTT.app/"><img src="http://win2k.com/email/image/mail_icon_36_instagram.png" width="36" height="36" border="0" alt="Instagram" /></a>
+<a style="display:inline-block;padding:0 6px;line-height:0" target="_blank" href="https://www.pinterest.com/HOOTTapp/"><img src="http://win2k.com/email/image/mail_icon_36_pinterest.png" width="36" height="36" border="0" alt="Pinterest" /></a>
+<a style="display:inline-block;padding:0 6px;line-height:0" target="_blank" href="https://www.youtube.com/channel/UCrtJlWDA6V2EhF1MtUv43ag"><img src="http://win2k.com/email/image/mail_icon_36_youtube.png" width="36" height="36" border="0" alt="Youtube" /></a>
+</div>
+<div style="font-size:11px;color:#999999;border-top:1px solid #e5e5e5;padding:15px 20px;line-height:15px">
+Vous avez reçu cet e-mail parce que vous êtes membre de la communauté HOOTT
+<br />
+Si vous ne souhaitez pas recevoir des notifications par courriel, désabonnez-vous <a style="color:#8b74a7" target="_blank" href="http://unsub.win2k.com">ici</a>, s'il vous plaît.
+<br />
+HOOTT LLP, Office 1143 Bedford Street London WC2E 9HA UK
+<br />
+Contactez-nous: <a style="color:#8b74a7" target="_blank" href="mailto:support@hoott.com">support@hoott.com</a>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>

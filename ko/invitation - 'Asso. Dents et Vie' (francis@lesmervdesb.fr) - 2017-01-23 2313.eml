@@ -1,0 +1,118 @@
+Return-Path: <francis@lesmervdesb.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 23 Jan 2017 23:13:33 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 23F1542
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 23 Jan 2017 23:13:33 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 21FEC60129
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 23 Jan 2017 23:13:33 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id zS2nM3CSv9Ag for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 23 Jan 2017 23:13:33 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 06723600F4
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 23 Jan 2017 23:13:33 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id EA88520033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 23 Jan 2017 23:13:32 +0100 (CET)
+Received: from smtp3-g21.free.fr (smtp3-g21.free.fr [212.27.42.3])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id 6489960053A
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 23 Jan 2017 23:13:32 +0100 (CET)
+Received: from AVIEL-2015 (unknown [37.167.94.44])
+	by smtp3-g21.free.fr (Postfix) with ESMTP id 2F4F513F880
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 23 Jan 2017 23:13:32 +0100 (CET)
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal)
+X-Mailer: Microsoft Outlook IMO Build 9.0.2416 (9.0.2910.0)
+MIME-Version: 1.0
+From: "Asso. Dents et Vie" <francis@lesmervdesb.fr>
+Sender: "Asso. Dents et Vie" <francis@lesmervdesb.fr>
+To: resp-m2-miage@univ-rennes1.fr
+Reply-To: "Asso. Dents et Vie" <francis@lesmervdesb.fr>
+Date: 23 Jan 2017 23:13:32 +0100
+Subject: =?iso-8859-1?Q?invitation?=
+Content-Type: multipart/alternative;
+ boundary=--boundary_109924_d94f9e36-0ed1-4c3d-a024-7dd905b87072
+Message-Id: <20170123221332.6489960053A@mxb2-2.relay.renater.fr>
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 212.27.42.3
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelgedrhedtgddtvdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefrigfoggfhshfvrhffufgtkfesrgdtfeervddtudenucfhrhhomhepfdetshhsohdrucffvghnthhsucgvthcugghivgdfuceofhhrrghntghisheslhgvshhmvghrvhguvghssgdrfhhrqeenucffohhmrghinhephihmlhhpgeegrdgtohhmnecukfhppedvuddvrddvjedrgedvrdefpdefjedrudeijedrleegrdeggeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpfedqghdvuddrfhhrvggvrdhfrhdpihhnvghtpedvuddvrddvjedrgedvrdefpdhmrghilhhfrhhomhepfhhrrghntghisheslhgvshhmvghrvhguvghssgdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+----boundary_109924_d94f9e36-0ed1-4c3d-a024-7dd905b87072
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+
+&nbsp;
+Cette invitation &agrave; une conf&eacute;rence GRAND PUBLIC et OUVERTE A TOUS est donn&eacute;e 
+par le Docteur Ted LEVI
+participation enti&egrave;rement gratuite et sans 
+aucun&nbsp;engagement de votre part.&nbsp;
+Pour vous inscrire, CLIQUEZ 
+ICI.
+&nbsp;
+&nbsp;
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+J'esp&egrave;re ne pas vous avoir importun&eacute; avec mon mail. Si vous ne souhaitez 
+plus recevoir de mails de notre part,je vous invite tout simplement &agrave; CLIQUER ICIou 
+alors &agrave; r&eacute;pondre &agrave; ce mail en mettant STOP dans l'objet.
+&nbsp;
+&nbsp;
+
+----boundary_109924_d94f9e36-0ed1-4c3d-a024-7dd905b87072
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <title>invitation</title>
+  </head>
+  <body>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV style="TEXT-ALIGN: center"><STRONG>Cette invitation à une conférence GRAND PUBLIC et OUVERTE A TOUS est donnée 
+par le Docteur Ted LEVI</STRONG></DIV>
+<DIV style="TEXT-ALIGN: center"><STRONG>participation entièrement gratuite et sans 
+aucun&nbsp;engagement de votre part.&nbsp;</STRONG></DIV>
+<DIV style="TEXT-ALIGN: center"><A 
+href="http://t.ymlp44.com/bmyapaejyeyadajmjagabmmejj/click.php"><SPAN 
+class=380480614-17012017><STRONG>Pour vous inscrire, CLIQUEZ 
+ICI</STRONG></SPAN></A><STRONG>.</STRONG></DIV>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV style="TEXT-ALIGN: center"><A 
+href="http://t.ymlp44.com/bmyapaejyeyadajmjagabmmejj/click.php"><IMG 
+class=hasRSZhandlers 
+style="BORDER-TOP: 0px solid; BORDER-RIGHT: 0px solid; BORDER-BOTTOM: 0px solid; BORDER-LEFT: 0px solid; user-select: none" 
+border=0 alt="" src="http://img.ymlp44.com/m75n_invitationmarsgp.jpg" width=867 
+height=657 unselectable="on"></A></DIV>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV style="TEXT-ALIGN: center">
+<DIV>J'espère ne pas vous avoir importuné avec mon mail. Si vous ne souhaitez 
+plus recevoir de mails de notre part,<BR>je vous invite tout simplement à <A 
+href="http://t.ymlp44.com/bmearaejyeealaqshaaae/click.php">CLIQUER ICI</A><BR>ou 
+alors à répondre à ce mail en mettant STOP dans l'objet.</DIV></DIV>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV>
+<DIV style="TEXT-ALIGN: center">&nbsp;</DIV></BODY></HTML>
+
+----boundary_109924_d94f9e36-0ed1-4c3d-a024-7dd905b87072--
+
+

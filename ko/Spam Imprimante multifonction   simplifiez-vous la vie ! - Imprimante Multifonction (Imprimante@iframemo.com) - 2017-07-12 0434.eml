@@ -1,0 +1,387 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@iframemo.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Wed, 12 Jul 2017 09:35:09 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout1.univ-rennes1.fr (mailout1.univ-rennes1.fr [129.20.128.162])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 13EF537C
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 12 Jul 2017 09:35:09 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 0C03260084
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 12 Jul 2017 09:35:09 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout1.univ-rennes1.fr ([129.20.128.162])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id mHmYg5T7WA0b for <resp-m2-miage@univ-rennes1.fr>;
+	Wed, 12 Jul 2017 09:35:08 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E9ECE60080
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 12 Jul 2017 09:35:08 +0200 (CEST)
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id D7E4020033
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 12 Jul 2017 09:35:08 +0200 (CEST)
+Received: from smtp-a17.easyvu.com (smtp-a17.easyvu.com [185.52.34.66])
+	by mxb1-1.relay.renater.fr (asm) with ESMTP id 57515205E1
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 12 Jul 2017 09:36:36 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=iframemo.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp2; bh=Dw+hftzpBTzidyFx/oYMJzSW
+	G6rpxzHq3cS0jwNSy7k=; b=YJClPwZk4wqiTluCveXtIod6M9u/aYPM+rnMkuSs
+	TCyzopwu6qG1H+7Bu4mXyhGofvYU3BmE3j3BxszYaiWOfSXtEnCivr23Pqv8BHAu
+	6hnECFwF1tEbaLx19MhdPPl3YQ3Q8G61dPccAyV0EBHiGoGZRGOkgmVFUMc8K3m8
+	0PE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=iframemo.com; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp2; b=vAJDOoj08cMDcVwCLVOmgbKXUyNe/yW
+	Gv5JKfAIfRAXXGBvDO9cMA2kMIkDEvY5jLWp4BfwLM1s52MrCZ6WaueugvJ0xJue
+	uQRLlLbD3vkzx8wTjHfNznsPM5wsICy5UD2LPbl3rM5ulB8+Kwgq69K3YTNFpYjn
+	qm1JtaH1dQQw=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****Imprimante multifonction : simplifiez-vous la vie !
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Wed, 12 Jul 2017 04:34:51 +0200
+From: Imprimante Multifonction <Imprimante@iframemo.com>
+Reply-to: Imprimante Multifonction <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@iframemo.com>
+X-campaign_id: 13896270922990720644722_2
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==558
+List-Unsubscribe: <http://app.iframemo.com/d/?camp=13896270922990720644722_2&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <26c8fff3412e38071ebab45d4de9c040@iframemo.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_26c8fff3412e38071ebab45d4de9c040"
+X-Original-Source-IP: 185.52.34.66
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelkedrvdelgdduvdegucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepvffufffhrhfjkfggtgesrgdtjhertddtjeenucfhrhhomhepkfhmphhrihhmrghnthgvucfouhhlthhifhhonhgtthhiohhnuceokfhmphhrihhmrghnthgvsehifhhrrghmvghmohdrtghomheqnecuffhomhgrihhnpehifhhrrghmvghmohdrtghomhenucfkphepudekhedrhedvrdefgedrieeinecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqrgdujedrvggrshihvhhurdgtohhmpdhinhgvthepudekhedrhedvrdefgedrieeipdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesihhfrhgrmhgvmhhordgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+
+--Part1_26c8fff3412e38071ebab45d4de9c040
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.iframemo.com/v/?camp=3D13896270922990720644722_2&ms=3DcmVzcC1t=
+Mi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_26c8fff3412e38071ebab45d4de9c040
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Imprimante multifonction : simplifiez-vous la vie !</title>
+</head><body style=3D"padding:0px; text-size-adjust:none; -ms-text-size-a=
+djust:none; margin:0px; -webkit-text-size-adjust:none; -moz-text-size-adj=
+ust:none;" leftmargin=3D"0" topmargin=3D"0" marginheight=3D"0" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.iframemo.com/v/?camp=3D13896270922990720644722_2&ms=
+=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"c=
+olor:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline=
+;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a><=
+/p><br> &nbsp;<base target=3D"_blank"><!--[if gte mso 9]> 		<table id=3D"=
+tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0" cellspac=
+ing=3D"0"><tr><td> 		<![endif]-->  <!--[if gte mso 8]> 		<table id=3D"tab=
+leForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0"><tr><td> 		<![endif]-->  <!--[if gte mso 7]> 		<table id=3D"tableF=
+orOutlook" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0"><tr><td> 		<![endif]-->    <table style=3D"max-width:600px;" cellspac=
+ing=3D"0" cellpadding=3D"0" width=3D"100%" border=3D"0" align=3D"center">=
+   <tbody><tr>    <td width=3D"100%" height=3D"25" align=3D"center"><span=
+ style=3D" font-family:Arial, Helv
+ etica, sans-serif; font-size:11px ; font-weight: normal; color:#666666;"=
+></span><br></td>   </tr>  <tr><td> <!--[if mso]> <table width=3D"600" bo=
+rder=3D"0" cellspacing=3D"0" cellpadding=3D"0">     <tr>       <td>      =
+ <![endif]-->   <table style=3D"max-width:600px;" cellspacing=3D"0" cellp=
+adding=3D"0" width=3D"100%" border=3D"0" align=3D"center">     <tbody><tr=
+>       <td style=3D"font-size:0;" bgcolor=3D"#4a5470" align=3D"center"> =
+      <!--2 colonnes fantomes pour outlook-->       <!--[if mso]> <table =
+width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">     <tr>=
+       <td width=3D"50%" valign=3D"top"> <![endif]--> <!--colonne 1-->   =
+    <div style=3D"display:inline-block; width:100%; max-width:300px; vert=
+ical-align:top;"> <table cellspacing=3D"0" cellpadding=3D"0" width=3D"100=
+%" border=3D"0" bgcolor=3D"#4a5470">     <tbody><tr>     <td height=3D"20=
+"><br></td>     </tr>     <tr>     <td>     <table style=3D"width:100%; m=
+ax-width:300px; border-spacing:0px; border-collapse:collapse" cellspacing=
+=3D"0" cellpadding=3D"0" b
+ order=3D"0">     <tbody><tr>     <td width=3D"20" bgcolor=3D"#4a5470"><b=
+r></td>       <td><a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR0cHM6=
+Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtc=
+DtnPTIzNzYzMjIyJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N1=
+9CRUZSXzAxMTc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V=
+0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJy=
+aWRlPTE=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-decor=
+ation:none;" target=3D"_blank"><span style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:20px; font-weight:normale; color:#ffffff;"><stro=
+ng>Imprimante multifonction</strong> : simplifiez-vous la vie !</span></a=
+></td>     </tr>     </tbody></table>     </td>     </tr>       <tr>     =
+<td height=3D"20"><br></td>     </tr> </tbody></table>       </div> <!--f=
+in colonne 1-->      <!--[if mso]>  </td>       <td width=3D"50%" val
+ ign=3D"top"> <![endif]--> <!--colonne 2-->       <div style=3D"display:i=
+nline-block; width:100%; max-width:300px; vertical-align:top;"> <table ce=
+llspacing=3D"0" cellpadding=3D"0" width=3D"100%" border=3D"0" bgcolor=3D"=
+#4a5470">       <tbody><tr>     <td height=3D"20"><br></td>     </tr>    =
+ <tr>       <td align=3D"center"><a href=3D"http://app.iframemo.com/r/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D13896270922990720644722_2&=
+rc=3DaHR0cHM6Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0y=
+OTM5MDE2JmFtcDtnPTIzNzYzMjIyJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuY=
+mUvTlBfNTc5N19CRUZSXzAxMTc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cm=
+NlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V=
+0bV9ub292ZXJyaWRlPTE=3D" style=3D"font-family:Arial, Helvetica, sans-seri=
+f; text-decoration:none;" target=3D"_blank"><img name=3D"n5795R1116_r2_c1=
+0" src=3D"http://app.iframemo.com/r/?rc=3DaHR0cHM6Ly92aHQudHJhZGVkb3VibGV=
+yLmNvbS9maWxlLzI3ODAzOS9pbWFnZXMvaW1nLzU3OTVSMTExNl9yMl9jMTAuZ2lm" style=3D=
+"max-w
+ idth:237px; display:block;" id=3D"n5795R1116_r2_c10" alt=3D"En savoir pl=
+us" width=3D"100%" border=3D"0"></a></td>     </tr>       <tr>     <td he=
+ight=3D"20"><br></td>     </tr> </tbody></table>       </div> <!--colonne=
+ 2--> <!--[if mso]>       </td>     </tr> </table> <![endif]-->       <!-=
+-fin 2 colonnes fantomes pour outlook-->       </td>     </tr> </tbody></=
+table> <!--[if mso]>       	</td>     </tr> </table> <![endif]--> </td></=
+tr>   <tr>    <td style=3D"font-size:0;" align=3D"center"><a href=3D"http=
+://app.iframemo.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D=
+13896270922990720644722_2&rc=3DaHR0cHM6Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbG=
+ljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNzYzMjIyJmFtcDt1cmw9aHR0cDo=
+vL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzAxMTc/cWNwPU5QXzU3OTdfQkVG=
+Ul8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY=
+2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"font-family:A=
+rial, Helvetica, sans-serif; text-decoration:none;" target=3D"_blank">
+ <img name=3D"n5795R1116_r4_c1" src=3D"http://app.iframemo.com/r/?rc=3DaH=
+R0cHM6Ly92aHQudHJhZGVkb3VibGVyLmNvbS9maWxlLzI3ODAzOS9pbWFnZXMvaW1nLzU3OTV=
+SMTExNl9yNF9jMS5qcGc=3D" style=3D"max-width:600px; display:block;" id=3D"=
+n5795R1116_r4_c1" alt=3D"" width=3D"100%" border=3D"0"></a></td>   </tr> =
+  <tr>   <td height=3D"20" bgcolor=3D"#4a5470"><br></td>   </tr>   <tr> 	=
+   <td bgcolor=3D"#4a5470" align=3D"center"><a href=3D"http://app.iframem=
+o.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D1389627092299=
+0720644722_2&rc=3DaHR0cHM6Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODA=
+zOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNzYzMjIyJmFtcDt1cmw9aHR0cDovL21lc2Rldmlz=
+Z3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzAxMTc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtc=
+Dt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bm=
+V3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"font-family:Arial, Helveti=
+ca, sans-serif; text-decoration:none;" target=3D"_blank"><img name=3D"n57=
+95R1116_r6_c5" src=3D"http://app.iframemo.com/r/?rc=3DaHR0cHM6Ly92aHQudHJ=
+hZGVkb3VibGVyLmN
+ vbS9maWxlLzI3ODAzOS9pbWFnZXMvaW1nLzU3OTVSMTExNl9yNl9jNS5qcGc=3D" style=3D=
+"max-width:282px; display:block;" id=3D"n5795R1116_r6_c5" alt=3D"En savoi=
+r plus" width=3D"100%" border=3D"0"></a></td>   </tr>     <tr>   <td heig=
+ht=3D"20" bgcolor=3D"#4a5470"><br></td>   </tr> <tr><td> <table style=3D"=
+max-width:600px;" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bord=
+er=3D"0">           <tbody><tr>             <td style=3D"padding-right:0;=
+padding-left:0;text-align:center;font-size:0;padding-top:10px;padding-bot=
+tom:10px;" bgcolor=3D"#4a5470"><!--[if (gte mso 9)|(IE)]>                =
+         <table width=3D"100%" style=3D"border-spacing:0;font-family:sans=
+-serif;color:#333333;" border=3D"0"  cellpadding=3D"0" cellspacing=3D"0" =
+>                         <tr>                         <td width=3D"198" =
+valign=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-right:0;pa=
+dding-left:0;" >                         <![endif]--><!--[if (gte mso 9)|=
+(IE)]>                         </td><td width=3D"198" valign=3D"top" styl=
+e=3D"padding-top:0;
+ padding-bottom:0;padding-right:0;padding-left:0;" >                     =
+    <![endif]-->                                              <table styl=
+e=3D"border-spacing:0;font-family:sans-serif;color:#333333;text-align:cen=
+ter;width:100%;max-width:198px;display:inline-block;vertical-align:top;ma=
+rgin-top:0;margin-bottom:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">   <tbody><tr>     <td width=3D"10"><br></td>     <td style=3D"paddin=
+g-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table style=3D=
+"border-spacing:0; font-family:sans-serif; color:#333333; font-size:14px;=
+ text-align:center;" width=3D"178" border=3D"0">       <tbody><tr>       =
+  <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" align=3D"center"><a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1t=
+Mi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR=
+0cHM6Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2=
+JmFtcDtnPTIzNzYzMjIyJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBf
+ NTc5N19CRUZSXzAxMTc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4m=
+YW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub=
+292ZXJyaWRlPTE=3D" style=3D"font-family:Arial, Helvetica, sans-serif; tex=
+t-decoration:none;" target=3D"_blank"><img src=3D"http://app.iframemo.com=
+/r/?rc=3DaHR0cHM6Ly92aHQudHJhZGVkb3VibGVyLmNvbS9maWxlLzI3ODAzOS9pbWFnZXMv=
+aW1nLzU3OTVSMTExNl9yOF9jMy5qcGc=3D" alt=3D"" style=3D"border-width:0;widt=
+h:100%;max-width:66px;height:auto;display:block;" width=3D"66"></a></td> =
+      </tr>       <tr valign=3D"middle">         <td style=3D"padding-bot=
+tom:10px; padding:15px;" width=3D"178" align=3D"center"><a href=3D"http:/=
+/app.iframemo.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D1=
+3896270922990720644722_2&rc=3DaHR0cHM6Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbGl=
+jaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNzYzMjIyJmFtcDt1cmw9aHR0cDov=
+L21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzAxMTc/cWNwPU5QXzU3OTdfQkVGU=
+l8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2=
+FtcG
+ FpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D"font-family:Arial=
+, Helvetica, sans-serif; text-decoration:none;" target=3D"_blank"><span s=
+tyle=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; font-we=
+ight:normale; color:#ffffff;">Nouvelles machines plus performantes, plus =
+&eacute;conomiques.</span></a></td>       </tr>     </tbody></table></td>=
+     <td width=3D"10"><br></td>   </tr> </tbody></table>                 =
+                                                                         =
+                             <!--[if (gte mso 9)|(IE)]>                  =
+       </td><td width=3D"198" valign=3D"top" style=3D"padding-top:0;paddi=
+ng-bottom:0;padding-right:0;padding-left:0;" >                         <!=
+[endif]-->                              <table style=3D"border-spacing:0;=
+font-family:sans-serif;color:#333333;text-align:center;width:100%;max-wid=
+th:198px;display:inline-block;vertical-align:top;margin-top:0;margin-bott=
+om:0;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">        =20
+         <tbody><tr>                   <td width=3D"10"><br></td>        =
+           <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;pa=
+dding-left:0;"><table style=3D"border-spacing:0;font-family:sans-serif;co=
+lor:#333333;font-size:14px;text-align:center;" width=3D"178" border=3D"0"=
+>                       <tbody><tr>                         <td style=3D"=
+padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" align=3D"=
+center"><a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml=
+2LXJlbm5lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR0cHM6Ly9jbGsudH=
+JhZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNzY=
+zMjIyJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzAx=
+MTc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpd=
+W09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D=
+" style=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none=
+;" target=3D"_blank"><img src=3D"http://app.iframemo.com/r/?rc=3DaHR0cHM6=
+Ly
+ 92aHQudHJhZGVkb3VibGVyLmNvbS9maWxlLzI3ODAzOS9pbWFnZXMvaW1nLzU3OTVSMTExNl=
+9yOF9jMTMuanBn" alt=3D"" style=3D"border-width:0;width:100%;max-width:66p=
+x;height:auto;display:block;" width=3D"66"></a></td>                     =
+  </tr>                       <tr>                         <td style=3D"p=
+adding-bottom:10px; padding:15px;" valign=3D"middle" width=3D"178" align=3D=
+"center"><a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bm=
+l2LXJlbm5lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR0cHM6Ly9jbGsud=
+HJhZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNz=
+YzMjIyJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzA=
+xMTc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRp=
+dW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D=
+" style=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none=
+;" target=3D"_blank"><span style=3D"font-family:Arial, Helvetica, sans-se=
+rif; font-size:14px; font-weight:normale; color:#ffffff;">Sachez toujo
+ urs qui imprime, et combien.</span></a></td>                       </tr>=
+                     </tbody></table></td>                   <td width=3D=
+"10">                   <br></td>                 </tr>               </t=
+body></table>                                                     <!--[if=
+ (gte mso 9)|(IE)]>                         </td><td width=3D"198" valign=
+=3D"top" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-=
+left:0;" >                         <![endif]-->                          =
+                                  <table style=3D"border-spacing:0;font-f=
+amily:sans-serif;color:#333333;text-align:center;width:100%;max-width:198=
+px;display:inline-block;vertical-align:top;margin-top:0;margin-bottom:0;"=
+ cellspacing=3D"0" cellpadding=3D"0" border=3D"0">                 <tbody=
+><tr>                   <td width=3D"10"><br></td>                   <td =
+style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">=
+<table style=3D"border-spacing:0;font-family:sans-serif;color:#
+ 333333;font-size:14px;text-align:center;" width=3D"178" border=3D"0">   =
+                    <tbody><tr>                         <td style=3D"padd=
+ing-top:0;padding-bottom:0;padding-right:0;padding-left:0;" align=3D"cent=
+er"><a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJ=
+lbm5lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR0cHM6Ly9jbGsudHJhZG=
+Vkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNzYzMjI=
+yJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzAxMTc/=
+cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09Z=
+S1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" st=
+yle=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none;" t=
+arget=3D"_blank"><img src=3D"http://app.iframemo.com/r/?rc=3DaHR0cHM6Ly92=
+aHQudHJhZGVkb3VibGVyLmNvbS9maWxlLzI3ODAzOS9pbWFnZXMvaW1nLzU3OTVSMTExNl9yO=
+F9jOC5qcGc=3D" alt=3D"" style=3D"border-width:0;width:100%;max-width:66px=
+;height:auto;display:block;" width=3D"66"></a></td>                      =
+ </t
+ r>                       <tr>                         <td style=3D"paddi=
+ng-bottom:10px; padding:15px;" valign=3D"middle" width=3D"178" align=3D"c=
+enter"><a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2=
+LXJlbm5lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR0cHM6Ly9jbGsudHJ=
+hZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNzYz=
+MjIyJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzAxM=
+Tc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW=
+09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D"=
+ style=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none;=
+" target=3D"_blank"><span style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:14px; font-weight:normale; color:#ffffff;">Imprimez, faxez,=
+ scannez et envoyez directement vos documents par mail !</span></a></td> =
+                      </tr>                     </tbody></table></td>    =
+               <td width=3D"10"><br></td>                 </tr>     =20
+          </tbody></table>               <!--[if (gte mso 9)|(IE)]>      =
+                   </td>                         </tr>                   =
+      </table>                         <![endif]-->                      =
+    </td>                         </tr>                         </tbody><=
+/table>  </td> </tr>    <tr> 	   <td style=3D"padding:10px 20px 10px 20px=
+;" bgcolor=3D"#f89827" align=3D"center"><span style=3D"font-family:Arial,=
+ Helvetica, sans-serif; font-size:23px; font-weight:normale; color:#fffff=
+f;">Commencez votre demande de devis ici </span></td>   </tr>     <tr>   =
+<td height=3D"20" bgcolor=3D"#ffffff"><br></td>   </tr>   <tr>   <td>   <=
+table style=3D"width:100%; max-width:600px; border-spacing:0px; border-co=
+llapse:collapse" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">   <tbo=
+dy><tr><td width=3D"20" bgcolor=3D"#ffffff"><br></td>    <td bgcolor=3D"#=
+ffffff" align=3D"left"><span style=3D"font-family:Arial, Helvetica, sans-=
+serif; font-size:13px; font-weight:normale; color:#3e3d3d;"><strong>De=20
+ combien d'imprimantes dispose aujourd'hui votre entreprise?</strong></sp=
+an></td>   </tr>   </tbody></table>   </td>   </tr>   <tr>   <td height=3D=
+"20" bgcolor=3D"#ffffff"><br></td>   </tr>   <tr> 	   <td bgcolor=3D"#fff=
+fff" align=3D"center"><a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1tM=
+i1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR0=
+cHM6Ly9jbGsudHJhZGVkb3VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2J=
+mFtcDtnPTIzNzYzMjIyJmFtcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNT=
+c5N19CRUZSXzAxMTc/cWNwPU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1=
+wO3V0bV9tZWRpdW09ZS1tYWlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292=
+ZXJyaWRlPTE=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-d=
+ecoration:none;" target=3D"_blank"><img name=3D"n5795R1116_r14_c7" src=3D=
+"http://app.iframemo.com/r/?rc=3DaHR0cHM6Ly92aHQudHJhZGVkb3VibGVyLmNvbS9m=
+aWxlLzI3ODAzOS9pbWFnZXMvaW1nLzU3OTVSMTExNl9yMTRfYzcuanBn" id=3D"n5795R111=
+6_r14_c7" alt=3D"" width=3D"87" height=3D"76" border=3D"0"></a></td>   </=
+tr>   <
+ tr>    <td style=3D"line-height:22px;" height=3D"22" bgcolor=3D"#ffffff"=
+>&nbsp;</td>   </tr>   <tr> 	   <td bgcolor=3D"#ffffff" align=3D"center">=
+<a href=3D"http://app.iframemo.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5=
+lczEuZnI=3D&c=3D13896270922990720644722_2&rc=3DaHR0cHM6Ly9jbGsudHJhZGVkb3=
+VibGVyLmNvbS9jbGljaz9wPTI3ODAzOSZhbXA7YT0yOTM5MDE2JmFtcDtnPTIzNzYzMjIyJmF=
+tcDt1cmw9aHR0cDovL21lc2RldmlzZ3JhdHVpdHMuYmUvTlBfNTc5N19CRUZSXzAxMTc/cWNw=
+PU5QXzU3OTdfQkVGUl8wMTE3JmFtcDt1dG1fc291cmNlPW4mYW1wO3V0bV9tZWRpdW09ZS1tY=
+WlsJmFtcDt1dG1fY2FtcGFpZ249bmV3c2MmYW1wO3V0bV9ub292ZXJyaWRlPTE=3D" style=3D=
+"font-family:Arial, Helvetica, sans-serif; text-decoration:none;" target=3D=
+"_blank"><img name=3D"n5795R1116_r16_c6" src=3D"http://app.iframemo.com/r=
+/?rc=3DaHR0cHM6Ly92aHQudHJhZGVkb3VibGVyLmNvbS9maWxlLzI3ODAzOS9pbWFnZXMvaW=
+1nLzU3OTVSMTExNl9yMTZfYzYuanBn" id=3D"n5795R1116_r16_c6" alt=3D"Suivant" =
+width=3D"147" height=3D"41" border=3D"0"></a></td>   </tr>   <tr> 	   <td=
+ bgcolor=3D"#ffffff" align=3D"center"><img name=3D"n5795R1116_r17_c2" src=
+=3D"http://app
+ .iframemo.com/r/?rc=3DaHR0cHM6Ly92aHQudHJhZGVkb3VibGVyLmNvbS9maWxlLzI3OD=
+AzOS9pbWFnZXMvaW1nLzU3OTVSMTExNl9yMTdfYzIuanBn" style=3D"max-width:560px;=
+ display:block;" id=3D"n5795R1116_r17_c2" alt=3D"" width=3D"100%" border=3D=
+"0"></td>   </tr>  </tbody></table>  <!--[if gte mso 7]>   </td></tr></ta=
+ble> <![endif]-->  <!--[if gte mso 8]>   </td></tr></table> <![endif]--> =
+ <!--[if gte mso 9]>   </td></tr></table> <![endif]-->  <img src=3D"http:=
+//app.iframemo.com/t/?i=3D13896270922990720644722_2&m=3DcmVzcC1tMi1taWFnZ=
+UB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.iframemo.com/images/blank.jpg"=
+ alt=3D"_pspacer6"  /><p>
+<a href=3D"http://app.iframemo.com/d/?camp=3D13896270922990720644722_2&ms=
+=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Ne plus recevoir d'informations de notre part" style=3D"color:#00F; font=
+-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&ea=
+cute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute=
+; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_26c8fff3412e38071ebab45d4de9c040--
+

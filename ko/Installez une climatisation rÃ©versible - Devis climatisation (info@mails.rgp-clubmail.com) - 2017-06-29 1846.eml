@@ -1,0 +1,355 @@
+Return-Path: <info@mails.rgp-clubmail.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 29 Jun 2017 18:46:21 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout1.univ-rennes1.fr (mailout1.univ-rennes1.fr [129.20.128.162])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 596F8278
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 29 Jun 2017 18:46:21 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 556E860546
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 29 Jun 2017 18:46:21 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout1.univ-rennes1.fr ([129.20.128.162])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 6gy2MDNZ0k7z for <resp-m2-miage@univ-rennes1.fr>;
+	Thu, 29 Jun 2017 18:46:21 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 4074560512
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 29 Jun 2017 18:46:21 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 39EF020033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 29 Jun 2017 18:46:21 +0200 (CEST)
+Received: from im43.mxea43.com (im43.mxea43.com [62.210.86.80])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id CB65D6058B
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 29 Jun 2017 18:46:51 +0200 (CEST)
+X-QHPSI: clean
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mails.rgp-clubmail.com; s=default; h=Date:To:From:Subject:
+	Message-ID:X-Mailer:Precedence:List-Unsubscribe:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=iJG7Zaeiz+5MISh0Mdhyd
+	sD1y3U=; b=l3azf/CMCv3qNc84QhWZ4JwwpF+ljicSPIeiCR5+hI7Qxn2dqFzIL
+	AikEF2YGNKC+ibJjL1l1cNMrqUedrRQmvz8xeiconUYz8sBfMu+l2Rkxj7qjrfyq
+	oF7SazBD5F1YSjESOfH6VsXi1OB622RF3FS6q0J3b7qPldH811+SNA=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=simple;
+  s=default; d=mails.rgp-clubmail.com;
+  b=vXdH8UTjJd/Z6xD40ksw2VFMglQXmVQYbUuwlAx9dz45qDJHUKgx+rtcXPVJ5ItEEmM7OHHMjiSREddm3igAVD4qDcEsn+3k5LS53wEPtyuA8o760fcXL8Bj4AmD9w3Mu69yVOYsPAYO3pZmtNBNhESS7ucQ9zO8sPFLIlYspas=;
+Received: (indimail 51754 invoked from 62.210.149.114 by host im43 by uid 555); Thu, 29 Jun 2017 18:46:20 +0200
+Date: Thu, 29 Jun 2017 18:46:19 +0200
+To: resp-m2-miage@univ-rennes1.fr
+From: Devis climatisation <info@mails.rgp-clubmail.com>
+Subject: =?utf-8?Q?Installez_une_climatisation_r=C3=A9versible?=
+Message-ID: <0c60ee3e236c0299432c27fd756527e8@localhost.localdomain>
+X-Mailer: Mailxpertise
+X-List: 5
+X-Account: 1194
+X-Campaign: 1553
+X-Mode: 1
+X-Unique: 273910
+X-Abuse: abuse@mxea39.com
+Precedence: bulk
+List-Unsubscribe: <http://mails.rgp-clubmail.com/JTI2YSUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZlbSUzRHJlc3AtbTItbWlhZ2UlNDB1bml2LXJlbm5lczEuZnIlMjZ0JTNEYyUyNmwlM0QyOTk1OCUyNmYlM0Qy>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_0c60ee3e236c0299432c27fd756527e8"
+Content-Transfer-Encoding: quoted-printable
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 62.210.86.80
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelkedrtdeggddutddvucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepfffvhffukffophfjgggtgfesrghqjhhpredtjeenucfhrhhomhepffgvvhhishcutghlihhmrghtihhsrghtihhonhcuoehinhhfohesmhgrihhlshdrrhhgphdqtghluhgsmhgrihhlrdgtohhmqeenucffohhmrghinheprhhgphdqtghluhgsmhgrihhlrdgtohhmnecukfhppeeivddrvddutddrkeeirdektdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepihhmgeefrdhmgigvrgegfedrtghomhdpihhnvghtpeeivddrvddutddrkeeirdektddpmhgrihhlfhhrohhmpehinhhfohesmhgrihhlshdrrhhgphdqtghluhgsmhgrihhlrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--b1_0c60ee3e236c0299432c27fd756527e8
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+http://mails.rgp-clubmail.com/YSUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlM=
+jZsJTNEMjk5NTUlMjZzJTNENzc3MjU0NiUyNnQlM0RjJTI2bHMlM0Q1=0A
+
+ =09=09En =C3=A9t=C3=A9 comme en hiver faites le bon choix [1]
+
+ =09=09Installez une climatisation reversible [1]
+
+ =09=09 [1]
+
+ comparez et trouvez
+ un artisan qualifi=C3=A9
+ proche des vous.=20
+
+ =09=09 [1]
+
+ =09=09 [1]
+
+ =09=09=C3=A7a m'int=C3=A9resse [1]
+
+ Devis gratuit et
+ sans engagement en 3 clics=20
+
+http://mails.rgp-clubmail.com/YSUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlM=
+jZsJTNEMjk5NTclMjZzJTNENzc3MjU0NiUyNnQlM0RjJTI2bHMlM0Q1=0A
+
+Links:
+------
+[1]=0Ahttp://clicks.trckgtyh.com/click_c(675)-s(1740)-m(15957)-e(46939)?u=
+=3Dhttp%3A%2F%2Fwww.a-z-climatisation.com%2Fcli%2Flan%2F02%2F%3Futm_source%=
+3Dag2%26civ%3D%26ville%3D%26nom%3D%26prenom%3D%26tel%3D%26cp%3D%26email%3D%=
+26utm_medium%3Demail%26utm_campaign%3D1740%26utm_term%3D%26utm_content%3DCL=
+I22
+
+
+--b1_0c60ee3e236c0299432c27fd756527e8
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A=09<meta content=3D"text/html; charset=3Dutf=
+-8" http-equiv=3D"Content-Type">=0A=09<link href=3D"https://fonts.googleapi=
+s.com/css?family=3DRoboto:400,500,700" rel=3D"stylesheet">=0A=09<title>Devi=
+s Climatisation</title>=0A=09<style type=3D"text/css">* {=09margin-top: 0px=
+;=09margin-bottom: 0px;=09padding: 0px;=09border: none;=09line-height: norm=
+al;=09outline: none;=09list-style: none;=09font-family: Arial, Helvetica, s=
+ans-serif;=0A=09-webkit-text-size-adjust: none;}=0Abody {=09margin-top: 0 !=
+important;=09margin-bottom: 0 !important;=09padding-top: 0 !important;=09pa=
+dding-bottom: 0 !important;=09width: 100% !important;=09-webkit-text-size-a=
+djust: 100% !important;=09-ms-text-size-adjust: 100% !important;=09-webkit-=
+font-smoothing: antialiased !important;}=0Aimg {=09border: 0 !important;=09=
+outline: none !important;}=0Atable {=09border-collapse: collapse;=09mso-tab=
+le-lspace: 0px;=09mso-table-rspace: 0px;}=0Atd {=09border-collapse: collaps=
+e;=09mso-line-height-rule: exactly;}=0A.ExternalClass * {=09line-height: 10=
+0%}=0Aspan {=09border-collapse: collapse;=09mso-line-height-rule: exactly;}=
+=0A.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fo=
+nt, .ExternalClass td, .ExternalClass div {=0A=09line-height: 100%;=0A}=0A=
+=0A @media only screen and (max-width: 480px) {=0Atable[class=3Dfull] {=09w=
+idth: 100% !important;}=0Atd[class=3Dhide] {=09display: none !important;}=
+=0Atd[class=3Dsides] {=09width: 15px !important;}=0Atd[class=3Dheights] {=
+=09height: 15px !important;}=0Atd[class=3Dpadding_top] {=09padding-top: 15p=
+x !important;}=0Atable[class=3Dbutton_x]{ width:280px !important;}=0A.sides=
+_x { display:none !important;}=0A.font_x { font-size:19px !important; line-=
+height:21px !important;}=0A.font_y { font-size:19px !important; line-height=
+:21px !important; padding-top:5px !important;}=0A.img_size { width:55px !im=
+portant; height:auto !important;}=0A.button_text { font-size:20px !importan=
+t; line-height:22px !important;}=0A.width_ad { width:65px !important;}=0A.b=
+utton_x1 { font-size:14px !important; line-height:16px !important;}=0A.br {=
+ display:none !important;}=0A.part_x1 { font-size:20px !important; line-hei=
+ght:26px !important;}=0A.part_x2 { font-size:34px !important; line-height:3=
+8px !important;}=0A}=0A=0A @media only screen and (min-width: 480px) and (m=
+ax-width: 599px) {=0Atable[class=3Dfull] {=09width: 100% !important;}=0Atd[=
+class=3Dhide] {=09display: none !important;}=0Atd[class=3Dsides] {=09width:=
+ 15px !important;}=0Atd[class=3Dheights] {=09height: 15px !important;}=0Atd=
+[class=3Dpadding_top] {=09padding-top: 15px !important;}=0Atable[class=3Dbu=
+tton_x]{ width:370px !important;}=0A.sides_x { width:30px !important; displ=
+ay:block !important;}=0A.font_x { font-size:20px !important; line-height:22=
+px !important;}=0A.font_y { font-size:19px !important; line-height:21px !im=
+portant; padding-top:5px !important;}=0A.img_size { width:68px !important; =
+height:auto !important;}=0A.button_text { font-size:30px !important; line-h=
+eight:32px !important;}=0A.width_ad { width:85px !important;}=0A.button_x1 =
+{ font-size:17px !important; line-height:19px !important;}=0A.br { display:=
+block !important;}=0A.part_x1 { font-size:24px !important; line-height:30px=
+ !important;}=0A.part_x2 { font-size:39px !important; line-height:42px !imp=
+ortant;}=0A}=0A=09</style>=0A</head>=0A<body bgcolor=3D"#ebeaf0" leftmargin=
+=3D"0" marginheight=3D"0" marginwidth=3D"0" offset=3D"0" style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; color:#000000; margin-top: 0; margin-botto=
+m: 0; padding-top: 0; padding-bottom: 0; width: 100% !important; -webkit-te=
+xt-size-adjust: 100%; -ms-text-size-adjust: 100%; -webkit-font-smoothing: a=
+ntialiased;" topmargin=3D"0">=0A<div style=3D"text-align:center;"><div alig=
+n=3D"center"><font color=3D"#000000" style=3D"font-size:11px;font-family:Ve=
+rdana,Arial,Helvetica,sans-serif;"><br>Vous recevez cet email car vous =C3=
+=AAtre inscrits au programme la canop=C3=A9e.<br>Pour visualiser correcteme=
+nt ce message, acc=C3=A9dez =C3=A0 la <a href=3D"http://mails.rgp-clubmail.=
+com/YSUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NTYlMjZzJTNENzc=
+3MjU0NiUyNnQlM0RjJTI2bHMlM0Q1JTI2dW5zdWJzY3JpYmUlM0QlMjZtaXJyb3IlM0QlMjZlbW=
+FpbCUzRGNtVnpjQzF0TWkxdGFXRm5aVUIxYm1sMkxYSmxibTVsY3pFdVpuSSUzRA=3D=3D">ver=
+sion en ligne</a><br><br></font></div></div>=0A=0A<table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09<tbody>=0A=09=09<tr>=0A=
+=09=09=09<td bgcolor=3D"#ebeaf0">=0A=09=09=09<table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full" width=3D"583">=0A=
+=09=09=09=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td bgcolor=
+=3D"#ffffff">=0A=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cel=
+lspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#ebeaf0" cl=
+ass=3D"hide" height=3D"27"></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td height=3D"16" style=
+=3D"font-size:0px; line-height:0px;"></td>=0A=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td>=0A=09=09=
+=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"s=
+ides" width=3D"20"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbo=
+dy>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td class=3D"font_x" style=3D"font-family:Arial,=
+ Helvetica, sans-serif; font-size:22px; line-height:24px; color:#013946; te=
+xt-align:center; text-transform:uppercase;"><a class=3D"font_x" href=3D"htt=
+p://mails.rgp-clubmail.com/YSUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZs=
+JTNEMjk5NTklMjZzJTNENzc3MjU0NiUyNnQlM0RjJTI2bHMlM0Q1" style=3D"font-family:=
+Arial, Helvetica, sans-serif; font-size:22px; line-height:24px; color:#0139=
+46; text-align:center; text-transform:uppercase; text-decoration:none;" tar=
+get=3D"_blank">En =C3=A9t=C3=A9 comme en hiver faites le bon choix</a></td>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d class=3D"font_y" style=3D"font-family:'Arial Black', Arial, Helvetica, sa=
+ns-serif; font-size:20px; line-height:22px; color:#013946; text-align:cente=
+r; text-transform:uppercase; font-weight:bold;"><a class=3D"font_y" href=3D=
+"http://mails.rgp-clubmail.com/YSUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAl=
+MjZsJTNEMjk5NjAlMjZzJTNENzc3MjU0NiUyNnQlM0RjJTI2bHMlM0Q1" style=3D"font-fam=
+ily:'Arial Black', Arial, Helvetica, sans-serif; font-size:20px; line-heigh=
+t:22px; color:#013946; text-align:center; text-transform:uppercase; font-we=
+ight:bold; text-decoration:none;" target=3D"_blank">Installez une <span cla=
+ss=3D"font_y" style=3D"font-family:'Arial Black', Arial, Helvetica, sans-se=
+rif; font-size:20px; line-height:22px; color:#e5024d; text-align:center; te=
+xt-transform:uppercase; font-weight:bold;">climatisation reversible</span><=
+/a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09<=
+/table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"sides" width=3D"20"></td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=
+=09=09<td height=3D"17" style=3D"font-size:0px; line-height:0px;"></td>=0A=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09<td><a href=3D"http://mails.rgp-clubmail.com/YSUzRDExOTQlMjZ=
+jJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NjElMjZzJTNENzc3MjU0NiUyNnQlM0RjJT=
+I2bHMlM0Q1" target=3D"_blank"><img alt=3D"" border=3D"0" src=3D"http://mail=
+s.rgp-clubmail.com/img/1553/images/1431912001595.jpg" style=3D"display:bloc=
+k;" width=3D"100%"></a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#3c5072">=0A=
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td heig=
+ht=3D"23"></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td class=3D"sides" width=3D"20"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"part_x1" style=3D"font-fam=
+ily:roboto, Arial, Helvetica, sans-serif; font-size:24px; line-height:30px;=
+ color:#ffffff; text-align:center; text-transform:uppercase; font-weight:bo=
+ld;"><a class=3D"part_x1" href=3D"http://mails.rgp-clubmail.com/YSUzRDExOTQ=
+lMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NjIlMjZzJTNENzc3MjU0NiUyNnQlM0=
+RjJTI2bHMlM0Q1" style=3D"font-family:roboto, Arial, Helvetica, sans-serif; =
+font-size:24px; line-height:30px; color:#ffffff; text-align:center; text-tr=
+ansform:uppercase; font-weight:bold; text-decoration:none;" target=3D"_blan=
+k">comparez et trouvez<br>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09un artisan qualifi=C3=A9<br>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09proche des vous.</a></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td class=3D"sides" width=3D"20"></td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr=
+>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09<td height=3D"5" style=3D"font-size:0px; line-height:0px;"></td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tb=
+ody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09<td><a href=3D"http://mails.rgp-clubmail.com/YSUzRDExO=
+TQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NjMlMjZzJTNENzc3MjU0NiUyNnQl=
+M0RjJTI2bHMlM0Q1" target=3D"_blank"><img alt=3D"" border=3D"0" src=3D"http:=
+//mails.rgp-clubmail.com/img/1553/images/1097133925595.jpg" style=3D"displa=
+y:block;" width=3D"100%"></a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"sides_x=
+" width=3D"50"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td align=3D"center" bgcolor=3D"#e5024d" height=3D"118=
+" style=3D"border-radius:22px;" valign=3D"middle">=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" class=3D"button_x" width=3D"386">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td align=3D"left" class=3D"width_ad" style=3D"padding-top:2px;" v=
+align=3D"middle" width=3D"85"><a href=3D"http://mails.rgp-clubmail.com/YSUz=
+RDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NjQlMjZzJTNENzc3MjU0NiU=
+yNnQlM0RjJTI2bHMlM0Q1" target=3D"_blank"><img alt=3D"" border=3D"0" class=
+=3D"img_size" height=3D"68" src=3D"http://mails.rgp-clubmail.com/img/1553/i=
+mages/2448133995953.jpg" style=3D"display:block;" width=3D"68"></a></td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td valign=3D"top">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0=
+" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td class=3D"button_text" style=3D"font-fa=
+mily:'Arial Black', Arial, Helvetica, sans-serif; font-size:30px; line-heig=
+ht:32px; color:#ffffff; text-transform:uppercase; font-weight:bold;"><a cla=
+ss=3D"button_text" href=3D"http://mails.rgp-clubmail.com/YSUzRDExOTQlMjZjJT=
+NEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NjUlMjZzJTNENzc3MjU0NiUyNnQlM0RjJTI2b=
+HMlM0Q1" style=3D"font-family:'Arial Black', Arial, Helvetica, sans-serif; =
+font-size:30px; line-height:32px; color:#ffffff; text-transform:uppercase; =
+font-weight:bold; text-decoration:none;" target=3D"_blank">=C3=A7a m'int=C3=
+=A9resse</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td he=
+ight=3D"6" style=3D"font-size:0px; line-height:0px;"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td width=3D"3"></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"bu=
+tton_x1" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:17px;=
+ line-height:19px; color:#ffffff; font-weight:bold; text-transform:uppercas=
+e;"><a class=3D"button_x1" href=3D"http://mails.rgp-clubmail.com/YSUzRDExOT=
+QlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NjYlMjZzJTNENzc3MjU0NiUyNnQlM=
+0RjJTI2bHMlM0Q1" style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:17px; line-height:19px; color:#ffffff; font-weight:bold; text-transform:=
+uppercase; text-decoration:none;" target=3D"_blank">Devis gratuit et<br cla=
+ss=3D"br">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09sans engagement en 3 clics</a></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"sides_x" width=3D"50"></td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tb=
+ody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09</t=
+d>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09=09=09=09<td height=3D"50"></td>=0A=09=09=09=09=09=09=09=09</tr=
+>=0A=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tbody>=0A=09=09=09</t=
+able>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tbody>=0A</table>=0A<img alt=3D=
+"" src=3D"http://clicks.trckgtyh.com/display_c(675)-s(1695)-m(15957)-e(4694=
+8)"><span style=3D"text-align:center;"><div align=3D"center"><font color=3D=
+"#000000" style=3D"font-size:11px;font-family:Verdana,Arial,Helvetica,sans-=
+serif;"><br>Conform=C3=A9ment =C3=A0 la loi Informatique et Libert=C3=A9s v=
+ous disposez d'un droit d'acc=C3=A8s, de modification et de suppression de =
+vos donn=C3=A9es. <br>Pour cesser de recevoir nos informations sur l'adress=
+e resp-m2-miage@univ-rennes1.fr, <a href=3D"http://mails.rgp-clubmail.com/Y=
+SUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyNzM5MTAlMjZsJTNEMjk5NTglMjZzJTNENzc3MjU0=
+NiUyNnQlM0RjJTI2bHMlM0Q1">d=C3=A9sabonnez-vous</a>.</font></div></span><img=
+ src=3D"http://mails.rgp-clubmail.com/YSUzRDExOTQlMjZjJTNEMTU1MyUyNmUlM0QyN=
+zM5MTAlMjZzJTNENzc3MjU0NiUyNmxzJTNENSUyNnQlM0Rv" alt=3D"Afficher les images=
+" width=3D"1" height=3D"1" /></body>=0A</html>
+
+
+--b1_0c60ee3e236c0299432c27fd756527e8--
+

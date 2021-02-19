@@ -1,0 +1,471 @@
+Return-Path: <info@clubnews-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 01 May 2017 03:56:20 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 91CF42E9
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  1 May 2017 03:56:20 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 8EAC960088
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  1 May 2017 03:56:20 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 0ko3qp6JIZyP for <resp-m2-miage@univ-rennes1.fr>;
+	Mon,  1 May 2017 03:56:20 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 78E6360024
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  1 May 2017 03:56:20 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 74B5620033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  1 May 2017 03:56:20 +0200 (CEST)
+Received: from mta1.clubnews-rgp.com (mta1.clubnews-rgp.com [163.172.243.194])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 38DDD605A3
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  1 May 2017 03:56:20 +0200 (CEST)
+X-QHPSI: clean
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=clubnews-rgp.com; s=default; h=Date:To:From:Subject:Message-ID:
+	X-Mailer:Precedence:List-Unsubscribe:MIME-Version:Content-Type:
+	Content-Transfer-Encoding; bh=S0t/D+zdtOclv+u6fCCWWwJrR4w=; b=mi
+	LPC1iU6kFt7OKfFA1TIBeBe3dN2vr205lwVUJIwTQLGTsyfZIomHK1u1Y7yXv1tX
+	SMwvqAxDBcnkITRaw+MIvcgn3VwImcBXffLoRcDG8gXUN1NBISh7PBEg0d3wTLFq
+	+tpbhq+mIPyfTvX4VYT0Waxz81pLhW4Thqyq7lWdA=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=simple;
+  s=default; d=clubnews-rgp.com;
+  b=mwn9sQvaSVrX5qg6Gt4zKsCVCDoQrsFOK9AUe/ANFajGDPWOskAqXrAuTa2Q2f5aKh4ZkN2mMefUa5rF6fS3jbk5eG/QlsSRi1d3z/czC+ykXT+mcgynTkBn7521vohaeZA7yqgUQPSZznK8+x2KRBIwOIlstbi6FOVoShioGHg=;
+Received: (indimail 12928 invoked from 62.210.149.114 by host im39 by uid 555); Mon, 1 May 2017 03:56:19 +0200
+Date: Mon, 1 May 2017 03:56:19 +0200
+To: resp-m2-miage@univ-rennes1.fr
+From: =?utf-8?Q?Fen=C3=AAtres_PVC=2C_alu?= <info@clubnews-rgp.com>
+Subject: =?utf-8?Q?Comparez_les_prix_pour_changer_vos_fen=C3=AAtres?=
+Message-ID: <841432c63b51dff8931f94c436edbaca@localhost.localdomain>
+X-Mailer: Mailxpertise
+X-List: 5
+X-Account: 1194
+X-Campaign: 590
+X-Mode: 1
+X-Unique: 273910
+X-Abuse: abuse@mxea39.com
+Precedence: bulk
+List-Unsubscribe: <http://clubnews-rgp.com/JTI2YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmVtJTNEcmVzcC1tMi1taWFnZSU0MHVuaXYtcmVubmVzMS5mciUyNnQlM0RjJTI2bCUzRDEzODk0JTI2ZiUzRDI=>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_841432c63b51dff8931f94c436edbaca"
+Content-Transfer-Encoding: quoted-printable
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 163.172.243.194
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeliedrheefgdeitdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpeffvffhuffkofhpjfggtgfgsegrqhhjphertdejnecuhfhrohhmpefhvghnsohtrhgvshgprfggvedppggrlhhuuceoihhnfhhosegtlhhusghnvgifshdqrhhgphdrtghomheqnecuffhomhgrihhnpehmihgvuhigqdguvghpvghnshgvrhdrfhhrpdgtlhhusghnvgifshdqrhhgphdrtghomhdpthhrtghkghhthihhrdgtohhmnecukfhppeduieefrddujedvrddvgeefrdduleegnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehmthgruddrtghluhgsnhgvfihsqdhrghhprdgtohhmpdhinhgvthepudeifedrudejvddrvdegfedrudelgedpmhgrihhlfhhrohhmpehinhhfohestghluhgsnhgvfihsqdhrghhprdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--b1_841432c63b51dff8931f94c436edbaca
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmwlM0Q=
+xMzg5MSUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+ VOS FENETRES PVC/ ALU/ BOIS
+ MOINS CHERES ? =09=09
+
+ =09=09DECOUVREZ LES PRIX IMBATTABLES !
+
+ Comparez les prix
+ de votre region=20
+
+ =09=09Comparer [1]
+ =09=09 [1]
+
+ =09=09 [1]
+
+ =09=09 [1]
+
+ =09=09plus de 2000 installateurs sur toute la France [1]
+
+http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmwlM0Q=
+xMzg5MyUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+Links:
+------
+[1]=0Ahttp://clicks.trckgtyh.com/click_c(632)-s(1468)-m(2377)-e(43071)?u=3D=
+http%3A%2F%2Fwww.mieux-depenser.fr%2Flanding%2Ffen%2F03%2F%3Femail%3D%26civ=
+%3D%26ville%3D%26nom%3D%26prenom%3D%26tel%3D%26cp%3D%26utm_medium%3Demail%2=
+6utm_campaign%3D1468%26utm_source%3Dag2%26utm_term%3D%26utm_content%3Dmdf3
+
+
+--b1_841432c63b51dff8931f94c436edbaca
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A=09<meta content=3D"text/html; charset=3Dutf=
+-8" http-equiv=3D"Content-Type">=0A=09<title></title>=0A=09<style type=3D"t=
+ext/css">* {=09margin-top: 0px;=09margin-bottom: 0px;=09padding: 0px;=09bor=
+der: none;=09line-height: normal;=09outline: none;=09list-style: none;=09fo=
+nt-family:impact, sans-serif;=0A=09-webkit-text-size-adjust: none;}=0Abody =
+{=09margin-top: 0 !important;=09margin-bottom: 0 !important;=09padding-top:=
+ 0 !important;=09padding-bottom: 0 !important;=09width: 100% !important;=09=
+-webkit-text-size-adjust: 100% !important;=09-ms-text-size-adjust: 100% !im=
+portant;=09-webkit-font-smoothing: antialiased !important;}=0Aimg {=09borde=
+r: 0 !important;=09outline: none !important;}=0Atable {=09border-collapse: =
+collapse;=09mso-table-lspace: 0px;=09mso-table-rspace: 0px;}=0Atd {=09borde=
+r-collapse: collapse;=09mso-line-height-rule: exactly;}=0A.ExternalClass * =
+{=09line-height: 100%}=0Aspan {=09border-collapse: collapse;=09mso-line-hei=
+ght-rule: exactly;}=0A.ExternalClass, .ExternalClass p, .ExternalClass span=
+, .ExternalClass font, .ExternalClass td, .ExternalClass div {=0A=09line-he=
+ight: 100%;=0A}=0A=0A @media only screen and (max-width: 480px) {=0Atable[c=
+lass=3Dfull] {=09width: 100% !important;}=0Atable[class=3Dblock] {=09width:=
+ 100% !important;}=0Atable[class=3Dblocks] {=09width: 100% !important;}=0At=
+able[class=3Dsection] {=09width: 100% !important;}=0Atable[class=3Dsections=
+] {=09width: 100% !important;}=0Atd[class=3Dhide] {=09display: none !import=
+ant;}=0Atd[class=3Dsides] {=09width: 15px !important;}=0Atd[class=3Dheights=
+] {=09height: 21px !important;}=0Atd[class=3Dpadding_top] {=09padding-top: =
+5px !important;}=0A.font_x { font-size:23px !important; line-height:25px !i=
+mportant;}=0A.font_y { font-size:30px !important; line-height:32px !importa=
+nt;}=0A.hides { display:none !important;}=0A.text_size { font-size:80px !im=
+portant; line-height:82px !important;}=0Atable[class=3Dtab_mob]{ width:260p=
+x !important;}=0A.padding_top1 { padding-top:8px !important; text-align:cen=
+ter !important;}=0A.sides_X { width:15px !important;}=0A.height_fix { heigh=
+t:45px !important;}=0A.temp_x { font-size:25px !important; line-height:31px=
+ !important; padding-bottom:15px !important;}=0A.img_resize img { display:n=
+one !important;}=0A.img_resize { display:none !important;}=0A.boom_x img { =
+display:none !important;}=0A.new_width { width:20px !important;}=0A}=0A=0A =
+@media only screen and (min-width: 480px) and (max-width: 599px) {=0Atable[=
+class=3Dfull] {=09width: 100% !important;}=0Atable[class=3Dblock] {=09width=
+: 240px !important;}=0Atable[class=3Dblocks] {=09width: 30% !important;}=0A=
+table[class=3Dsection] {=09width: 151px !important;}=0Atable[class=3Dsectio=
+ns] {=09width: 60% !important;}=0Atd[class=3Dhide] {=09display: none !impor=
+tant;}=0Atd[class=3Dsides] {=09width: 15px !important;}=0Atd[class=3Dheight=
+s] {=09height: 21px !important;}=0Atd[class=3Dpadding_top] {=09padding-top:=
+ 5px !important;}=0A.font_x { font-size:35px !important; line-height:37px !=
+important;}=0A.font_y { font-size:31px !important; line-height:33px !import=
+ant;}=0A.hides { display:block !important; width:180px !important; height:a=
+uto !important;}=0A.text_size { font-size:70px !important; line-height:72px=
+ !important;}=0Atable[class=3Dtab_mob]{ width:240px !important;}=0A.padding=
+_top1 { padding-top:7px !important; text-align:center !important;}=0A.sides=
+_X { width:30px !important;}=0A.height_fix { height:45px !important;}=0A.te=
+mp_x { font-size:32px !important; line-height:37px !important; padding-bott=
+om:0px !important;}=0A.img_resize img { width:140px !important; height:auto=
+ !important; display:block !important;}=0A.img_resize { display:block !impo=
+rtant;}=0A.boom_x img { width:190px !important; height:auto !important; dis=
+play:block !important;}=0A.new_width { width:15px !important;}=0A}=0A=09</s=
+tyle>=0A</head>=0A<body bgcolor=3D"#ffffff" leftmargin=3D"0" marginheight=
+=3D"0" marginwidth=3D"0" offset=3D"0" style=3D"font-family:impact, sans-ser=
+if; color:#000000; margin-top: 0; margin-bottom: 0; padding-top: 0; padding=
+-bottom: 0; width: 100% !important; -webkit-text-size-adjust: 100%; -ms-tex=
+t-size-adjust: 100%; -webkit-font-smoothing: antialiased;" topmargin=3D"0">=
+=0A<div style=3D"text-align:center;"><div align=3D"center"><font color=3D"#=
+000000" style=3D"font-size:11px;font-family:Verdana,Arial,Helvetica,sans-se=
+rif;"><br>Pour visualiser correctement ce message, acc=C3=A9dez =C3=A0 la <=
+a href=3D"http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxM=
+CUyNmwlM0QxMzg5MiUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDUlMjZ1bnN1YnNjcmli=
+ZSUzRCUyNm1pcnJvciUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJ=
+tNWxjekV1Wm5JJTNE">version en ligne</a><br><br></font></div></div>=0A=0A<ta=
+ble border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09<=
+tbody>=0A=09=09<tr>=0A=09=09=09<td bgcolor=3D"#ffffff">=0A=09=09=09<table a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"f=
+ull" width=3D"600">=0A=09=09=09=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09<td bgcolor=3D"#0b7fc5">=0A=09=09=09=09=09=09<table border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09<=
+tbody>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td back=
+ground=3D"http://clubnews-rgp.com/img/590/images/1376517992590.jpg" bgcolor=
+=3D"#0b7fc5" height=3D"600" valign=3D"top" width=3D"600"><!--[if gte mso 9]=
+>=0A=09=09=09  <v:rect xmlns:v=3D"urn:schemas-microsoft-com:vml" fill=3D"tr=
+ue" stroke=3D"false" style=3D"width:600px;height:600px;">=0A=09=09=09=09<v:=
+fill type=3D"tile" src=3D"http://clubnews-rgp.com/img/590/images/1376517992=
+590.jpg" color=3D"#0b7fc5" />=0A=09=09=09=09<v:textbox inset=3D"0,0,0,0">=
+=0A=09=09=09  <![endif]-->=0A=09=09=09=09=09=09=09=09=09<div>=0A=09=09=09=
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"14"=
+ style=3D"font-size:0px; line-height:0px;"></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"side=
+s" width=3D"33"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td c=
+lass=3D"temp_x" style=3D"font-family:impact, sans-serif; font-size:32px; li=
+ne-height:45px; color:#ffffff;"><a class=3D"temp_x" href=3D"http://clubnews=
+-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMzg5NSUyNnMlM0=
+Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=3D" style=3D"font-family:impact, sans-ser=
+if; font-size:32px; line-height:45px; color:#ffffff; text-decoration:none;"=
+ target=3D"_blank">VOS FENETRES PVC/ ALU/ BOIS<br>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09MOINS CHERES ?</a></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"right" class=3D"img_resize" widt=
+h=3D"171"><img alt=3D"" border=3D"0" height=3D"128" src=3D"http://clubnews-=
+rgp.com/img/590/images/8633162645903.png" style=3D"display:block;" width=3D=
+"171"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=3D"#ef7f01">=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td height=3D"15" style=3D"font-size:0px; line-height:0px;">=
+</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td class=3D"new_width" width=3D"50"></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" class=3D"full" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td align=3D"center">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" class=3D"full" width=3D"100%">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td=
+></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<td><td class=3D"font_y" clicks.trckgtyh.com=3D"" href=3D"http://club=
+news-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMzg5NyUyNn=
+MlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=3D" http:=3D"" style=3D"font-family:i=
+mpact, sans-serif; font-size:35px; line-height:37px; color:#ffffff;text-ali=
+gn:center;><a align=3D"center" href=3D"http://clubnews-rgp.com/YSUzRDExOTQl=
+MjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMzg5NiUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGM=
+lMjZscyUzRDU=3D" u=3D" http%3a%2f%2fwww.mieux-depenser.fr%2flanding%2ffen%2=
+f03%2f%3femail%3d%26civ%3d%26ville%3d%26nom%3d%26prenom%3d%26tel%3d%26cp%3d=
+%26utm_medium%3demail%26utm_campaign%3d1468%26utm_source%3dag2%26utm_term%3=
+d%26utm_content%3dmdf3">DECOUVREZ LES PRIX IMBATTABLES !</a></td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td class=3D"sides" width=3D"45"></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"15"=
+ style=3D"font-size:0px; line-height:0px;"></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td bgcolor=
+=3D"#f2f7fb">=0A=09=09=09=09=09=09=09=09=09=09=09=09<table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"height_fix" heigh=
+t=3D"29"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td class=3D"sides" width=3D"31"></td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"100%">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td width=3D"260">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" class=3D"full" width=3D"260">=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" =
+border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"260">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<td class=3D"hide" height=3D"5" style=3D"font-size:0px=
+; line-height:0px;"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td style=3D"fo=
+nt-family:impact, sans-serif; font-size:30px; line-height:35px; color:#e406=
+7f; "><a href=3D"http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRD=
+I3MzkxMCUyNmwlM0QxMzg5OCUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=3D" style=
+=3D"font-family:impact, sans-serif; font-size:30px; line-height:35px; color=
+:#e4067f; text-decoration:none;" target=3D"_blank">Comparez les prix<br>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09de votre region</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=
+=3D"25"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"tab_mob" width=3D"255"=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D=
+"center" bgcolor=3D"#e4067f" height=3D"56" valign=3D"middle">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"center" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"158">=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<td align=3D"left" style=3D"font-family:impact, san=
+s-serif; font-size:26px; line-height:28px; color:#ffffff; " valign=3D"middl=
+e" width=3D"140"><a href=3D"http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTk=
+wJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMzg5OSUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRD=
+U=3D" style=3D"font-family:impact, sans-serif; font-size:26px; line-height:=
+28px; color:#ffffff; text-decoration:none;" target=3D"_blank">Comparer</a><=
+/td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" valign=3D"midd=
+le"><a href=3D"http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3=
+MzkxMCUyNmwlM0QxMzkwMCUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=3D" target=
+=3D"_blank"><img alt=3D"" border=3D"0" height=3D"26" src=3D"http://clubnews=
+-rgp.com/img/590/images/1195974024590.jpg" style=3D"display:block;" width=
+=3D"18"></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<td class=3D"boom_x" width=3D"291">=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"left" border=3D"0" cell=
+padding=3D"0" cellspacing=3D"0" class=3D"full" width=3D"291">=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td al=
+ign=3D"right"><a href=3D"http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJT=
+I2ZSUzRDI3MzkxMCUyNmwlM0QxMzkwMSUyNnMlM0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=
+=3D" target=3D"_blank"><img alt=3D"" border=3D"0" height=3D"217" src=3D"htt=
+p://clubnews-rgp.com/img/590/images/2074852946590.png" style=3D"display:blo=
+ck;" width=3D"291"></a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td class=3D"height_fix" height=3D"48"></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td height=
+=3D"18" style=3D"font-size:0px; line-height:0px;"></td>=0A=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09<tabl=
+e border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=
+=3D"sides" width=3D"112"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"left=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full" width=3D"=
+151">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td align=3D"center"><a href=3D"http://clubne=
+ws-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMzkwMiUyNnMl=
+M0Q3MjQ0MzQwJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"" bor=
+der=3D"0" height=3D"39" src=3D"http://clubnews-rgp.com/img/590/images/95197=
+58115903.png" style=3D"display:block;" width=3D"151"></a></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!--/1--><!--=
+[if gte mso 9]>=0A        </td>=0A        <td valign=3D"top">=0A    <![endi=
+f]-->=0A=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"lef=
+t" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full" width=3D=
+"28">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<td class=3D"hide"></td>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</ta=
+ble>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!--/1--><!--[if gte ms=
+o 9]>=0A        </td>=0A        <td valign=3D"top">=0A    <![endif]-->=0A=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"right" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"full" width=3D"225">=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td class=3D"padding_top1" style=3D"font-family:=
+ Arial, Helvetica, sans-serif; font-size:19px; line-height:22px; color:#fff=
+fff; "><a href=3D"http://clicks.trckgtyh.com/click_c(632)-s(1468)-m(2377)-e=
+(43071)?u=3Dhttp%3A%2F%2Fwww.mieux-depenser.fr%2Flanding%2Ffen%2F03%2F%3Fem=
+ail%3D%26civ%3D%26ville%3D%26nom%3D%26prenom%3D%26tel%3D%26cp%3D%26utm_medi=
+um%3Demail%26utm_campaign%3D1468%26utm_source%3Dag2%26utm_term%3D%26utm_con=
+tent%3Dmdf3" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+19px; line-height:22px; color:#ffffff; text-decoration:none;" target=3D"_bl=
+ank">plus de 2000 installateurs sur toute la France</a></td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<td class=3D"sides" width=3D"84"></t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09</table=
+>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09<td></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=
+=09=09=09=09=09=09=09=09=09</div>=0A=09=09=09=09=09=09=09=09=09<!--[if gte =
+mso 9]>=0A    </v:textbox>=0A  </v:rect>=0A  <![endif]--></td>=0A=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09</=
+table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tbo=
+dy>=0A=09=09=09</table>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tbody>=0A</ta=
+ble>=0A<img alt=3D"" src=3D"http://clicks.trckgtyh.com/display_c(632)-s(146=
+8)-m(2377)-e(43071)">=0A<div style=3D"text-align:center;"><div align=3D"cen=
+ter"><font color=3D"#000000" style=3D"font-size:11px;font-family:Verdana,Ar=
+ial,Helvetica,sans-serif;"><br>Pour cesser de recevoir nos informations sur=
+ l'adresse resp-m2-miage@univ-rennes1.fr, <a href=3D"http://clubnews-rgp.co=
+m/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMzg5NCUyNnMlM0Q3MjQ0M=
+zQwJTI2dCUzRGMlMjZscyUzRDU=3D">d=C3=A9sabonnez-vous</a>.</font></div></div>=
+=0A<img src=3D"http://clubnews-rgp.com/YSUzRDExOTQlMjZjJTNENTkwJTI2ZSUzRDI3=
+MzkxMCUyNnMlM0Q3MjQ0MzQwJTI2bHMlM0Q1JTI2dCUzRG8=3D" alt=3D"Afficher les ima=
+ges" width=3D"1" height=3D"1" /></body>=0A</html>
+
+
+--b1_841432c63b51dff8931f94c436edbaca--
+
