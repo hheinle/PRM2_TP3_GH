@@ -29,7 +29,7 @@ import javax.mail.internet.MimeMessage;
  */
 public class MailAnalyzer {
 
-    public static final String PATH_EML_A_TRIER = "work_data_test";
+    public static final String PATH_EML_A_TRIER = "work_data";
     public static final String PATH_CORPUS_STAGE = "lexical_data/words";
     public static final String PATH_CORPUS_SPAM = "lexical_data/spam_words";
     public static final String PATH_MAILS_OK = "ok";
