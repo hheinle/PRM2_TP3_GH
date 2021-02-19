@@ -1,0 +1,214 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@mediamedia.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 31 Oct 2016 15:09:55 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 2539B42
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:09:55 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 23007601B2
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:09:55 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id HlUzA_utMPJx for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 31 Oct 2016 15:09:55 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 0DBE4601A4
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:09:55 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 081B620033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:09:55 +0100 (CET)
+Received: from smtp-b56.directonlus.com (smtp-b56.directonlus.com [82.97.39.157])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 9079A28007A
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:09:54 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=mediamedia.fr; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp4; bh=N8lYf1n92hAZHCwVajrIchDI
+	ORT0iEnT3YuVnCJdlPA=; b=trQ5WS9bBIpjAU7xki6U11xkHzLIfJXEn8HXG238
+	toKZKzTvpUoVO1XQ2v30o5kCkBc15ryx+emvVTsoR6H1rI3PjgXqmKLKx8Qgl0se
+	M+cZz4Nfr548AycywrdiyJr/YnkHV1fmK1+SkuxKU72LUCrXA62oFbNrqafr/vNV
+	6Sk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=mediamedia.fr; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp4; b=TmnLazU+70eygPOhI9hbRHOCDteAsdK
+	l1BqNgzLLkGXsqvelYgFmbJLJo96Hqj5F0BNBdKJglFWXwPPdoHZUZuMB6kZS6yS
+	0gZ/umLnphmQIludk11rTvgOofSpfrj9NVIbphIorlGQ+aOKSALcyrteScSikRtc
+	seYn9Sm4iK9k=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Economisez_jusqu'=C3=A0_6000_euros_de_r=C3=A9duction_d'imp?=  =?utf-8?Q?=C3=B4t_!?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Mon, 31 Oct 2016 15:09:53 +0100
+From: Investissez sans apport <Investissez@mediamedia.fr>
+Reply-to: Investissez sans apport <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@mediamedia.fr>
+X-campaign_id: 6402324_187
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==447
+List-Unsubscribe: <http://app.mediamedia.fr/d/?camp=6402324_187&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <a072e2ffb4b46dcc0d06a4230f75b200@mediamedia.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_a072e2ffb4b46dcc0d06a4230f75b200"
+X-Original-Source-IP: 82.97.39.157
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrjeelgdeiudcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpefknhhvvghsthhishhsvgiiuchsrghnshcurghpphhorhhtuceokfhnvhgvshhtihhsshgviiesmhgvughirghmvgguihgrrdhfrheqnecuffhomhgrihhnpehmvgguihgrmhgvughirgdrfhhrnecukfhppeekvddrleejrdefledrudehjeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgsheeirdguihhrvggtthhonhhluhhsrdgtohhmpdhinhgvthepkedvrdeljedrfeelrdduheejpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesmhgvughirghmvgguihgrrdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+--Part1_a072e2ffb4b46dcc0d06a4230f75b200
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.mediamedia.fr/v/?camp=3D6402324_187&ms=3DcmVzcC1tMi1taWFnZUB1b=
+ml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_a072e2ffb4b46dcc0d06a4230f75b200
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Economisez jusqu\'=C3=A0 6000 euros de r=C3=A9duction d\'imp=C3=B4=
+t !</title>
+</head><body leftmargin=3D"0" style=3D"text-size-adjust:none; -ms-text-si=
+ze-adjust:none; padding:0px; -moz-text-size-adjust:none; -webkit-text-siz=
+e-adjust:none; margin:0px;" marginheight=3D"0" topmargin=3D"0" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.mediamedia.fr/v/?camp=3D6402324_187&ms=3DcmVzcC1tMi=
+1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si cet e-mai=
+l ne s'affiche pas correctement, suivez ce lien." style=3D"color:#00F; fo=
+nt-family:'Arial'; font-size:12px; text-decoration:underline;">Si cet ema=
+il ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p>          =
+              <center><table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"760"><tbody><tr><td height=3D"60" width=3D"600" align=3D"cen=
+ter"><font style=3D"color:#2b6bb7; font-size:10px; line-height:14px; font=
+-family:'Century Gothic',Arial, Helvetica, sans-serif;"><strong></strong>=
+ </font> <br></td> </tr> </tbody> </table>  <table id=3D"Tableau_01" styl=
+e=3D"border:solid 1px #E6E6E6;" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" height=3D"1056" width=3D"650">    <tbody><tr>         <td>       =
+      <a href=3D"http://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2=
+LXJlbm5lczEuZnI=3D&c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZ=
+XZpcy5jb20vYWYvY2xjL0
+ 1qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5TURFMUxuSm=
+xZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">               =
+  <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi=
+1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2ktcGluZWw=
+tMjAxNS5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D"98" width=3D=
+"650"></a></td>     </tr>     <tr>         <td>             <a href=3D"ht=
+tp://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&=
+c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xj=
+L01qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5TURFMUxuS=
+mxZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">              =
+   <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvb=
+i1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2ktcGluZW=
+wtMjAxNS0wMi5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D"156" =
+width=3D"650"></a></td>     </tr>     <tr>         <td>             <a hr=
+ef=3D"http
+ ://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=
+=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL=
+01qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5TURFMUxuSm=
+xZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">               =
+  <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi=
+1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2ktcGluZWw=
+tMjAxNS0wMy5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D"137" w=
+idth=3D"650"></a></td>     </tr>     <tr>         <td>             <a hre=
+f=3D"http://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEu=
+ZnI=3D&c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vY=
+WYvY2xjL01qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5TU=
+RFMUxuSmxZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">       =
+          <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZW=
+FjdGlvbi1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2k=
+tcGluZWw
+ tMjAxNS0wNC5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D"131" =
+width=3D"650"></a></td>     </tr>     <tr>         <td>             <a hr=
+ef=3D"http://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczE=
+uZnI=3D&c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20v=
+YWYvY2xjL01qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5T=
+URFMUxuSmxZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">      =
+           <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZ=
+WFjdGlvbi1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2=
+ktcGluZWwtMjAxNS0wNS5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D=
+"129" width=3D"650"></a></td>     </tr>     <tr>         <td>            =
+ <a href=3D"http://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlb=
+m5lczEuZnI=3D&c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy=
+5jb20vYWYvY2xjL01qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWx=
+iQzB5TURFMUxuSmxZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">=
+             =20
+    <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlv=
+bi1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2ktcGluZ=
+WwtMjAxNS0wNi5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D"99" =
+width=3D"650"></a></td>     </tr>     <tr>         <td>             <a hr=
+ef=3D"http://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczE=
+uZnI=3D&c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20v=
+YWYvY2xjL01qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5T=
+URFMUxuSmxZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">      =
+           <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZ=
+WFjdGlvbi1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2=
+ktcGluZWwtMjAxNS0wNy5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D=
+"68" width=3D"650"></a></td>     </tr>     <tr>         <td>             =
+<a href=3D"http://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm=
+5lczEuZnI=3D&c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5=
+jb20vYWYvY2xjL01
+ qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5TURFMUxuSmx=
+ZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">                =
+ <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1=
+wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2ktcGluZWwt=
+MjAxNS0wOC5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D"110" wi=
+dth=3D"650"></a></td>     </tr>     <tr>         <td>             <a href=
+=3D"http://app.mediamedia.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZ=
+nI=3D&c=3D6402324_187&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYW=
+YvY2xjL01qUXhYekU1TUY4eU4xOHdYekElM0QvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzB5TUR=
+FMUxuSmxZV04wYVc5dUxYQmhkSEpwYlc5cGJtVXVZMjl0" target=3D"_blank">        =
+         <img src=3D"http://app.mediamedia.fr/r/?rc=3DaHR0cDovL3d3dy5yZWF=
+jdGlvbi1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC0yMDE1L2ltYWdlcy9sb2kt=
+cGluZWwtMjAxNS0wOS5qcGc=3D" alt=3D"Loi Pinel 2015" border=3D"0" height=3D=
+"128" width=3D"650"></a></td>     </tr> </tbody></table>  <table border=3D=
+"0" cellpad
+ ding=3D"0" cellspacing=3D"0" width=3D"760"> <tbody><tr> <td height=3D"60=
+" width=3D"600" align=3D"center"> <font style=3D"color:#2b6bb7; font-size=
+:10px; line-height:14px; font-family:'Century Gothic',Arial, Helvetica, s=
+ans-serif;"> <strong></strong> </font><br></td> </tr> </tbody> </table> <=
+/center>                   <img src=3D"http://app.mediamedia.fr/t/?i=3D64=
+02324_187&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app=
+.mediamedia.fr/images/blank.jpg" alt=3D"_pspacer5"  /><p>
+<a href=3D"http://app.mediamedia.fr/d/?camp=3D6402324_187&ms=3DcmVzcC1tMi=
+1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne plus rece=
+voir d'informations de notre part" style=3D"color:#00F; font-family:'Aria=
+l'; font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner=
+ : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconq=
+ue d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_a072e2ffb4b46dcc0d06a4230f75b200--
+

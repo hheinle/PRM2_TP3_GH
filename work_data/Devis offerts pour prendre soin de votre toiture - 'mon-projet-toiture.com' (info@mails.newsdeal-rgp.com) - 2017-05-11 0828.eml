@@ -1,0 +1,508 @@
+Return-Path: <info@mails.newsdeal-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 11 May 2017 08:28:14 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id E2FD14B
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 11 May 2017 08:28:14 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E7A5960006
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 11 May 2017 08:28:14 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id MI_1Pn4-qHLH for <resp-m2-miage@univ-rennes1.fr>;
+	Thu, 11 May 2017 08:28:14 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id C9B14601BD
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 11 May 2017 08:28:14 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id BEB6420033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 11 May 2017 08:28:14 +0200 (CEST)
+Received: from mta3.mails.newsdeal-rgp.com (mta3.mails.newsdeal-rgp.com [163.172.248.153])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id C6B7C6055F
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 11 May 2017 08:28:17 +0200 (CEST)
+X-QHPSI: clean
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mails.newsdeal-rgp.com; s=default; h=Date:To:From:Subject:
+	Message-ID:X-Mailer:Precedence:List-Unsubscribe:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=Bvrm27zqT0ARVAPEh3U2E
+	jawRi0=; b=It9E8uLCPvfmCIby9ueS/j7GCvP3OcsA/d+3YkQI2wt33mUW7NxuO
+	Peok9pKQWZfv0gurFBDpCBytk/IV6qBIDQHL40aT8MtlNdx/ifpMX4APdcuJUBsf
+	vlMRWwxis01CIRGonsvdWl90hAY4KgJf1a3ZcykByCW0QJhWA0wbMI=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=simple;
+  s=default; d=mails.newsdeal-rgp.com;
+  b=PRX0M+mLZCRUfDpvBRbqCr4krvvTKIlegRdiaKLAmvVloUMf03bDDLLLuz4hyq5q6qn9qmM2IueX6jC9iOHFLk5GQ6ax+rr4OL9KOilz/apMxkdbUoK5li5i8f8dI6IWevPqr448gzeynsredzmbiPNOe+6IsyvVGKjWatuGsps=;
+Received: (indimail 46861 invoked from 62.210.86.80 by host im43 by uid 555); Thu, 11 May 2017 08:28:12 +0200
+Date: Thu, 11 May 2017 08:28:12 +0200
+To: resp-m2-miage@univ-rennes1.fr
+From: "mon-projet-toiture.com" <info@mails.newsdeal-rgp.com>
+Subject: Devis offerts pour prendre soin de votre toiture
+Message-ID: <1d8da6564865e0b1ddd28bb484267f50@localhost.localdomain>
+X-Mailer: Mailxpertise
+X-List: 5
+X-Account: 1194
+X-Campaign: 774
+X-Mode: 1
+X-Unique: 273910
+X-Abuse: abuse@mxea43.com
+Precedence: bulk
+List-Unsubscribe: <http://mails.newsdeal-rgp.com/JTI2YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmVtJTNEcmVzcC1tMi1taWFnZSU0MHVuaXYtcmVubmVzMS5mciUyNnQlM0RjJTI2bCUzRDE3NTYxJTI2ZiUzRDI=>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_1d8da6564865e0b1ddd28bb484267f50"
+Content-Transfer-Encoding: quoted-printable
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 163.172.248.153
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrtdeggdduudekucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepfffvhffukffophfjgggtgfesrghqjhhpredtjeenucfhrhhomhepfdhmohhnqdhprhhojhgvthdqthhoihhtuhhrvgdrtghomhdfuceoihhnfhhosehmrghilhhsrdhnvgifshguvggrlhdqrhhgphdrtghomheqnecuffhomhgrihhnpehnvgifshguvggrlhdqrhhgphdrtghomhenucfkphepudeifedrudejvddrvdegkedrudehfeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhhtrgefrdhmrghilhhsrdhnvgifshguvggrlhdqrhhgphdrtghomhdpihhnvghtpeduieefrddujedvrddvgeekrdduheefpdhmrghilhhfrhhomhepihhnfhhosehmrghilhhsrdhnvgifshguvggrlhdqrhhgphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--b1_1d8da6564865e0b1ddd28bb484267f50
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyN=
+mwlM0QxNzU1OCUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZmaXJzdG5hbWUlM0Ql=
+MjZjaXZpbGl0eSUzRCUyNnBvc3RhbGNvZGUlM0QlMjZlbWFpbCUzRGNtVnpjQzF0TWkxdGFXRm5=
+aVUIxYm1sMkxYSmxibTVsY3pFdVpuSSUzRCUyNmxhc3RuYW1lJTNE=0A
+
+ [1]=20
+
+ =09=09PRENEZ SOIN DE VOTRE TOITURE [1]
+
+ =09=09Nous avons les solutions [1]
+
+ 1er courtier national en travaux de r=C3=A9novation. [1]
+
+ R=C3=A9nover, r=C3=A9parer ou encore nettoyer votre toiture, nous comparon=
+s pour vous, les prix et
+mat=C3=A9riaux des professionnels proche de chez vous pour vous faire =C3=
+=A9conomiser.
+
+ Demandez votre devis gratuit et sans engagement.=20
+
+ =09=09 [1]
+
+ =09=09R=C3=A9novation et R=C3=A9paration [1]
+
+ =09=09Isoler, =C3=A9tanch=C3=A9ifier, changer des tuiles ... demandez votr=
+e devis gratuit en ligne [1]
+
+ =09=09Votre devis gratuit [1]=20
+
+ =09=09 [1]
+
+ =09=09D=C3=A9moussage et nettoyage [1]
+
+ =09=09Nettoyer, d=C3=A9mousser ou encore traiter, demandez votre devis gra=
+tuit en ligne. [1]
+
+ =09=09Votre devis gratuit [1]=20
+
+http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyN=
+mwlM0QxNzU2MCUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+Links:
+------
+[1]=0Ahttp://clicks.trckgtyh.com/click_c(1645)-s(1468)-m(13285)-e(43073)-u(=
+90)?civ=3D&ville=3D&nom=3D&prenom=3D&tel=3D&cp=3D&email=3Dresp-m2-miage@uni=
+v-rennes1.fr&utm_campaign=3D1468
+
+
+--b1_1d8da6564865e0b1ddd28bb484267f50
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">=0A<head>=0A=09<meta content=
+=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type">=0A=09<meta con=
+tent=3D"width=3Ddevice-width, initial-scale=3D1.0" name=3D"viewport">=0A=09=
+<title>Devis toiture</title>=0A=09<style type=3D"text/css">/* Client-specif=
+ic Styles */=0A=0A         #outlook a {padding:0;} /* Force Outlook to prov=
+ide a "view in browser" menu link. */=0A=0A         body{width:100% !import=
+ant; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; pa=
+dding:0;}=0A=0A         /* Prevent Webkit and Windows Mobile platforms from=
+ changing default font sizes, while not breaking desktop design. */=0A=0A  =
+       .ExternalClass {width:100%;} /* Force Hotmail to display emails at f=
+ull width */=0A=0A         .ExternalClass, .ExternalClass p, .ExternalClass=
+ span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-hei=
+ght: 100%;} /* Force Hotmail to display normal line spacing.  More on that:=
+ http://www.emailonacid.com/forum/viewthread/43/ */=0A=0A         #backgrou=
+ndTable {margin:0; padding:0; width:100% !important; line-height: 100% !imp=
+ortant;}=0A=0A         img {outline:none; text-decoration:none;border:none;=
+ -ms-interpolation-mode: bicubic;}=0A=0A         a img {border:none;}=0A=0A=
+         .image_fix {display:block;}=0A=0A         p {margin: 0px 0px !impo=
+rtant;}=0A=0A         =0A=0A         table td {border-collapse: collapse;}=
+=0A=0A         table { border-collapse:collapse; mso-table-lspace:0pt; mso-=
+table-rspace:0pt; }=0A=0A         /*a {color: #e95353;text-decoration: none=
+;text-decoration:none!important;}*/=0A=0A         /*STYLES*/=0A=0A         =
+table[class=3Dfull] { width: 100%; clear: both; }=0A=0A         =0A=0A     =
+    /*################################################*/=0A=0A         /*IP=
+AD STYLES*/=0A=0A         /*###############################################=
+#*/=0A=0A         @media only screen and (max-width: 640px) {=0A=0A        =
+ a[href^=3D"tel"], a[href^=3D"sms"] {=0A=0A         text-decoration: none;=
+=0A=0A         color: #ffffff; /* or whatever your want */=0A=0A         po=
+inter-events: none;=0A=0A         cursor: default;=0A=0A         }=0A=0A   =
+      .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {=0A=0A =
+        text-decoration: default;=0A=0A         color: #ffffff !important;=
+=0A=0A         pointer-events: auto;=0A=0A         cursor: default;=0A=0A  =
+       }=0A=0A         table[class=3Ddevicewidth] {width: 440px!important;t=
+ext-align:center!important;}=0A=0A         table[class=3Ddevicewidthinner] =
+{width: 420px!important;text-align:center!important;}=0A=0A         table[c=
+lass=3D"sthide"]{display: none!important;}=0A=0A         img[class=3D"bigim=
+age"]{width: 420px!important;height:219px!important;}=0A=0A         img[cla=
+ss=3D"col2img"]{width: 420px!important;height:258px!important;}=0A=0A      =
+   img[class=3D"image-banner"]{width: 440px!important;height:106px!importan=
+t;}=0A=0A         td[class=3D"menu"]{text-align:center !important; padding:=
+ 0 0 10px 0 !important;}=0A=0A         td[class=3D"logo"]{padding:10px 0 5p=
+x 0!important;margin: 0 auto !important;}=0A=0A         img[class=3D"logo"]=
+{padding:0!important;margin: 0 auto !important;}=0A=0A=0A=0A         }=0A=
+=0A         /*##############################################*/=0A=0A       =
+  /*IPHONE STYLES*/=0A=0A         /*#######################################=
+#######*/=0A=0A         @media only screen and (max-width: 480px) {=0A=0A  =
+       a[href^=3D"tel"], a[href^=3D"sms"] {=0A=0A         text-decoration: =
+none;=0A=0A         color: #ffffff; /* or whatever your want */=0A=0A      =
+   pointer-events: none;=0A=0A         cursor: default;=0A=0A         }=0A=
+=0A         .mobile_link a[href^=3D"tel"], .mobile_link a[href^=3D"sms"] {=
+=0A=0A         text-decoration: default;=0A=0A         color: #ffffff !impo=
+rtant; =0A=0A         pointer-events: auto;=0A=0A         cursor: default;=
+=0A=0A         }=0A=0A         table[class=3Ddevicewidth] {width: 280px!imp=
+ortant;text-align:center!important;}=0A=0A         table[class=3Ddevicewidt=
+hinner] {width: 260px!important;text-align:center!important;}=0A=0A        =
+ table[class=3D"sthide"]{display: none!important;}=0A=0A         img[class=
+=3D"bigimage"]{width: 260px!important;height:136px!important;}=0A=0A       =
+  img[class=3D"col2img"]{width: 260px!important;height:160px!important;}=0A=
+=0A         img[class=3D"image-banner"]{width: 280px!important;height:68px!=
+important;}=0A=0A         =0A=0A         }=0A=09</style>=0A</head>=0A<body>=
+=0A<div style=3D"text-align:center;"><div align=3D"center"><font color=3D"#=
+000000" style=3D"font-size:11px;font-family:Verdana,Arial,Helvetica,sans-se=
+rif;"><br>Pour visualiser correctement ce message, acc=C3=A9dez =C3=A0 la <=
+a href=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI=
+3MzkxMCUyNmwlM0QxNzU1OSUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZ1bnN1Yn=
+NjcmliZSUzRCUyNmZpcnN0bmFtZSUzRCUyNmxhc3RuYW1lJTNEJTI2Y2l2aWxpdHklM0QlMjZwb=
+3N0YWxjb2RlJTNEJTI2bWlycm9yJTNEJTI2ZW1haWwlM0RjbVZ6Y0MxdE1pMXRhV0ZuWl/VCMWJ=
+tbDJMWEpsYm01bGN6RXVabkklM0Q=3D">version en ligne</a><br><br></font></div><=
+/div>=0A=0A<div class=3D"block"><!-- Start of preheader -->=0A<table bgcolo=
+r=3D"#f6f4f5" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"backgr=
+oundTable" st-sortable=3D"preheader" width=3D"100%">=0A=09<tbody>=0A=09=09<=
+tr>=0A=09=09=09<td width=3D"100%">=0A=09=09=09<table align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth" width=3D"=
+580">=0A=09=09=09=09<tbody><!-- Spacing -->=0A=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09<td height=3D"5" width=3D"100%"></td>=0A=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<=
+td align=3D"right" st-content=3D"preheader" style=3D"font-family: Helvetica=
+, arial, sans-serif; font-size: 10px;color: #999999" valign=3D"middle"></td=
+>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09<td height=3D"5" width=3D"100%"></td>=0A=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09</tbody>=0A=
+=09=09=09</table>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tbody>=0A</table>=
+=0A<!-- End of preheader --></div>=0A=0A<div class=3D"block"><!-- start of =
+header -->=0A<table bgcolor=3D"#f6f4f5" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0" id=3D"backgroundTable" st-sortable=3D"header" width=3D"100%">=
+=0A=09<tbody>=0A=09=09<tr>=0A=09=09=09<td>=0A=09=09=09<table align=3D"cente=
+r" bgcolor=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" cla=
+ss=3D"devicewidth" hlitebg=3D"edit" shadow=3D"edit" width=3D"580">=0A=09=09=
+=09=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td><!-- logo -->=
+=0A=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" class=3D"devicewidth" width=3D"280">=0A=09=09=09=09=09=
+=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<=
+td class=3D"logo" style=3D"padding: 10px 0 10px 20px;" valign=3D"middle" wi=
+dth=3D"400">=0A=09=09=09=09=09=09=09=09=09<div class=3D"imgpop"><a href=3D"=
+http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyN=
+mwlM0QxNzU2MiUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZjaXZpbGl0eSUzRCUy=
+Nmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21=
+WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE"><img alt=3D"logo" bo=
+rder=3D"0" class=3D"logo" src=3D"http://mails.newsdeal-rgp.com/img/774/imag=
+es/1234097986591.png" st-image=3D"edit" style=3D"display:block; border:none=
+; outline:none; text-decoration:none;"></a></div>=0A=09=09=09=09=09=09=09=
+=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=
+=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09<!-- End of logo --></td>=
+=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tbody>=0A=09=09=09</table>=0A=09=09=
+=09</td>=0A=09=09</tr>=0A=09</tbody>=0A</table>=0A<!-- end of header -->=0A=
+=0A<div class=3D"block"><!-- fulltext -->=0A<table bgcolor=3D"#f6f4f5" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"backgroundTable" st-sort=
+able=3D"fulltext" width=3D"100%">=0A=09<tbody>=0A=09=09<tr>=0A=09=09=09<td>=
+=0A=09=09=09<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"devicewidth" modulebg=3D"edit" width=
+=3D"580">=0A=09=09=09=09<tbody><!-- Spacing -->=0A=09=09=09=09=09<tr>=0A=09=
+=09=09=09=09=09<td height=3D"20" width=3D"100%"></td>=0A=09=09=09=09=09</tr=
+>=0A=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=
+=09<td>=0A=09=09=09=09=09=09<table align=3D"center" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"devicewidthinner" width=3D"540">=0A=09=
+=09=09=09=09=09=09<tbody><!-- Title -->=0A=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09<td st-title=3D"fulltext-title" style=3D"font-fa=
+mily: Helvetica, arial, sans-serif; font-size: 24px; color: #ff4c02; text-a=
+lign:center;line-height: 30px;"><a href=3D"http://mails.newsdeal-rgp.com/YS=
+UzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU2MyUyNnMlM0Q3MjkzNzEwJ=
+TI2dCUzRGMlMjZscyUzRDUlMjZjaXZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1l=
+JTNEJTI2cG9zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFh=
+KbGJtNWxjekV1Wm5JJTNE" st-title=3D"fulltext-title" style=3D"font-family: He=
+lvetica, arial, sans-serif; font-size: 24px; color: #ff4c02; text-align:cen=
+ter;line-height: 30px; text-decoration:none;" target=3D"_blank">PRENEZ SOIN=
+ DE VOTRE TOITURE</a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td st-title=3D"fulltext-titl=
+e" style=3D"font-family: Helvetica, arial, sans-serif; font-size: 24px; col=
+or: #016aac; text-align:center;line-height: 26px;"><a href=3D"http://mails.=
+newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU2NC=
+UyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZjaXZpbGl0eSUzRCUyNmxhc3RuYW1lJ=
+TNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0=
+YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE" st-title=3D"fulltext-title" style=
+=3D"font-family: Helvetica, arial, sans-serif; font-size: 24px; color: #016=
+aac; text-align:center;line-height: 26px; text-decoration:none;" target=3D"=
+_blank">Nous avons les solutions</a></td>=0A=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09<!-- End of Title --><!-- spacing -->=0A=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td height=3D"20"></td>=
+=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<!-- End of spac=
+ing --><!-- content -->=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09<td st-content=3D"fulltext-paragraph" style=3D"font-family: Helvet=
+ica, arial, sans-serif; font-size: 16px; color: #000; text-align:left;line-=
+height: 23px;"><a href=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTN=
+ENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU2NSUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscy=
+UzRDUlMjZjaXZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY=
+29kZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5J=
+JTNE" st-content=3D"fulltext-paragraph" style=3D"font-family: Helvetica, ar=
+ial, sans-serif; font-size: 16px; color: #000; text-align:left;line-height:=
+ 23px; text-decoration:none;" target=3D"_blank">1er courtier national en tr=
+avaux de r=C3=A9novation.</a><br>=0A=09=09=09=09=09=09=09=09=09<br>=0A=09=
+=09=09=09=09=09=09=09=09<a href=3D"http://mails.newsdeal-rgp.com/YSUzRDExOT=
+QlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU2NiUyNnMlM0Q3MjkzNzEwJTI2dCUzR=
+GMlMjZscyUzRDUlMjZjaXZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2=
+cG9zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWx=
+jekV1Wm5JJTNE" st-content=3D"fulltext-paragraph" style=3D"font-family: Helv=
+etica, arial, sans-serif; font-size: 16px; color: #000; text-align:left;lin=
+e-height: 23px; text-decoration:none;" target=3D"_blank">R=C3=A9nover, r=C3=
+=A9parer ou encore nettoyer votre toiture, nous comparons pour vous, les pr=
+ix et mat=C3=A9riaux des professionnels proche de chez vous pour vous faire=
+ =C3=A9conomiser.<br>=0A=09=09=09=09=09=09=09=09=09<br>=0A=09=09=09=09=09=
+=09=09=09=09Demandez votre devis gratuit et sans engagement.</a></td>=0A=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09<!-- End of content --=
+><!-- Spacing -->=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09<td height=3D"10" width=3D"100%"></td>=0A=09=09=09=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09=09=09=09</tbody>=
+=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</=
+tr>=0A=09=09=09=09</tbody>=0A=09=09=09</table>=0A=09=09=09</td>=0A=09=09</t=
+r>=0A=09</tbody>=0A</table>=0A<!-- end of fulltext --></div>=0A=0A<div clas=
+s=3D"block"><!-- Start of 2-columns -->=0A<table bgcolor=3D"#f6f4f5" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"backgroundTable" st-sortab=
+le=3D"2columns" width=3D"100%">=0A=09<tbody>=0A=09=09<tr>=0A=09=09=09<td>=
+=0A=09=09=09<table align=3D"center" bgcolor=3D"#ffffff" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" class=3D"devicewidth" modulebg=3D"edit" width=
+=3D"580">=0A=09=09=09=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<=
+td height=3D"20" width=3D"100%"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09<table align=3D"center=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewidth" wi=
+dth=3D"540">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09<table alig=
+n=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"device=
+width" width=3D"260">=0A=09=09=09=09=09=09=09=09=09=09<tbody><!-- image -->=
+=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09<td align=3D"center" class=3D"devicewidth" height=3D"140" width=3D"26=
+0"><a href=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSU=
+zRDI3MzkxMCUyNmwlM0QxNzU2NyUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZjaX=
+ZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyN=
+mVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE" style=
+=3D"text-decoration:none;" target=3D"_blank"><img alt=3D"" border=3D"0" cla=
+ss=3D"col2img" height=3D"140" src=3D"http://mails.newsdeal-rgp.com/img/774/=
+images/1675662408591.png" style=3D"display:block; border:none; outline:none=
+; text-decoration:none;" width=3D"260"></a></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<!-- Spacing -->=0A=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td h=
+eight=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-rule:=
+ exactly;" width=3D"100%"></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td><!-- start of te=
+xt content table -->=0A=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"=
+center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewid=
+thinner" width=3D"260">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody><!-=
+- title -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td st-title=3D"2col-title1" style=3D"font=
+-family: Helvetica, arial, sans-serif; font-size: 18px; color: #333333; tex=
+t-align:left;line-height: 20px;"><a href=3D"http://mails.newsdeal-rgp.com/Y=
+SUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU2OCUyNnMlM0Q3MjkzNzEw=
+JTI2dCUzRGMlMjZscyUzRDUlMjZjaXZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1=
+lJTNEJTI2cG9zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTF=
+hKbGJtNWxjekV1Wm5JJTNE" st-title=3D"2col-title1" style=3D"font-family: Helv=
+etica, arial, sans-serif; font-size: 18px; color: #333333; text-align:left;=
+line-height: 20px; text-decoration:none;" target=3D"_blank">R=C3=A9novation=
+ et R=C3=A9paration</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end of title --><!-- S=
+pacing -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td height=3D"15" style=3D"font-size:1px; =
+line-height:1px; mso-line-height-rule: exactly;" width=3D"100%"></td>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<!-- /Spacing --><!-- content -->=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td s=
+t-content=3D"2col-para1" style=3D"font-family: Helvetica, arial, sans-serif=
+; font-size: 14px; color: #000; text-align:left;line-height: 20px;"><a href=
+=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxM=
+CUyNmwlM0QxNzU2OSUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZjaXZpbGl0eSUz=
+RCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyNmVtYWlsJTN=
+EY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE" st-content=3D"2c=
+ol-para1" style=3D"font-family: Helvetica, arial, sans-serif; font-size: 14=
+px; color: #000; text-align:left;line-height: 20px; text-decoration:none;" =
+target=3D"_blank">Isoler, =C3=A9tanch=C3=A9ifier, changer des tuiles ... de=
+mandez votre devis gratuit en ligne</a></td>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end o=
+f content --><!-- Spacing -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"15" style=
+=3D"font-size:1px; line-height:1px; mso-line-height-rule: exactly;" width=
+=3D"100%"></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<!-- /Spacing --><!-- button -->=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tabl=
+e align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"=
+tablet-button" height=3D"30" st-button=3D"edit" valign=3D"middle">=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<td align=3D"center" height=3D"30" style=3D" background-c=
+olor:#ff4c02; border-top-left-radius:4px; border-bottom-left-radius:4px;bor=
+der-top-right-radius:4px; border-bottom-right-radius:4px; background-clip: =
+padding-box;font-size:13px; font-family:Helvetica, arial, sans-serif; text-=
+align:center;  color:#ffffff; font-weight: 300; padding-left:18px; padding-=
+right:18px;" valign=3D"middle" width=3D"auto"><span style=3D"color: #ffffff=
+; font-weight: 300;"><a href=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlM=
+jZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU3MCUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMl=
+MjZscyUzRDUlMjZjaXZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9=
+zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjek=
+V1Wm5JJTNE" style=3D"color: #ffffff; text-align:center;text-decoration: non=
+e;">Votre devis gratuit</a> </span></td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- /b=
+utton -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td=
+>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09<!-- end of text content table -->=0A=09=09=09=09=09=09=09=09=09=09</tbo=
+dy>=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09<!--=
+ end of left column --><!-- spacing for mobile devices-->=0A=0A=09=09=09=09=
+=09=09=09=09=09<table align=3D"left" border=3D"0" cellpadding=3D"0" cellspa=
+cing=3D"0" class=3D"mobilespacing">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09<td height=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-h=
+eight-rule: exactly;" width=3D"100%"></td>=0A=09=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=
+=09=09</table>=0A=09=09=09=09=09=09=09=09=09<!-- end of for mobile devices-=
+-><!-- start of right column -->=0A=0A=09=09=09=09=09=09=09=09=09<table ali=
+gn=3D"right" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devi=
+cewidth" width=3D"260">=0A=09=09=09=09=09=09=09=09=09=09<tbody><!-- image -=
+->=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09<td align=3D"center" class=3D"devicewidth" height=3D"140" width=3D"26=
+0"><a href=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSU=
+zRDI3MzkxMCUyNmwlM0QxNzU3MSUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZjaX=
+ZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyN=
+mVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE" style=
+=3D"text-decoration:none;" target=3D"_blank"><img alt=3D"" border=3D"0" cla=
+ss=3D"col2img" height=3D"140" src=3D"http://mails.newsdeal-rgp.com/img/774/=
+images/1620733548591.png" style=3D"display:block; border:none; outline:none=
+; text-decoration:none;" width=3D"260"></a></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<!-- Spacing -->=0A=09=09=
+=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td h=
+eight=3D"15" style=3D"font-size:1px; line-height:1px; mso-line-height-rule:=
+ exactly;" width=3D"100%"></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td><!-- start of te=
+xt content table -->=0A=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"=
+center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devicewid=
+thinner" width=3D"260">=0A=09=09=09=09=09=09=09=09=09=09=09=09=09<tbody><!-=
+- title -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09<td st-title=3D"2col-title2" style=3D"font=
+-family: Helvetica, arial, sans-serif; font-size: 18px; color: #333333; tex=
+t-align:left;line-height: 20px;"><a href=3D"http://mails.newsdeal-rgp.com/Y=
+SUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU3MiUyNnMlM0Q3MjkzNzEw=
+JTI2dCUzRGMlMjZscyUzRDUlMjZjaXZpbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1=
+lJTNEJTI2cG9zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTF=
+hKbGJtNWxjekV1Wm5JJTNE" st-title=3D"2col-title1" style=3D"font-family: Helv=
+etica, arial, sans-serif; font-size: 18px; color: #333333; text-align:left;=
+line-height: 20px; text-decoration:none;" target=3D"_blank">D=C3=A9moussage=
+ et nettoyage</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end of title --><!-- Spacing=
+ -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09=09<td height=3D"15" style=3D"font-size:1px; line-h=
+eight:1px; mso-line-height-rule: exactly;" width=3D"100%"></td>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09<!-- /Spacing --><!-- content -->=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td st-cont=
+ent=3D"2col-para2" style=3D"font-family: Helvetica, arial, sans-serif; font=
+-size: 14px; color: #000; text-align:left;line-height: 20px;"><a href=3D"ht=
+tp://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmw=
+lM0QxNzU3MyUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZjaXZpbGl0eSUzRCUyNm=
+xhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyNmVtYWlsJTNEY21We=
+mNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE" st-content=3D"2col-par=
+a1" style=3D"font-family: Helvetica, arial, sans-serif; font-size: 14px; co=
+lor: #000; text-align:left;line-height: 20px; text-decoration:none;" target=
+=3D"_blank">Nettoyer, d=C3=A9mousser ou encore traiter, demandez votre devi=
+s gratuit en ligne.</a></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09</=
+tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- end of content --><!--=
+ Spacing -->=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<td height=3D"15" style=3D"font-size:1p=
+x; line-height:1px; mso-line-height-rule: exactly;" width=3D"100%"></td>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09<!-- /Spacing --><!-- button -->=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"left" bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"tablet-button" heigh=
+t=3D"30" st-button=3D"edit" valign=3D"middle">=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<t=
+d align=3D"center" height=3D"30" style=3D" background-color:#ff4c02; border=
+-top-left-radius:4px; border-bottom-left-radius:4px;border-top-right-radius=
+:4px; border-bottom-right-radius:4px; background-clip: padding-box;font-siz=
+e:13px; font-family:Helvetica, arial, sans-serif; text-align:center;  color=
+:#ffffff; font-weight: 300; padding-left:18px; padding-right:18px;" valign=
+=3D"middle" width=3D"auto"><span style=3D"color: #ffffff; font-weight: 300;=
+"><a href=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUz=
+RDI3MzkxMCUyNmwlM0QxNzU3NCUyNnMlM0Q3MjkzNzEwJTI2dCUzRGMlMjZscyUzRDUlMjZjaXZ=
+pbGl0eSUzRCUyNmxhc3RuYW1lJTNEJTI2Zmlyc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyNm=
+VtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE" style=
+=3D"color: #ffffff; text-align:center;text-decoration: none;">Votre devis g=
+ratuit</a> </span></td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=
+=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<=
+/tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09<!-- /button -->=0A=09=09=
+=09=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09=09=
+=09=09</table>=0A=09=09=09=09=09=09=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<!-- end of t=
+ext content table -->=0A=09=09=09=09=09=09=09=09=09=09</tbody>=0A=09=09=09=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=09<!-- end of right c=
+olumn --></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbo=
+dy>=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=
+=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td height=3D"20" width=
+=3D"100%"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tbody>=0A=09=09=09</=
+table>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tbody>=0A</table>=0A<!-- End o=
+f 2-columns --></div>=0A=0A<div class=3D"block"><!-- Start of preheader -->=
+=0A<table bgcolor=3D"#f6f4f5" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" id=3D"backgroundTable" st-sortable=3D"postfooter" width=3D"100%">=0A=09=
+<tbody>=0A=09=09<tr>=0A=09=09=09<td width=3D"100%">=0A=09=09=09<table align=
+=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"devic=
+ewidth" width=3D"580">=0A=09=09=09=09<tbody><!-- Spacing -->=0A=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09<td height=3D"5" width=3D"100%"></td>=0A=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09<!-- Spacing -->=0A=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09<td align=3D"center" st-content=3D"preheader" style=3D"fo=
+nt-family: Helvetica, arial, sans-serif; font-size: 10px;color: #999999" va=
+lign=3D"middle"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<!-- Spacing =
+-->=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td height=3D"5" width=3D"100=
+%"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<!-- Spacing -->=0A=09=09=
+=09=09</tbody>=0A=09=09=09</table>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tb=
+ody>=0A</table>=0A<!-- End of preheader --></div>=0A<img alt=3D"" src=3D"ht=
+tp://clicks.trckgtyh.com/display_c(1645)-s(1468)-m(13285)-e(43073)"></div>=
+=0A=0A<div style=3D"text-align:center;"><div align=3D"center"><font color=
+=3D"#000000" style=3D"font-size:11px;font-family:Verdana,Arial,Helvetica,sa=
+ns-serif;"><br>Pour cesser de recevoir nos informations sur l'adresse resp-=
+m2-miage@univ-rennes1.fr, <a href=3D"http://mails.newsdeal-rgp.com/YSUzRDEx=
+OTQlMjZjJTNENzc0JTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzU2MSUyNnMlM0Q3MjkzNzEwJTI2dCU=
+zRGMlMjZscyUzRDU=3D">d=C3=A9sabonnez-vous</a>.</font></div></div>=0A<img sr=
+c=3D"http://mails.newsdeal-rgp.com/YSUzRDExOTQlMjZjJTNENzc0JTI2ZSUzRDI3Mzkx=
+MCUyNnMlM0Q3MjkzNzEwJTI2bHMlM0Q1JTI2dCUzRG8=3D" alt=3D"Afficher les images"=
+ width=3D"1" height=3D"1" /></body>=0A</html>
+
+
+--b1_1d8da6564865e0b1ddd28bb484267f50--
+

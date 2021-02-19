@@ -1,0 +1,180 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@experteovent.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 18 Jun 2017 15:16:16 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id EA88D1D9
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Jun 2017 15:16:16 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id F27E860171
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Jun 2017 15:16:16 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id BsHQNOq-v4Uu for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 18 Jun 2017 15:16:16 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D4E1160100
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Jun 2017 15:16:16 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id C7A8B20033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Jun 2017 15:16:16 +0200 (CEST)
+Received: from smtp-a41.easyvu.com (smtp-a41.easyvu.com [185.52.34.78])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 3EF3A60567
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Jun 2017 15:16:41 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=experteovent.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp3; bh=fvlHM3VsNh2KRNMoRj/vgVkB
+	mAFs+eZDnovN3Q7UBzM=; b=OoKbBJdD203b4KrxGA6hA2cQbe+4Da2lRp+r2Mgm
+	aqH6xQ7JXIGRswP3iB0j+lJ5feMFOanZwCj2FUvyVI2Pq7s/kxQgedBkCU9roHQ8
+	mqyxF4lyl41ySRw40xxoNGiGaTCipNU64axtkvHIpdjHm7vzlK1C6aotFWoA6kqP
+	QZM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=experteovent.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp3; b=aLWktPAVeUEGqZvb+n
+	B0/xP9r+lumjg7T2T/MPPxK1XewfU5CAH6a44jwwZ+NSVQZCpGYal2NKKoqeMoQa
+	JHYFpljAt690ast9moJZIxOWCLGOVfBjqSJcatVxgWz6/1k8koX0JI4Z5G0ogGsg
+	DTg18WbAna2iCNgDI2mwpxzRU=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?La_solution_de_vos_probl=C3=A8mes_:_le_rachat_de_cr=C3=A9dits_!?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Sun, 18 Jun 2017 09:05:07 +0200
+From: travaux <travaux@experteovent.com>
+Reply-to: travaux <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@experteovent.com>
+X-campaign_id: 337118436832835368767592_40
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==503
+List-Unsubscribe: <http://app.experteovent.com/d/?camp=337118436832835368767592_40&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <cf2e7619b74252fb8a742e08b15736da@experteovent.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_cf2e7619b74252fb8a742e08b15736da"
+X-Original-Source-IP: 185.52.34.78
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrkeefgdeihecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpehtrhgrvhgruhiguceothhrrghvrghugiesvgigphgvrhhtvghovhgvnhhtrdgtohhmqeenucffohhmrghinhepvgigphgvrhhtvghovhgvnhhtrdgtohhmnecukfhppedukeehrdehvddrfeegrdejkeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrgedurdgvrghshihvuhdrtghomhdpihhnvghtpedukeehrdehvddrfeegrdejkedpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsegvgihpvghrthgvohhvvghnthdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--Part1_cf2e7619b74252fb8a742e08b15736da
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.experteovent.com/v/?camp=3D337118436832835368767592_40&ms=3Dcm=
+VzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_cf2e7619b74252fb8a742e08b15736da
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>La solution de vos probl=C3=A8mes : le rachat de cr=C3=A9dits !</t=
+itle>
+</head><body leftmargin=3D"0" style=3D"padding:0px; -moz-text-size-adjust=
+:none; -webkit-text-size-adjust:none; -ms-text-size-adjust:none; text-siz=
+e-adjust:none; margin:0px;" marginheight=3D"0" topmargin=3D"0" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.experteovent.com/v/?camp=3D337118436832835368767592=
+_40&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" ti=
+tle=3D"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." styl=
+e=3D"color:#00F; font-family:'Arial'; font-size:12px; text-decoration:und=
+erline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien=
+.</a></p><h1>  Rachats_de_credits    <img src=3D"http://app.experteovent.=
+com/r/?rc=3DaHR0cDovL3RtZmlsYS5jb20vcHgvQ1g3TlZCd1VQcy1yQmpaRW4xZEJWUQ=3D=
+=3D" width=3D"1" height=3D"1" border=3D"0"> <!-- Save for Web Slices (Rac=
+hats_de_credits.psd) --> <table id=3D"Tableau_01" width=3D"720" height=3D=
+"1155" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" align=3D"center">=
+ 	<tbody><tr> 		<td> 			<a href=3D"http://app.experteovent.com/r/?m=3DcmV=
+zcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D337118436832835368767592_40&r=
+c=3DaHR0cDovL3RtZmlsYS5jb20vY2xjL0NYN05WQndVUHMtckJqWkVuMWRCVlE=3D" targe=
+t=3D"_blank"> 				<img src=3D"http://app.experteovent.com/r/?rc=3DaHR0cDo=
+vL21lZGlhcy1hcGkuY29tL21pZXV
+ 4LWVjb25vbWlzZXIvcmFjL2ltYWdlcy9SYWNoYXRzX2RlX2NyZWRpdHNfMDEucG5n" width=
+=3D"720" height=3D"126" border=3D"0" alt=3D"Regroupez vos cr&eacute;dits =
+"></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.experteovent.com=
+/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D337118436832835368=
+767592_40&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjL0NYN05WQndVUHMtckJqWkVuMWRCVl=
+E=3D" target=3D"_blank"> 				<img src=3D"http://app.experteovent.com/r/?r=
+c=3DaHR0cDovL21lZGlhcy1hcGkuY29tL21pZXV4LWVjb25vbWlzZXIvcmFjL2ltYWdlcy9SY=
+WNoYXRzX2RlX2NyZWRpdHNfMDIucG5n" width=3D"720" height=3D"340" border=3D"0=
+" alt=3D"Regroupez vos cr&eacute;dits "></a></td> 	</tr> 	<tr> 		<td> 			=
+<a href=3D"http://app.experteovent.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJ=
+lbm5lczEuZnI=3D&c=3D337118436832835368767592_40&rc=3DaHR0cDovL3RtZmlsYS5j=
+b20vY2xjL0NYN05WQndVUHMtckJqWkVuMWRCVlE=3D" target=3D"_blank"> 				<img s=
+rc=3D"http://app.experteovent.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL21=
+pZXV4LWVjb25vbWlzZXIvcmFjL2ltYWdlcy9SYWNoYXRzX2RlX2NyZWRpdHNfMDMucG5n" wi=
+dth=3D"720" height=3D"69
+ " border=3D"0" alt=3D"Regroupez vos cr&eacute;dits "></a></td> 	</tr> 	<=
+tr> 		<td> 			<a href=3D"http://app.experteovent.com/r/?m=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D337118436832835368767592_40&rc=3DaHR0cD=
+ovL3RtZmlsYS5jb20vY2xjL0NYN05WQndVUHMtckJqWkVuMWRCVlE=3D" target=3D"_blan=
+k"> 				<img src=3D"http://app.experteovent.com/r/?rc=3DaHR0cDovL21lZGlhc=
+y1hcGkuY29tL21pZXV4LWVjb25vbWlzZXIvcmFjL2ltYWdlcy9SYWNoYXRzX2RlX2NyZWRpdH=
+NfMDQucG5n" width=3D"720" height=3D"162" border=3D"0" alt=3D"Regroupez vo=
+s cr&eacute;dits "></a></td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app=
+.experteovent.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D3=
+37118436832835368767592_40&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjL0NYN05WQndVU=
+HMtckJqWkVuMWRCVlE=3D" target=3D"_blank"> 				<img src=3D"http://app.expe=
+rteovent.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL21pZXV4LWVjb25vbWlzZXIv=
+cmFjL2ltYWdlcy9SYWNoYXRzX2RlX2NyZWRpdHNfMDUucG5n" width=3D"720" height=3D=
+"67" border=3D"0" alt=3D"Regroupez vos cr&eacute;dits "></a></td> 	</tr> =
+	<tr> 		<td> 			<a href=3D
+ "http://app.experteovent.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEu=
+ZnI=3D&c=3D337118436832835368767592_40&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjL=
+0NYN05WQndVUHMtckJqWkVuMWRCVlE=3D" target=3D"_blank"> 				<img src=3D"htt=
+p://app.experteovent.com/r/?rc=3DaHR0cDovL21lZGlhcy1hcGkuY29tL21pZXV4LWVj=
+b25vbWlzZXIvcmFjL2ltYWdlcy9SYWNoYXRzX2RlX2NyZWRpdHNfMDYucG5n" width=3D"72=
+0" height=3D"105" border=3D"0" alt=3D"Regroupez vos cr&eacute;dits "></a>=
+</td> 	</tr> 	<tr> 		<td> 			<a href=3D"http://app.experteovent.com/r/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D337118436832835368767592_4=
+0&rc=3DaHR0cDovL3RtZmlsYS5jb20vY2xjL0NYN05WQndVUHMtckJqWkVuMWRCVlE=3D" ta=
+rget=3D"_blank"> 				<img src=3D"http://app.experteovent.com/r/?rc=3DaHR0=
+cDovL21lZGlhcy1hcGkuY29tL21pZXV4LWVjb25vbWlzZXIvcmFjL2ltYWdlcy9SYWNoYXRzX=
+2RlX2NyZWRpdHNfMDcucG5n" width=3D"720" height=3D"286" border=3D"0" alt=3D=
+"Regroupez vos cr&eacute;dits "></a></td> 	</tr> </tbody></table> <!-- En=
+d Save for Web Slices -->  </h1><img src=3D"http://app.experteovent.com/t=
+/?i=3D33711843683283
+ 5368767592_40&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp:=
+//app.experteovent.com/images/blank.jpg" alt=3D"_pspacer6"  /><p>
+<a href=3D"http://app.experteovent.com/d/?camp=3D337118436832835368767592=
+_40&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" ti=
+tle=3D"Ne plus recevoir d'informations de notre part" style=3D"color:#00F=
+; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour s=
+e d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&=
+eacute; un quelconque d&eacute;rangement, nous vous prions de nous en exc=
+user.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_cf2e7619b74252fb8a742e08b15736da--
+

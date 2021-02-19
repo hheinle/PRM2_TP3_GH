@@ -1,0 +1,306 @@
+Return-Path: <info@promonews-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Fri, 21 Apr 2017 04:39:27 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 99093531
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 04:39:27 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 9717F60135
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 04:39:27 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 7EwTcahlO3zs for <resp-m2-miage@univ-rennes1.fr>;
+	Fri, 21 Apr 2017 04:39:27 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 8342060030
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 04:39:27 +0200 (CEST)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 7BB0F20033
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 04:39:27 +0200 (CEST)
+Received: from mta4.promonews-rgp.com (mta4.promonews-rgp.com [163.172.243.221])
+	by mxb2-1.relay.renater.fr (asm) with ESMTP id 38C6E6001DA
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 21 Apr 2017 04:39:27 +0200 (CEST)
+X-QHPSI: clean
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=promonews-rgp.com; s=default; h=Date:To:From:Subject:
+	Message-ID:X-Mailer:Precedence:List-Unsubscribe:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=GCqlRHcB5FvMkCcjTNCUU
+	o1oMmo=; b=VcQmufoxcu6jJsPIzAlv/ZYO/E6WLQPx2rSk81UzLO7hvr+PdeVi5
+	jIQHwDXHZ1P1EORe3JtFAciM13A2Hwqi2TM4FQI2GhD7pdLq+s1Me4j30arprJK+
+	onPJ2Xsghp04z8SMeIk9r1tMKvyWlc68ZLQxQYADgEYr1Yu5RQLXek=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=simple;
+  s=default; d=promonews-rgp.com;
+  b=tlVLebBM5EsKEBgXZ2Djxhbg48IOHQA5YkF7lPFmhdrSPTFwvw9qtXBGFOXvLBIhK4TuIhGYoottK+qpiE9Hl1h8WJt6PbFFRTaX8kQZ7PLmCenSECiGFgzsEnXmWjR3hIIyi7hqsJHOI1bW3i6Nkh3t6JdazdC3Of1XyKrBmXs=;
+Received: (indimail 59367 invoked from 62.210.149.114 by host im39 by uid 555); Fri, 21 Apr 2017 04:39:25 +0200
+Date: Fri, 21 Apr 2017 04:39:25 +0200
+To: resp-m2-miage@univ-rennes1.fr
+From: =?utf-8?Q?Astuce_cr=C3=A9dit?= <info@promonews-rgp.com>
+Subject: =?utf-8?Q?R=C3=A9duisez_vos_mensualit=C3=A9s_de_60%_gr=C3=A2ce_au_rachat_?=
+ =?utf-8?Q?de_cr=C3=A9dit?=
+Message-ID: <d7e005488be0c7980fbb7bb91118ca35@localhost.localdomain>
+X-Mailer: Mailxpertise
+X-List: 5
+X-Account: 1194
+X-Campaign: 383
+X-Mode: 1
+X-Unique: 273910
+X-Abuse: abuse@mxea39.com
+Precedence: bulk
+List-Unsubscribe: <http://promonews-rgp.com/JTI2YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMCUyNmVtJTNEcmVzcC1tMi1taWFnZSU0MHVuaXYtcmVubmVzMS5mciUyNnQlM0RjJTI2bCUzRDEwOTU2JTI2ZiUzRDI=>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d7e005488be0c7980fbb7bb91118ca35"
+Content-Transfer-Encoding: quoted-printable
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 163.172.243.221
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeliedrfeefgdeilecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpeffvffhuffkofhpjfggtgfgsegrqhhjphertdejnecuhfhrohhmpeetshhtuhgtvggptghrroguihhtuceoihhnfhhosehprhhomhhonhgvfihsqdhrghhprdgtohhmqeenucffohhmrghinhepphhrohhmohhnvgifshdqrhhgphdrtghomhenucfkphepudeifedrudejvddrvdegfedrvddvudenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhhtrgegrdhprhhomhhonhgvfihsqdhrghhprdgtohhmpdhinhgvthepudeifedrudejvddrvdegfedrvddvuddpmhgrihhlfhhrohhmpehinhhfohesphhrohhmohhnvgifshdqrhhgphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--b1_d7e005488be0c7980fbb7bb91118ca35
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+http://promonews-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMCUyNmwlM0=
+QxMDk1MyUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+ =09=09 [1]
+
+ =09=09 [1]
+
+ =09=09DEVIS GRATUIT [1]
+
+ =09=09 [1]
+
+ =09=09 [1]
+
+ Solution contre l'endettement
+ SIMULER VOTRE RACHAT DE CR=C3=89DIT=20
+
+ =09=09CLIQUEZ ICI ! [1]
+
+L=12avantage majeur du rachat de cr=C3=A9dit est l=12application d=12un tau=
+x unique et fixe aux mensualit=C3=A9s
+de remboursement. Ce qui permet une stabilit=C3=A9 financi=C3=A8re pour l=
+=12emprunteur et de pouvoir faire
+face aux d=C3=A9penses du foyer plus facilement en lui redonnant du pouvoir=
+ d=12achat.=20
+
+En effet, en rassemblant tous les cr=C3=A9dits en un seul pr=C3=AAt, on app=
+lique un seul taux d=12int=C3=A9r=C3=AAts
+=C3=A0 la place de plusieurs. Ce m=C3=A9canisme favorise une vue d=12ensemb=
+le plus claire et permet ainsi une
+meilleure gestion de son budget. Comme les taux d=12int=C3=A9r=C3=AAts sont=
+ n=C3=A9goci=C3=A9s au rabais, les primes
+mensuelles =C3=A0 payer sont =C3=A9galement revues =C3=A0 la baisse.=20
+
+Un cr=C3=A9dit vous engage et doit =C3=AAtre rembours=C3=A9. V=C3=A9rifiez =
+vos capacit=C3=A9s de remboursement avant de
+vous engager.=20
+
+http://promonews-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMCUyNmwlM0=
+QxMDk1NSUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+Links:
+------
+[1] http://clicks.trckgtyh.com/click_c(735)-s(1468)-m(2980)-e(43561)-u(30)?
+
+
+--b1_d7e005488be0c7980fbb7bb91118ca35
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">=0A<html>=0A=
+<head>=0A=09<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"cont=
+ent-type">=0A=09<title>simulation en rachat de cr=C3=A9dit</title>=0A=09<st=
+yle type=3D"text/css">.apml {font-family: arial, helvetica; font-size: 11px=
+; color: #29b4c9; text-align: right} .gris10 {font-family: arial, helvetica=
+; font-size: 11px; color: #888888; text-align: justify} .lien10 {font-famil=
+y: arial, verdana; font-size: 11px; font-weight: 700; color: #888888; text-=
+align: justify} a.gris10, a.lien10, a.apml {text-decoration:underline} .mes=
+sage {font-family: verdana, arial, helvetica; font-size: 11px; font-weight:=
+ 700; color: #888888;} @media only screen and (max-width: 640px) {.visu, .m=
+ention {width:90%}}=0A=09</style>=0A=09<meta content=3D"width=3Ddevice-widt=
+h" name=3D"viewport">=0A</head>=0A<body  bgcolor=3D"#FFFFFF" style=3D"margi=
+n:0 0 0 0" template=3D"1"><div style=3D'text-align:center;'><div align=3D"c=
+enter"><font color=3D"#000000" style=3D"font-size:11px;font-family:Verdana,=
+Arial,Helvetica,sans-serif;"><br>Pour visualiser correctement ce message, a=
+cc=C3=A9dez =C3=A0 la <a href=3D"http://promonews-rgp.com/YSUzRDExOTQlMjZjJ=
+TNEMzgzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMDk1NCUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZs=
+cyUzRDUlMjZ1bnN1YnNjcmliZSUzRCUyNm1pcnJvciUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF=
+0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE">version en ligne</a><br><br></fo=
+nt></div></div>=0A<table bgcolor=3D"#FFFFFF" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%">=0A=09<tbody>=0A=09=09<tr>=0A=09=09=09<td=
+ align=3D"center">=0A=09=09=09<table align=3D"center" bgcolor=3D"#ffffff" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"visu" width=3D"580=
+">=0A=09=09=09=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td></td=
+>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tbody>=0A=09=09=09</table>=0A=09=
+=09=09</td>=0A=09=09</tr>=0A=09=09<tr>=0A=09=09=09<td align=3D"center">=0A=
+=09=09=09<table align=3D"center" bgcolor=3D"FFFFFF" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" class=3D"global" style=3D"font-family: Verdana, A=
+rial, sans-serif; border-collapse: collapse;" width=3D"600">=0A=09=09=09=09=
+<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td height=3D"10"></td>=
+=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=
+=3D"center" style=3D"font-family: Verdana, Arial, sans-serif; font-size: 20=
+px; font-weight: 400; color: #D51E2A; text-align: center; vertical-align: m=
+iddle; text-decoration: none;" valign=3D"middle"><a href=3D"http://promonew=
+s-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMDk1NyUyNnMlM=
+0Q3MjA1Mjc5JTI2dCUzRGMlMjZscyUzRDU=3D" style=3D"font-family: Verdana, Arial=
+,sans-serif; font-size: 20px; font-weight: 400; color: #D51E2A; text-align:=
+ center; vertical-align: middle; text-decoration: none;" target=3D"_blank">=
+<img alt=3D"Astuce-cr=C3=A9dit.fr" border=3D"0" height=3D"40" src=3D"http:/=
+/promonews-rgp.com/img/383/images/14551660458f7.jpg" style=3D"font-family: =
+Verdana, Arial, sans-serif; font-size: 20px; font-weight: 400; color: #D51E=
+2A; text-align: center; vertical-align: middle; text-decoration: none;" wid=
+th=3D"260"> </a></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09<td align=3D"center" bgcolor=3D"E1F0FC" style=3D"font-family: V=
+erdana, Arial, sans-serif; font-size: 20px; font-weight: 400; color: #4F739=
+7; text-align: center; vertical-align: middle; text-decoration: none;" vali=
+gn=3D"middle"><a href=3D"http://promonews-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJ=
+TI2ZSUzRDI3MzkxMCUyNmwlM0QxMDk1OCUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZscyUzRDU=
+=3D" style=3D"font-family: Verdana, Arial, sans-serif; font-size: 20px; fon=
+t-weight: 400; color: #4F7397; text-align: center; vertical-align: middle; =
+text-decoration: none;" target=3D"_blank"><img alt=3D"Regroupement de cr=C3=
+=A9dit" border=3D"0" class=3D"solution" height=3D"247" src=3D"http://promon=
+ews-rgp.com/img/383/images/31878772858f7.jpg" style=3D"display: block; font=
+-family: Verdana, Arial, sans-serif; font-size: 20px; font-weight: 400; col=
+or: #4F7397; text-align: center; vertical-align: middle; text-decoration: n=
+one;" width=3D"600"> </a></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09<td align=3D"center" class=3D"more" style=3D"font-fami=
+ly: Verdana, Arial, sans-serif; font-size: 20px; font-weight: 400; color: #=
+4F7397; text-align: center; vertical-align: middle; text-decoration: none;"=
+ valign=3D"middle">=0A=09=09=09=09=09=09<table align=3D"center" bgcolor=3D"=
+FFFFFF" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"font-fami=
+ly: Verdana, Arial, sans-serif; border-collapse: collapse;">=0A=09=09=09=09=
+=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09<td align=3D"center" class=3D"infos" style=3D"font-family: Verdana, Aria=
+l, sans-serif; font-size: 20px; font-weight: 400; color: #4F7397; text-alig=
+n: center; vertical-align: middle; text-decoration: none;" valign=3D"middle=
+" width=3D"260">=0A=09=09=09=09=09=09=09=09=09<table align=3D"center" bgcol=
+or=3D"c70c69" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"fon=
+t-family: Verdana, Arial, sans-serif; border-collapse: collapse;">=0A=09=09=
+=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"center" bgcolor=3D"c70c69"=
+ height=3D"48" style=3D"font-family: Verdana, Arial, sans-serif; font-weigh=
+t: 700; font-size: 20px; color: #FFFFFF; text-align: center; text-decoratio=
+n: none;" valign=3D"middle" width=3D"220"><a href=3D"http://promonews-rgp.c=
+om/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMDk1OSUyNnMlM0Q3MjA1=
+Mjc5JTI2dCUzRGMlMjZscyUzRDU=3D" style=3D"font-family: Verdana, Arial, sans-=
+serif; font-weight: 700; font-size: 20px; color: #FFFFFF; text-align: cente=
+r; text-decoration: none; display: block;" target=3D"_blank"><span style=3D=
+"font-family: Verdana, Arial, sans-serif; font-weight:700; font-size: 20px;=
+ color: #FFFFFF; text-align: center; text-decoration: none;">DEVIS GRATUIT =
+</span> </a></td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09<td align=3D"right"=
+ class=3D"investir" height=3D"48" style=3D"font-family: Verdana, Arial, san=
+s-serif; font-size: 20px; font-weight: 400; color: #4F7397; text-align: cen=
+ter; vertical-align: middle; text-decoration: none;" valign=3D"top" width=
+=3D"340"><a href=3D"http://promonews-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZS=
+UzRDI3MzkxMCUyNmwlM0QxMDk2MCUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZscyUzRDU=3D" s=
+tyle=3D"font-family: Verdana, Arial, sans-serif; font-size: 20px; font-weig=
+ht: 400; color: #4F7397; text-align: center; vertical-align: middle; text-d=
+ecoration: none;" target=3D"_blank"><img alt=3D"Diminuez vos mensualit=C3=
+=A9s" border=3D"0" height=3D"48" src=3D"http://promonews-rgp.com/img/383/im=
+ages/100155166158f.jpg" style=3D"display: block; font-family: Verdana, Aria=
+l, sans-serif; font-size: 20px; font-weight: 400; color: #4F7397; text-alig=
+n: center; vertical-align: middle; text-decoration: none;" width=3D"340"> <=
+/a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=
+=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=
+=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td height=3D"10"></td>=0A=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=3D"cente=
+r" bgcolor=3D"ffffff" style=3D"font-family: Verdana, Arial, sans-serif; fon=
+t-size: 20px; font-weight: 400; color: #333333; text-align: center; vertica=
+l-align: middle; text-decoration: none;" valign=3D"middle">=0A=09=09=09=09=
+=09=09<table align=3D"center" bgcolor=3D"ffffff" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" class=3D"engagement" style=3D"font-family: Verdana=
+, Arial, sans-serif; border-collapse: collapse;">=0A=09=09=09=09=09=09=09<t=
+body>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td align=
+=3D"center" class=3D"artisan" style=3D"font-family: Verdana, Arial, sans-se=
+rif; font-size: 20px; font-weight: 400; color: #333333; text-align: center;=
+ vertical-align: middle; text-decoration: none;" valign=3D"middle"><a href=
+=3D"http://promonews-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMCUyNm=
+wlM0QxMDk2MSUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZscyUzRDU=3D" style=3D"font-fam=
+ily: Verdana, Arial, sans-serif; font-size: 20px; font-weight: 400; color: =
+#333333; text-align: center; vertical-align: middle; text-decoration: none;=
+" target=3D"_blank"><img alt=3D"simulation en rachat de cr=C3=A9dit" border=
+=3D"0" height=3D"230" src=3D"http://promonews-rgp.com/img/383/images/114069=
+233058f.jpg" style=3D"display: block; font-family: Verdana, Arial, sans-ser=
+if; font-size: 20px; font-weight: 400; color: #333333; text-align: center; =
+vertical-align: middle; text-decoration: none;" width=3D"230"> </a></td>=0A=
+=09=09=09=09=09=09=09=09=09<td align=3D"left" class=3D"argu2" style=3D"" va=
+lign=3D"middle" width=3D"336">=0A=09=09=09=09=09=09=09=09=09<table align=3D=
+"center" bgcolor=3D"ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0=
+" style=3D"font-family: Verdana, Arial, sans-serif; border-collapse: collap=
+se;">=0A=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09<td align=3D"left" height=
+=3D"140" style=3D"font-family: Verdana, Arial, sans-serif; font-size: 18px;=
+ font-weight: 400;color: #333333; text-align: left; vertical-align: middle;=
+ line-height: 30px;" valign=3D"middle">Solution contre l'endettement<br>=0A=
+=09=09=09=09=09=09=09=09=09=09=09=09<strong style=3D"font-family: Verdana, =
+Arial, sans-serif; font-size: 26px; font-weight: 700; color: #333333;">SIMU=
+LER VOTRE RACHAT DE CR=C3=89DIT </strong></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=
+=09=09=09=09=09=09<td align=3D"left" class=3D"inscription" style=3D"" valig=
+n=3D"top">=0A=09=09=09=09=09=09=09=09=09=09=09=09<table align=3D"left" bgco=
+lor=3D"1750a1" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" style=3D"fo=
+nt-family: Verdana, Arial, sans-serif; border-collapse: collapse;">=0A=09=
+=09=09=09=09=09=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09=09=09<td alig=
+n=3D"center" bgcolor=3D"1750a1" height=3D"48" style=3D"font-family: Verdana=
+, Arial, sans-serif; font-weight: 700; font-size: 20px;color: #FFFFFF; text=
+-align: center; text-decoration: none;" valign=3D"middle" width=3D"220"><a =
+href=3D"http://promonews-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMC=
+UyNmwlM0QxMDk2MiUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZscyUzRDU=3D" style=3D"font=
+-family: Verdana, Arial, sans-serif; font-weight: 700; font-size: 20px; col=
+or: #FFFFFF; text-align: center; text-decoration: none; display: block;" ta=
+rget=3D"_blank"><span style=3D"font-family: Verdana, Arial, sans-serif; fon=
+t-weight: 700; font-size: 20px; color: #FFFFFF; text-align: center; text-de=
+coration: none;">CLIQUEZ ICI !</span> </a></td>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09=09=09=09=09=09=09</tbody>=
+=0A=09=09=09=09=09=09=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09=09=09=
+=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09=09=09=09</table>=0A=09=09=
+=09=09=09=09=09=09=09</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td height=
+=3D"10"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=
+=09=09<td align=3D"justify" style=3D"font-family: Verdana, Arial, sans-seri=
+f; font-size:12px; font-weight: normal; color: #4F7397; text-align: justify=
+; vertical-align: middle; text-decoration: none;padding:5px;" valign=3D"mid=
+dle">=0A=09=09=09=09=09=09<p>L=12avantage majeur du rachat de cr=C3=A9dit e=
+st l=12application d=12un taux unique et fixe aux mensualit=C3=A9s de rembo=
+ursement. Ce qui permet une stabilit=C3=A9 financi=C3=A8re pour l=12emprunt=
+eur et de pouvoir faire face aux d=C3=A9penses du foyer plus facilement en =
+lui redonnant du pouvoir d=12achat.</p>=0A=0A=09=09=09=09=09=09<p>En effet,=
+ en rassemblant tous les cr=C3=A9dits en un seul pr=C3=AAt, on applique un =
+seul taux d=12int=C3=A9r=C3=AAts =C3=A0 la place de plusieurs. Ce m=C3=A9ca=
+nisme favorise une vue d=12ensemble plus claire et permet ainsi une meilleu=
+re gestion de son budget. Comme les taux d=12int=C3=A9r=C3=AAts sont n=C3=
+=A9goci=C3=A9s au rabais, les primes mensuelles =C3=A0 payer sont =C3=A9gal=
+ement revues =C3=A0 la baisse.</p>=0A=0A=09=09=09=09=09=09<p>Un cr=C3=A9dit=
+ vous engage et doit =C3=AAtre rembours=C3=A9. V=C3=A9rifiez vos capacit=C3=
+=A9s de remboursement avant de vous engager.</p>=0A=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td heigh=
+t=3D"10"></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09</tbody>=0A=09=09=09</t=
+able>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tbody>=0A</table>=0A<img alt=3D=
+"" src=3D"http://clicks.trckgtyh.com/display_c(735)-s(1468)-m(2980)-e(43561=
+)"><div style=3D'text-align:center;'><div align=3D"center"><font color=3D"#=
+000000" style=3D"font-size:11px;font-family:Verdana,Arial,Helvetica,sans-se=
+rif;"><br>Pour cesser de recevoir nos informations sur l'adresse resp-m2-mi=
+age@univ-rennes1.fr, <a href=3D"http://promonews-rgp.com/YSUzRDExOTQlMjZjJT=
+NEMzgzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxMDk1NiUyNnMlM0Q3MjA1Mjc5JTI2dCUzRGMlMjZsc=
+yUzRDU=3D">d=C3=A9sabonnez-vous</a>.</font></div></div><img src=3D"http://p=
+romonews-rgp.com/YSUzRDExOTQlMjZjJTNEMzgzJTI2ZSUzRDI3MzkxMCUyNnMlM0Q3MjA1Mj=
+c5JTI2bHMlM0Q1JTI2dCUzRG8=3D" alt=3D"Afficher les images" width=3D"1" heigh=
+t=3D"1" /></body>=0A</html>
+
+
+--b1_d7e005488be0c7980fbb7bb91118ca35--
+

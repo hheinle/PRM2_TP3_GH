@@ -1,0 +1,195 @@
+Return-Path: <jis_1711_igdehc_ffdgi@news-enquete40.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 23 Apr 2017 15:10:25 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id C722E4B
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 23 Apr 2017 15:10:25 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id C07E26005A
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 23 Apr 2017 15:10:25 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id K0rNMkfEEDDT for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 23 Apr 2017 15:10:25 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id AB8236002A
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 23 Apr 2017 15:10:25 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id AA3EB20033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 23 Apr 2017 15:10:25 +0200 (CEST)
+Received: from mail160.news-enquete40.fr (mail160.news-enquete40.fr [82.97.29.124])
+	(using TLSv1.2 with cipher ADH-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id 6B47C600058
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 23 Apr 2017 15:10:25 +0200 (CEST)
+From: "=?utf-8?B?QWxpbmVh?=" <marie@news-enquete40.fr>
+To: resp-m2-miage@univ-rennes1.fr
+Reply-To: "=?utf-8?B?QWxpbmVh?=" <newsletter@news-enquete40.fr>
+Subject: =?utf-8?B?UHJvbW9zIHN1ciBsYSBub3V2ZWxs?=
+ =?utf-8?B?ZSBjb2xsZWN0aW9uIGphcmRpbiAh?=
+Date: Sun, 23 Apr 2017 15:10:19 +0200
+Message-ID: <20170423-131019-13923589294@news-enquete40.fr>
+List-Unsubscribe: <mailto:abuse@news-enquete40.fr?subject=13923589294>, <http://stats.news-enquete40.fr/ur/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM_3d/i.htm>
+List-Abuse: <mailto:abuse@news-enquete40.fr?subject=13923589294>, <http://stats.news-enquete40.fr/ur/a/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM_3d/i.htm>
+X-Mailer: EmailStrategie
+X-1711-Campaign-ID: 863472
+X-1711-Message-ID: 13923589294
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+	d=news-enquete40.fr; s=mail;
+	h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+	bh=uLCl962mvdcnhfddjVfHiPQSCWa/DV2bPITDiNpdlZk=;
+	b=cUx4JIp5lt6GpnBexY4OvsXRBkqaf29xfNEIhDVGxATFU5cLVhzZfZUY1gGs5Eo0
+		9U+W6WXZgx0Vf8v/XAPbZYZmivrVTDs9gzFgnRf8wkdfQtFeYIE+mFiYtDVqZgJR
+		LOJPBwHJQZ9yuGdUQTypCXJUZi6rFLhkAFkAPN7Q05M=
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--=ed4f5dc9_e4c1_4560_9702_32250226c8c6"
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 82.97.29.124
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeliedrfeekgdehiecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefhvfhrufffkffjofggtgesmhdtreerredtjeenucfhrhhomhepfdetlhhinhgvrgdfuceomhgrrhhivgesnhgvfihsqdgvnhhquhgvthgvgedtrdhfrheqnecuffhomhgrihhnpehnvgifshdqvghnqhhuvghtvgegtddrfhhrnecukfhppeekvddrleejrddvledruddvgeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhgrihhludeitddrnhgvfihsqdgvnhhquhgvthgvgedtrdhfrhdpihhnvghtpeekvddrleejrddvledruddvgedpmhgrihhlfhhrohhmpehjihhspgdujeduudgpihhguggvhhgtpghffhgughhisehnvgifshdqvghnqhhuvghtvgegtddrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+----=ed4f5dc9_e4c1_4560_9702_32250226c8c6
+Content-Type: multipart/alternative;
+	boundary="--=de2fad2c_367d_429c_9f27_126e9a940f06"
+
+----=de2fad2c_367d_429c_9f27_126e9a940f06
+Content-Type: text/plain;charset="utf-8"
+Content-Transfer-Encoding: Quoted-Printable
+
+http://stats.news-enquete40.fr/m/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4Eg=
+cBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM_3d/i.htm
+
+----=de2fad2c_367d_429c_9f27_126e9a940f06
+Content-Type: text/html;charset="utf-8"
+Content-Transfer-Encoding: Quoted-Printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://=
+www.w3.org/TR/html4/loose.dtd">=0A<html>=0A<head><meta http-equiv=3D"co=
+ntent-type" content=3D"text/html; charset=3Dutf-8" />=0A	<title>&nbsp;<=
+/title>=0A	<base target=3D"_blank" />=0A</head>=0A<body leftmargin=3D"0=
+" marginheight=3D"0" marginwidth=3D"0" rightmargin=3D"0" topmargin=3D"0=
+"><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0=
+"  >=20
+<tr>  <td  align=3D"center" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000" >
+Si vous ne parvenez pas &agrave; lire ce message,=20
+<a style=3D"text-decoration:underline" href=3D"http://stats.news-enquet=
+e40.fr/m/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkB=
+u7qkxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000">
+suivez ce lien</font></a>
+</font></td>  </tr>
+</table><table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0"  >=20
+<tr>  <td  align=3D"center" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000" >
+Pour vous d&eacute;sinscrire,=20
+<a style=3D"text-decoration:underline" href=3D"http://stats.news-enquet=
+e40.fr/ur/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMk=
+Bu7qkxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000">
+suivez ce lien</font></a>
+</font></td>  </tr>
+</table>=0A<table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"600">=0A	<tbody>=0A		<tr>=0A			<td align=3D"cente=
+r" height=3D"106" style=3D"width:600px; height:106px; margin:0; padding=
+:0" width=3D"600"><font color=3D"#3d3d3d" face=3D"Arial, Helvetica, san=
+s-serif" size=3D"4"><font color=3D"#e52e84" face=3D"Arial, Helvetica, s=
+ans-serif" size=3D"4">NOUVELLE COLLECTION JARDIN</font><br />=0A			Le s=
+oleil s&rsquo;invite chez vous !<br />=0A			<font color=3D"#3d3d3d" fac=
+e=3D"Arial, Helvetica, sans-serif" size=3D"3"><em>Jusqu&rsquo;au 26 avr=
+il 2017</em></font></font></td>=0A		</tr>=0A		<tr>=0A			<td height=3D"5=
+0" style=3D"width:600px; height:50px; margin:0; padding:0; line-height:=
+ 50%" width=3D"600"><a href=3D"http://stats.news-enquete40.fr/l/6301995=
+8/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvY=
+c8eY_2bsKM_3d/i.htm" target=3D"_blank"><img alt=3D"Alin&eacute;a" borde=
+r=3D"0" height=3D"50" src=3D"http://stats.news-enquete40.fr//o/EXeQu8oy=
+Q_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM=
+_3d/o.gif" width=3D"600" /></a></td>=0A		</tr>=0A		<tr>=0A			<td height=
+=3D"236" style=3D"width:600px; height:236px; margin:0; padding:0; line-=
+height: 50%" width=3D"600"><a href=3D"http://stats.news-enquete40.fr/l/=
+63019959/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkB=
+u7qkxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank"><img alt=3D"Jusqu'&agrave=
+; -20% sur le jardin !" border=3D"0" height=3D"236" src=3D"http://vht.t=
+radedoubler.com/file/275615/emailing/1404/alinea_03.jpg" width=3D"600" =
+/></a></td>=0A		</tr>=0A		<tr>=0A			<td height=3D"272" style=3D"width:6=
+00px; height:272px; margin:0; padding:0; line-height: 50%" width=3D"600=
+"><a href=3D"http://stats.news-enquete40.fr/l/63019960/EXeQu8oyQ_2fYyi6=
+4mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM_3d/i.ht=
+m" target=3D"_blank"><img alt=3D"J'en profite" border=3D"0" height=3D"2=
+72" src=3D"http://vht.tradedoubler.com/file/275615/emailing/1404/alinea=
+_04.jpg" width=3D"600" /></a></td>=0A		</tr>=0A		<tr>=0A			<td height=3D=
+"58" style=3D"width:600px; height:58px; margin:0; padding:0; line-heigh=
+t: 50%" width=3D"600"><a href=3D"http://stats.news-enquete40.fr/l/63019=
+961/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkx=
+vYc8eY_2bsKM_3d/i.htm" target=3D"_blank"><img alt=3D"Notre s&eacute;lec=
+tion coup de coeur" border=3D"0" height=3D"58" src=3D"http://vht.traded=
+oubler.com/file/275615/emailing/1404/alinea_05.jpg" width=3D"600" /></a=
+></td>=0A		</tr>=0A	</tbody>=0A</table>=0A=0A<table align=3D"center" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">=0A	<tbody=
+>=0A		<tr>=0A			<td height=3D"346" style=3D"width:298px; height:346px; =
+margin:0; padding:0; line-height: 50%" width=3D"298"><a href=3D"http://=
+stats.news-enquete40.fr/l/63019962/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4=
+EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank"=
+><img alt=3D"Canap&eacute; dangle LIP=0A399&euro;=0AJ'en profite" borde=
+r=3D"0" height=3D"346" src=3D"http://vht.tradedoubler.com/file/275615/e=
+mailing/1404/alinea_06.jpg" width=3D"298" /></a></td>=0A			<td height=3D=
+"346" style=3D"width:302px; height:346px; margin:0; padding:0; line-hei=
+ght: 50%" width=3D"302"><a href=3D"http://stats.news-enquete40.fr/l/630=
+19963/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7q=
+kxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank"><img alt=3D"Fauteuil BUTTERF=
+LY=0A189,90&euro;=0AJ'en profite" border=3D"0" height=3D"346" src=3D"ht=
+tp://vht.tradedoubler.com/file/275615/emailing/1404/alinea_07.jpg" widt=
+h=3D"302" /></a></td>=0A		</tr>=0A		<tr>=0A			<td height=3D"353" style=3D=
+"width:298px; height:353px; margin:0; padding:0; line-height: 50%" widt=
+h=3D"298"><a href=3D"http://stats.news-enquete40.fr/l/63019964/EXeQu8oy=
+Q_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM=
+_3d/i.htm" target=3D"_blank"><img alt=3D"Salon de jardin GEORGIA=0A229&=
+euro;=0AJ'en profite" border=3D"0" height=3D"353" src=3D"http://vht.tra=
+dedoubler.com/file/275615/emailing/1404/alinea_08.jpg" width=3D"298" />=
+</a></td>=0A			<td height=3D"353" style=3D"width:302px; height:353px; m=
+argin:0; padding:0; line-height: 50%" width=3D"302"><a href=3D"http://s=
+tats.news-enquete40.fr/l/63019965/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4E=
+gcBI6N9D7wUQFcEyTyg2KCMkBu7qkxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank">=
+<img alt=3D"Barbecue COMPACT KETTLE=0A79&euro;=0AJ'en profite" border=3D=
+"0" height=3D"353" src=3D"http://vht.tradedoubler.com/file/275615/email=
+ing/1404/alinea_09.jpg" width=3D"302" /></a></td>=0A		</tr>=0A	</tbody>=
+=0A</table>=0A=0A<table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600">=0A	<tbody>=0A		<tr>=0A			<td height=3D=
+"106" style=3D"width:600px; height:106px; margin:0; padding:0; line-hei=
+ght: 50%" width=3D"600"><a href=3D"http://stats.news-enquete40.fr/l/630=
+19966/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KCMkBu7q=
+kxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank"><img alt=3D"=2B Livraison gr=
+atuite sur tous les meubles et objets d&eacute;co*" border=3D"0" height=
+=3D"106" src=3D"http://vht.tradedoubler.com/file/275615/emailing/1404/a=
+linea_10.jpg" width=3D"600" /></a></td>=0A		</tr>=0A		<tr>=0A			<td hei=
+ght=3D"102" style=3D"width:600px; height:102px; margin:0; padding:0; li=
+ne-height: 50%" width=3D"600"><a href=3D"http://stats.news-enquete40.fr=
+/l/63019967/EXeQu8oyQ_2fYyi64mwcpUMbhZB2eK7KQyg4EgcBI6N9D7wUQFcEyTyg2KC=
+MkBu7qkxvYc8eY_2bsKM_3d/i.htm" target=3D"_blank"><img alt=3D"Payez en 3=
+X sans frais par CB" border=3D"0" height=3D"102" src=3D"http://vht.trad=
+edoubler.com/file/275615/emailing/1404/alinea_11.jpg" width=3D"600" /><=
+/a></td>=0A		</tr>=0A		<tr>=0A			<td height=3D"73" style=3D"width:600px=
+; height:73px; margin:0; padding:0" width=3D"600">=0A			<table align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"570"=
+>=0A				<tbody>=0A					<tr>=0A						<td><font color=3D"#818181" face=3D=
+"Arial, Helvetica, sans-serif" size=3D"2">* Livraison gratuite en magas=
+in. Livraison gratuite sur toute la d&eacute;co en point relais &agrave=
+; partir de 49&euro; et en colissimo &agrave; partir de 69&euro;. Livra=
+ison gratuite sur tous les meubles &agrave; domicile &agrave; partir de=
+ 499&euro;.</font></td>=0A					</tr>=0A				</tbody>=0A			</table>=0A			=
+</td>=0A		</tr>=0A	</tbody>=0A</table>=0A<img border=3D"0" height=3D"1"=
+ src=3D"http://impfr.tradedoubler.com/imp?type(img)g(23839960)a(2912179=
+)" width=3D"1" /></body>=0A</html>=0A
+
+----=de2fad2c_367d_429c_9f27_126e9a940f06--
+
+----=ed4f5dc9_e4c1_4560_9702_32250226c8c6--

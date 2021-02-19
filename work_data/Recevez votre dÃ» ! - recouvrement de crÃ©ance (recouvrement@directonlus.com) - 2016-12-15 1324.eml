@@ -1,0 +1,269 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 15 Dec 2016 13:24:03 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id A45AD47
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 13:24:03 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id A1A976031F
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 13:24:03 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id S2YkkY4dN0V8 for <resp-m2-miage@univ-rennes1.fr>;
+	Thu, 15 Dec 2016 13:24:03 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 82D26600E2
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 13:24:03 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 7A3DC20033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 13:24:03 +0100 (CET)
+Received: from smtp-a59.directonlus.com (smtp-a59.directonlus.com [82.97.39.32])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 3882C6002A4
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 15 Dec 2016 13:24:03 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp5; bh=CdgS4Bf3Lc3CxfHl+U63CFNC
+	+7k3353svI2JTuCE6iU=; b=j2FVPgPK5ceiXMv+IvIwVBA8ci1n4lS+GMhaDMGV
+	F2Mtt1fdyljXdaHn5q8Q2O6ISyQ5GJq4Zz1iR1M9ajE+osj9RTILUzt67yE8+XJL
+	MS9g1taR5DFQLLz5iWDb4eIhpp/iQok5MUVEzo7vI2LvpCVzsj8DMyImdYsoZi8y
+	/sw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp5; b=D1WS7X7/vFU3bJkDtu
+	5e63jx/7CEWl6Be0ngSl7TMHSP1rMHe+RWuTvOgnWEcVwsALAj+k+1Lu8RYd9en0
+	Mnc8MvIGYIKWYM+kHEBIhbE4mxxrx/8bYo3w8o4S6jI7tX9h8G+OwqhOTpxUtkmK
+	kJUn06FNZ9sSEif5SHUj5a00Y=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Recevez_votre_d=C3=BB_!?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Thu, 15 Dec 2016 13:24:00 +0100
+From: =?utf-8?Q?recouvrement_de_cr=C3=A9ance?= <recouvrement@directonlus.com>
+Reply-to: =?utf-8?Q?recouvrement_de_cr=C3=A9ance?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+X-campaign_id: 839_14
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==948
+List-Unsubscribe: <http://app.directonlus.com/d/?camp=839_14&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <0fd0657c8a28bd05eadea59501e7341f@directonlus.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_0fd0657c8a28bd05eadea59501e7341f"
+X-Original-Source-IP: 82.97.39.32
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrieekgdduiecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpehrvggtohhuvhhrvghmvghnthgpuggvpggtrhorrghntggvuceorhgvtghouhhvrhgvmhgvnhhtseguihhrvggtthhonhhluhhsrdgtohhmqeenucffohhmrghinhepughirhgvtghtohhnlhhushdrtghomhenucfkphepkedvrdeljedrfeelrdefvdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrheelrdguihhrvggtthhonhhluhhsrdgtohhmpdhinhgvthepkedvrdeljedrfeelrdefvddpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgseguihhrvggtthhonhhluhhsrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--Part1_0fd0657c8a28bd05eadea59501e7341f
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.directonlus.com/v/?camp=3D839_14&ms=3DcmVzcC1tMi1taWFnZUB1bml2=
+LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_0fd0657c8a28bd05eadea59501e7341f
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Recevez votre d=C3=BB !</title>
+</head><body style=3D"-moz-text-size-adjust:none; -webkit-text-size-adjus=
+t:none; text-size-adjust:none; padding:0px; margin:0px; -ms-text-size-adj=
+ust:none;" marginwidth=3D"0" leftmargin=3D"0" topmargin=3D"0" marginheigh=
+t=3D"0">
+<center><p>
+<a href=3D"http://app.directonlus.com/v/?camp=3D839_14&ms=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si cet e-mail n=
+e s'affiche pas correctement, suivez ce lien." style=3D"color:#00F; font-=
+family:'Arial'; font-size:12px; text-decoration:underline;">Si cet email =
+ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p><table align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><=
+tbody> <tr> <td>             <table align=3D"left" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr> <td><a href=3D"http:=
+//app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=
+=3D839_14&rc=3DaHR0cDovL25vZGVzLm5wdjE3cWVqYmQuY29tL3IvY2xpYy04Ny0zNjItNT=
+c5NS11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjeTFsYm5SeVpYQnlhWE5sTG1KcGVpODFOVFJ=
+mUkVWZk1ERXhOaTlwYm1SbGVDNW9kRzFzUDNGamNEMDFOVFJmUkVWZk1ERXhOaVoxZEcxZmMy=
+OTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZ=
+DNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3=
+JvdXA9cF8x
+ MjgxNg=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-de=
+coration:none ;" target=3D"_blank"><img name=3D"index_r1_c1" src=3D"http:=
+//app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpcy1lbnRyZXByaXNlLmJpei8=
+1NTRfREVfMDExNi9pbWcvaW5kZXhfcjFfYzEuanBn" id=3D"index_r1_c1" alt=3D"" bo=
+rder=3D"0" height=3D"64" width=3D"241"></a></td>                         =
+<td><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2=
+LXJlbm5lczEuZnI=3D&c=3D839_14&rc=3DaHR0cDovL25vZGVzLm5wdjE3cWVqYmQuY29tL3=
+IvY2xpYy04Ny0zNjItNTc5NS11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjeTFsYm5SeVpYQnl=
+hWE5sTG1KcGVpODFOVFJmUkVWZk1ERXhOaTlwYm1SbGVDNW9kRzFzUDNGamNEMDFOVFJmUkVW=
+Zk1ERXhOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYM=
+k5oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbX=
+A7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xMjgxNg=3D=3D" style=3D"font-family:Arial, H=
+elvetica, sans-serif; text-decoration:none ;" target=3D"_blank"><img name=
+=3D"index_r1_c6" src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy=
+5kZXZpcy1lbnRyZX
+ ByaXNlLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjFfYzYuanBn" id=3D"index_r1_c=
+6" alt=3D"" border=3D"0" height=3D"64" width=3D"359"></a></td>           =
+          </tr></tbody></table> </td>         </tr> <tr> <td><img name=3D=
+"index_r2_c1" src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZ=
+XZpcy1lbnRyZXByaXNlLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjJfYzEuanBn" id=3D=
+"index_r2_c1" alt=3D"" border=3D"0" height=3D"7" width=3D"600"></td>     =
+    </tr> <tr> <td>             <table align=3D"left" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr> <td><img name=3D"=
+index_r3_c1" src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZX=
+Zpcy1lbnRyZXByaXNlLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjNfYzEuanBn" id=3D=
+"index_r3_c1" alt=3D"" border=3D"0" height=3D"121" width=3D"29"></td>    =
+                     <td bgcolor=3D"#01AFEC" height=3D"121" width=3D"18">=
+&nbsp;</td>                         <td bgcolor=3D"#01AFEC" height=3D"121=
+" width=3D"273"><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1t=
+aWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D839_
+ 14&rc=3DaHR0cDovL25vZGVzLm5wdjE3cWVqYmQuY29tL3IvY2xpYy04Ny0zNjItNTc5NS11=
+cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjeTFsYm5SeVpYQnlhWE5sTG1KcGVpODFOVFJmUkVWZ=
+k1ERXhOaTlwYm1SbGVDNW9kRzFzUDNGamNEMDFOVFJmUkVWZk1ERXhOaVoxZEcxZmMyOTFjbU=
+5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakp=
+uVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9=
+cF8xMjgxNg=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text=
+-decoration:none ;" target=3D"_blank"><span style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:18px; font-weight:normale; color:#ffffff;=
+ line-height:30px;">Cr&eacute;ances, d&eacute;faut de paiement :<br>     =
+                    b&eacute;n&eacute;ficiez de l&rsquo;aide d&rsquo;une<=
+br></span> <span style=3D"font-family:Arial, Helvetica, sans-serif; font-=
+size:21px; font-weight:bold; color:#ffffff; line-height:30px;">soci&eacut=
+e;t&eacute; de recouvrement !</span></a></td>                         <td=
+><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1ta
+ WFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D839_14&rc=3DaHR0cDovL25vZGVzLm5wdjE3cW=
+VqYmQuY29tL3IvY2xpYy04Ny0zNjItNTc5NS11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjeTF=
+sYm5SeVpYQnlhWE5sTG1KcGVpODFOVFJmUkVWZk1ERXhOaTlwYm1SbGVDNW9kRzFzUDNGamNE=
+MDFOVFJmUkVWZk1ERXhOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoY=
+Vd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYW=
+NrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xMjgxNg=3D=3D" style=3D"font-fam=
+ily:Arial, Helvetica, sans-serif; text-decoration:none ;" target=3D"_blan=
+k"><img name=3D"index_r3_c7" src=3D"http://app.directonlus.com/r/?rc=3DaH=
+R0cDovL3d3dy5kZXZpcy1lbnRyZXByaXNlLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjN=
+fYzcuanBn" id=3D"index_r3_c7" alt=3D"" border=3D"0" height=3D"121" width=3D=
+"280"></a></td>                     </tr></tbody></table> </td>         <=
+/tr> <tr> <td>             <table align=3D"left" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr> <td><img name=3D"index=
+_r4_c1" src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpcy1=
+lbnRyZXByaXN
+ lLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjRfYzEuanBn" id=3D"index_r4_c1" al=
+t=3D"" border=3D"0" height=3D"2" width=3D"29"></td>                      =
+   <td bgcolor=3D"#01AFEC" height=3D"2" width=3D"20">&nbsp;</td>         =
+                <td bgcolor=3D"#FFFFFF" height=3D"2" width=3D"148">&nbsp;=
+</td>                         <td bgcolor=3D"#01AFEC" height=3D"2" width=3D=
+"123">&nbsp;</td>                         <td><img name=3D"index_r4_c7" s=
+rc=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpcy1lbnRyZXBy=
+aXNlLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjRfYzcuanBn" id=3D"index_r4_c7" =
+alt=3D"" border=3D"0" height=3D"2" width=3D"280"></td>                   =
+  </tr></tbody></table> </td>         </tr> <tr> <td>             <table =
+align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+600"><tbody><tr> <td><img name=3D"index_r5_c1" src=3D"http://app.directon=
+lus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpcy1lbnRyZXByaXNlLmJpei81NTRfREVfMDExN=
+i9pbWcvaW5kZXhfcjVfYzEuanBn" id=3D"index_r5_c1" alt=3D"" border=3D"0" hei=
+ght=3D"154" width=3D"29"></td>     =20
+                    <td bgcolor=3D"#01AFEC" height=3D"154" width=3D"18">&=
+nbsp;</td>                         <td bgcolor=3D"#01AFEC" height=3D"154"=
+ width=3D"273"><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D839_14&rc=3DaHR0cDovL25vZGVzLm5wdjE3cWV=
+qYmQuY29tL3IvY2xpYy04Ny0zNjItNTc5NS11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjeTFs=
+Ym5SeVpYQnlhWE5sTG1KcGVpODFOVFJmUkVWZk1ERXhOaTlwYm1SbGVDNW9kRzFzUDNGamNEM=
+DFOVFJmUkVWZk1ERXhOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYV=
+d3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWN=
+rYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xMjgxNg=3D=3D" style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; text-decoration:none ;" target=3D"_blank=
+"><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:16px=
+; font-weight:normale; color:#ffffff;">- Recevez votre d&ucirc;<br><br>  =
+                       - Retrouvez des liquidit&eacute;s<br><br>         =
+                - Assainissez vos comptes</span></a></td>               =20
+          <td><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taW=
+FnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D839_14&rc=3DaHR0cDovL25vZGVzLm5wdjE3cWVq=
+YmQuY29tL3IvY2xpYy04Ny0zNjItNTc5NS11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjeTFsY=
+m5SeVpYQnlhWE5sTG1KcGVpODFOVFJmUkVWZk1ERXhOaTlwYm1SbGVDNW9kRzFzUDNGamNEMD=
+FOVFJmUkVWZk1ERXhOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd=
+3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNr=
+YWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xMjgxNg=3D=3D" style=3D"font-famil=
+y:Arial, Helvetica, sans-serif; text-decoration:none ;" target=3D"_blank"=
+><img name=3D"index_r5_c7" src=3D"http://app.directonlus.com/r/?rc=3DaHR0=
+cDovL3d3dy5kZXZpcy1lbnRyZXByaXNlLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjVfY=
+zcuanBn" id=3D"index_r5_c7" alt=3D"" border=3D"0" height=3D"154" width=3D=
+"280"></a></td>                     </tr></tbody></table> </td>         <=
+/tr> <tr> <td>             <table align=3D"left" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr> <td><img name=3D"index=
+_r6_c1" src=3D"h
+ ttp://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpcy1lbnRyZXByaXNlLm=
+Jpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjZfYzEuanBn" id=3D"index_r6_c1" alt=3D=
+"" border=3D"0" height=3D"107" width=3D"29"></td>                        =
+ <td align=3D"center" bgcolor=3D"#F65646"><a href=3D"http://app.directonl=
+us.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D839_14&rc=3D=
+aHR0cDovL25vZGVzLm5wdjE3cWVqYmQuY29tL3IvY2xpYy04Ny0zNjItNTc5NS11cmwtYUhSM=
+GNEb3ZMM2QzZHk1a1pYWnBjeTFsYm5SeVpYQnlhWE5sTG1KcGVpODFOVFJmUkVWZk1ERXhOaT=
+lwYm1SbGVDNW9kRzFzUDNGamNEMDFOVFJmUkVWZk1ERXhOaVoxZEcxZmMyOTFjbU5sUFc0bWR=
+YUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1=
+YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xMjgxN=
+g=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-decorati=
+on:none ;" target=3D"_blank"><img name=3D"index_r6_c2" src=3D"http://app.=
+directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpcy1lbnRyZXByaXNlLmJpei81NTRfR=
+EVfMDExNi9pbWcvaW5kZXhfcjZfYzIuanBn" id=3D"index_r6_c2" alt=3D"En savoir =
+plus" border
+ =3D"0" height=3D"107" width=3D"291"></a></td>                         <t=
+d><a href=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LX=
+Jlbm5lczEuZnI=3D&c=3D839_14&rc=3DaHR0cDovL25vZGVzLm5wdjE3cWVqYmQuY29tL3Iv=
+Y2xpYy04Ny0zNjItNTc5NS11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjeTFsYm5SeVpYQnlhW=
+E5sTG1KcGVpODFOVFJmUkVWZk1ERXhOaTlwYm1SbGVDNW9kRzFzUDNGamNEMDFOVFJmUkVWZk=
+1ERXhOaVoxZEcxZmMyOTFjbU5sUFc0bWRYUnRYMjFsWkdsMWJUMWxMVzFoYVd3bWRYUnRYMk5=
+oYlhCaGFXZHVQVzVsZDNOakpuVjBiVjl1YjI5MlpYSnlhV1JsUFRFP3RyYWNrYWZmPSZhbXA7=
+Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xMjgxNg=3D=3D" style=3D"font-family:Arial, Hel=
+vetica, sans-serif; text-decoration:none ;" target=3D"_blank"><img name=3D=
+"index_r6_c7" src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZ=
+XZpcy1lbnRyZXByaXNlLmJpei81NTRfREVfMDExNi9pbWcvaW5kZXhfcjZfYzcuZ2lm" id=3D=
+"index_r6_c7" alt=3D"" border=3D"0" height=3D"107" width=3D"280"></a></td=
+>                     </tr></tbody></table> </td>         </tr> </tbody><=
+/table> <img alt=3D"" src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL=
+25vZGVzLm5wd
+ jE3cWVqYmQuY29tL21haWxpbmctODctMzYyLTU3OTU/cmdyb3VwPXBfMTI4MTYmYW1wO2dyb=
+3VwPQ=3D=3D" border=3D"0" height=3D"1" width=3D"1"><img src=3D"http://app=
+.directonlus.com/t/?i=3D839_14&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZn=
+I=3D&url=3Dhttp://app.directonlus.com/images/blank.jpg" alt=3D"_pspacer5"=
+  /><p>
+<a href=3D"http://app.directonlus.com/d/?camp=3D839_14&ms=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne plus recevoi=
+r d'informations de notre part" style=3D"color:#00F; font-family:'Arial';=
+ font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : =
+Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque =
+d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_0fd0657c8a28bd05eadea59501e7341f--
+

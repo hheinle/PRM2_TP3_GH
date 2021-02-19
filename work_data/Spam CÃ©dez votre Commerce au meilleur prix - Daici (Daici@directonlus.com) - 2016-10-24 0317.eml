@@ -1,0 +1,310 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 24 Oct 2016 03:17:16 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id BDA541D5
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 03:17:16 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id BB8E86004D
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 03:17:16 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id jb9gV-GRqnVu for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 24 Oct 2016 03:17:16 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id A4DE56000C
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 03:17:16 +0200 (CEST)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 9D06220033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 03:17:16 +0200 (CEST)
+Received: from smtp-b36.directonlus.com (smtp-b36.directonlus.com [82.97.39.144])
+	by mxb2-1.relay.renater.fr (asm) with ESMTP id 5A5A460003C
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 24 Oct 2016 03:17:16 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp3; bh=onKAbjm61QT74NGe5teg1b65
+	iUnlhCxYEd1cOLplisI=; b=fn84G9wRmdmsFbZT2odxzC4wtU9BssGXcO3uLhbA
+	4lxa1m9Ub/39Jh31PI6FMHKCqzKVBxZpKFkJCrQ5zSgdrf83cDiN7sFeWnhzCiXz
+	tDuOZj5VNvLwE1hq3SlzdXYimVHxIIWDk8M67FV8HS/83PZBfJ/WEchP5lJpJa5i
+	ooM=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp3; b=a10rlxEgRyJw10xYNd
+	aOBA7iO3iuVvhdj43NhPqWnRkVFZcITT4QzZEVxMBUlZDjGY7pUz3uA/n1nH8ZcW
+	6C6DCIXzG2Cub2rHmkYURZzhuRPtksgTNiLm5bcxWUjN87CCRanIk9ShT06B4Vj0
+	E2Yi31LoH04Oykhm1/cccrLt4=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?C=C3=A9dez_votre_Commerce_au_meilleur_prix?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Mon, 24 Oct 2016 03:17:15 +0200
+From: Daici <Daici@directonlus.com>
+Reply-to: Daici <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+X-campaign_id: 944177396724734392997262306719_11
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==569
+List-Unsubscribe: <http://app.directonlus.com/d/?camp=944177396724734392997262306719_11&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <10e00b4d533b46d781bcae0e7e991002@directonlus.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_10e00b4d533b46d781bcae0e7e991002"
+X-Original-Source-IP: 82.97.39.144
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrieeggdehvdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpeffrghitghiuceoffgrihgtihesughirhgvtghtohhnlhhushdrtghomheqnecuffhomhgrihhnpeguihhrvggtthhonhhluhhsrdgtohhmnecukfhppeekvddrleejrdefledrudeggeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgsfeeirdguihhrvggtthhonhhluhhsrdgtohhmpdhinhgvthepkedvrdeljedrfeelrddugeegpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesughirhgvtghtohhnlhhushdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--Part1_10e00b4d533b46d781bcae0e7e991002
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.directonlus.com/v/?camp=3D944177396724734392997262306719_11&ms=
+=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_10e00b4d533b46d781bcae0e7e991002
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>C=C3=A9dez votre Commerce au meilleur prix</title>
+</head><body marginheight=3D"0" leftmargin=3D"0" topmargin=3D"0" marginwi=
+dth=3D"0" style=3D"-moz-text-size-adjust:none; -webkit-text-size-adjust:n=
+one; -ms-text-size-adjust:none; padding:0px; text-size-adjust:none; margi=
+n:0px;">
+<center><p>
+<a href=3D"http://app.directonlus.com/v/?camp=3D9441773967247343929972623=
+06719_11&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blan=
+k" title=3D"Si cet e-mail ne s'affiche pas correctement, suivez ce lien."=
+ style=3D"color:#00F; font-family:'Arial'; font-size:12px; text-decoratio=
+n:underline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce=
+ lien.</a></p>            <p>&nbsp;</p>         <p>         </p>  <style =
+type=3D"text/css"> body { 	Margin: 0; 	padding: 0; 	min-width: 100%; 	bac=
+kground-color: #ffffff; } table { 	border-spacing: 0; 	font-family: sans-=
+serif; 	color: #333333; } td { 	padding: 0; } .wrapper { 	width: 100%; 	t=
+able-layout: fixed; 	-webkit-text-size-adjust: 100%; 	-ms-text-size-adjus=
+t: 100%; } .webkit { 	max-width: 600px; } p { 	Margin: 0; } </style>  <st=
+yle> /* Target Outlook 2007 and 2010 */ width:600px; </style>  <style> #t=
+ableForOutlook { width:600px; } </style>  <style> #tableForOutlook { widt=
+h:600px; } </style>  <style> #tableForOutlook { width:600
+ px; } </style>      <style type=3D"text/css">         table {border-coll=
+apse: collapse !important;}     </style>        &nbsp;           <style t=
+ype=3D"text/css"> body { 	Margin: 0; 	padding: 0; 	min-width: 100%; 	back=
+ground-color: #ffffff; } table { 	border-spacing: 0; 	font-family: sans-s=
+erif; 	color: #333333; } td { 	padding: 0; } .wrapper { 	width: 100%; 	ta=
+ble-layout: fixed; 	-webkit-text-size-adjust: 100%; 	-ms-text-size-adjust=
+: 100%; } .webkit { 	max-width: 600px; } p { 	Margin: 0; } </style>  <sty=
+le> /* Target Outlook 2007 and 2010 */ width:600px; </style>  <style> #ta=
+bleForOutlook { width:600px; } </style>  <style> #tableForOutlook { width=
+:600px; } </style>  <style> #tableForOutlook { width:600px; } </style>   =
+   <style type=3D"text/css">         table {border-collapse: collapse !im=
+portant;}     </style>     <center>         <div style=3D" max-width:600p=
+x; text-align:center" align=3D"center">         <table align=3D"center" b=
+order=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr>
+  <td style=3D"text-align:center" height=3D"30"> <font style=3D"font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:12px"> C&eacute;dez votre Comm=
+erce au meilleur prix. </font><font style=3D"font-family:Arial, Helvetica=
+, sans-serif; font-size:11px; line-height:25px"><br></font> </td>        =
+         </tr></tbody></table>  		<table id=3D"tableForOutlook" align=3D"=
+center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><t=
+body><tr><td> 		 		<table id=3D"tableForOutlook" align=3D"center" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr><td> 		 =
+		<table id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr><td> 		<table style=3D"=
+max-width:600px; width:100%;" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0"><tbody> <tr> <td align=3D"center" height=3D"63">   =
+                  <table style=3D"width:100%; max-width:112px; display:in=
+line-block;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"><tbody><tr>=
+ <td align=3D"center" width=3D"112"
+ ><center>                   <a href=3D"http://app.directonlus.com/r/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D94417739672473439299726230=
+6719_11&rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL3IvY2xpYy00OC0yOTktNjMyMy11=
+cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjMlJwY21WamRDNWpiMjB2UkVRdlh6STVNRFV2UDNGa=
+mNEMU9aVzlFWVdsamFUQTJNVFltZFhSdFgzTnZkWEpqWlQxekpuVjBiVjl0WldScGRXMDlaVz=
+FoYVd3bWRYUnRYMk5oYlhCaGFXZHVQV2xrTWprd05TWjFkRzFmYm05dmRtVnljbWxrWlQweD9=
+0cmFja2FmZj0mYW1wO2dyb3VwPSZhbXA7cmdyb3VwPXBfMTM3ODY=3D" style=3D"font-fa=
+mily:Arial, Helvetica, sans-serif; text-decoration:none;" target=3D"_blan=
+k"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpc2R=
+pcmVjdC5jb20vZG5ld3Nfc29sby8yMDE2LzI3MjhfZGFpY2lfMDIxNl9zb2xvL2ltYWdlcy9s=
+b2dvbi5qcGc=3D" style=3D"width: 100%; max-width:112px; display:block; mar=
+gin:0 auto;" alt=3D"Daici" height=3D"28"></a>               </center></td=
+>                             </tr></tbody></table> <table style=3D"width=
+:100%; max-width:440px; display:inline-block;" border=3D"0" cellpadding=3D
+ "0" cellspacing=3D"0"><tbody><tr> <td width=3D"20">&nbsp;</td>          =
+                       <td align=3D"center"><center>                 <a h=
+ref=3D"http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5l=
+czEuZnI=3D&c=3D944177396724734392997262306719_11&rc=3DaHR0cDovL2VsYi5uc29=
+6cGdsYmUuY29tL3IvY2xpYy00OC0yOTktNjMyMy11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBj=
+MlJwY21WamRDNWpiMjB2UkVRdlh6STVNRFV2UDNGamNEMU9aVzlFWVdsamFUQTJNVFltZFhSd=
+FgzTnZkWEpqWlQxekpuVjBiVjl0WldScGRXMDlaVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQV2=
+xrTWprd05TWjFkRzFmYm05dmRtVnljbWxrWlQweD90cmFja2FmZj0mYW1wO2dyb3VwPSZhbXA=
+7cmdyb3VwPXBfMTM3ODY=3D" style=3D"font-family:Arial, Helvetica, sans-seri=
+f; text-decoration:none;" target=3D"_blank"> <span style=3D"font-family:A=
+rial, Helvetica, sans-serif; font-size:22px; font-weight:bold; color:#606=
+060;">C&eacute;dez votre commerce</span> <span style=3D"font-family:Arial=
+, Helvetica, sans-serif; font-size:22px; font-weight:normal; color:#60606=
+0;">au meilleur prix</span> </a>               </center></td>     =20
+                            <td width=3D"20">&nbsp;</td>                 =
+            </tr></tbody></table> </td>                 </tr> <tr> <td al=
+ign=3D"center" bgcolor=3D"#E4E4E4"><a href=3D"http://app.directonlus.com/=
+r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D9441773967247343929=
+97262306719_11&rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL3IvY2xpYy00OC0yOTktN=
+jMyMy11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjMlJwY21WamRDNWpiMjB2UkVRdlh6STVNRF=
+V2UDNGamNEMU9aVzlFWVdsamFUQTJNVFltZFhSdFgzTnZkWEpqWlQxekpuVjBiVjl0WldScGR=
+XMDlaVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQV2xrTWprd05TWjFkRzFmYm05dmRtVnljbWxr=
+WlQweD90cmFja2FmZj0mYW1wO2dyb3VwPSZhbXA7cmdyb3VwPXBfMTM3ODY=3D" style=3D"=
+font-family:Arial, Helvetica, sans-serif; text-decoration:none;" target=3D=
+"_blank"><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZ=
+XZpc2RpcmVjdC5jb20vZG5ld3Nfc29sby8yMDE2LzI3MjhfZGFpY2lfMDIxNl9zb2xvL2ltYW=
+dlcy9hbmltYXRpb24uZ2lm" style=3D"max-width:600px; width:100%; border:0;" =
+alt=3D"Commerce"></a></td>                 </tr> </tbody></table>  		<
+ table id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600"><tbody><tr><td> 		 		<table id=3D"tab=
+leForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600"><tbody><tr><td> 		 		<table id=3D"tableForOutlook" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"600"><tbody><tr><td> 		 <table style=3D"border-spacing:0;font-family:san=
+s-serif;color:#333333;" align=3D"center" border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" width=3D"600"> <tbody><tr> <td style=3D"padding-top:0;pa=
+dding-bottom:0;padding-right:0;padding-left:0;"> <table class=3D"outer" s=
+tyle=3D"border-spacing:0;font-family:sans-serif;color:#333333;Margin:0 au=
+to;width:100%;max-width:600px;" align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0"><tbody><tr> <td class=3D"three-column Argu" styl=
+e=3D"padding-right:0;padding-left:0;text-align:center;font-size:0;" bgcol=
+or=3D"#E4E4E4">                          <table style=3D"border-spacing:0=
+;font-family:sans-serif;color:#333333
+ ;" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">     =
+                    <tbody><tr>                         <td style=3D"padd=
+ing-top:0;padding-bottom:0;padding-right:0;padding-left:0;" valign=3D"top=
+" width=3D"2">                                              <table class=3D=
+"column" style=3D"border-spacing:0;font-family:sans-serif;color:#333333;t=
+ext-align:center;width:100%;max-width:300px;display:inline-block;vertical=
+-align:top;margin-top:0;margin-bottom:0;" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0"><tbody><tr> <td style=3D"padding-top:0;padding-bottom:0=
+;padding-right:0;padding-left:0;">                                 <table=
+ class=3D"contents" style=3D"border-spacing:0;font-family:sans-serif;colo=
+r:#333333;font-size:14px;text-align:center;" border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"300"><tbody><tr> <td style=3D"padding-top:0=
+;padding-bottom:0;padding-right:0;padding-left:0;" border=3D"0" backgroun=
+d=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpc2RpcmVjdC5jb=
+20vZG5ld3Nfc
+ 29sby8yMDE2LzI3MjhfZGFpY2lfMDIxNl9zb2xvL2ltYWdlcy9uZXdzMi5qcGc=3D" bgcol=
+or=3D"#FFFFFF" height=3D"128" valign=3D"top" width=3D"300">              =
+                                                <div>                    =
+                         <table class=3D"contents" style=3D"border-spacin=
+g:0;font-family:sans-serif;color:#333333;font-size:14px;text-align:center=
+; border:none; border-color:#E4E4E4" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"300"><tbody> <tr> <td height=3D"20" width=3D"25">&n=
+bsp;</td>                                                         <td wid=
+th=3D"250">&nbsp;</td>                                                   =
+      <td height=3D"20" width=3D"25">&nbsp;</td>                         =
+                            </tr> <tr> <td height=3D"88" width=3D"25">&nb=
+sp;</td>                                                         <td alig=
+n=3D"left" width=3D"250"><span style=3D"font-family:Arial, Helvetica, san=
+s-serif; font-size:16px ; font-weight: normal; color:#535353; line-height=
+:25px"><im
+ g src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpc2RpcmVj=
+dC5jb20vZG5ld3Nfc29sby8yMDE2LzI3MjhfZGFpY2lfMDIxNl9zb2xvL2ltYWdlcy9wdWNlL=
+mpwZw=3D=3D" style=3D"display:inline" alt=3D"-" border=3D"0" height=3D"12=
+" width=3D"19">Sans commission &agrave; la vente<br><img src=3D"http://ap=
+p.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5kZXZpc2RpcmVjdC5jb20vZG5ld3Nfc29=
+sby8yMDE2LzI3MjhfZGFpY2lfMDIxNl9zb2xvL2ltYWdlcy9wdWNlLmpwZw=3D=3D" style=3D=
+"display:inline" alt=3D"-" border=3D"0" height=3D"12" width=3D"19">Daici =
+vous trouve un acqu&eacute;reur<br><img src=3D"http://app.directonlus.com=
+/r/?rc=3DaHR0cDovL3d3dy5kZXZpc2RpcmVjdC5jb20vZG5ld3Nfc29sby8yMDE2LzI3Mjhf=
+ZGFpY2lfMDIxNl9zb2xvL2ltYWdlcy9wdWNlLmpwZw=3D=3D" style=3D"display:inline=
+" alt=3D"-" border=3D"0" height=3D"12" width=3D"19">Vendez au meilleur pr=
+ix</span></td>                                                         <t=
+d height=3D"88" width=3D"25">&nbsp;</td>                                 =
+                    </tr> <tr> <td height=3D"20" width=3D"25">&nbsp;</td>=
+                           =20
+                              <td width=3D"250">&nbsp;</td>              =
+                                           <td height=3D"20" width=3D"25"=
+>&nbsp;</td>                                                     </tr> </=
+tbody></table> </div>                                                    =
+     </td>                                         </tr></tbody></table> =
+</td>                             </tr></tbody></table>                  =
+        </td><td style=3D"padding-top:0;padding-bottom:0;padding-right:0;=
+padding-left:0;" valign=3D"top" width=3D"300">                         <t=
+able class=3D"column" style=3D"border-spacing:0;font-family:sans-serif;co=
+lor:#333333;text-align:center;width:100%;max-width:300px;display:inline-b=
+lock;vertical-align:top;margin-top:0;margin-bottom:0;" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0"><tbody><tr> <td style=3D"padding-top:0;pad=
+ding-bottom:0;padding-right:0;padding-left:0;">                          =
+       <table class=3D"contents" style=3D"border-spacing:0;font-famil
+ y:sans-serif;color:#333333;font-size:14px;text-align:center;" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"300"><tbody> <tr> <td hei=
+ght=3D"60"><span style=3D"font-family:Arial, Helvetica, sans-serif; font-=
+size:16px ; font-weight: normal; color:#535353;"> Pour entrer en contact<=
+br>                                             rapidement avec <strong s=
+tyle=3D"color:#980b01">Daici</strong> : </span></td>                     =
+                    </tr> <tr> <td style=3D"padding-top:0;padding-bottom:=
+0;padding-right:0;padding-left:0;" align=3D"center"><a href=3D"http://app=
+.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D94=
+4177396724734392997262306719_11&rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL3Iv=
+Y2xpYy00OC0yOTktNjMyMy11cmwtYUhSMGNEb3ZMM2QzZHk1a1pYWnBjMlJwY21WamRDNWpiM=
+jB2UkVRdlh6STVNRFV2UDNGamNEMU9aVzlFWVdsamFUQTJNVFltZFhSdFgzTnZkWEpqWlQxek=
+puVjBiVjl0WldScGRXMDlaVzFoYVd3bWRYUnRYMk5oYlhCaGFXZHVQV2xrTWprd05TWjFkRzF=
+mYm05dmRtVnljbWxrWlQweD90cmFja2FmZj0mYW1wO2dyb3VwPSZhbXA7cmdyb3VwPXBf
+ MTM3ODY=3D" style=3D"font-family:Arial, Helvetica, sans-serif; text-deco=
+ration:none;" target=3D"_blank"><img src=3D"http://app.directonlus.com/r/=
+?rc=3DaHR0cDovL3d3dy5kZXZpc2RpcmVjdC5jb20vZG5ld3Nfc29sby8yMDE2LzI3MjhfZGF=
+pY2lfMDIxNl9zb2xvL2ltYWdlcy9idXR0b24uanBn" alt=3D"En savoir plus" style=3D=
+"border-width:0;width:272px;height:48px;"></a></td>                      =
+                   </tr> <tr> <td style=3D"line-height:20px" height=3D"20=
+">&nbsp;</td>                                         </tr> </tbody></tab=
+le> </td>                             </tr></tbody></table>              =
+            </td>                         </tr>                         <=
+/tbody></table>                          </td>                 </tr></tbo=
+dy></table>  	</td></tr></tbody></table> 	 	</td></tr></tbody></table> 	 =
+	</td></tr></tbody></table> 	 </td> </tr> </tbody></table>  	</td></tr></=
+tbody></table> 	 	</td></tr></tbody></table> 	 	</td></tr></tbody></table=
+> 	 </div>         </center>     <img alt=3D"" src=3D"http://a
+ pp.directonlus.com/r/?rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL21haWxpbmctN=
+DgtMjk5LTYzMjM/cmdyb3VwPXBfMTM3ODYmYW1wO2dyb3VwPQ=3D=3D" border=3D"0" hei=
+ght=3D"1" width=3D"1">   <img src=3D"http://app.directonlus.com/t/?i=3D94=
+4177396724734392997262306719_11&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZ=
+nI=3D&url=3Dhttp://app.directonlus.com/images/blank.jpg" alt=3D"_pspacer5=
+"  /><p>
+<a href=3D"http://app.directonlus.com/d/?camp=3D9441773967247343929972623=
+06719_11&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blan=
+k" title=3D"Ne plus recevoir d'informations de notre part" style=3D"color=
+:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">P=
+our se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a =
+caus&eacute; un quelconque d&eacute;rangement, nous vous prions de nous e=
+n excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_10e00b4d533b46d781bcae0e7e991002--
+

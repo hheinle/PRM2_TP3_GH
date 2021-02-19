@@ -1,0 +1,175 @@
+Return-Path: <noreply@newsletter.pourleplaisir.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Tue, 11 Apr 2017 18:13:33 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout1.univ-rennes1.fr (mailout1.univ-rennes1.fr [129.20.128.162])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id CBADD4B
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 11 Apr 2017 18:13:33 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D4A3C60011
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 11 Apr 2017 18:13:33 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout1.univ-rennes1.fr ([129.20.128.162])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 8sTdDs9ElVDH for <resp-m2-miage@univ-rennes1.fr>;
+	Tue, 11 Apr 2017 18:13:33 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id BEFB06007D
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 11 Apr 2017 18:13:33 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id BDE2620033
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 11 Apr 2017 18:13:33 +0200 (CEST)
+Received: from newsletter.pourleplaisir.fr (newsletter.pourleplaisir.fr [213.32.140.213])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 6814E60008C
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 11 Apr 2017 18:13:33 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=newsletter.pourleplaisir.fr;
+ q=dns/txt; s=mail; bh=1FDly8m+gWTcdn0Z7doO3CVlwO033d5SjEsFznx19iI=;
+ h=from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe;
+        b=pM0OAUTMKrkeTBUzrji/IJRt9MMPVK5wjkcRWiMvel1KWpeESVY1UOpiMXqVh8cz3wk7Id+Uv1FZ
+        r+4uUDmVuHIbRCfWk2DS0ivJMd+svDRm4Cm4u/4N1Ivtg1c8VkSqhM8snDZ/tO5v013vFGOqaC09
+        T3LPta+E/nZvfLMrE3s=
+To: <resp-m2-miage@univ-rennes1.fr>
+Subject: =?UTF-8?Q?Interdit_aux_mineurs,_profitez_de_nos_2_cadeaux?=
+From: =?UTF-8?Q?Pour=20le=20plaisir?= <contact@pourleplaisir.fr>
+List-Id: MTAxNjA4MC04NjgwMzc5LTE3Ng== <MTAxNjA4MC04NjgwMzc5LTE3Ng==.list-id.newsletter.pourleplaisir.fr>
+List-Unsubscribe: <mailto:unsubscribe@newsletter.pourleplaisir.fr?subject=unsub-4uh1ykkfh8ioarj&body=4uh1ykkfh8ioarj>,<http://r.newsletter.pourleplaisir.fr/5cabqw94kcioarg.html>
+Content-Type: multipart/alternative; boundary="-------?=_26482-6872768960893"
+MIME-Version: 1.0
+Precedence: bulk
+Feedback-ID: ded_213.32.140.213:1016080:1016080_791:Sendinblue
+X-Mailer: Sendinblue
+X-Mailin-Client: 1016080
+X-Mailin-Campaign: 791
+Reply-To: yoju31@gmail.com
+Message-Id: <201704111723.4uh1ykkfh8ioarj@newsletter.pourleplaisir.fr>
+Date: Tue, 11 Apr 2017 17:23:28 +0200
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 213.32.140.213
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeliedrudeggdeljecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefvuffhjefjtgggphforhfkffesrgdtreerredtjeenucfhrhhomheprfhouhhruchlvgcuphhlrghishhirhcuoegtohhnthgrtghtsehpohhurhhlvghplhgrihhsihhrrdhfrheqnecuffhomhgrihhnpehpohhurhhlvghplhgrihhsihhrrdhfrhenucfkphepvddufedrfedvrddugedtrddvudefnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehnvgifshhlvghtthgvrhdrphhouhhrlhgvphhlrghishhirhdrfhhrpdhinhgvthepvddufedrfedvrddugedtrddvudefpdhmrghilhhfrhhomhepnhhorhgvphhlhiesnhgvfihslhgvthhtvghrrdhpohhurhhlvghplhgrihhsihhrrdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+---------?=_26482-6872768960893
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Si vous ne parvenez pas =C3=A0 lire cet e-mail, cliquez http://r.newsletter=
+.pourleplaisir.fr/5cabqw94kcioarf.html[  ]( http://r.newsletter.pourleplais=
+ir.fr/ld5azl0i998ioard.html )  [  ]( http://r.newsletter.pourleplaisir.fr/l=
+d5azl0ia1oioard.html )  [  ]( http://r.newsletter.pourleplaisir.fr/ld5azl0i=
+au4ioard.html )  [  ]( http://r.newsletter.pourleplaisir.fr/ld5azl0ibmkioar=
+d.html )  [  ]( http://r.newsletter.pourleplaisir.fr/ld5azl0icf0ioard.html =
+) [ Copyright =C2=A9 M & A France Web - Tous droits r=C3=A9serv=C3=A9s=0AM =
+& A France Web - RCS Toulouse 807 473 301. Conform=C3=A9ment =C3=A0 la loi =
+n=C2=B078-17 relative =C3=A0 l'informatique, aux fichiers et aux libert=
+=C3=A9s du 6 janvier 1978, vous avez le droit de vous opposer =C3=A0 ce que=
+ des informations nominatives vous concernant fassent l'objet d'un traiteme=
+nt. Vous pouvez =C3=A0 tout moment exercer un droit d'acc=C3=A8s, de contr=
+=C3=B4le et de rectification de ces donn=C3=A9es. ]( http://r.newsletter.po=
+urleplaisir.fr/ld5azl0id7gioard.html ) [ Copyright =C2=A9 M & A France Web =
+- Tous droits r=C3=A9serv=C3=A9s=0AM & A France Web - RCS Toulouse 807 473 =
+301. Conform=C3=A9ment =C3=A0 la loi n=C2=B078-17 relative =C3=A0 l'informa=
+tique, aux fichiers et aux libert=C3=A9s du 6 janvier 1978, vous avez le dr=
+oit de vous opposer =C3=A0 ce que des informations nominatives vous concern=
+ant fassent l'objet d'un traitement. Vous pouvez =C3=A0 tout moment exercer=
+ un droit d'acc=C3=A8s, de contr=C3=B4le et de rectification de ces donn=
+=C3=A9es. ]( http://r.newsletter.pourleplaisir.fr/ld5azl0idzwioard.html ) [=
+ Copyright =C2=A9 M & A France Web - Tous droits r=C3=A9serv=C3=A9s=0AM & A=
+ France Web - RCS Toulouse 807 473 301. Conform=C3=A9ment =C3=A0 la loi n=
+=C2=B078-17 relative =C3=A0 l'informatique, aux fichiers et aux libert=
+=C3=A9s du 6 janvier 1978, vous avez le droit de vous opposer =C3=A0 ce que=
+ des informations nominatives vous concernant fassent l'objet d'un traiteme=
+nt. Vous pouvez =C3=A0 tout moment exercer un droit d'acc=C3=A8s, de contr=
+=C3=B4le et de rectification de ces donn=C3=A9es. ]( http://r.newsletter.po=
+urleplaisir.fr/ld5azl0iescioard.html )Si vous souhaitez vous d=C3=A9sinscri=
+re de notre newsletter, cliquez http://r.newsletter.pourleplaisir.fr/5cabqw=
+94kcioarg.html
+
+
+---------?=_26482-6872768960893
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+=0A=0A<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http:=
+//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http:=
+//www.w3.org/1999/xhtml">=0A<head>=0A<title>newsletter2</title>=0A<meta htt=
+p-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />=0A<link =
+href=3D"https://fonts.googleapis.com/css?family=3DOpen+Sans" rel=3D"stylesh=
+eet">=0A</head>=0A<body bgcolor=3D"#FFFFFF" style=3D"font-family: 'Open San=
+s', sans-serif;">=0A<!-- Save for Web Slices (newsletter2.psd) -->=0A<table=
+ id=3D"Table_01" align=3D"center" width=3D"800" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0">=0A=09<tr>=0A=09=09<td>=0A            <a href=3D"http=
+://r.newsletter.pourleplaisir.fr/ld5azl0i998ioard.html" target=3D"_blank" s=
+tyle=3D"text-decoration:none;"><img id=3D"index_01" src=3D"http://www.pourl=
+eplaisir.fr/NL/images/index_01.jpg" width=3D"800" style=3D"display:block;" =
+height=3D"123" alt=3D"www.pourleplaisir.fr" /></a></td>=0A=09</tr>=0A=09<tr=
+>=0A=09=09<td>=0A=09=09=09<a href=3D"http://r.newsletter.pourleplaisir.fr/l=
+d5azl0ia1oioard.html" target=3D"_blank" style=3D"text-decoration:none;"><im=
+g id=3D"index_02" src=3D"http://www.pourleplaisir.fr/NL/images/index_02.jpg=
+" width=3D"800" style=3D"display:block;" height=3D"464" alt=3D"www.pourlepl=
+aisir.fr" /></a></td>=0A=09</tr>=0A=09<tr>=0A=09=09<td>=0A=09=09=09<a href=
+=3D"http://r.newsletter.pourleplaisir.fr/ld5azl0iau4ioard.html" target=3D"_=
+blank" style=3D"text-decoration:none;"><img id=3D"index_03" src=3D"http://w=
+ww.pourleplaisir.fr/NL/images/index_03.jpg" width=3D"800" style=3D"display:=
+block;" height=3D"368" alt=3D"www.pourleplaisir.fr" /></a></td>=0A=09</tr>=
+=0A=09<tr>=0A=09=09<td>=0A=09=09=09<a href=3D"http://r.newsletter.pourlepla=
+isir.fr/ld5azl0ibmkioard.html" target=3D"_blank" style=3D"text-decoration:n=
+one;"><img id=3D"index_04" src=3D"http://www.pourleplaisir.fr/NL/images/ind=
+ex_04.jpg" width=3D"800" style=3D"display:block;" height=3D"221" alt=3D"www=
+.pourleplaisir.fr" /></a></td>=0A=09</tr>=0A=09<tr>=0A=09=09<td>=0A=09=09=
+=09<a href=3D"http://r.newsletter.pourleplaisir.fr/ld5azl0icf0ioard.html" t=
+arget=3D"_blank" style=3D"text-decoration:none;"><img id=3D"index_05" src=
+=3D"http://www.pourleplaisir.fr/NL/images/index_05.jpg" width=3D"800" style=
+=3D"display:block;" height=3D"69" alt=3D"www.pourleplaisir.fr" /></a></td>=
+=0A=09</tr>=0A    <tr style=3D"background-color:#c32f3d;">=0A    <td align=
+=3D"center" style=3D"padding:10px 10px 10px 10px;"><a href=3D"http://r.news=
+letter.pourleplaisir.fr/ld5azl0id7gioard.html" target=3D"_blank" style=3D"t=
+ext-decoration:none;color:#fff;line-height: 24px;"><span style=3D"font-size=
+: 13px;">Copyright &copy; M &amp; A France Web - Tous droits r&eacute;serv&=
+eacute;s</span><br>=0A        <span style=3D"font-size: 13px;">M &amp; A Fr=
+ance Web - RCS Toulouse 807 473 301. Conform&eacute;ment &agrave; la loi n&=
+deg;78-17 relative &agrave; l'informatique, aux fichiers et aux libert&eacu=
+te;s du 6 janvier 1978, vous avez le droit de vous opposer &agrave; ce que =
+des informations nominatives vous concernant fassent l'objet d'un traitemen=
+t. Vous pouvez &agrave; tout moment exercer un droit d'acc&egrave;s, de con=
+tr&ocirc;le et de rectification de ces donn&eacute;es.</span></a></td>=0A  =
+</tr>=0A    <tr style=3D"background-color:#c32f3d;display:none;">=0A    <td=
+ align=3D"center" style=3D"padding:10px 10px 10px 10px;"><a href=3D"http://=
+r.newsletter.pourleplaisir.fr/ld5azl0idzwioard.html" target=3D"_blank" styl=
+e=3D"text-decoration:none;color:#fff;line-height: 24px;"><span style=3D"fon=
+t-size: 13px;">Copyright &copy; M &amp; A France Web - Tous droits r&eacute=
+;serv&eacute;s</span><br>=0A        <span style=3D"font-size: 13px;">M &amp=
+; A France Web - RCS Toulouse 807 473 301. Conform&eacute;ment &agrave; la =
+loi n&deg;78-17 relative &agrave; l'informatique, aux fichiers et aux liber=
+t&eacute;s du 6 janvier 1978, vous avez le droit de vous opposer &agrave; c=
+e que des informations nominatives vous concernant fassent l'objet d'un tra=
+itement. Vous pouvez &agrave; tout moment exercer un droit d'acc&egrave;s, =
+de contr&ocirc;le et de rectification de ces donn&eacute;es.</span></a></td=
+>=0A  </tr>=0A    <tr style=3D"background-color:#c32f3d;display:none;">=0A =
+   <td align=3D"center" style=3D"padding:10px 10px 10px 10px;"><a href=3D"h=
+ttp://r.newsletter.pourleplaisir.fr/ld5azl0iescioard.html" target=3D"_blank=
+" style=3D"text-decoration:none;color:#fff;line-height: 24px;"><span style=
+=3D"font-size: 13px;">Copyright &copy; M &amp; A France Web - Tous droits r=
+&eacute;serv&eacute;s</span><br>=0A        <span style=3D"font-size: 13px;"=
+>M &amp; A France Web - RCS Toulouse 807 473 301. Conform&eacute;ment &agra=
+ve; la loi n&deg;78-17 relative &agrave; l'informatique, aux fichiers et au=
+x libert&eacute;s du 6 janvier 1978, vous avez le droit de vous opposer &ag=
+rave; ce que des informations nominatives vous concernant fassent l'objet d=
+'un traitement. Vous pouvez &agrave; tout moment exercer un droit d'acc&egr=
+ave;s, de contr&ocirc;le et de rectification de ces donn&eacute;es.</span><=
+/a></td>=0A  </tr>=0A</table>=0A<!-- End Save for Web Slices -->=0A<div ali=
+gn=3D"center" style=3D"color: #727272; font-size: 10px;">Si vous souhaitez =
+vous d=C3=A9sinscrire de notre newsletter, cliquez <a style=3D"color:#01a4c=
+6;" target=3D"_blank" href=3D"http://r.newsletter.pourleplaisir.fr/5cabqw94=
+kcioarg.html">ici</a></div><div><img width=3D"1" height=3D"1" src=3D"http:/=
+/r.newsletter.pourleplaisir.fr/5cabqw94kcioarh.jpg" /></div></body>=0A</htm=
+l>
+
+
+---------?=_26482-6872768960893--
+

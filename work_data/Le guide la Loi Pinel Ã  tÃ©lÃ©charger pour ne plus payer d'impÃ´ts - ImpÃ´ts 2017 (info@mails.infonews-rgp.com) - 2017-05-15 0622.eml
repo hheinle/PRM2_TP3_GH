@@ -1,0 +1,201 @@
+Return-Path: <info@mails.infonews-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 15 May 2017 06:22:07 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id EA93112E
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 15 May 2017 06:22:07 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E7219600DA
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 15 May 2017 06:22:07 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id jpqFkHhObd65 for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 15 May 2017 06:22:07 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id C7FFC60026
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 15 May 2017 06:22:07 +0200 (CEST)
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id C29F020033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 15 May 2017 06:22:07 +0200 (CEST)
+Received: from mta1.mails.infonews-rgp.com (mta1.mails.infonews-rgp.com [163.172.248.138])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb1-1.relay.renater.fr (asm) with ESMTPS id D939F206F7
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 15 May 2017 06:22:20 +0200 (CEST)
+X-QHPSI: clean
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mails.infonews-rgp.com; s=default; h=Date:To:From:Subject:
+	Message-ID:X-Mailer:Precedence:List-Unsubscribe:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=mKPB7ysScfOgeC82hjG5M
+	WMHdJk=; b=I4tSiGgonzZo/aPE/DJaY1HgdMB8RcuPd4FPV4AQv/6+VrcGiu1Da
+	FH7Vd35AqpqLDkxxG+Sgin5ft5cEUnU4yc9wvDy28/kcF6aZ1ExVy2N5ScV1kG1l
+	ubYqNz7p3szGYamoSIRuQg4xT55U9cSYXtp5mzp07ACOMtxerJQzHg=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=simple;
+  s=default; d=mails.infonews-rgp.com;
+  b=g66AemMSSGkOsN+Bm39M460vgau598hexN6AuRRvvTfKc4i/5Ku4Qy59vmu8y+6CNJuZtyoF9IJ7h1aEgwgUcAU3MnDPG5fQHp0vONTbBXTSvLMtvV7FkUX12U5AgmuqwQstTBaaCInMgMX4FBQ/DpmzF8/OtavIFDO+fbbJv2k=;
+Received: (indimail 26654 invoked from 62.210.86.80 by host im43 by uid 555); Mon, 15 May 2017 06:22:06 +0200
+Date: Mon, 15 May 2017 06:22:06 +0200
+To: resp-m2-miage@univ-rennes1.fr
+From: =?utf-8?Q?Imp=C3=B4ts_2017?= <info@mails.infonews-rgp.com>
+Subject: =?utf-8?Q?Le_guide_la_Loi_Pinel_=C3=A0_t=C3=A9l=C3=A9charger_pour_ne_plus?=
+ =?utf-8?Q?_payer_d'imp=C3=B4ts?=
+Message-ID: <dde202c43c07d1b6612b211c9c6abb11@localhost.localdomain>
+X-Mailer: Mailxpertise
+X-List: 5
+X-Account: 1194
+X-Campaign: 833
+X-Mode: 1
+X-Unique: 273910
+X-Abuse: abuse@mxea43.com
+Precedence: bulk
+List-Unsubscribe: <http://mails.infonews-rgp.com/JTI2YSUzRDExOTQlMjZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyNmVtJTNEcmVzcC1tMi1taWFnZSU0MHVuaXYtcmVubmVzMS5mciUyNnQlM0RjJTI2bCUzRDE4NDUxJTI2ZiUzRDI=>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_dde202c43c07d1b6612b211c9c6abb11"
+Content-Transfer-Encoding: quoted-printable
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 163.172.248.138
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedruddvgdeludcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpeffvffhuffkofhpjfggtgfgsegrqhhjphertdejnecuhfhrohhmpefkmhhplphtshgpvddtudejuceoihhnfhhosehmrghilhhsrdhinhhfohhnvgifshdqrhhgphdrtghomheqnecuffhomhgrihhnpehinhhfohhnvgifshdqrhhgphdrtghomhenucfkphepudeifedrudejvddrvdegkedrudefkeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhhtrgdurdhmrghilhhsrdhinhhfohhnvgifshdqrhhgphdrtghomhdpihhnvghtpeduieefrddujedvrddvgeekrddufeekpdhmrghilhhfrhhomhepihhnfhhosehmrghilhhsrdhinhhfohhnvgifshdqrhhgphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+
+--b1_dde202c43c07d1b6612b211c9c6abb11
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+http://mails.infonews-rgp.com/YSUzRDExOTQlMjZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyN=
+mwlM0QxODQ0OCUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMlMjZscyUzRDUlMjZmaXJzdG5hbWUlM0Ql=
+MjZsYXN0bmFtZSUzRCUyNnBvc3RhbGNvZGUlM0QlMjZlbWFpbCUzRGNtVnpjQzF0TWkxdGFXRm5=
+aVUIxYm1sMkxYSmxibTVsY3pFdVpuSSUzRA=3D=3D=0A
+
+ =09=09 [1]
+
+ =09=09 [1]
+
+ =C2=A0=20
+
+ R=C3=A9duisez vos imp=C3=B4ts
+
+ Devenez PROPRI=C3=89TAIRE
+ sans apport=20
+ PROT=C3=89GEZ
+ votre famille=20
+ Obtenez des REVENUS
+ compl=C3=A9mentaires=20
+
+ =C2=A0=20
+
+http://mails.infonews-rgp.com/YSUzRDExOTQlMjZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyN=
+mwlM0QxODQ1MCUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+Links:
+------
+[1]=0Ahttp://tracking.prmicare12.com/aff_c?offer_id=3D277&aff_id=3D679&aff_=
+sub=3DLaCanopee&url_id=3D3065&file_id=3D6401=C2=B6ms=3Dnom%3D%26prenom%3D%2=
+6email%3Dresp-m2-miage@univ-rennes1.fr%26cp%3D
+
+
+--b1_dde202c43c07d1b6612b211c9c6abb11
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">=0A<html>=0A<head>=0A=09<meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type">=0A=09<title>Guide loi Pin=
+el 2017</title>=0A=09<style type=3D"text/css">@media only screen and (max-w=
+idth:700px) { table { width:100%; }=0A table td { display:block; width:100%=
+; text-align:center; }=0A table td img { max-width:100%; }=0A .bouton { max=
+-width:90%; }=0A .titre { font-size:27px!important; }=0A .titre2 { font-siz=
+e:20px!important; }=0A .texte { font-size:16px!important; line-height:22px;=
+ }=0A .texte br { display:none; }}=0A=09</style>=0A</head>=0A<body style=3D=
+"font-family:Arial, Helvetica, sans-serif">=0A<div style=3D"text-align:cent=
+er;"><div align=3D"center"><font color=3D"#000000" style=3D"font-size:11px;=
+font-family:Verdana,Arial,Helvetica,sans-serif;"><br>Pour visualiser correc=
+tement ce message, acc=C3=A9dez =C3=A0 la <a href=3D"http://mails.infonews-=
+rgp.com/YSUzRDExOTQlMjZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxODQ0OSUyNnMlM0Q=
+3Mjk4MjkyJTI2dCUzRGMlMjZscyUzRDUlMjZ1bnN1YnNjcmliZSUzRCUyNmZpcnN0bmFtZSUzRC=
+UyNmxhc3RuYW1lJTNEJTI2cG9zdGFsY29kZSUzRCUyNm1pcnJvciUzRCUyNmVtYWlsJTNEY21We=
+mNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNW/xjekV1Wm5JJTNE">version en ligne</a><=
+br><br></font></div></div>=0A=0A<table align=3D"center" border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"700">=0A=09<tbody>=0A=09=09<tr>=0A=
+=09=09=09<td align=3D"center"><a href=3D"http://mails.infonews-rgp.com/YSUz=
+RDExOTQlMjZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxODQ1MiUyNnMlM0Q3Mjk4MjkyJTI=
+2dCUzRGMlMjZscyUzRDUlMjZsYXN0bmFtZSUzRCUyNmZpcnN0bmFtZSUzRCUyNmVtYWlsJTNEY2=
+1WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNEJTI2cG9zdGFsY29kZSUzR=
+A=3D=3D" target=3D"_blank"><img alt=3D"D=C3=A9couvrez la solution pour r=C3=
+=A9duire vos imp=C3=B4ts" src=3D"http://mails.infonews-rgp.com/img/833/imag=
+es/1118003139591.jpg"></a></td>=0A=09=09</tr>=0A=09=09<tr>=0A=09=09=09<td a=
+lign=3D"center"><a href=3D"http://mails.infonews-rgp.com/YSUzRDExOTQlMjZjJT=
+NEODMzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxODQ1MyUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMlMjZsc=
+yUzRDUlMjZsYXN0bmFtZSUzRCUyNmZpcnN0bmFtZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0=
+YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNEJTI2cG9zdGFsY29kZSUzRA=3D=3D" targe=
+t=3D"_blank"><img alt=3D"D=C3=A9couvrez la solution pour r=C3=A9duire vos i=
+mp=C3=B4ts" src=3D"http://mails.infonews-rgp.com/img/833/images/92859504659=
+14.jpg"></a></td>=0A=09=09</tr>=0A=09=09<tr>=0A=09=09=09<td bgcolor=3D"#2f4=
+a59" border=3D"0"><br>=0A=09=09=09=C2=A0</td>=0A=09=09</tr>=0A=09=09<tr>=0A=
+=09=09=09<td align=3D"center" bgcolor=3D"#2f4a59">=0A=09=09=09<table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"660">=0A=09=09=09=09<tb=
+ody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=3D"center" valign=
+=3D"top"><a href=3D"http://mails.infonews-rgp.com/YSUzRDExOTQlMjZjJTNEODMzJ=
+TI2ZSUzRDI3MzkxMCUyNmwlM0QxODQ1NCUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMlMjZscyUzRDUl=
+MjZsYXN0bmFtZSUzRCUyNmZpcnN0bmFtZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblp=
+VQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNEJTI2cG9zdGFsY29kZSUzRA=3D=3D" style=3D"tex=
+t-decoration:none;" target=3D"_blank"><img alt=3D"R=C3=A9duisez vos imp=C3=
+=B4ts" src=3D"http://mails.infonews-rgp.com/img/833/images/1083612694591.gi=
+f"><br>=0A=09=09=09=09=09=09<font class=3D"texte" color=3D"#fff" face=3D"Ar=
+ial, Helvetica, sans-serif" size=3D"3" style=3D"font-size:14px; line-height=
+:20px">R=C3=A9duisez vos imp=C3=B4ts<br>=0A=09=09=09=09=09=09<b>JUSQU'=C3=
+=80 63 000=E2=82=AC</b></font></a></td>=0A=09=09=09=09=09=09<td align=3D"ce=
+nter" valign=3D"top"><a href=3D"http://mails.infonews-rgp.com/YSUzRDExOTQlM=
+jZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyNmwlM0QxODQ1NSUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMl=
+MjZscyUzRDUlMjZsYXN0bmFtZSUzRCUyNmZpcnN0bmFtZSUzRCUyNmVtYWlsJTNEY21WemNDMXR=
+NaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNEJTI2cG9zdGFsY29kZSUzRA=3D=3D" =
+style=3D"text-decoration:none;" target=3D"_blank"><img alt=3D"Devenez propr=
+i=C3=A9taire" src=3D"http://mails.infonews-rgp.com/img/833/images/826146083=
+5914.gif"><br>=0A=09=09=09=09=09=09<font class=3D"texte" color=3D"#fff" fac=
+e=3D"Arial, Helvetica, sans-serif" size=3D"3" style=3D"font-size:14px; line=
+-height:20px">Devenez <b>PROPRI=C3=89TAIRE</b><br>=0A=09=09=09=09=09=09sans=
+ apport</font></a></td>=0A=09=09=09=09=09=09<td align=3D"center" valign=3D"=
+top"><a href=3D"http://mails.infonews-rgp.com/YSUzRDExOTQlMjZjJTNEODMzJTI2Z=
+SUzRDI3MzkxMCUyNmwlM0QxODQ1NiUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMlMjZscyUzRDUlMjZs=
+YXN0bmFtZSUzRCUyNmZpcnN0bmFtZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjF=
+ibWwyTFhKbGJtNWxjekV1Wm5JJTNEJTI2cG9zdGFsY29kZSUzRA=3D=3D" style=3D"text-de=
+coration:none;" target=3D"_blank"><img alt=3D"Prot=C3=A9gez votre famille" =
+src=3D"http://mails.infonews-rgp.com/img/833/images/7068425205914.gif"><br>=
+=0A=09=09=09=09=09=09<font class=3D"texte" color=3D"#fff" face=3D"Arial, He=
+lvetica, sans-serif" size=3D"3" style=3D"font-size:14px; line-height:20px">=
+<b>PROT=C3=89GEZ</b><br>=0A=09=09=09=09=09=09votre famille</font></a></td>=
+=0A=09=09=09=09=09=09<td align=3D"center" valign=3D"top"><a href=3D"http://=
+mails.infonews-rgp.com/YSUzRDExOTQlMjZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyNmwlM0Qx=
+ODQ1NyUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMlMjZscyUzRDUlMjZsYXN0bmFtZSUzRCUyNmZpcnN=
+0bmFtZSUzRCUyNmVtYWlsJTNEY21WemNDMXRNaTF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm=
+5JJTNEJTI2cG9zdGFsY29kZSUzRA=3D=3D" style=3D"text-decoration:none;" target=
+=3D"_blank"><img alt=3D"Obtenez des revenus" src=3D"http://mails.infonews-r=
+gp.com/img/833/images/2144581575591.gif"><br>=0A=09=09=09=09=09=09<font cla=
+ss=3D"texte" color=3D"#fff" face=3D"Arial, Helvetica, sans-serif" size=3D"3=
+" style=3D"font-size:14px; line-height:20px">Obtenez des <b>REVENUS</b><br>=
+=0A=09=09=09=09=09=09compl=C3=A9mentaires</font></a></td>=0A=09=09=09=09=09=
+</tr>=0A=09=09=09=09</tbody>=0A=09=09=09</table>=0A=09=09=09</td>=0A=09=09<=
+/tr>=0A=09=09<tr>=0A=09=09=09<td bgcolor=3D"#2f4a59" border=3D"0"><br>=0A=
+=09=09=09=C2=A0</td>=0A=09=09</tr>=0A=09</tbody>=0A</table>=0A<img height=
+=3D"1" src=3D"http://tracking.prm04kpi.com/aff_i?offer_id=3D277&aff_id=3D67=
+9&aff_sub=3DLC3&url_id=3D3065&file_id=3D6401" width=3D"1"><span style=3D"te=
+xt-align:center;"><div align=3D"center"><font color=3D"#000000" style=3D"fo=
+nt-size:11px;font-family:Verdana,Arial,Helvetica,sans-serif;"><br>Pour cess=
+er de recevoir nos informations sur l'adresse resp-m2-miage@univ-rennes1.fr=
+, <a href=3D"http://mails.infonews-rgp.com/YSUzRDExOTQlMjZjJTNEODMzJTI2ZSUz=
+RDI3MzkxMCUyNmwlM0QxODQ1MSUyNnMlM0Q3Mjk4MjkyJTI2dCUzRGMlMjZscyUzRDU=3D">d=
+=C3=A9sabonnez-vous</a>.</font></div></span><img src=3D"http://mails.infone=
+ws-rgp.com/YSUzRDExOTQlMjZjJTNEODMzJTI2ZSUzRDI3MzkxMCUyNnMlM0Q3Mjk4MjkyJTI2=
+bHMlM0Q1JTI2dCUzRG8=3D" alt=3D"Afficher les images" width=3D"1" height=3D"1=
+" /></body>=0A</html>
+
+
+--b1_dde202c43c07d1b6612b211c9c6abb11--
+

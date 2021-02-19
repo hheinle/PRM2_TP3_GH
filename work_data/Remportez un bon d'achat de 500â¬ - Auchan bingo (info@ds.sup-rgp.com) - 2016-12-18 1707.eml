@@ -1,0 +1,523 @@
+Return-Path: <bounce@ds.sup-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 18 Dec 2016 17:07:47 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id CF8C147
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 17:07:47 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id CB103600FB
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 17:07:47 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 1vnsN_Yn1EP3 for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 18 Dec 2016 17:07:47 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id AB55E60005
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 17:07:47 +0100 (CET)
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id A405720033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 17:07:47 +0100 (CET)
+Received: from mailr17-31.ds.top-rgp.com (mailr17-31.ds.top-rgp.com [188.95.255.31])
+	by mxb1-1.relay.renater.fr (asm) with ESMTP id 8D800600019
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 17:07:36 +0100 (CET)
+Received: from mailr17-31.ds.top-rgp.com (mailr17-31.ds.top-rgp.com [188.95.255.31])
+	by mailr17-31.ds.top-rgp.com (Postfix) with ESMTP id 275A4659FB
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 18 Dec 2016 17:07:47 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mailr17-31.ds.top-rgp.com 275A4659FB
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=ds.sup-rgp.com;
+	s=smtp; t=1482077267;
+	bh=3NxDfN+SMgEESiU2Wdy0tAJpFvR9Aqz4fJRT1Z9vlDo=;
+	h=Date:Subject:From:Reply-To:To:List-Unsubscribe;
+	b=eWAfLj0FW7zoHtaTKmzTKV2IlGg5UwOMBZ6a16rNvW7FYujgtx0DvLz60KJPebg9w
+	 l7dJXW9a6T4XOA7yckOIB6a2UPU8j+Pl6gvyiNwoX+JfImUKC8DCeQrRXOLwEjRTGc
+	 jhrUMnY+Itt3WnIjCcIJdkWaRNCrzlbxHZybY5kc=
+Message-ID: <ZmFsY29uOzE4OC45NS4yNTUuMzE7cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI7MjY1MjsxNjA1MjM0OzI2NTI5OzsyMDE2MTIxOC01ODU2YjQzOWJlOWJm@ds.sup-rgp.com>
+Date: Sun, 18 Dec 2016 17:07:47 +0100
+Subject: =?UTF-8?B?UmVtcG9ydGV6IHVuIGJvbiBkJ2FjaGF0IGRlIDUwMOKCrA==?=
+From: Auchan bingo <info@ds.sup-rgp.com>
+Reply-To: unsubscribe@regip.fr
+To: resp-m2-miage@univ-rennes1.fr
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1482077267_c56534cd57ccddfc7db45270d0a4450f_=_"
+List-Unsubscribe: <mailto:unsubscribe@regip.fr>,
+ <http://ds.promo-rgp.com/fur.php?c=%7B%22idCli%22%3A%222652%22%2C%22idCamp%22%3A%221605234%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D%22%7D&at=1>
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 188.95.255.31
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrjeehgdekjecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefkfffuhfhrvfggtgfjsegrtderredttdejnecuhfhrohhmpeetuhgthhgrnhcusghinhhgohcuoehinhhfohesughsrdhsuhhpqdhrghhprdgtohhmqeenucffohhmrghinhepphhrohhmohdqrhhgphdrtghomhenucfkphepudekkedrleehrddvheehrdefudenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhgrihhlrhdujedqfedurdgushdrthhophdqrhhgphdrtghomhdpihhnvghtpedukeekrdelhedrvdehhedrfedupdhmrghilhhfrhhomhepsghouhhntggvsegushdrshhuphdqrhhgphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+
+
+--_=_swift_v4_1482077267_c56534cd57ccddfc7db45270d0a4450f_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Verras je partner op valentijnsdag!
+
+Auchan(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAi=
+OjE2MDUyMzQsImNvZCI6MTA4OTI4MzEzLCJjYXQiOiI1MTIiLCJjbnQiOiJGUkEiLCJwcmVub20=
+iOiIiLCJub20iOiIiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIiwiZG=
+F0ZV9uYWlzc2FuY2UiOiIiLCJjaXZpbGl0ZSI6IiIsImFkcmVzc2VfY29tcGxldGUiOiIiLCJjb=
+2RlX3Bvc3RhbCI6IiIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D)
+
+Choisissez votre numero f=C3=A9tiche et gagnez(http://ds.promo-rgp.com/trk.=
+php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDUyMzQsImNvZCI6MTA4OTI4MzE0LCJ=
+jYXQiOiI1MTIiLCJjbnQiOiJGUkEiLCJwcmVub20iOiIiLCJub20iOiIiLCJlbWFpbCI6InJlc3=
+AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIiwiZGF0ZV9uYWlzc2FuY2UiOiIiLCJjaXZpbGl0Z=
+SI6IiIsImFkcmVzc2VfY29tcGxldGUiOiIiLCJjb2RlX3Bvc3RhbCI6IiIsImxpc3QiOiJsaXN0=
+X05ld2F6dXIxMzEyMTYifQ=3D=3D)
+
+Cher=20
+Nous vous offrons la possibilit=C3=A9 de remporter un bon d'achat chez Auch=
+an. Vous avez =C3=A9t=C3=A9 s=C3=A9lectionn=C3=A9 comme l'un de nos potenti=
+els gagnants ! Choisissez votre num=C3=A9ro f=C3=A9tiche et repartez avec v=
+otre prix ! Si votre num=C3=A9ro appara=C3=AEt, vous =C3=AAtes alors l'heur=
+eux gagnant d'un bon d'achat d'une valeur de 500 =E2=82=AC
+
+Participez maintenant !(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI=
+2NTIiLCJpZENhbXAiOjE2MDUyMzQsImNvZCI6MTA4OTI4MzE1LCJjYXQiOiI1MTIiLCJjbnQiOi=
+JGUkEiLCJwcmVub20iOiIiLCJub20iOiIiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZ=
+W5uZXMxLmZyIiwiZGF0ZV9uYWlzc2FuY2UiOiIiLCJjaXZpbGl0ZSI6IiIsImFkcmVzc2VfY29t=
+cGxldGUiOiIiLCJjb2RlX3Bvc3RhbCI6IiIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=
+=3D=3D)      Pixel SponsorBoost Pour vous retirer de la newsletter, suivez =
+ce lien:  http://ds.promo-rgp.com/fur.php?c=3D%7B%22idCli%22%3A%222652%22%2=
+C%22idCamp%22%3A%221605234%22%2C%22email%22%3A%22resp-m2-miage%40univ-renne=
+s1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zo=
+m3telq%3D%22%7D&at=3D1
+
+--_=_swift_v4_1482077267_c56534cd57ccddfc7db45270d0a4450f_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http:=
+//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang=3D"en" xm=
+lns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"en">
+<head>
+<title>Auc=
+han Bingo FR CPL</title>
+<meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3Dutf-8" />
+<meta content=3D"width=3Ddevice-width, initia=
+l-scale=3D1" name=3D"viewport" />
+<meta content=3D"IE=3Dedge" http-equiv=
+=3D"X-UA-Compatible" />
+<style type=3D"text/css">
+/*<![CDATA[*/
+/* CL=
+IENT-SPECIFIC STYLES */
+#outlook a{padding:0;} /* Force Outlook to provid=
+e a "view in browser" message */
+.ReadMsgBody{width:100%;} .ExternalClass=
+{width:100%;} /* Force Hotmail to display emails at full width */
+.Extern=
+alClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .Exter=
+nalClass td, .ExternalClass div {line-height: 100%;} /* Force Hotmail to di=
+splay normal line spacing */
+body, table, td, a{-webkit-text-size-adjust:=
+100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile chan=
+ging default text sizes */
+table, td{mso-table-lspace:0pt; mso-table-rspa=
+ce:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
+img{-=
+ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized imag=
+e in Internet Explorer */
+/* RESET STYLES */
+body{margin:0; padding:0;}=
+
+img{border:0; height:auto; line-height:100%; outline:none; text-decorati=
+on:none;}
+table{border-collapse:collapse !important;}
+body{height:100% =
+!important; margin:0; padding:0; width:100% !important;}
+/* iOS BLUE LINK=
+S */
+.appleBody a {color:#68440a; text-decoration: none;}
+.appleFooter =
+a {color:#999999; text-decoration: none;}
+/* MOBILE STYLES */
+@media sc=
+reen and (max-width: 525px) {
+/* ALLOWS FOR FLUID TABLES */
+table[class=
+=3D"wrapper"]{
+width:100% !important;
+}
+/* ADJUSTS LAYOUT OF LOGO IMA=
+GE */
+td[class=3D"logo"]{
+text-align: left;
+padding: 20px 0 20px 0 !i=
+mportant;
+}
+td[class=3D"logo"] img{
+margin:0 auto!important;
+}
+/*=
+ USE THESE CLASSES TO HIDE CONTENT ON MOBILE */
+td[class=3D"mobile-hide"]=
+{
+display:none;}
+img[class=3D"mobile-hide"]{
+display: none !important=
+;
+}
+img[class=3D"img-max"]{
+max-width: 100% !important;
+height:auto=
+ !important;
+}
+/* FULL-WIDTH TABLES */
+table[class=3D"responsive-tabl=
+e"]{
+width:100%!important;
+}
+/* UTILITY CLASSES FOR ADJUSTING PADDING=
+ ON MOBILE */
+td[class=3D"padding"]{
+padding: 10px 5% 15px 5% !importan=
+t;
+}
+td[class=3D"padding-copy"]{
+padding: 20px 5% 0 5% !important;
+=
+text-align: center;
+}
+td[class=3D"padding-hero"]{
+padding: 15px 0 0 0=
+ !important;
+text-align: center;
+}
+td[class=3D"padding-meta"]{
+padd=
+ing: 30px 5% 0px 5% !important;
+text-align: center;
+}
+td[class=3D"no-=
+pad"]{
+padding: 0 0 20px 0 !important;
+}
+td[class=3D"no-padding"]{
+=
+padding: 0 !important;
+}
+td[class=3D"section-padding"]{
+padding: 0 15=
+px 50px 15px !important;
+}
+td[class=3D"section-header"]{
+padding: 10p=
+x 15px 10px 15px !important;
+}
+td[class=3D"section-padding-bottom-image=
+"]{
+padding: 50px 15px 0 15px !important;
+}
+/* ADJUST BUTTONS ON MOBI=
+LE */
+td[class=3D"mobile-wrapper"]{
+padding: 10px 5% 10px 5% !important=
+;
+}
+table[class=3D"mobile-button-container"]{
+margin:0 auto;
+width:=
+100% !important;
+}
+a[class=3D"mobile-button"]{
+width:80% !important;=
+
+padding: 15px !important;
+border: 0 !important;
+font-size: 16px !imp=
+ortant;
+}
+}              =20
+/*]]>*/        =20
+</style>
+</head>
+<b=
+ody style=3D"margin: 0; padding: 0;"><center></center><br>
+
+<table widt=
+h=3D'100%' cellpadding=3D'0' cellspacing=3D'2'>
+  <tr width=3D'100%' styl=
+e=3D'font-family:Geneva, Arial, Helvetica, sans-serif; font-size:12px; colo=
+r:#333333'>
+    <td aling=3D'center' style=3D'width:0px'></td>
+    <td =
+style=3D"text-align:center">Vous recevez cet email car vous avez accept=
+=C3=A9 de recevoir les offres partenaires de  .<br/>Pour visualiser correct=
+ement ce message, acc=C3=A9dez =C3=A0 la<b><a href=3D'http://ds.promo-rgp.c=
+om/mirror.php?c=3DeyJpZEMiOiIyNjUyIiwiaWQiOiIxNjA1MjM0IiwiZSI6InJlc3AtbTItb=
+WlhZ2VAdW5pdi1yZW5uZXMxLmZyIiwibCI6Imxpc3RfTmV3YXp1cjEzMTIxNiJ9' style=3D't=
+ext-decoration:none; color:#25a9df;'> version en ligne.</a></b></td>
+  </=
+tr>
+</table>
+
+<table width=3D'100%' cellpadding=3D'0' cellspacing=3D'=
+2'>
+  <tr align=3D'center' width=3D'100%' style=3D'font-family:Geneva, Ar=
+ial, Helvetica, sans-serif; font-size:12px; color:#333333'>
+    <td  styl=
+e=3D"text-align:center; color:#333333" width=3D'100%'> Conform=C3=A9ment =
+=C3=A0 l'article 34 de la loi Informatique et Libert=C3=A9; du 6 janvier 19=
+78, vous disposez d'un droit d'acc=C3=A8s, de modification, de rectificatio=
+n et de suppression des donn=C3=A9es vous concernant.</br>Si ce message vou=
+s importune, d=C3=A9clarez le <b><a href=3D"http://ds.promo-rgp.com/trk.php=
+?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOiIxNjA1MjM0IiwiY29kIjoxMTI5OTQzMzAsIm=
+NhdCI6IjUxMiIsImNudCI6IkZSQSIsImVtYWlsIjoicmVzcC1tMi1taWFnZUB1bml2LXJlbm5lc=
+zEuZnIiLCJlbWFpbC5jcnlwdCI6ImtqT2ZYOHRWVFFxbnciLCJsaXN0IjoibGlzdF9OZXdhenVy=
+MTMxMjE2In0=3D" style=3D'text-decoration:none; color:#c89d43;'> ind=C3=
+=A9sirable.</a></b></td>
+  </tr>
+</table>
+
+
+
+<img data-alt=3D"1=
+483530" height=3D"1" src=3D"http://ds.promo-rgp.com/fv.php?c=3DeyJpZENsaSI6=
+IjI2NTIiLCJpZENhbXAiOjE2MDUyMzQsImNvZCI6MTYwNTIzNCwiY2F0IjoiNTEyIiwiY250Ijo=
+iRlJBIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImxpc3QiOiJsaX=
+N0X05ld2F6dXIxMzEyMTYifQ=3D=3D" width=3D"1" />
+<table border=3D"0" cellpa=
+dding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td align=
+=3D"center" bgcolor=3D"#FFFFFF" class=3D"section-header" style=3D"padding: =
+20px 15px 20px 15px;" width=3D"100%">
+<div style=3D"display: none; font-s=
+ize: 1px; color: #fefefe; line-height: 1px; font-family: Helvetica, Arial, =
+sans-serif; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;"=
+>Verras je partner op valentijnsdag!</div>
+<table align=3D"center" border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"wrapper" width=3D"500">=
+
+<tbody>
+<tr>
+<td align=3D"center">
+<table border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td align=3D"ce=
+nter" bgcolor=3D"#FFFFFF"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3Dey=
+JpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDUyMzQsImNvZCI6MTA4OTI4MzE3LCJjYXQiOiI1M=
+TIiLCJjbnQiOiJGUkEiLCJwcmVub20iOiIiLCJub20iOiIiLCJlbWFpbCI6InJlc3AtbTItbWlh=
+Z2VAdW5pdi1yZW5uZXMxLmZyIiwiZGF0ZV9uYWlzc2FuY2UiOiIiLCJjaXZpbGl0ZSI6IiIsImF=
+kcmVzc2VfY29tcGxldGUiOiIiLCJjb2RlX3Bvc3RhbCI6IiIsImxpc3QiOiJsaXN0X05ld2F6dX=
+IxMzEyMTYifQ=3D=3D" style=3D"text-decoration: none;" target=3D"_blank"><img=
+ alt=3D"Auchan" border=3D"0" class=3D"img-max" height=3D"55" src=3D"http://=
+ds.promo-rgp.com/ffiles/2652/1605234/0b56ad94b48629b12758c34e4bdcf805.jpg" =
+style=3D"display: block; font-family: Helvetica, Arial, sans-serif; color: =
+#666666; font-size: 16px;" width=3D"300" /></a></td>
+</tr>
+</tbody>
+<=
+/table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+=
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">
+<tbody>
+<tr>
+<td align=3D"center" bgcolor=3D"#EBEBEB" style=
+=3D"padding: 0px 15px 0px 15px;">
+<table border=3D"0" cellpadding=3D"0" c=
+ellspacing=3D"0" class=3D"responsive-table" width=3D"500">
+<tbody>
+<tr>=
+
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%">
+<tbody>
+<tr>
+<td align=3D"center">&nbsp;</td>
+</tr>
+</tbod=
+y>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbo=
+dy>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center" bgcolor=3D"#FFFFFF" c=
+lass=3D"section-padding" style=3D"padding:0 15px 70px 15px;">
+<table bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"responsive-table" wid=
+th=3D"500">
+<tbody>
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td class=3D"padding-=
+hero" style=3D"padding:15px 0 0 0;">
+<table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center"=
+><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZEN=
+hbXAiOjE2MDUyMzQsImNvZCI6MTA4OTI4MzE4LCJjYXQiOiI1MTIiLCJjbnQiOiJGUkEiLCJwcm=
+Vub20iOiIiLCJub20iOiIiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyI=
+iwiZGF0ZV9uYWlzc2FuY2UiOiIiLCJjaXZpbGl0ZSI6IiIsImFkcmVzc2VfY29tcGxldGUiOiIi=
+LCJjb2RlX3Bvc3RhbCI6IiIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" style=
+=3D"text-decoration: none;" target=3D"_blank"><img alt=3D"Choisissez votre =
+numero f=C3=A9tiche et gagnez" border=3D"0" class=3D"img-max" height=3D"298=
+" src=3D"http://ds.promo-rgp.com/ffiles/2652/1605234/a0ab9fddcdeea4e0117e5b=
+58fa1151fd.jpg" style=3D"display: block; padding: 0; color: #666666; text-d=
+ecoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px=
+;" width=3D"500" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>=
+
+<tr>
+<td>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" wi=
+dth=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"font-size: 2=
+5px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top=
+: 30px;">Cher </td>
+</tr>
+<tr>
+<td align=3D"center" class=3D"padding-=
+copy" style=3D"padding: 20px 0 0 0; font-size: 16px; line-height: 25px; fon=
+t-family: Helvetica, Arial, sans-serif; color: #666666;">Nous vous offrons =
+la possibilit&eacute; de remporter un bon d'achat chez Auchan. Vous avez &e=
+acute;t&eacute; s&eacute;lectionn&eacute; comme l'un de nos potentiels gagn=
+ants ! Choisissez votre num&eacute;ro f&eacute;tiche et repartez avec votre=
+ prix ! Si votre num&eacute;ro appara&icirc;t, vous &ecirc;tes alors l'heur=
+eux gagnant d'un bon d'achat d'une valeur de 500 &euro;</td>
+</tr>
+</tb=
+ody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table border=3D"0" cellpad=
+ding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td class=
+=3D"mobile-wrapper" style=3D"padding: 0;" valign=3D"top">
+<table align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" class=3D"responsi=
+ve-table" width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"padding: 20px 0 0=
+ 0;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"10=
+0%">
+<tbody>
+<tr>
+<td align=3D"center" bgcolor=3D"#FFFFFF" style=3D"p=
+adding: 0 0 20px 0; font-family: Arial, sans-serif; color: #666666; font-si=
+ze: 14px; line-height: 20px;"><a class=3D"mobile-button" href=3D"http://ds.=
+promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2MDUyMzQsImNvZ=
+CI6MTA4OTI4MzE5LCJjYXQiOiI1MTIiLCJjbnQiOiJGUkEiLCJwcmVub20iOiIiLCJub20iOiIi=
+LCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIiwiZGF0ZV9uYWlzc2FuY2U=
+iOiIiLCJjaXZpbGl0ZSI6IiIsImFkcmVzc2VfY29tcGxldGUiOiIiLCJjb2RlX3Bvc3RhbCI6Ii=
+IsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" style=3D"font-size: 16px; f=
+ont-family: Helvetica, Arial, sans-serif; font-weight: normal; color: #ffff=
+ff; text-decoration: none; background-color: #d22027; border-top: 15px soli=
+d #d22027; border-bottom: 15px solid #d22027; border-left: 25px solid #d220=
+27; border-right: 25px solid #d22027; border-radius: 3px; -webkit-border-ra=
+dius: 3px; -moz-border-radius: 3px; display: inline-block;" target=3D"_blan=
+k">Participez maintenant !</a></td>
+</tr>
+</tbody>
+</table>
+</td>=
+
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td=
+>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</t=
+d>
+</tr>
+</tbody>
+</table>
+<img alt=3D"Pixel SponsorBoost" border=
+=3D"0" height=3D"1" src=3D"http://ds.promo-rgp.com/fcv.php?url=3DaHR0cDovL2=
+Fkdi1zcGItaW50LWEuY29tL2Jhbm5pZXJlLnBocD90eXBlPTUmaWRjPTYyOTMmaWR2PTY0MTQmY=
+2FuZD04MDQ5NTg=3D" width=3D"1" /><img alt=3D"" border=3D"0" height=3D"1" sr=
+c=3D"http://ds.promo-rgp.com/fcv.php?url=3DaHR0cDovL2cud2l6ei5jYy9hL3JlZ2lw=
+L1ZQQy9bVUVNQUlMXQ=3D=3D" width=3D"1" /><img alt=3D"" border=3D"0" height=
+=3D"1" src=3D"http://ds.promo-rgp.com/fcv.php?url=3DaHR0cDovL2cud2l6ei5jYy9=
+hL3JlZ2lwL0pFVVgvcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" width=3D"1" />=
+<img alt=3D"" border=3D"0" height=3D"1" src=3D"http://ds.promo-rgp.com/fcv.=
+php?url=3DaHR0cDovL2cud2l6ei5jYy9hL3JlZ2lwL0pFVVgvcmVzcC1tMi1taWFnZUB1bml2L=
+XJlbm5lczEuZnI=3D" width=3D"1" />
+
+
+
+<table width=3D'100%' cellpadd=
+ing=3D'0' cellspacing=3D'2'>
+  <tr align=3D'center' width=3D'100%' style=
+=3D'font-family:Geneva, Arial, Helvetica, sans-serif; font-size:12px; color=
+:#__ unsubscribe_text_color__'>
+    <td  style=3D"text-align:center; colo=
+r:#333333" width=3D'100%'>Pour vous retirer de la newsletter:<b><a href=3D'=
+http://ds.promo-rgp.com/fur.php?c=3D%7B%22idCli%22%3A%222652%22%2C%22idCamp=
+%22%3A%221605234%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%2=
+C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D%=
+22%7D&at=3D1' style=3D'text-decoration:none; color:#25a9df;'> suivez ce lie=
+n.</a></b></td>
+  </tr>
+</table>
+</body>
+</html>
+
+--_=_swift_v4_1482077267_c56534cd57ccddfc7db45270d0a4450f_=_--
+

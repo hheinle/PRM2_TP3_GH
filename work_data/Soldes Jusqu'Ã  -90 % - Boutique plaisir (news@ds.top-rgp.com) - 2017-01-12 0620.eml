@@ -1,0 +1,402 @@
+Return-Path: <bounce@ds.top-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 12 Jan 2017 06:20:16 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 5561542
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 12 Jan 2017 06:20:16 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 4ADEB6013D
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 12 Jan 2017 06:20:16 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id 9QgP8VBv-tKP for <resp-m2-miage@univ-rennes1.fr>;
+	Thu, 12 Jan 2017 06:20:15 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 2B3CB60018
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 12 Jan 2017 06:20:16 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 055B120033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 12 Jan 2017 06:20:16 +0100 (CET)
+Received: from mailr36-161.ds.sup-rgp.com (mailr36-161.ds.sup-rgp.com [130.193.107.161])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id 5C860280263
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 12 Jan 2017 06:19:58 +0100 (CET)
+Received: from mailr36-161.ds.sup-rgp.com (mailr36-161.ds.sup-rgp.com [130.193.107.161])
+	by mailr36-161.ds.sup-rgp.com (Postfix) with ESMTP id 6A0D81225F4
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 12 Jan 2017 06:20:15 +0100 (CET)
+DKIM-Filter: OpenDKIM Filter v2.10.3 mailr36-161.ds.sup-rgp.com 6A0D81225F4
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=ds.top-rgp.com;
+	s=smtp; t=1484198415;
+	bh=p4Gz6BHEzlVtjINLngc+Eofbj00iHHCQ3eIdDzkl1VI=;
+	h=Date:Subject:From:Reply-To:To:List-Unsubscribe;
+	b=mLAbEb+VtYGIpvhVdtMOt4meGj9kTvRZC7XIuoYg6A7HPF8RIKUey7smdAYbAZXhK
+	 7fUL+yewWlmoeSaVIy43wvSnBd/oZjoPnOok33dgfaTe2/e9awCnYOK2upgZELAr+p
+	 dptYJ9qwimR0bNbys1/8XqnrcVoutxzql+z7KeUo=
+Message-ID: <ZmFsY29uOzEzMC4xOTMuMTA3LjE2MTtyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mcjsyNjUyOzE2NzkyMTc7NTg3NzExZmZiNDM1OQ==@ds.top-rgp.com>
+Date: Thu, 12 Jan 2017 06:20:15 +0100
+Subject: =?UTF-8?B?U29sZGVzIEp1c3F1J8OgIC05MCAl?=
+From: Boutique plaisir <news@ds.top-rgp.com>
+Reply-To: unsubscribe@regip.fr
+To: resp-m2-miage@univ-rennes1.fr
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1484198415_a1e31f2e990d47cfcbaaf07ef8aa5163_=_"
+List-Unsubscribe: <mailto:unsubscribe@regip.fr>,
+ <http://ds.promo-rgp.com/fur.php?c=%7B%22idCli%22%3A%222652%22%2C%22idCamp%22%3A%221679217%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%2C%22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D%22%7D&at=1>
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 130.193.107.161
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelgedrvdelgdekjecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefkfffuhfhrvfggtgfjsegrtderredttdejnecuhfhrohhmpeeuohhuthhiqhhuvgcuphhlrghishhirhcuoehnvgifshesughsrdhtohhpqdhrghhprdgtohhmqeenucffohhmrghinhepphhrohhmohdqrhhgphdrtghomhenucfkphepudeftddrudelfedruddtjedrudeiudenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhgrihhlrhefiedqudeiuddrughsrdhsuhhpqdhrghhprdgtohhmpdhinhgvthepudeftddrudelfedruddtjedrudeiuddpmhgrihhlfhhrohhmpegsohhunhgtvgesughsrdhtohhpqdhrghhprdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+
+--_=_swift_v4_1484198415_a1e31f2e990d47cfcbaaf07ef8aa5163_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+a0(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2=
+NzkyMTcsImNvZCI6MTE5MTg2NTIzLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3Q=
+iOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZX=
+MxLmZyIn0=3D)
+
+Bonjour,
+La chasse aux bonnes affaires ouvre ses portes, c'est parti pour les solde =
+d'hiver ! Pour cette =C3=A9dition, votre boutique favorite voit les choses =
+en grand et va droit =C3=A0 l'essentiel, jusqu'=C3=A0 -90% d=C3=A8s le prem=
+ier jour sur un vaste choix de r=C3=A9f=C3=A9rences (lingerie, gadgets, fan=
+taisie, bien-=C3=AAtre...). N'attendez plus, laissez-vous submerger par cet=
+te douce fr=C3=A9n=C3=A9sie en visitant notre boutique maintenant !(http://=
+ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsIm=
+NvZCI6MTE5MTg2NTI0LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X=
+05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=
+=3D)
+
+09011701(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTI1LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1y=
+ZW5uZXMxLmZyIn0=3D)
+09011702(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTI2LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1y=
+ZW5uZXMxLmZyIn0=3D)=0909011703(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENs=
+aSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTI3LCJjYXQiOiIxNjc3NzI=
+xNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3=
+AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D)=0909011704(http://ds.promo-rgp.co=
+m/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2N=
+TI4LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEy=
+MTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D)=0909011705(=
+http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2Nzk=
+yMTcsImNvZCI6MTE5MTg2NTI5LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOi=
+JsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxL=
+mZyIn0=3D)
+09011705(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTMwLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1y=
+ZW5uZXMxLmZyIn0=3D)
+09011706(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTMxLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1y=
+ZW5uZXMxLmZyIn0=3D)=0909011706(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENs=
+aSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTMyLCJjYXQiOiIxNjc3NzI=
+xNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3=
+AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D)=0909011707(http://ds.promo-rgp.co=
+m/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2N=
+TMzLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEy=
+MTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D)=0909011708(=
+http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2Nzk=
+yMTcsImNvZCI6MTE5MTg2NTM0LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOi=
+JsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxL=
+mZyIn0=3D)
+09011711(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTM1LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1y=
+ZW5uZXMxLmZyIn0=3D)
+09011712(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTM2LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1y=
+ZW5uZXMxLmZyIn0=3D)=0909011710(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENs=
+aSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTM3LCJjYXQiOiIxNjc3NzI=
+xNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3=
+AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D)=0909011711(http://ds.promo-rgp.co=
+m/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2N=
+TM4LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEy=
+MTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D)=0909011712(=
+http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2Nzk=
+yMTcsImNvZCI6MTE5MTg2NTM5LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOi=
+JsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxL=
+mZyIn0=3D)
+09011717(http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbX=
+AiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTQwLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsI=
+mxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1y=
+ZW5uZXMxLmZyIn0=3D) Pour vous retirer de la newsletter, suivez ce lien:  ht=
+tp://ds.promo-rgp.com/fur.php?c=3D%7B%22idCli%22%3A%222652%22%2C%22idCamp%2=
+2%3A%221679217%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%2C%=
+22seg%22%3A%22eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D%22=
+%7D&at=3D1
+
+--_=_swift_v4_1484198415_a1e31f2e990d47cfcbaaf07ef8aa5163_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http:=
+//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http:=
+//www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" cont=
+ent=3D"text/html; charset=3Dutf-8" />
+<title>Boutique</title>
+</head>=
+
+<body><center></center><br>
+
+<table width=3D'100%' cellpadding=3D'0'=
+ cellspacing=3D'2'>
+  <tr width=3D'100%' style=3D'font-family:Geneva, Ari=
+al, Helvetica, sans-serif; font-size:12px; color:#333333'>
+    <td aling=
+=3D'center' style=3D'width:0px'></td>
+    <td style=3D"text-align:center"=
+>Vous recevez cet email car vous avez accept=C3=A9 de recevoir les offres p=
+artenaires de  .<br/>Pour visualiser correctement ce message, acc=C3=A9dez =
+=C3=A0 la<b><a href=3D'http://ds.promo-rgp.com/mirror.php?c=3DeyJpZEMiOiIyN=
+jUyIiwiaWQiOiIxNjc5MjE3IiwiZSI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIiwi=
+bCI6Imxpc3RfTmV3YXp1cjEzMTIxNiJ9' style=3D'text-decoration:none; color:#25a=
+9df;'> version en ligne.</a></b></td>
+  </tr>
+</table>
+
+<table widt=
+h=3D'100%' cellpadding=3D'0' cellspacing=3D'2'>
+  <tr align=3D'center' wi=
+dth=3D'100%' style=3D'font-family:Geneva, Arial, Helvetica, sans-serif; fon=
+t-size:12px; color:#333333'>
+    <td  style=3D"text-align:center; color:#=
+333333" width=3D'100%'> Conform=C3=A9ment =C3=A0 l'article 34 de la loi Inf=
+ormatique et Libert=C3=A9; du 6 janvier 1978, vous disposez d'un droit d'ac=
+c=C3=A8s, de modification, de rectification et de suppression des donn=
+=C3=A9es vous concernant.</br>Si ce message vous importune, d=C3=A9clarez l=
+e <b><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJ=
+pZENhbXAiOiIxNjc5MjE3IiwiY29kIjoxMTkyMDQzOTAsImNhdCI6IjE2Nzc3MjE2IiwiY250Ij=
+oiRlJBIiwiZW1haWwiOiJyZXNwLW0yLW1pYWdlQHVuaXYtcmVubmVzMS5mciIsImVtYWlsLmNye=
+XB0Ijoia2pPZlg4dFZUUXFudyIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYifQ=3D=3D" st=
+yle=3D'text-decoration:none; color:#c89d43;'> ind=C3=A9sirable.</a></b></td=
+>
+  </tr>
+</table>
+
+
+
+<img data-alt=3D"1678841" height=3D"1" sr=
+c=3D"http://ds.promo-rgp.com/fv.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE=
+2NzkyMTcsImNvZCI6MTY3OTIxNywiY2F0IjoiMTY3NzcyMTYiLCJjbnQiOiJGUkEiLCJlbWFpbC=
+I6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIiwibGlzdCI6Imxpc3RfTmV3YXp1cjEzM=
+TIxNiJ9" width=3D"1" />
+<table align=3D"center" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" style=3D"border:0px;border-collapse:collapse;paddi=
+ng:0px;spacing:0px;" width=3D"600">
+<tbody>
+<tr>
+<td colspan=3D"2" va=
+lign=3D"top"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI=
+2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTQyLCJjYXQiOiIxNjc3NzIxNiIsIm=
+NudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItb=
+WlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D"><img alt=3D"a0" border=3D"0" height=3D"1=
+00" src=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/7a092d616e3e2db01d50=
+2974c5fa3f69.jpg" width=3D"600" /></a></td>
+</tr>
+<tr>
+<td colspan=3D=
+"2" style=3D"font-family:Arial, Helvetica, sans-serif;color:#000000;font-si=
+ze:13px; text-align:justify">
+<p><br />
+Bonjour,<br />
+La chasse aux =
+bonnes affaires ouvre ses portes, c'est parti pour les solde d'hiver ! Pour=
+ cette &eacute;dition, votre boutique favorite voit les choses en grand et =
+va droit &agrave; l'essentiel, jusqu'&agrave; -90% d&egrave;s le premier jo=
+ur sur un vaste choix de r&eacute;f&eacute;rences (lingerie, gadgets, fanta=
+isie, bien-&ecirc;tre...). <a href=3D"http://ds.promo-rgp.com/trk.php?c=3De=
+yJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTQzLCJjYXQiOiIx=
+Njc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI=
+6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D">N'attendez plus, laissez-v=
+ous submerger par cette douce fr&eacute;n&eacute;sie en visitant notre bout=
+ique maintenant !</a><br />
+&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</tab=
+le>
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"border:0px;border-collapse:collapse;padding:0px;spacing:0px;" =
+width=3D"600">
+<tbody>
+<tr>
+<td colspan=3D"4" valign=3D"bottom"><a hr=
+ef=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiO=
+jE2NzkyMTcsImNvZCI6MTE5MTg2NTQ0LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxp=
+c3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5=
+uZXMxLmZyIn0=3D" target=3D"_blank"><img alt=3D"09011701" border=3D"0" heigh=
+t=3D"203" src=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/b834971a0f368e=
+24a84b1d4ef5eb91ce.jpg" style=3D"display:block;" width=3D"600" /></a></td>=
+
+</tr>
+<tr>
+<td valign=3D"bottom" width=3D"150"><a href=3D"http://ds.=
+promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZ=
+CI6MTE5MTg2NTUwLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05l=
+d2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D"=
+ target=3D"_blank"><img alt=3D"09011702" border=3D"0" height=3D"376" src=3D=
+"http://ds.promo-rgp.com/ffiles/2652/1679217/29efa7382500e344c5061f07ac1ded=
+58.jpg" style=3D"display:block;" width=3D"150" /></a></td>
+<td valign=3D"=
+bottom" width=3D"150"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZE=
+NsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTUxLCJjYXQiOiIxNjc3N=
+zIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJl=
+c3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_blank"><img alt=3D"0=
+9011703" border=3D"0" height=3D"376" src=3D"http://ds.promo-rgp.com/ffiles/=
+2652/1679217/6dfde82ad124153e2b454344645a2827.jpg" style=3D"display:block;"=
+ width=3D"150" /></a></td>
+<td valign=3D"bottom" width=3D"148"><a href=3D=
+"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2Nz=
+kyMTcsImNvZCI6MTE5MTg2NTUyLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiO=
+iJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMx=
+LmZyIn0=3D" target=3D"_blank"><img alt=3D"09011704" border=3D"0" height=3D"=
+376" src=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/68c9ef54f1a749e88bf=
+2cd37476ad074.jpg" style=3D"display:block;" width=3D"150" /></a></td>
+<td=
+ valign=3D"bottom" width=3D"154"><a href=3D"http://ds.promo-rgp.com/trk.php=
+?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTUzLCJjYX=
+QiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlb=
+WFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_blank"><i=
+mg alt=3D"09011705" border=3D"0" height=3D"376" src=3D"http://ds.promo-rgp.=
+com/ffiles/2652/1679217/83a96fc58cfcdf2b2c5860a657b1c467.jpg" style=3D"disp=
+lay:block;" width=3D"150" /></a></td>
+</tr>
+<tr>
+<td colspan=3D"4" va=
+lign=3D"bottom"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6=
+IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTU2LCJjYXQiOiIxNjc3NzIxNiI=
+sImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbT=
+ItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D"><img alt=3D"09011705" border=3D"0" he=
+ight=3D"96" src=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/01d175e4b1f2=
+85516942ed68250e555f.jpg" style=3D"display:block;" width=3D"600" /></a></td=
+>
+</tr>
+<tr>
+<td valign=3D"bottom"><a href=3D"http://ds.promo-rgp.com=
+/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NT=
+U3LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyM=
+TYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_b=
+lank"><img alt=3D"09011706" border=3D"0" height=3D"411" src=3D"http://ds.pr=
+omo-rgp.com/ffiles/2652/1679217/5b8a47d220123fe6b2e2888ddd3fa17d.jpg" style=
+=3D"display:block;" width=3D"150" /></a></td>
+<td valign=3D"bottom"><a hr=
+ef=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiO=
+jE2NzkyMTcsImNvZCI6MTE5MTg2NTU4LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxp=
+c3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5=
+uZXMxLmZyIn0=3D" target=3D"_blank"><img alt=3D"09011706" border=3D"0" heigh=
+t=3D"411" src=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/271504957ccd51=
+bd30a21e39e60bcfc2.jpg" style=3D"display:block;" width=3D"150" /></a></td>=
+
+<td valign=3D"bottom"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJ=
+pZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTU5LCJjYXQiOiIxNj=
+c3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6I=
+nJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_blank"><img alt=
+=3D"09011707" border=3D"0" height=3D"411" src=3D"http://ds.promo-rgp.com/ff=
+iles/2652/1679217/ab4fc39ec62a5844d23e2f48b2229c41.jpg" style=3D"display:bl=
+ock;" width=3D"150" /></a></td>
+<td valign=3D"bottom"><a href=3D"http://d=
+s.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImN=
+vZCI6MTE5MTg2NTYwLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X0=
+5ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=
+=3D" target=3D"_blank"><img alt=3D"09011708" border=3D"0" height=3D"411" sr=
+c=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/30088b5c393e5b30bb3347c13f=
+e3c74c.jpg" style=3D"display:block;" width=3D"150" /></a></td>
+</tr>
+<t=
+r>
+<td colspan=3D"4" valign=3D"bottom"><a href=3D"http://ds.promo-rgp.com=
+/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NT=
+YxLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyM=
+TYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_b=
+lank"><img alt=3D"09011711" border=3D"0" height=3D"65" src=3D"http://ds.pro=
+mo-rgp.com/ffiles/2652/1679217/9eac192e90b4c0ddd7ffaf0e669bcebf.jpg" style=
+=3D"display:block;" width=3D"600" /></a></td>
+</tr>
+<tr>
+<td valign=
+=3D"bottom"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2=
+NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTYyLCJjYXQiOiIxNjc3NzIxNiIsImN=
+udCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbW=
+lhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_blank"><img alt=3D"09011712" b=
+order=3D"0" height=3D"367" src=3D"http://ds.promo-rgp.com/ffiles/2652/16792=
+17/23ebcd73b4b596cf96d8b839b41626e8.jpg" style=3D"display:block;" width=3D"=
+150" /></a></td>
+<td valign=3D"bottom"><a href=3D"http://ds.promo-rgp.com=
+/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NT=
+YzLCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyM=
+TYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_b=
+lank"><img alt=3D"09011710" border=3D"0" height=3D"367" src=3D"http://ds.pr=
+omo-rgp.com/ffiles/2652/1679217/44971118eaf91803a442d9ec39f4a645.jpg" style=
+=3D"display:block;" width=3D"150" /></a></td>
+<td valign=3D"bottom"><a hr=
+ef=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJpZENsaSI6IjI2NTIiLCJpZENhbXAiO=
+jE2NzkyMTcsImNvZCI6MTE5MTg2NTY0LCJjYXQiOiIxNjc3NzIxNiIsImNudCI6IkZSQSIsImxp=
+c3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5=
+uZXMxLmZyIn0=3D" target=3D"_blank"><img alt=3D"09011711" border=3D"0" heigh=
+t=3D"367" src=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/027eccc2e5421b=
+42b16a34db8685ad99.jpg" style=3D"display:block;" width=3D"150" /></a></td>=
+
+<td valign=3D"bottom"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3DeyJ=
+pZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTY1LCJjYXQiOiIxNj=
+c3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6I=
+nJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D" target=3D"_blank"><img alt=
+=3D"09011712" border=3D"0" height=3D"367" src=3D"http://ds.promo-rgp.com/ff=
+iles/2652/1679217/7ea4541fba449b664d8fbaf564832181.jpg" style=3D"display:bl=
+ock;" width=3D"150" /></a></td>
+</tr>
+<tr>
+<td colspan=3D"4" height=
+=3D"36" valign=3D"bottom"><a href=3D"http://ds.promo-rgp.com/trk.php?c=3Dey=
+JpZENsaSI6IjI2NTIiLCJpZENhbXAiOjE2NzkyMTcsImNvZCI6MTE5MTg2NTY2LCJjYXQiOiIxN=
+jc3NzIxNiIsImNudCI6IkZSQSIsImxpc3QiOiJsaXN0X05ld2F6dXIxMzEyMTYiLCJlbWFpbCI6=
+InJlc3AtbTItbWlhZ2VAdW5pdi1yZW5uZXMxLmZyIn0=3D"><img alt=3D"09011717" borde=
+r=3D"0" height=3D"99" src=3D"http://ds.promo-rgp.com/ffiles/2652/1679217/d2=
+d490c34c4659855159c9fa7f459a82.jpg" style=3D"display:block;" width=3D"600" =
+/></a></td>
+</tr>
+</tbody>
+</table>
+<img alt=3D"" border=3D"0" heig=
+ht=3D"1" src=3D"http://g.wizz.cc/a/regip/VPCX/resp-m2-miage@univ-rennes1.fr=
+" width=3D"1" />
+
+
+
+<table width=3D'100%' cellpadding=3D'0' cellspa=
+cing=3D'2'>
+  <tr align=3D'center' width=3D'100%' style=3D'font-family:Ge=
+neva, Arial, Helvetica, sans-serif; font-size:12px; color:#__ unsubscribe_t=
+ext_color__'>
+    <td  style=3D"text-align:center; color:#333333" width=
+=3D'100%'>Pour vous retirer de la newsletter:<b><a href=3D'http://ds.promo-=
+rgp.com/fur.php?c=3D%7B%22idCli%22%3A%222652%22%2C%22idCamp%22%3A%221679217=
+%22%2C%22email%22%3A%22resp-m2-miage%40univ-rennes1.fr%22%2C%22seg%22%3A%22=
+eqysi23knzzwizrzhasfo23oojrxo52kg5hfaqkkhfaw622zom3telq%3D%22%7D&at=3D1' st=
+yle=3D'text-decoration:none; color:#25a9df;'> suivez ce lien.</a></b></td>=
+
+  </tr>
+</table>
+</body>
+</html>
+
+--_=_swift_v4_1484198415_a1e31f2e990d47cfcbaaf07ef8aa5163_=_--
+

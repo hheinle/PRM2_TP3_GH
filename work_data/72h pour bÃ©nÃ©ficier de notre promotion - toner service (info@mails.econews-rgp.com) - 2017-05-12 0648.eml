@@ -1,0 +1,292 @@
+Return-Path: <info@mails.econews-rgp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Fri, 12 May 2017 06:48:34 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id EA48F12E
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 06:48:34 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E72D960247
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 06:48:34 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id AxKVg6Px8vEy for <resp-m2-miage@univ-rennes1.fr>;
+	Fri, 12 May 2017 06:48:34 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id C742260010
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 06:48:34 +0200 (CEST)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id BFB9820033
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 06:48:34 +0200 (CEST)
+Received: from mta1.mails.econews-rgp.com (mta1.mails.econews-rgp.com [163.172.248.141])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-1.relay.renater.fr (asm) with ESMTPS id 5E9BC60FE4
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 06:48:38 +0200 (CEST)
+X-QHPSI: clean
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+	d=mails.econews-rgp.com; s=default; h=Date:To:From:Subject:
+	Message-ID:X-Mailer:Precedence:List-Unsubscribe:MIME-Version:
+	Content-Type:Content-Transfer-Encoding; bh=vZHxZ1mt6xTb0eDwNG8MT
+	xYH0oU=; b=XAzY6rYaoj6cbMeP3l8+eKPY0Y4CGbD1xG/lxL9s3vHSN7FSJ/Sq1
+	TumeU7x8xYWNf+2NcmEuiYaKM11gcZV0TLTBGP3tn7Jv/Nl4pIDYZV6+qp8sj7Yt
+	mDKTog1kXBCmD4AvnhckjNJ+k4B8lKBwE+0a9GlXzOx1ITEu0i/cvs=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=simple;
+  s=default; d=mails.econews-rgp.com;
+  b=M17vuusqc2BpFUbwpzOs+4TIDxiPxQH9y6dCGfg3mLGQHcLalR/58vMV4SBDf7nIs/Ez7p1bRguRzXIqRJHZSuNugIW6VFbbiLL+JiVxAWdRoy4PgwwtZlvrIeOjH8I+jRmuPFSlFkOfCLxCKZwtqMrhV1NYjSyHAftH8wbd3u4=;
+Received: (indimail 48282 invoked from 62.210.86.80 by host im43 by uid 555); Fri, 12 May 2017 06:48:32 +0200
+Date: Fri, 12 May 2017 06:48:32 +0200
+To: resp-m2-miage@univ-rennes1.fr
+From: toner service <info@mails.econews-rgp.com>
+Subject: =?utf-8?Q?72h_pour_b=C3=A9n=C3=A9ficier_de_notre_promotion?=
+Message-ID: <10a9ebf0ab8d24f47acc126298d94caa@localhost.localdomain>
+X-Mailer: Mailxpertise
+X-List: 5
+X-Account: 1194
+X-Campaign: 792
+X-Mode: 1
+X-Unique: 273910
+X-Abuse: abuse@mxea43.com
+Precedence: bulk
+List-Unsubscribe: <http://mails.econews-rgp.com/JTI2YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmVtJTNEcmVzcC1tMi1taWFnZSU0MHVuaXYtcmVubmVzMS5mciUyNnQlM0RjJTI2bCUzRDE3NzkxJTI2ZiUzRDI=>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_10a9ebf0ab8d24f47acc126298d94caa"
+Content-Transfer-Encoding: quoted-printable
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 163.172.248.141
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrtdeigdeliecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpeffvffhuffkofhpjfggtgfgsegrqhhjphertddunecuhfhrohhmpehtohhnvghruchsvghrvhhitggvuceoihhnfhhosehmrghilhhsrdgvtghonhgvfihsqdhrghhprdgtohhmqeenucffohhmrghinhepvggtohhnvgifshdqrhhgphdrtghomhenucfkphepudeifedrudejvddrvdegkedrudegudenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepmhhtrgdurdhmrghilhhsrdgvtghonhgvfihsqdhrghhprdgtohhmpdhinhgvthepudeifedrudejvddrvdegkedrudeguddpmhgrihhlfhhrohhmpehinhhfohesmhgrihhlshdrvggtohhnvgifshdqrhhgphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--b1_10a9ebf0ab8d24f47acc126298d94caa
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNm=
+wlM0QxNzc4OCUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+ =09=09 [1]
+ =09=09 [1]
+
+ =09=09 [1]
+
+ =09=09 [1]
+ =09=09 [2]
+
+ =09=09 [1]
+ =09=09 [3]
+
+ =09=09 [1]
+ =09=09 [4]
+
+ =09=09 [1]
+ =09=09 [5]
+
+ =09=09 [1]
+ =09=09 [6]
+
+ =09=09 [1]
+ =09=09 [7]
+
+ =09=09 [1]
+
+ =09=09 [1]
+
+ Les prix de nos produits sont indiqu=C3=A9s toutes taxes comprises et b=C3=
+=A9n=C3=A9ficient d=E2=80=99une garantie de
+un an.
+ Le d=C3=A9lai de livraison sur votre commande est de 48h/72h.
+ Toner Services livre en France m=C3=A9tropolitaine, Belgique, Luxembourg, =
+Andorre et Monaco.
+ Toner Services
+ 10/14 av. du g=C3=A9n=C3=A9ral Leclerc 78230 Le Pecq
+ Pour ne plus recevoir de messages de notre part, suivez ce lien=20
+
+ =09=09 [1]
+
+http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNm=
+wlM0QxNzc5MCUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D=0A
+
+Links:
+------
+[1] http://www.toner.fr/newsletterlink-1255.asp
+[2] http://www.toner-services.fr/newslettermarque-1255-hp.asp
+[3] http://www.toner-services.fr/newslettermarque-1255-epson.asp
+[4] http://www.toner-services.fr/newslettermarque-1255-canon.asp
+[5] http://www.toner-services.fr/newslettermarque-1255-brother.asp
+[6] http://www.toner-services.fr/newslettermarque-1255-lexmark.asp
+[7] http://www.toner-services.fr/newslettermarque-1255-samsung.asp
+
+
+--b1_10a9ebf0ab8d24f47acc126298d94caa
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>=0A<head>=0A=09<title>maquette_def</title>=0A=09<meta content=3D"text=
+/html; charset=3Diso-8859-1" http-equiv=3D"Content-Type">=0A</head>=0A<body=
+ bgcolor=3D"#FFFFFF">=0A<div style=3D"text-align:center;"><div align=3D"cen=
+ter"><font color=3D"#000000" style=3D"font-size:11px;font-family:Verdana,Ar=
+ial,Helvetica,sans-serif;"><br>Pour visualiser correctement ce message, acc=
+=C3=A9dez =C3=A0 la <a href=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZ=
+jJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc4OSUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMj=
+ZscyUzRDUlMjZ1bnN1YnNjcmliZSUzRCUyNm1pcnJvciUzRCUyNmVtYWlsJTNEY21WemNDMXRNa=
+TF0YVdGblpVQjFibWwyTFhKbGJtNWxjekV1Wm5JJTNE">version en ligne</a><br><br></=
+font></div></div>=0A<img height=3D"1" src=3D"http://a3c.toner-services.fr/T=
+oner/mailing.asp?news=3D1255&tit=3D&src=3D2" width=3D"1">=0A<table align=3D=
+"center" border=3D"0" cellpadding=3D"1" cellspacing=3D"0">=0A=09<tbody>=0A=
+=09=09<tr>=0A=09=09=09<td bgcolor=3D"#000000">=0A=09=09=09<table align=3D"c=
+enter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"652">=0A=
+=09=09=09=09<tbody>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td>=0A=09=09=
+=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=
+=3D"652">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=0A=
+=09=09=09=09=09=09=09=09=09<td><a href=3D"http://mails.econews-rgp.com/YSUz=
+RDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc5MiUyNnMlM0Q3Mjk3MTczJTI=
+2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"TONER SERVICES" bord=
+er=3D"0" height=3D"98" src=3D"http://mails.econews-rgp.com/img/792/images/1=
+267596132591.jpg" style=3D"display:block;" width=3D"181"></a></td>=0A=09=09=
+=09=09=09=09=09=09=09<td><a href=3D"http://mails.econews-rgp.com/YSUzRDExOT=
+QlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc5MyUyNnMlM0Q3Mjk3MTczJTI2dCUzR=
+GMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"Cartouches, d'imprimantes,=
+ a prix discount" border=3D"0" height=3D"98" src=3D"http://mails.econews-rg=
+p.com/img/792/images/1435728263591.jpg" style=3D"display:block;" width=3D"4=
+71"></a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbod=
+y>=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09=
+</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td><a href=3D"http://mails=
+.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc5NC=
+UyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D=
+"0=E2=82=AC la livraison" border=3D"0" height=3D"81" src=3D"http://mails.ec=
+onews-rgp.com/img/792/images/1244521529591.jpg" style=3D"display:block;" wi=
+dth=3D"652"></a></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09<td>=0A=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"652">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td><a href=3D"http://mail=
+s.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc5N=
+SUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=
+=3D"0=E2=82=AC la livraison" border=3D"0" height=3D"68" src=3D"http://mails=
+.econews-rgp.com/img/792/images/1685818944591.jpg" style=3D"display:block;"=
+ width=3D"570"></a></td>=0A=09=09=09=09=09=09=09=09=09<td><a href=3D"http:/=
+/mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0Qx=
+Nzc5NiUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img =
+alt=3D"HP" border=3D"0" height=3D"68" src=3D"http://mails.econews-rgp.com/i=
+mg/792/images/1277685010591.jpg" style=3D"display:block;" width=3D"82"></a>=
+</td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=
+=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=
+=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09<table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"652">=0A=09=09=09=09=
+=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=
+=09<td><a href=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2=
+ZSUzRDI3MzkxMCUyNmwlM0QxNzc5NyUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D"=
+ target=3D"_blank"><img alt=3D"0=E2=82=AC la livraison" border=3D"0" height=
+=3D"66" src=3D"http://mails.econews-rgp.com/img/792/images/1090039180591.jp=
+g" style=3D"display:block;" width=3D"570"></a></td>=0A=09=09=09=09=09=09=09=
+=09=09<td><a href=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJ=
+TI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc5OCUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=
+=3D" target=3D"_blank"><img alt=3D"Espon" border=3D"0" height=3D"66" src=3D=
+"http://mails.econews-rgp.com/img/792/images/2039650365914.jpg" style=3D"di=
+splay:block;" width=3D"82"></a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=
+=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<=
+td>=0A=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"652">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=
+=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td><a href=3D"http://mails.econews=
+-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc5OSUyNnMlM0=
+Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"0=E2=82=
+=AC la livraison" border=3D"0" height=3D"68" src=3D"http://mails.econews-rg=
+p.com/img/792/images/9248539559143.jpg" style=3D"display:block;" width=3D"5=
+70"></a></td>=0A=09=09=09=09=09=09=09=09=09<td><a href=3D"http://mails.econ=
+ews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzgwMCUyNnM=
+lM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"Cano=
+n" border=3D"0" height=3D"68" src=3D"http://mails.econews-rgp.com/img/792/i=
+mages/8262084245914.jpg" style=3D"display:block;" width=3D"82"></a></td>=0A=
+=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=09=09=
+=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=
+=09=09=09<tr>=0A=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09<table border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"652">=0A=09=09=09=09=09=09=
+=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td>=
+<a href=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI=
+3MzkxMCUyNmwlM0QxNzgwMSUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=
+=3D"_blank"><img alt=3D"0=E2=82=AC la livraison" border=3D"0" height=3D"68"=
+ src=3D"http://mails.econews-rgp.com/img/792/images/1352063295914.jpg" styl=
+e=3D"display:block;" width=3D"570"></a></td>=0A=09=09=09=09=09=09=09=09=09<=
+td><a href=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUz=
+RDI3MzkxMCUyNmwlM0QxNzgwMiUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" tar=
+get=3D"_blank"><img alt=3D"Brother" border=3D"0" height=3D"68" src=3D"http:=
+//mails.econews-rgp.com/img/792/images/5145082125914.jpg" style=3D"display:=
+block;" width=3D"82"></a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=
+=09=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=
+=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td>=0A=
+=09=09=09=09=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" w=
+idth=3D"652">=0A=09=09=09=09=09=09=09<tbody>=0A=09=09=09=09=09=09=09=09<tr>=
+=0A=09=09=09=09=09=09=09=09=09<td><a href=3D"http://mails.econews-rgp.com/Y=
+SUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzgwMyUyNnMlM0Q3Mjk3MTcz=
+JTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"0=E2=82=AC la liv=
+raison" border=3D"0" height=3D"70" src=3D"http://mails.econews-rgp.com/img/=
+792/images/6181735615914.jpg" style=3D"display:block;" width=3D"570"></a></=
+td>=0A=09=09=09=09=09=09=09=09=09<td><a href=3D"http://mails.econews-rgp.co=
+m/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzgwNCUyNnMlM0Q3Mjk3M=
+TczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"Lexmark" borde=
+r=3D"0" height=3D"70" src=3D"http://mails.econews-rgp.com/img/792/images/87=
+91993445914.jpg" style=3D"display:block;" width=3D"82"></a></td>=0A=09=09=
+=09=09=09=09=09=09</tr>=0A=09=09=09=09=09=09=09</tbody>=0A=09=09=09=09=09=
+=09</table>=0A=09=09=09=09=09=09</td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09<tr>=0A=09=09=09=09=09=09<td>=0A=09=09=09=09=09=09<table border=3D"0" ce=
+llpadding=3D"0" cellspacing=3D"0" width=3D"652">=0A=09=09=09=09=09=09=09<tb=
+ody>=0A=09=09=09=09=09=09=09=09<tr>=0A=09=09=09=09=09=09=09=09=09<td><a hre=
+f=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxM=
+CUyNmwlM0QxNzgwNSUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_b=
+lank"><img alt=3D"0=E2=82=AC la livraison" border=3D"0" height=3D"82" src=
+=3D"http://mails.econews-rgp.com/img/792/images/8477552485914.jpg" style=3D=
+"display:block;" width=3D"570"></a></td>=0A=09=09=09=09=09=09=09=09=09<td><=
+a href=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3=
+MzkxMCUyNmwlM0QxNzgwNiUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=
+=3D"_blank"><img alt=3D"Samsung" border=3D"0" height=3D"82" src=3D"http://m=
+ails.econews-rgp.com/img/792/images/2800154875914.jpg" style=3D"display:blo=
+ck;" width=3D"82"></a></td>=0A=09=09=09=09=09=09=09=09</tr>=0A=09=09=09=09=
+=09=09=09</tbody>=0A=09=09=09=09=09=09</table>=0A=09=09=09=09=09=09</td>=0A=
+=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td><a href=
+=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMC=
+UyNmwlM0QxNzgwNyUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_bl=
+ank"><img alt=3D"Plus que 72h pour en profiter" border=3D"0" height=3D"128"=
+ src=3D"http://mails.econews-rgp.com/img/792/images/1685935650591.jpg" styl=
+e=3D"display:block;" width=3D"652"></a></td>=0A=09=09=09=09=09</tr>=0A=09=
+=09=09=09=09<tr>=0A=09=09=09=09=09=09<td><a href=3D"http://mails.econews-rg=
+p.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzgwOCUyNnMlM0Q3M=
+jk3MTczJTI2dCUzRGMlMjZscyUzRDU=3D" target=3D"_blank"><img alt=3D"Cliquez ic=
+i" border=3D"0" height=3D"89" src=3D"http://mails.econews-rgp.com/img/792/i=
+mages/1167362699591.jpg" style=3D"display:block;" width=3D"652"></a></td>=
+=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=09=09=09=09<td align=
+=3D"center" bgcolor=3D"#FFFFFF" height=3D"70"><font color=3D"#000000" face=
+=3D"Arial, Helvetica, sans-serif" size=3D"2" style=3D"font-size:12px;">Les =
+prix de nos produits sont indiqu=C3=A9s toutes taxes comprises et b=C3=A9n=
+=C3=A9ficient d=E2=80=99une garantie de un an.<br>=0A=09=09=09=09=09=09Le d=
+=C3=A9lai de livraison sur votre commande est de 48h/72h.<br>=0A=09=09=09=
+=09=09=09Toner Services livre en France m=C3=A9tropolitaine, Belgique, Luxe=
+mbourg, Andorre et Monaco.<br>=0A=09=09=09=09=09=09Toner Services<br>=0A=09=
+=09=09=09=09=0910/14 av. du g=C3=A9n=C3=A9ral Leclerc 78230 Le Pecq<br>=0A=
+=09=09=09=09=09=09Pour ne plus recevoir de messages de notre part, suivez c=
+e lien </font></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09=09<tr>=0A=09=09=
+=09=09=09=09<td><a href=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTN=
+ENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzgwOSUyNnMlM0Q3Mjk3MTczJTI2dCUzRGMlMjZscy=
+UzRDU=3D" target=3D"_blank"><img alt=3D"" border=3D"0" height=3D"1" src=3D"=
+http://mails.econews-rgp.com/img/792/images/2102998309591.gif" style=3D"dis=
+play:block;" width=3D"176"></a></td>=0A=09=09=09=09=09</tr>=0A=09=09=09=09<=
+/tbody>=0A=09=09=09</table>=0A=09=09=09</td>=0A=09=09</tr>=0A=09</tbody>=0A=
+</table>=0A=0A<div style=3D"text-align:center;"><div align=3D"center"><font=
+ color=3D"#000000" style=3D"font-size:11px;font-family:Verdana,Arial,Helvet=
+ica,sans-serif;"><br>Pour cesser de recevoir nos informations sur l'adresse=
+ resp-m2-miage@univ-rennes1.fr, <a href=3D"http://mails.econews-rgp.com/YSU=
+zRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3MzkxMCUyNmwlM0QxNzc5MSUyNnMlM0Q3Mjk3MTczJT=
+I2dCUzRGMlMjZscyUzRDU=3D">d=C3=A9sabonnez-vous</a>.</font></div></div>=0A<i=
+mg src=3D"http://mails.econews-rgp.com/YSUzRDExOTQlMjZjJTNENzkyJTI2ZSUzRDI3=
+MzkxMCUyNnMlM0Q3Mjk3MTczJTI2bHMlM0Q1JTI2dCUzRG8=3D" alt=3D"Afficher les ima=
+ges" width=3D"1" height=3D"1" /></body>=0A</html>
+
+
+--b1_10a9ebf0ab8d24f47acc126298d94caa--
+

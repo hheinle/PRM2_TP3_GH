@@ -1,0 +1,118 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@youbesset.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 02 Jan 2017 10:22:02 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 6FE3019B
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  2 Jan 2017 10:22:02 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 6E33C60004
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  2 Jan 2017 10:22:02 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id bHv7ZzPn2-sN for <resp-m2-miage@univ-rennes1.fr>;
+	Mon,  2 Jan 2017 10:22:02 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 5B15B601C5
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  2 Jan 2017 10:22:02 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 52E722003A
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  2 Jan 2017 10:22:02 +0100 (CET)
+Received: from ip-81-93-246-102.sd-france.net (ip-81-93-246-102.sd-france.net [81.93.246.102])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 2BD4D600040
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  2 Jan 2017 10:22:02 +0100 (CET)
+Received: from youbesset.fr (unknown [188.130.7.25])
+	by srv2577.localdomain (Postfix) with ESMTP id 13A3713B9C9
+	for <resp-m2-miage@univ-rennes1.fr>; Mon,  2 Jan 2017 10:22:02 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=youbesset.fr;
+	s=youbessetfr; t=1483348922;
+	bh=/W1GU9zSV9DrPlN8kJAIXWrZXQbt7t6S9rpX+hWgBAQ=;
+	h=Date:To:From:Reply-to:Subject:List-Unsubscribe:Message-ID:
+	 MIME-Version:Content-Type;
+	b=mQTRRNEH36lIV38NELnyE+knxKw/I0kZeO3TT8zCY0lDKfXw2wTKNYreBhwc40lN6
+	 ZoBGC/9TlFOrwzTT0B6WX8h/ixQUqe+A9O+87BrsqWWm1Z2xFpHxhju6h2dL+3ekg2
+	 WPBzkmwDL7e0ERsLeYFzLB6TX5+CNSq8yxWt4/AU=
+Date: Mon, 2 Jan 2017 10:22:02 +0100
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+From: =?utf-8?Q?Standard_t=C3=A9l=C3=A9phonique?= <Standard@youbesset.fr>
+Reply-to: =?utf-8?Q?Standard_t=C3=A9l=C3=A9phonique?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@youbesset.fr>
+Subject: *****Spam*****=?utf-8?Q?Disposez_d'un_accueil_t=C3=A9l=C3=A9phonique_performant_!?=
+X-campaign_id: 7052603404929_9
+Precedence: bulk
+X-uid_id_m: <cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==263>
+List-Unsubscribe: <http://www.youbesset.fr/d/?camp=7052603404929_9&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <d34760251c3d9aed9c693ef1d4d9d692@youbesset.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_d34760251c3d9aed9c693ef1d4d9d692"
+X-Original-Source-IP: 81.93.246.102
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelgedruddtgddugedtucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepfffvhfhrufhpjffkgggtsegrtdhjredttdejnecuhfhrohhmpefuthgrnhgurghruggpthorlhorphhhohhnihhquhgvuceoufhtrghnuggrrhguseihohhusggvshhsvghtrdhfrheqnecuffhomhgrihhnpeihohhusggvshhsvghtrdhfrhenucfkphepkedurdelfedrvdegiedruddtvddpudekkedrudeftddrjedrvdehnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehiphdqkeduqdelfedqvdegiedquddtvddrshguqdhfrhgrnhgtvgdrnhgvthdpihhnvghtpeekuddrleefrddvgeeirddutddvpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdeggheshihouhgsvghsshgvthdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+--Part1_d34760251c3d9aed9c693ef1d4d9d692
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+Pour visualiser et se désabonner ce message,
+ 
+Veuillez, copier puis coller, l'adresse URL complète ci-dessous dans la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entrée" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - - 
+
+http://www.youbesset.fr/v/?camp=7052603404929_9&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+
+- - - - - - - - - - - - - - - - - 
+
+
+
+
+--Part1_d34760251c3d9aed9c693ef1d4d9d692
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Disposez d\'un accueil téléphonique performant !</title>
+</head>
+<body>
+<table cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr><td align="center">
+<a href="http://www.youbesset.fr/v/?camp=7052603404929_9&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></td></tr><tr><td  align="center"><br> <center> <table width="600" cellspacing="0" cellpadding="0" border="0"> 	<tbody><tr> 		<td colspan="2" style="font-family:Arial, Helvetica, sans-serif; color:#4b4b50; font-size:16px; text-decoration:none;" width="371" height="87" bgcolor="#FFFFFF" align="center"><a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="font-family:Arial, Helvetica, sans-serif;
+color:#4b4b50; font-size:16px; text-decoration:none;" target="_blank"><img src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9wYWJ4XzAxLmpwZw==" alt="Logo Adwortise network" style="border:0;" width="371" height="87"></a></td> 		<td> 			<a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank"><img src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9wYWJ4XzAyLmpwZw==" alt="Logo ORANGE business services Expert certifi&eacute;" style="border:0;" width="229" height="87"></a></td> 	</tr> 	<tr> 		<td colspan="3"> 			<a
+href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank"><img src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9wYWJ4XzAzLmpwZw==" alt="Votre installation &agrave; partir de 49,90&euro;" style="border:0;" width="600" height="328"></a></td> 	</tr> 	<tr> 		<td colspan="3" width="600"><a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="text-decoration:none;" target="_blank"><table cellspacing="0" cellpadding="18"><tbody><tr><td style="font-family
+ :Arial,
+Helvetica, sans-serif; color:#677faa; font-size:22px;text-decoration:none;">Notre nouvelle gamme de standards t&eacute;l&eacute;phoniques compatible avec internet haut d&eacute;bit, est faite pour vous</td></tr></tbody></table></a></td> 	</tr> 	<tr> 		<td colspan="3" width="600" height="40"><a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="text-decoration:none;" target="_blank"><table cellspacing="0" cellpadding="18"><tbody><tr><td style="font-family:Arial, Helvetica, sans-serif; color:#454545; font-size:22px; text-decoration:none;">Une qualit&eacute; de service garantie :</td></tr></tbody></table></a></td> 	</tr> 	<tr> 		<td> 			<a
+href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank"><img src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9wYWJ4XzA2LmpwZw==" alt="puce" width="35" height="64"></a></td> 		<td colspan="2" width="565"><a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="text-decoration:none;" target="_blank"><table cellspacing="0" cellpadding="5"><tbody><tr><td style="font-family:Arial, Helvetica, sans-serif; color:#454545;
+font-size:22px;text-decoration:none;">Installation</td></tr> <tr><td style="font-family:Arial, Helvetica, sans-serif; color:#4b4b50; font-size:16px;text-decoration:none;">Un c&acirc;blage unique pour le r&eacute;seau informatique et la t&eacute;l&eacute;phonique</td></tr></tbody></table></a></td> 	</tr>     <tr> 		<td> 			<a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank"><img src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9wYWJ4XzA2LmpwZw==" alt="puce" width="35" height="64"></a></td> 		<td colspan="2" width="565"><a
+href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="text-decoration:none;" target="_blank"><table cellspacing="0" cellpadding="5"><tbody><tr><td style="font-family:Arial, Helvetica, sans-serif; color:#454545; font-size:22px;text-decoration:none;">Confort d'usage</td></tr> <tr><td style="font-family:Arial, Helvetica, sans-serif; color:#4b4b50; font-size:16px;text-decoration:none;">Une gamme de postes IP dot&eacute;s d'un grand &eacute;cran</td></tr></tbody></table></a></td> 	</tr>    <tr> 		<td> 			<a
+href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank"><img src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9wYWJ4XzA2LmpwZw==" alt="puce" width="35" height="64"></a></td> 		<td colspan="2" width="565"><a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="text-decoration:none;" target="_blank"><table cellspacing="0" cellpadding="5"><tbody><tr><td style="font-family:Arial, Helvetica, sans-serif; color:#454545;
+font-size:22px;text-decoration:none;">SAV</td></tr> <tr><td style="font-family:Arial, Helvetica, sans-serif; color:#4b4b50; font-size:16px;text-decoration:none;">Une garantie de temps de r&eacute;tablissement de 4 ou 10 heures selon votre choix</td></tr></tbody></table></a></td> 	</tr>     <tr> 		<td colspan="3" width="600"><a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="text-decoration:none;" target="_blank"><table cellspacing="0" cellpadding="18"><tbody><tr><td style="font-family:Arial, Helvetica, sans-serif; color:#f68121; font-size:22px;text-decoration:none;">Optimisez et r&eacute;duire vos abonnements et co&ucirc;ts de communications t&eacute;l&eacute;phoniques</td></tr></tbody></table></a></td> 	</tr> 	<tr> 		<td colspan=
+ "3"
+align="center">         <a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" style="text-decoration:none;" target="_blank"><table cellspacing="10" cellpadding="15"><tbody><tr><td style="color:#FFF;font-family:Arial, Helvetica, sans-serif;font-size:18px; font-weight:bold;text-decoration:none;" bgcolor="#f68121">  DEMANDER UN DEVIS GRATUITEMENT  </td></tr></tbody></table></a></td> 	</tr> 	<tr> 		<td> 			<a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank"><img
+src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9zcGFjZXIuZ2lm" alt="spacer" style="border:0;" width="35" height="1"></a></td> 		<td> 			<a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank"><img src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9zcGFjZXIuZ2lm" alt="spacer" style="border:0;" width="336" height="1"></a></td> 		<td> 			<a href="http://www.youbesset.fr/r/?m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&c=7052603404929_9&rc=aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL056VXhYM3hmTVRnd1gzeGZNamRmZkY4d1gzeGZNQS9hSFIwY0RvdkwzTjBZVzVrWVhKa2N5MTBaV3hsY0dodmJtbHhkV1Z6TG5KbFlXTjBhVzl1TFdWdWRISmxjSEpwYzJVdVkyOXQ=" target="_blank">
+ <img
+src="http://www.youbesset.fr/r/?rc=aHR0cDovL3JlYWN0aW9uLWVudHJlcHJpc2UuY29tL21haWxpbmcvcGFieC9zcGFjZXIuZ2lm" alt="spacer" style="border:0;" width="229" height="1"></a></td> 	</tr> </tbody></table> </center>                  <img src="http://www.youbesset.fr/t/?i=7052603404929_9&m=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=&url=http://www.youbesset.fr/images/blank.jpg" alt="_pspacer7"  /></td></tr><tr><td align="center">
+<a href="http://www.youbesset.fr/d/?camp=7052603404929_9&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=" target="_blank" title="Ne plus recevoir d'informations de notre part" style="color:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</td></tr></tbody></table>
+</body>
+</html>
+
+
+
+--Part1_d34760251c3d9aed9c693ef1d4d9d692--
+
+

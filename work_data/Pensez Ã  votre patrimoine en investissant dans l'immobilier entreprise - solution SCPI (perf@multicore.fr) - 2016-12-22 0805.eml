@@ -1,0 +1,175 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@multicore.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Thu, 22 Dec 2016 08:05:27 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 0DEC947
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 22 Dec 2016 08:05:27 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 0B340600E1
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 22 Dec 2016 08:05:27 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id bEI3_shoCkFQ for <resp-m2-miage@univ-rennes1.fr>;
+	Thu, 22 Dec 2016 08:05:26 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E25176000A
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 22 Dec 2016 08:05:26 +0100 (CET)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id DC8A820033
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 22 Dec 2016 08:05:26 +0100 (CET)
+Received: from smtp-b20.mymdc-media.com (smtp-b20.mymdc-media.com [82.97.45.201])
+	(using TLSv1 with cipher ADH-DES-CBC3-SHA (168/168 bits))
+	(No client certificate requested)
+	by mxb2-1.relay.renater.fr (asm) with ESMTPS id A0B16600079
+	for <resp-m2-miage@univ-rennes1.fr>; Thu, 22 Dec 2016 08:05:26 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=multicore.fr; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; s=smtp2; bh=xi9DlGXYdYO8QqCygQ+iipEBbvk=; b=bNgxn
+	M2giHk6txkMR/5aKvrqIlEtzQfDdw+lsVM0CPWRlIIDwFJKlPhrF2Bk8K5F+7LfB
+	oaPh094Enz+T0HN7ww16X/X65xOeGLxESfrtngzxeCIS623Fb3WrOXAI4uuUfEyk
+	NZmyG1wjJI52Ej2AqT17FkaueETtU1XTaL4fNQ=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=multicore.fr; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp2; b=jIg4RiDCR3yN8geT8t5XJc4C2i2IgyN
+	0Nn2BZWFfhugG9C2l1FbQ+IPbXI+x/7g8gmqyXXMA+1+yZXDHeTaHU1f3yrAFfg9
+	saFjU1KzIF+rDTwIlugOuDuRaPhIJvCQI7P6p8C2qyrjXcPATQkntabuuhmUqbR7
+	LD2UbqqwdDA8=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Pensez_=C3=A0_votre_patrimoine_en_investissant_dans_l'immobilie?=  =?utf-8?Q?r_entreprise?=
+Date: Thu, 22 Dec 2016 08:05:14 +0100
+From: solution SCPI <perf@multicore.fr>
+Reply-to: solution SCPI <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@multicore.fr>
+X-campaign_id: 761488155764789982402122011_23
+X-uid_id_m: <cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==899>
+List-Unsubscribe: <http://app.multicore.fr/d/?camp=761488155764789982402122011_23&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <fba989e8fb57731b483ae7d1d4da1294@multicore.fr>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_fba989e8fb57731b483ae7d1d4da1294"
+X-Original-Source-IP: 82.97.45.201
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrkeefgdduudehucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepvffufffhrhfjkfggtgesrgdtjhertddtjeenucfhrhhomhepshholhhuthhiohhnucfuvefrkfcuoehpvghrfhesmhhulhhtihgtohhrvgdrfhhrqeenucffohhmrghinhepmhhulhhtihgtohhrvgdrfhhrnecukfhppeekvddrleejrdeghedrvddtudenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgsvddtrdhmhihmuggtqdhmvgguihgrrdgtohhmpdhinhgvthepkedvrdeljedrgeehrddvtddupdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesmhhulhhtihgtohhrvgdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--Part1_fba989e8fb57731b483ae7d1d4da1294
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.multicore.fr/v/?camp=3D761488155764789982402122011_23&ms=3DcmV=
+zcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_fba989e8fb57731b483ae7d1d4da1294
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Pensez =C3=A0 votre patrimoine en investissant dans l\'immobilier =
+entreprise</title>
+</head><body marginwidth=3D"0" topmargin=3D"0" marginheight=3D"0" style=3D=
+"padding:0px; -moz-text-size-adjust:none; -webkit-text-size-adjust:none; =
+-ms-text-size-adjust:none; margin:0px; text-size-adjust:none;" leftmargin=
+=3D"0">
+<center><p>
+<a href=3D"http://app.multicore.fr/v/?camp=3D761488155764789982402122011_=
+23&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" tit=
+le=3D"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style=
+=3D"color:#00F; font-family:'Arial'; font-size:12px; text-decoration:unde=
+rline;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.=
+</a></p><br>  SCPI    <center> <table id=3D"Tableau_01" width=3D"600" cel=
+lspacing=3D"0" cellpadding=3D"0" border=3D"0"> 	<tbody><tr> 		<td> 			<a =
+href=3D"http://app.multicore.fr/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lcz=
+EuZnI=3D&c=3D761488155764789982402122011_23&rc=3DaHR0cDovL3d3dy5jYXBpdGFs=
+LXNjcGkuY29tLw=3D=3D" style=3D"text-decoration: none;"><img src=3D"http:/=
+/app.multicore.fr/r/?rc=3DaHR0cDovL3d3dy5jYXBpdGFsLXNjcGkuY29tL2ltYWdlcy9=
+pbWdQcmluY2lwYWwucG5n" alt=3D"SCPI" width=3D"600" height=3D"399"></a></td=
+> 	</tr> 	<tr> 		<td style=3D"font-family:'Century Gothic', Arial, Helvet=
+ica, sans-serif; font-size:24px; text-align:center; padding:10px" width=3D=
+"600" bgcolor=3D"#FFFFFF"><a hr
+ ef=3D"http://app.multicore.fr/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczE=
+uZnI=3D&c=3D761488155764789982402122011_23&rc=3DaHR0cDovL3d3dy5jYXBpdGFsL=
+XNjcGkuY29tLw=3D=3D" style=3D"text-decoration:none;color:#333333;">D&eacu=
+te;couvrez les diff&eacute;rents moyen d&rsquo;investir afin de  constitu=
+er votre patrimoine</a></td> 	</tr> 	<tr> 		<td style=3D"font-family:Aria=
+l, Helvetica, sans-serif; font-size:16px; padding:10px;text-align:justify=
+; color:#333333;" width=3D"600" bgcolor=3D"#FFFFFF">La soci&egrave;t&eacu=
+te; civile de placement immobilier (SCPI) est une structure  d&rsquo;inve=
+stissement de placement collectif. Elle collecte de l&rsquo;argent aupr&e=
+grave;s de  particuliers,  trouver des biens dans lesquels investir, g&ea=
+cute;rer ce parc immobilier et redistribuer les loyers et/ou les avantage=
+s fiscaux &agrave; ses porteurs de parts.</td> 	</tr> 	<tr> 		<td style=3D=
+"font-family:'Century Gothic', Arial, Helvetica, sans-serif; font-size:20=
+px;color:#333333; padding:10px;text-transform:uppercase;font-weight:700;
+ " width=3D"600" bgcolor=3D"#FFFFFF">Nos Solutions</td> 	</tr> 	<tr> 		<t=
+d> 			<a href=3D"http://app.multicore.fr/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2L=
+XJlbm5lczEuZnI=3D&c=3D761488155764789982402122011_23&rc=3DaHR0cDovL3d3dy5=
+jYXBpdGFsLXNjcGkuY29tLw=3D=3D" style=3D"text-decoration: none;"><img src=3D=
+"http://app.multicore.fr/r/?rc=3DaHR0cDovL3d3dy5jYXBpdGFsLXNjcGkuY29tL2lt=
+YWdlcy9pbWdTb2x1dGlvbi5wbmc=3D" alt=3D"societe; civile de placement immob=
+ilier" width=3D"600" height=3D"356"></a></td> 	</tr> 	<tr> 		<td style=3D=
+"font-family:'Century Gothic', Arial, Helvetica, sans-serif; font-size:20=
+px; text-align:center; padding:10px" width=3D"600" bgcolor=3D"#FFFFFF"><a=
+ href=3D"http://app.multicore.fr/s/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lc=
+zEuZnI=3D&c=3D761488155764789982402122011_23&rc=3DaHR0cDovL3d3dy5jYXBpdGF=
+sLXNjcGkuY29tLw=3D=3D" style=3D"text-decoration:none;color:#333333;">Pens=
+ez &agrave; votre patrimoine en investissant dans  l&rsquo;immobilier gr&=
+acirc;ce &agrave; la SCPI et choisissez la meilleure  solution qui vous c=
+onvient.</a> </td> 	</tr> 	<
+ tr> 		<td style=3D"padding:20px;" width=3D"600" bgcolor=3D"#FFFFFF" alig=
+n=3D"center"><a href=3D"http://app.multicore.fr/s/?m=3DcmVzcC1tMi1taWFnZU=
+B1bml2LXJlbm5lczEuZnI=3D&c=3D761488155764789982402122011_23&rc=3DaHR0cDov=
+L3d3dy5jYXBpdGFsLXNjcGkuY29tLw=3D=3D" style=3D"background-color:#66ccff; =
+border: 10px solid #66ccff; padding: 0 10px;color: #ffffff; font-family: =
+Arial, Helvetica, sans-serif; font-size: 13px; line-height: 1.1em; text-a=
+lign: center; text-decoration: none; text-transform:uppercase; display: b=
+lock; border-radius: 3px; font-weight: bold; width:200px;" target=3D"_bla=
+nk" class=3D"button-a">demander un devis</a> </td> 	</tr> </tbody></table=
+> </center> <!-- End Save for Web Slices -->  <img src=3D"http://app.mult=
+icore.fr/t/?i=3D761488155764789982402122011_23&m=3DcmVzcC1tMi1taWFnZUB1bm=
+l2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.multicore.fr/images/blank.jpg" alt=3D=
+"_pspacer"  /><p>
+<a href=3D"http://app.multicore.fr/d/?camp=3D761488155764789982402122011_=
+23&ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" tit=
+le=3D"Ne plus recevoir d'informations de notre part" style=3D"color:#00F;=
+ font-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se=
+ d&eacute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&e=
+acute; un quelconque d&eacute;rangement, nous vous prions de nous en excu=
+ser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_fba989e8fb57731b483ae7d1d4da1294--
+

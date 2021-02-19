@@ -1,0 +1,319 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 31 Oct 2016 15:12:59 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 8BE4042
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:12:59 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 898F9601AF
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:12:59 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id tAGvp0sgpQ9Z for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 31 Oct 2016 15:12:59 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 69570601A1
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:12:59 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 61E9820033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:12:59 +0100 (CET)
+Received: from smtp-b23.directonlus.com (smtp-b23.directonlus.com [82.97.39.138])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 2F854600205
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 31 Oct 2016 15:12:59 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp2; bh=58gss/MUiVuaSb/srqTwogot
+	WcCABxi0AkZ0Qvzh1YE=; b=xZY7OZW6qJSYVvnqUyCrWqmOpE7fiStZpU/VaBgz
+	/IxkS4/BNbFRIWEAJLOUIHD5bL+otiR8OfhboqSYPoKY5Sr3WOLAAhiHMgUI4zCx
+	rulAdrV0kati0KOLlAPjevdoNwM5as385j4ngI5IesRpKSLvUL9IK3PNJidZ0MJG
+	PSA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=directonlus.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp2; b=YOdAoySQ+UWarG70HU
+	1D+4udCSyVtgUpPz9YxQ8bafwVoJethr3QGujJkQmHicnS6KUHhxGPNIKi4P9Pg0
+	4TCCFWUVabCg3fvWhMvATWdqH1H1gsfYoWgR4Sy/S4lF9Jo7h61nYaWVevEv9u5L
+	qSq8iB6PSBC/UQzrn38sfVCD4=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Investir_et_d=C3=A9fiscaliser_pendant_6,_9_ou_12_ans_!?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Mon, 31 Oct 2016 15:12:58 +0100
+From: Nouvelle loi Pinel <Nouvelle_loi_Pinel@directonlus.com>
+Reply-to: Nouvelle loi Pinel <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@directonlus.com>
+X-campaign_id: 4551852223437333636_5
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==443
+List-Unsubscribe: <http://app.directonlus.com/d/?camp=4551852223437333636_5&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <9b431095a1a1626d278d1a61fad53a34@directonlus.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_9b431095a1a1626d278d1a61fad53a34"
+X-Original-Source-IP: 82.97.39.138
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrjeelgdeivdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpefpohhuvhgvlhhlvgculhhoihcurfhinhgvlhcuoefpohhuvhgvlhhlvggplhhoihgprfhinhgvlhesughirhgvtghtohhnlhhushdrtghomheqnecuffhomhgrihhnpeguihhrvggtthhonhhluhhsrdgtohhmnecukfhppeekvddrleejrdefledrudefkeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgsvdefrdguihhrvggtthhonhhluhhsrdgtohhmpdhinhgvthepkedvrdeljedrfeelrddufeekpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesughirhgvtghtohhnlhhushdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--Part1_9b431095a1a1626d278d1a61fad53a34
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.directonlus.com/v/?camp=3D4551852223437333636_5&ms=3DcmVzcC1tM=
+i1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_9b431095a1a1626d278d1a61fad53a34
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Investir et d=C3=A9fiscaliser pendant 6, 9 ou 12 ans !</title>
+</head><body topmargin=3D"0" style=3D"margin:0px; -ms-text-size-adjust:no=
+ne; text-size-adjust:none; padding:0px; -moz-text-size-adjust:none; -webk=
+it-text-size-adjust:none;" marginwidth=3D"0" marginheight=3D"0" leftmargi=
+n=3D"0">
+<center><p>
+<a href=3D"http://app.directonlus.com/v/?camp=3D4551852223437333636_5&ms=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si=
+ cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"colo=
+r:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">=
+Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p>=
+                                              Loi Pinel    <img src=3D"ht=
+tp://app.directonlus.com/r/?rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5j=
+b20vYWYvcHgvTWpReFgzeGZNekJmZkY4eU4xOThYekJmZkY4dy9hSFIwY0RvdkwyeHZhUzF3Y=
+Vc1bGJDNXlaV0ZqZEdsdmJpMXdZWFJ5YVcxdmFXNWxMbU52YlM4" width=3D"1" height=3D=
+"1" border=3D"0"> <style type=3D"text/css">@media screen and (max-width:4=
+80px){.fluid,.fluid-centered{width:100%!important;max-width:100%!importan=
+t;height:auto!important;Margin-left:auto!important;Margin-right:auto!impo=
+rtant}.fluid-centered{Margin-left:auto!important;Margin-right:auto!import=
+ant}.stack-column,.stack-column-center{display:block!important;w
+ idth:100%!important;max-width:100%!important;direction:ltr!important}.st=
+ack-column-center{text-align:center!important}.center-on-narrow{text-alig=
+n:center!important;display:block!important;Margin-left:auto!important;Mar=
+gin-right:auto!important;float:none!important}table.center-on-narrow{disp=
+lay:inline-block!important}}</style> <table style=3D"-ms-text-size-adjust=
+:100%;-webkit-text-size-adjust:100%;Margin:0 auto!important;border-collap=
+se:collapse!important;border-spacing:0!important;mso-table-lspace:0!impor=
+tant;mso-table-rspace:0!important;table-layout:fixed!important" width=3D"=
+100%" height=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bg=
+color=3D"#E6E6E6"><tbody><tr style=3D"-ms-text-size-adjust:100%;-webkit-t=
+ext-size-adjust:100%"><td style=3D"-ms-text-size-adjust:100%;-webkit-text=
+-size-adjust:100%;font-size:30px;line-height:30px;mso-table-lspace:0!impo=
+rtant;mso-table-rspace:0!important" height=3D"30"> <br></td></tr><tr styl=
+e=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%"><
+ td style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-=
+table-lspace:0!important;mso-table-rspace:0!important" valign=3D"top"><ce=
+nter style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;wid=
+th:100%"><div style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust=
+:100%;display:none;font-family:sans-serif;font-size:1px;line-height:1px;m=
+ax-height:0;max-width:0;mso-hide:all;opacity:0;overflow:hidden">Loi Pinel=
+ 2016</div><div style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adju=
+st:100%;max-width:680px"><table cellspacing=3D"0" cellpadding=3D"0" borde=
+r=3D"0" width=3D"680" align=3D"center">     <tr>         <td><table style=
+=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;Margin:0 auto=
+!important;border-collapse:collapse!important;border-spacing:0!important;=
+max-width:680px;mso-table-lspace:0!important;mso-table-rspace:0!important=
+;table-layout:fixed!important" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0" bgcolor=3D"#ffffff" align=3D"center"><tbody><tr sty=
+le
+ =3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%"><td style=3D=
+"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace=
+:0!important;mso-table-rspace:0!important"><a href=3D"http://app.directon=
+lus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D45518522234=
+37333636_5&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01qU=
+XhYM3hmTXpCZmZGOHlOMTk4WHpCZmZGOHcvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzV5WldGam=
+RHbHZiaTF3WVhSeWFXMXZhVzVsTG1OdmJTOA=3D=3D" style=3D"-ms-text-size-adjust=
+:100%;-webkit-text-size-adjust:100%" target=3D"_blank"><img src=3D"http:/=
+/app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1wYXRyaW1vaW5lLmNv=
+bS9tYWlsaW5nL2xvaS1waW5lbC9pbWFnZXMvYmFubmVyLmpwZw=3D=3D" alt=3D"Loi Pine=
+l" style=3D"-ms-interpolation-mode:bicubic;-ms-text-size-adjust:100%;-web=
+kit-text-size-adjust:100%;height:auto;max-width:680px;width:100%" width=3D=
+"680" border=3D"0" align=3D"middle"></a></td></tr><tr style=3D"-ms-text-s=
+ize-adjust:100%;-webkit-text-size-adjust:100%"><td style=3D"-ms-text-size=
+-adjust:10
+ 0%;-webkit-text-size-adjust:100%;mso-table-lspace:0!important;mso-table-=
+rspace:0!important"><table style=3D"-ms-text-size-adjust:100%;-webkit-tex=
+t-size-adjust:100%;Margin:0 auto!important;border-collapse:collapse!impor=
+tant;border-spacing:0!important;mso-table-lspace:0!important;mso-table-rs=
+pace:0!important;table-layout:fixed!important" width=3D"100%" cellspacing=
+=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr style=3D"-ms-text-size-a=
+djust:100%;-webkit-text-size-adjust:100%"><td style=3D"-ms-text-size-adju=
+st:100%;-webkit-text-size-adjust:100%;font-size:30px;line-height:30px;mso=
+-table-lspace:0!important;mso-table-rspace:0!important" height=3D"30"> <b=
+r></td></tr><tr style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adju=
+st:100%"><td style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:=
+100%;mso-table-lspace:0!important;mso-table-rspace:0!important"><table st=
+yle=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;Margin:0 a=
+uto!important;border-collapse:collapse!important;border-spacing
+ :0!important;mso-table-lspace:0!important;mso-table-rspace:0!important;t=
+able-layout:fixed!important" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center"><tbody><tr style=3D"-ms-text-size-adjust:100%;-webki=
+t-text-size-adjust:100%"><td style=3D"-ms-text-size-adjust:100%;-webkit-t=
+ext-size-adjust:100%;background:#222;border-radius:3px;mso-table-lspace:0=
+!important;mso-table-rspace:0!important;text-align:center;transition:all =
+.1s ease-in" class=3D"button-td"><a href=3D"http://app.directonlus.com/r/=
+?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D4551852223437333636_5=
+&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01qUXhYM3hmTXp=
+CZmZGOHlOMTk4WHpCZmZGOHcvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzV5WldGamRHbHZiaTF3=
+WVhSeWFXMXZhVzVsTG1OdmJTOA=3D=3D" style=3D"-ms-text-size-adjust:100%;-web=
+kit-text-size-adjust:100%;background:#CB2634;border:15px solid #CB2634;bo=
+rder-radius:3px;color:#fff;display:block;font-family:sans-serif;font-size=
+:22px;font-weight:700;line-height:1.1;padding:0 10px;text-align:center
+ ;text-decoration:none;transition:all .1s ease-in" class=3D"button-a" tar=
+get=3D"_blank">    J'EN PROFITE !    </a></td></tr></tbody></table></td><=
+/tr><tr style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%"=
+><td style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;fon=
+t-size:30px;line-height:30px;mso-table-lspace:0!important;mso-table-rspac=
+e:0!important" height=3D"30"> <br></td></tr><tr style=3D"-ms-text-size-ad=
+just:100%;-webkit-text-size-adjust:100%"><td style=3D"-ms-text-size-adjus=
+t:100%;-webkit-text-size-adjust:100%;color:#555;font-family:sans-serif;fo=
+nt-size:15px;line-height:20px;mso-height-rule:exactly;mso-table-lspace:0!=
+important;mso-table-rspace:0!important;padding:0 20px" align=3D"justify">=
+La loi Pinel est avant tout un dispositif de d&eacute;fiscalisation et &a=
+grave; ce titre elle offre un avantage fiscal &agrave; chaque contribuabl=
+e fran&ccedil;ais qui souhaite investir dans un bien immobilier neuf et q=
+ui s&rsquo;engage &agrave; le louer pour une p&eacute;rio
+ de de 6 ans minimum avec possibilit&eacute; de l'allonger de deux fois 3=
+ ans, soit une dur&eacute;e de 9 ans puis une dur&eacute;e maximum de 12 =
+ans.</td></tr><tr style=3D"-ms-text-size-adjust:100%;-webkit-text-size-ad=
+just:100%"><td style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjus=
+t:100%;font-size:30px;line-height:30px;mso-table-lspace:0!important;mso-t=
+able-rspace:0!important" height=3D"30"> <br></td></tr></tbody></table></t=
+d></tr><tr style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:10=
+0%"><td dir=3D"ltr" style=3D"-ms-text-size-adjust:100%;-webkit-text-size-=
+adjust:100%;mso-table-lspace:0!important;mso-table-rspace:0!important;pad=
+ding:10px 0" width=3D"100%" valign=3D"top" height=3D"100%" bgcolor=3D"#25=
+4485" align=3D"center"><table border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0" align=3D"center" width=3D"660">     <tr>         <td align=3D"center"=
+ valign=3D"top" width=3D"660"><table style=3D"-ms-text-size-adjust:100%;-=
+webkit-text-size-adjust:100%;Margin:0 auto!important;border-collapse:coll=
+apse!i
+ mportant;border-spacing:0!important;max-width:660px;mso-table-lspace:0!i=
+mportant;mso-table-rspace:0!important;table-layout:fixed!important" width=
+=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"cente=
+r"><tbody><tr style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust=
+:100%"><td style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:10=
+0%;font-size:0;mso-table-lspace:0!important;mso-table-rspace:0!important;=
+padding:10px 0" valign=3D"top" align=3D"center"><table border=3D"0" cells=
+pacing=3D"0" cellpadding=3D"0" align=3D"center" width=3D"660">     <tr>  =
+       <td align=3D"left" valign=3D"top" width=3D"220"><div style=3D"-ms-=
+text-size-adjust:100%;-webkit-text-size-adjust:100%;Margin:0 -2px;display=
+:inline-block;max-width:33.33%;min-width:160px;vertical-align:top;width:1=
+00%" class=3D"stack-column"><table style=3D"-ms-text-size-adjust:100%;-we=
+bkit-text-size-adjust:100%;Margin:0 auto!important;border-collapse:collap=
+se!important;border-spacing:0!important;mso-table-lspace:0!important;mso-=
+table-rs
+ pace:0!important;table-layout:fixed!important" width=3D"100%" cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr style=3D"-ms-text-size-=
+adjust:100%;-webkit-text-size-adjust:100%"><td dir=3D"ltr" style=3D"-ms-t=
+ext-size-adjust:100%;-webkit-text-size-adjust:100%;mso-table-lspace:0!imp=
+ortant;mso-table-rspace:0!important;padding:0 10px 10px 10px"><a href=3D"=
+http://app.directonlus.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=
+=3D&c=3D4551852223437333636_5&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy=
+5jb20vYWYvY2xjL01qUXhYM3hmTXpCZmZGOHlOMTk4WHpCZmZGOHcvYUhSMGNEb3ZMMnh2YVM=
+xd2FXNWxiQzV5WldGamRHbHZiaTF3WVhSeWFXMXZhVzVsTG1OdmJTOA=3D=3D" style=3D"-=
+ms-text-size-adjust:100%;-webkit-text-size-adjust:100%" target=3D"_blank"=
+><img src=3D"http://app.directonlus.com/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvb=
+i1wYXRyaW1vaW5lLmNvbS9tYWlsaW5nL2xvaS1waW5lbC9pbWFnZXMvZXhwZXJ0LmpwZw=3D=3D=
+" alt=3D"" style=3D"-ms-interpolation-mode:bicubic;-ms-text-size-adjust:1=
+00%;-webkit-text-size-adjust:100%;border:0;height:auto;max-width:200px;wi=
+dth:100%"=20
+ class=3D"center-on-narrow" width=3D"200"></a></td></tr></tbody></table><=
+/div></td> <td align=3D"left" valign=3D"top" width=3D"440"><div style=3D"=
+-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;Margin:0 -2px;dis=
+play:inline-block;max-width:66.66%;min-width:320px;vertical-align:top" cl=
+ass=3D"stack-column"><table style=3D"-ms-text-size-adjust:100%;-webkit-te=
+xt-size-adjust:100%;Margin:0 auto!important;border-collapse:collapse!impo=
+rtant;border-spacing:0!important;mso-table-lspace:0!important;mso-table-r=
+space:0!important;table-layout:fixed!important" width=3D"100%" cellspacin=
+g=3D"0" cellpadding=3D"0" border=3D"0"><tbody><tr style=3D"-ms-text-size-=
+adjust:100%;-webkit-text-size-adjust:100%"><td dir=3D"ltr" style=3D"-ms-t=
+ext-size-adjust:100%;-webkit-text-size-adjust:100%;color:#123a6d;font-fam=
+ily:sans-serif;font-size:15px;line-height:20px;mso-height-rule:exactly;ms=
+o-table-lspace:0!important;mso-table-rspace:0!important;padding:10px 10px=
+ 0;text-align:left" class=3D"center-on-narrow"><strong style=3D"-ms-text-=
+si
+ ze-adjust:100%;-webkit-text-size-adjust:100%;color:#fff">Faites vous acc=
+ompagner par un expert</strong><br style=3D"-ms-text-size-adjust:100%;-we=
+bkit-text-size-adjust:100%"><br style=3D"-ms-text-size-adjust:100%;-webki=
+t-text-size-adjust:100%"><p style=3D"-ms-text-size-adjust:100%;-webkit-te=
+xt-size-adjust:100%;color:#fff;margin:0;padding:0" align=3D"justify">La d=
+&eacute;fiscalisation Pinel est une m&eacute;canique bien rod&eacute;e do=
+nt le succ&egrave;s repose avant tout sur le choix du logement. Faites vo=
+us accompagner par un expert.</p><br style=3D"-ms-text-size-adjust:100%;-=
+webkit-text-size-adjust:100%"><br style=3D"-ms-text-size-adjust:100%;-web=
+kit-text-size-adjust:100%"><table class=3D"center-on-narrow" style=3D"-ms=
+-text-size-adjust:100%;-webkit-text-size-adjust:100%;Margin:0 auto!import=
+ant;border-collapse:collapse!important;border-spacing:0!important;float:l=
+eft;mso-table-lspace:0!important;mso-table-rspace:0!important;table-layou=
+t:fixed!important" cellspacing=3D"0" cellpadding=3D"0" border
+ =3D"0"><tbody><tr style=3D"-ms-text-size-adjust:100%;-webkit-text-size-a=
+djust:100%"><td style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adju=
+st:100%;background:#CB2634;border-radius:3px;mso-table-lspace:0!important=
+;mso-table-rspace:0!important;text-align:center;transition:all .1s ease-i=
+n" class=3D"button-td"><a href=3D"http://app.directonlus.com/r/?m=3DcmVzc=
+C1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D4551852223437333636_5&rc=3DaHR0=
+cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01qUXhYM3hmTXpCZmZGOHlOM=
+Tk4WHpCZmZGOHcvYUhSMGNEb3ZMMnh2YVMxd2FXNWxiQzV5WldGamRHbHZiaTF3WVhSeWFXMX=
+ZhVzVsTG1OdmJTOA=3D=3D" style=3D"-ms-text-size-adjust:100%;-webkit-text-s=
+ize-adjust:100%;background:#CB2634;border:15px solid #CB2634;border-radiu=
+s:3px;color:#fff;display:block;font-family:sans-serif;font-size:13px;font=
+-weight:700;line-height:1.1;padding:0 10px;text-align:center;text-decorat=
+ion:none;transition:all .1s ease-in" class=3D"button-a" target=3D"_blank"=
+>    Faite vous rappeler gratuitement par un expert    </a></td></tr>
+ </tbody></table></td></tr></tbody></table></div></td> </tr> </table></td=
+></tr></tbody></table></td> </tr> </table></td></tr></tbody></table><tabl=
+e style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;Margin=
+:0 auto!important;border-collapse:collapse!important;border-spacing:0!imp=
+ortant;margin:0 auto!important;max-width:680px;mso-table-lspace:0!importa=
+nt;mso-table-rspace:0!important;table-layout:fixed!important" width=3D"10=
+0%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center"><tb=
+ody><tr style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%"=
+><td style=3D"-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%;fon=
+t-size:30px;line-height:30px;mso-table-lspace:0!important;mso-table-rspac=
+e:0!important" height=3D"30"> <br></td></tr></tbody></table></td> </tr> <=
+/table></div></center></td></tr></tbody></table>                <img src=3D=
+"http://app.directonlus.com/t/?i=3D4551852223437333636_5&m=3DcmVzcC1tMi1t=
+aWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.directonlus.com/ima
+ ges/blank.jpg" alt=3D"_pspacer5"  /><p>
+<a href=3D"http://app.directonlus.com/d/?camp=3D4551852223437333636_5&ms=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne=
+ plus recevoir d'informations de notre part" style=3D"color:#00F; font-fa=
+mily:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacut=
+e;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; u=
+n quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_9b431095a1a1626d278d1a61fad53a34--
+

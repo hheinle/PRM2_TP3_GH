@@ -1,0 +1,229 @@
+Return-Path: <noreply@newsletter10.suprem-print.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 26 Mar 2017 15:02:11 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 009E31FF
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 26 Mar 2017 15:02:11 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id F0FC06010C
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 26 Mar 2017 15:02:10 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id YdnHxIn88ru1 for <resp-m2-miage@univ-rennes1.fr>;
+	Sun, 26 Mar 2017 15:02:10 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D402660003
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 26 Mar 2017 15:02:10 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id CBB7620033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 26 Mar 2017 15:02:10 +0200 (CEST)
+Received: from newsletter10.suprem-print.fr (newsletter10.suprem-print.fr [185.24.144.129])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id 451D860007B
+	for <resp-m2-miage@univ-rennes1.fr>; Sun, 26 Mar 2017 15:02:10 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=newsletter10.suprem-print.fr;
+ q=dns/txt; s=mail; bh=l1Q1vWIYO0AaMY/zgY2x4gsPvbocrvQVU1VP0wSGB+U=;
+ h=from:reply-to:subject:date:mime-version:content-type:list-id:list-unsubscribe;
+        b=QL2W/i/JcSwxj9Zpj0wAhrhsB0MxAj948Nq8ybKb0Z7WjwreHIytU0+g4lRZiyta2qQp93cygcao
+        TF0+t3xri1sWo41hnzOYZORsrz5H2S+dUvQR7uiasxVieEA9sZ2Xm9/V5fZIIM/4ftq7rOVg2eGI
+        Z6rjk3qCtR5fVoI0ERM=
+To: <resp-m2-miage@univ-rennes1.fr>
+Subject: =?UTF-8?Q?Cartouches_d'encre_&_toners_:_-_50_%_de_suite_(stock_limit=C3=A9)?=
+From: =?UTF-8?Q?Suprem=20print?= <contact@suprem-print.fr>
+List-Id: MTAxNjA4MC04NjgwMzc5LTE3Ng== <MTAxNjA4MC04NjgwMzc5LTE3Ng==.list-id.newsletter10.suprem-print.fr>
+List-Unsubscribe: <mailto:unsubscribe@newsletter10.suprem-print.fr?subject=unsub-4t2hikkfh8ioarj&body=4t2hikkfh8ioarj>,<http://r.newsletter10.suprem-print.fr/5cabqw8xgcioarg.html>
+Content-Type: multipart/alternative; boundary="-------?=_92166-6458648517727"
+MIME-Version: 1.0
+Precedence: bulk
+Feedback-ID: ded_185.24.144.129:1016080:1016080_784:Sendinblue
+X-Mailer: Sendinblue
+X-Mailin-Client: 1016080
+X-Mailin-Campaign: 784
+Reply-To: yoju31@gmail.com
+Message-Id: <201703261404.4t2hikkfh8ioarj@newsletter10.suprem-print.fr>
+Date: Sun, 26 Mar 2017 14:04:26 +0200
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 185.24.144.129
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelhedrjeelgdeiudcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefvuffhjefjtgggphforhfkffesrgdtreerredtjeenucfhrhhomhepufhuphhrvghmuchprhhinhhtuceotghonhhtrggtthesshhuphhrvghmqdhprhhinhhtrdhfrheqnecuffhomhgrihhnpehsuhhprhgvmhdqphhrihhnthdrfhhrnecukfhppedukeehrddvgedrudeggedruddvleenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepnhgvfihslhgvthhtvghruddtrdhsuhhprhgvmhdqphhrihhnthdrfhhrpdhinhgvthepudekhedrvdegrddugeegrdduvdelpdhmrghilhhfrhhomhepnhhorhgvphhlhiesnhgvfihslhgvthhtvghruddtrdhsuhhprhgvmhdqphhrihhnthdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+
+---------?=_92166-6458648517727
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Si vous ne parvenez pas =C3=A0 lire cet e-mail, cliquez http://r.newsletter=
+10.suprem-print.fr/5cabqw8xgcioarf.html[  ]( http://r.newsletter10.suprem-p=
+rint.fr/ld5azkzpt98ioard.html )  [ cartouches jet d'encre ]( http://r.newsl=
+etter10.suprem-print.fr/ld5azkzpu1oioard.html )   [ toners Laser ]( http://=
+r.newsletter10.suprem-print.fr/ld5azkzpuu4ioard.html )   [ Rubans ]( http:/=
+/r.newsletter10.suprem-print.fr/ld5azkzpvmkioard.html )   [ Rubans Transfer=
+t thermique ]( http://r.newsletter10.suprem-print.fr/ld5azkzpwf0ioard.html =
+)   [ Imprimantes 3D ]( http://r.newsletter10.suprem-print.fr/ld5azkzpx7gio=
+ard.html )    [  ]( http://r.newsletter10.suprem-print.fr/ld5azkzpxzwioard.=
+html )  [ suprem'print : vente d'encre discount ]( http://r.newsletter10.su=
+prem-print.fr/ld5azkzpyscioard.html )   [ paiement enligne 100% s=C3=A9curi=
+s=C3=A9 ]( http://r.newsletter10.suprem-print.fr/ld5azkzpzksioard.html )   =
+ [ Jet d'encre ]( http://r.newsletter10.suprem-print.fr/ld5azkzq0d8ioard.ht=
+ml ) [ laser ]( http://r.newsletter10.suprem-print.fr/74drnuzwlt98ioard.htm=
+l ) [ Cartouches compatibles ]( http://r.newsletter10.suprem-print.fr/74drn=
+uzwlu1oioard.html ) [ Rubans =C3=A9queteuses ]( http://r.newsletter10.supre=
+m-print.fr/74drnuzwluu4ioard.html )   [ Imprimantes 3D ]( http://r.newslett=
+er10.suprem-print.fr/74drnuzwlvmkioard.html ) [ Rubans et caisses ]( http:/=
+/r.newsletter10.suprem-print.fr/74drnuzwlwf0ioard.html ) [ Transfert thermi=
+que ]( http://r.newsletter10.suprem-print.fr/74drnuzwlx7gioard.html ) [ Pap=
+ier photos ]( http://r.newsletter10.suprem-print.fr/74drnuzwlxzwioard.html =
+)=0A[ Blog ]( http://r.newsletter10.suprem-print.fr/74drnuzwlyscioard.html =
+) [ Conditions g=C3=A9n=C3=A9rales de vente ]( http://r.newsletter10.suprem=
+-print.fr/74drnuzwlzksioard.html ) [ Mentions l=C3=A9gales ]( http://r.news=
+letter10.suprem-print.fr/74drnuzwm0d8ioard.html )=0A=0Apar cheque :Commande=
+ envoy=C3=A9e,apr=C3=A8s encaissement=0A=0A=0A[ Copyright =C2=A9 M & A Fran=
+ce Web - Tous droits r=C3=A9serv=C3=A9s=0AM & A France Web - RCS Toulouse 8=
+07 473 301. Conform=C3=A9ment =C3=A0 la loi n=C2=B078-17 relative =C3=A0 l'=
+informatique, aux fichiers et aux libert=C3=A9s du 6 janvier 1978, vous ave=
+z le droit de vous opposer =C3=A0 ce que des informations nominatives vous =
+concernant fassent l'objet d'un traitement. Vous pouvez =C3=A0 tout moment =
+exercer un droit d'acc=C3=A8s, de contr=C3=B4le et de rectification de ces =
+donn=C3=A9es. ]( http://r.newsletter10.suprem-print.fr/74drnuzwm2qkioard.ht=
+ml )Si vous souhaitez vous d=C3=A9sinscrire de notre newsletter, cliquez ht=
+tp://r.newsletter10.suprem-print.fr/5cabqw8xgcioarg.html
+
+
+---------?=_92166-6458648517727
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"http://www.=
+w3.org/1999/xhtml">=0A<head>=0A<meta http-equiv=3D"Content-Type" content=3D=
+"text/html; charset=3Dutf-8" />=0A<title>Newsletter Suprem print</title>=0A=
+<link href=3D"https://fonts.googleapis.com/css?family=3DRaleway" rel=3D"sty=
+lesheet"> =0A</head>=0A=0A<body style=3D"font-family: 'Raleway', sans-serif=
+;">=0A<table width=3D"676" border=3D"0" align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0">=0A  <tr>=0A    <td><a href=3D"http://r.newsletter10.supr=
+em-print.fr/ld5azkzpt98ioard.html" style=3D"text-decoration:none;" target=
+=3D"_blank"><img src=3D"http://www.suprem-print.fr/NLOCTOBRE/images/header.=
+png" width=3D"676" alt=3D"http://www.suprem-print.fr/" /></a></td>=0A  </tr=
+>=0A  <tr>=0A    <td><table width=3D"676" border=3D"0" cellspacing=3D"0" ce=
+llpadding=3D"0">=0A        <tr>=0A        <td><table width=3D"676" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"background-color: #1f8b=
+c2;=0A    padding-top: 10px;=0A    color: #fff;=0A    padding-bottom: 10px;=
+">=0A          <tr>=0A            <td width=3D"180" height=3D"27" align=3D"=
+center" style=3D"border-right: 1px solid #fff;">=0A                <a href=
+=3D"http://r.newsletter10.suprem-print.fr/ld5azkzpu1oioard.html" target=3D"=
+_blank" style=3D"text-decoration:none;text-align:center;color:#fff;"><span =
+style=3D"text-transform:uppercase;font-size: 11px;">cartouches jet d'encre<=
+/span></a>=0A            </td>=0A            <td width=3D"100" height=3D"27=
+" align=3D"center" style=3D"border-right: 1px solid #fff;">=0A             =
+   <a href=3D"http://r.newsletter10.suprem-print.fr/ld5azkzpuu4ioard.html" =
+target=3D"_blank" style=3D"text-decoration:none;text-align:center;color:#ff=
+f;"><span style=3D"text-transform:uppercase;font-size: 11px;">toners Laser<=
+/span></a>=0A            </td>=0A            <td width=3D"100" height=3D"27=
+" align=3D"center" style=3D"border-right: 1px solid #fff;">=0A             =
+   <a href=3D"http://r.newsletter10.suprem-print.fr/ld5azkzpvmkioard.html" =
+target=3D"_blank" style=3D"text-decoration:none;text-align:center;color:#ff=
+f;"><span style=3D"text-transform:uppercase;font-size: 11px;">Rubans</span>=
+</a>=0A            </td>=0A            <td width=3D"190" height=3D"27" alig=
+n=3D"center" style=3D"border-right: 1px solid #fff;">=0A                <a =
+href=3D"http://r.newsletter10.suprem-print.fr/ld5azkzpwf0ioard.html" target=
+=3D"_blank" style=3D"text-decoration:none;text-align:center;color:#fff;"><s=
+pan style=3D"text-transform:uppercase;font-size: 11px;">Rubans Transfert th=
+ermique</span></a>=0A            </td>=0A            <td width=3D"106" heig=
+ht=3D"27" align=3D"center">=0A                <a href=3D"http://r.newslette=
+r10.suprem-print.fr/ld5azkzpx7gioard.html" target=3D"_blank" style=3D"text-=
+decoration:none;text-align:center;color:#fff;"><span style=3D"text-transfor=
+m:uppercase;font-size: 11px;">Imprimantes 3D</span></a>=0A            </td>=
+=0A          </tr>=0A        </table></td>=0A        </tr>=0A        <!-- E=
+nd 3&egrave;me ligne -->=0A    </table></td>=0A  </tr>=0A  <tr>=0A    <td><=
+a href=3D"http://r.newsletter10.suprem-print.fr/ld5azkzpxzwioard.html" styl=
+e=3D"text-decoration:none;" target=3D"_blank"><img src=3D"http://www.suprem=
+-print.fr/NLOCTOBRE/images/contenu.png" width=3D"676" alt=3D"http://www.sup=
+rem-print.fr/" /></a></td>=0A  </tr>=0A  <tr>=0A    <td><table width=3D"676=
+" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A        <tr>=0A      =
+  <td><table width=3D"676" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ style=3D"background-color: #fff;=0A    padding-top: 10px;=0A    padding-bo=
+ttom: 10px;">=0A          <tr>=0A            <td width=3D"440" height=3D"27=
+" >=0A                <a href=3D"http://r.newsletter10.suprem-print.fr/ld5a=
+zkzpyscioard.html" target=3D"_blank" style=3D"text-decoration:none;text-ali=
+gn:center;color:#7787a4;"><span style=3D"text-transform:uppercase;font-size=
+: 13px;padding-left:20px;">suprem'print : vente d'encre discount</span></a>=
+=0A            </td>=0A            <td width=3D"236" height=3D"27" >=0A    =
+            <a href=3D"http://r.newsletter10.suprem-print.fr/ld5azkzpzksioa=
+rd.html" target=3D"_blank" style=3D"text-decoration:none;text-align:center;=
+color:#7787a4;"><span style=3D"text-transform:uppercase;font-size: 13px;">p=
+aiement enligne 100% s&eacute;curis&eacute;</span></a>=0A            </td>=
+=0A          </tr>=0A           <tr>=0A            <td>=0A                <=
+table width=3D"440" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">=0A   =
+                <tr>=0A                    <td width=3D"130" style=3D"font-=
+size:11px">=0A                            <ul>=0A                          =
+      <a href=3D"http://r.newsletter10.suprem-print.fr/ld5azkzq0d8ioard.htm=
+l" target=3D"_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Jet =
+d'encre</li></a>=0A                                <a href=3D"http://r.news=
+letter10.suprem-print.fr/74drnuzwlt98ioard.html" target=3D"_blank" style=3D=
+"text-decoration:none;color:#7787a4;"><li>laser</li></a>=0A                =
+                <a href=3D"http://r.newsletter10.suprem-print.fr/74drnuzwlu=
+1oioard.html" target=3D"_blank" style=3D"text-decoration:none;color:#7787a4=
+;"><li>Cartouches compatibles</li></a>=0A                                <a=
+ href=3D"http://r.newsletter10.suprem-print.fr/74drnuzwluu4ioard.html" targ=
+et=3D"_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Rubans &eac=
+ute;queteuses</li></a>=0A                            </ul>=0A              =
+      </td>=0A                    <td width=3D"130" style=3D"font-size:11px=
+">=0A                            <ul>=0A                                <a =
+href=3D"http://r.newsletter10.suprem-print.fr/74drnuzwlvmkioard.html" targe=
+t=3D"_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Imprimantes =
+3D</li></a>=0A                                <a href=3D"http://r.newslette=
+r10.suprem-print.fr/74drnuzwlwf0ioard.html" target=3D"_blank" style=3D"text=
+-decoration:none;color:#7787a4;"><li>Rubans et caisses</li></a>=0A         =
+                       <a href=3D"http://r.newsletter10.suprem-print.fr/74d=
+rnuzwlx7gioard.html" target=3D"_blank" style=3D"text-decoration:none;color:=
+#7787a4;"><li>Transfert thermique</li></a>=0A                              =
+  <a href=3D"http://r.newsletter10.suprem-print.fr/74drnuzwlxzwioard.html" =
+target=3D"_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Papier =
+photos</li></a><br/>=0A                            </ul>=0A                =
+    </td>=0A                    <td width=3D"170" style=3D"font-size:11px">=
+=0A                            <ul>=0A                                <a hr=
+ef=3D"http://r.newsletter10.suprem-print.fr/74drnuzwlyscioard.html" target=
+=3D"_blank" style=3D"text-decoration:none;color:#7787a4;"><li>Blog</li></a>=
+=0A                                <a href=3D"http://r.newsletter10.suprem-=
+print.fr/74drnuzwlzksioard.html" target=3D"_blank" style=3D"text-decoration=
+:none;color:#7787a4;"><li>Conditions g&eacute;n&eacute;rales de vente</li><=
+/a>=0A                                <a href=3D"http://r.newsletter10.supr=
+em-print.fr/74drnuzwm0d8ioard.html" target=3D"_blank" style=3D"text-decorat=
+ion:none;color:#7787a4;"><li>Mentions l&eacute;gales</li></a><br/><br/>=0A =
+                           </ul>=0A                    </td>=0A            =
+       </tr>=0A                </table>=0A            </td>=0A            <=
+td width=3D"236" style=3D"padding-left: 20px;">=0A                <span sty=
+le=3D"font-size: 11px;color:#7787a4;">par cheque :Commande envoy&eacute;e,a=
+pr&egrave;s encaissement</span><br/>=0A                <img src=3D"http://w=
+ww.suprem-print.fr/NLOCTOBRE/images/paiement.png" width=3D"200" height=3D"3=
+6" alt=3D"http://www.suprem-print.fr/" /><br/><br/>=0A            </td>=0A =
+         </tr>=0A        </table></td>=0A        </tr>=0A        <!-- End 3=
+&egrave;me ligne -->=0A    </table></td>=0A  </tr>=0A  <tr style=3D"backgro=
+und-color:#e3e3e3;">=0A    <td align=3D"center" style=3D"padding:10px 10px =
+10px 10px;"><a href=3D"http://r.newsletter10.suprem-print.fr/74drnuzwm2qkio=
+ard.html" target=3D"_blank" style=3D"text-decoration:none;color:#8d8b8b;lin=
+e-height: 24px;"><span style=3D"font-size: 12px;">Copyright &copy; M & A Fr=
+ance Web - Tous droits r&eacute;serv&eacute;s</span><br/>=0A        <span s=
+tyle=3D"font-size: 12px;">M & A France Web - RCS Toulouse 807 473 301. Conf=
+orm&eacute;ment &agrave; la loi n&deg;78-17 relative &agrave; l'informatiqu=
+e, aux fichiers et aux libert&eacute;s du 6 janvier 1978, vous avez le droi=
+t de vous opposer &agrave; ce que des informations nominatives vous concern=
+ant fassent l'objet d'un traitement. Vous pouvez &agrave; tout moment exerc=
+er un droit d'acc&egrave;s, de contr&ocirc;le et de rectification de ces do=
+nn&eacute;es.</span></a></td>=0A  </tr>=0A</table>=0A<div align=3D"center" =
+style=3D"color: #727272; font-size: 10px;">Si vous souhaitez vous d=C3=
+=A9sinscrire de notre newsletter, cliquez <a style=3D"color:#01a4c6;" targe=
+t=3D"_blank" href=3D"http://r.newsletter10.suprem-print.fr/5cabqw8xgcioarg.=
+html">ici</a></div><div><img width=3D"1" height=3D"1" src=3D"http://r.newsl=
+etter10.suprem-print.fr/5cabqw8xgcioarh.jpg" /></div></body>=0A</html>=0A=
+=0A
+
+
+---------?=_92166-6458648517727--
+

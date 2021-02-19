@@ -1,0 +1,200 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@eventteam.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Tue, 29 Nov 2016 17:34:38 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 15C5A47
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 29 Nov 2016 17:34:38 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 1380960199
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 29 Nov 2016 17:34:38 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id RFEp8vIgQWsK for <resp-m2-miage@univ-rennes1.fr>;
+	Tue, 29 Nov 2016 17:34:37 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id ECCD360114
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 29 Nov 2016 17:34:37 +0100 (CET)
+Received: from mxb1-1.relay.renater.fr (mxb1-1.relay.renater.fr [194.214.201.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id E75AF20033
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 29 Nov 2016 17:34:37 +0100 (CET)
+Received: from smtp-a21.md-connecting.com (smtp-a21.md-connecting.com [82.97.25.143])
+	by mxb1-1.relay.renater.fr (asm) with ESMTP id BC0556000F2
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 29 Nov 2016 17:34:36 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=eventteam.fr; h=to:subject
+	:date:from:reply-to:message-id:list-unsubscribe:mime-version
+	:content-type; s=smtp2; bh=cXJ1Ch99YpHbQ/WdFxdbfeiMNoY=; b=BPvoc
+	EiRLZt4fRF8dPhewWw8BSvypyejUspvfP41igtUFRKdEQyQmHDqDfEbHoCBB64hR
+	zGSD2+RXxtNz/293ooRmqCXprsE8afl4LOn5qU9WZfwAjCf1ExHIW2m2k9NAEJr3
+	mF9cLwhwYy21Tfl/fLLm1fb4QWJIpz9NTreTfQ=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=eventteam.fr; h=to:subject
+	:date:from:reply-to:message-id:list-unsubscribe:mime-version
+	:content-type; q=dns; s=smtp2; b=bKNVVOoMGK4hHHv02pNXF42FXeo5hRc
+	+Cx7cG8O9molPiD9PrmWnrG855Z9REUPtnaieyrhjNzx5kH73zQxm2ITUqW9Rg5Z
+	bra3JWRf8Bcqe7DY5gEKv5nsKzWjpu69and0qu3yk1c73yzoESq7nDpNnmWh+gpZ
+	ohVNSaIdv6FI=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****Remplacez votre baignoire par une douche en 24h
+Date: Tue, 29 Nov 2016 17:33:15 +0100
+From: =?utf-8?Q?Douche_S=C3=A9curis=C3=A9e?= <Douche_S@eventteam.fr>
+Reply-to: =?utf-8?Q?Douche_S=C3=A9curis=C3=A9e?= <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@eventteam.fr>
+Precedence: <bulk>
+Message-ID: <379e6a581be24d0a8adaa66c461c4681@eventteam.fr>
+List-Unsubscribe: <http://app.eventteam.fr/d/?camp=408806_19&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+X-campaign-id: 408806_19
+X-uid-id-m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==158
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_379e6a581be24d0a8adaa66c461c4681"
+X-Original-Source-IP: 82.97.25.143
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrfeejgddvvddtucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepvffufffhrhhpkffjgggtsegrtdhjredttdejnecuhfhrohhmpeffohhutghhvggpufortghurhhishorvgcuoeffohhutghhvggpufesvghvvghnthhtvggrmhdrfhhrqeenucffohhmrghinhepvghvvghnthhtvggrmhdrfhhrnecukfhppeekvddrleejrddvhedrudegfeenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrvddurdhmugdqtghonhhnvggtthhinhhgrdgtohhmpdhinhgvthepkedvrdeljedrvdehrddugeefpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesvghvvghnthhtvggrmhdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb1-1.relay.renater.fr
+
+--Part1_379e6a581be24d0a8adaa66c461c4681
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.eventteam.fr/v/?camp=3D408806_19&ms=3DcmVzcC1tMi1taWFnZUB1bml2=
+LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_379e6a581be24d0a8adaa66c461c4681
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Remplacez votre baignoire par une douche en 24h</title>
+</head><body marginheight=3D"0" topmargin=3D"0" leftmargin=3D"0" style=3D=
+"text-size-adjust:none; -ms-text-size-adjust:none; -moz-text-size-adjust:=
+none; margin:0px; padding:0px; -webkit-text-size-adjust:none;" marginwidt=
+h=3D"0">
+<center><p>
+<a href=3D"http://app.eventteam.fr/v/?camp=3D408806_19&ms=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si cet e-mail n=
+e s'affiche pas correctement, suivez ce lien." style=3D"color:#00F; font-=
+family:'Arial'; font-size:12px; text-decoration:underline;">Si cet email =
+ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p>             =
+           <br>  <center> <table id=3D"Tableau_01" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0" width=3D"600"> 	<tbody><tr> 		<td bgcolor=3D"#=
+003366"> 			<a href=3D"http://app.eventteam.fr/r/?m=3DcmVzcC1tMi1taWFnZUB=
+1bml2LXJlbm5lczEuZnI=3D&c=3D408806_19&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby=
+1kZXZpcy5jb20vYWYvY2xjL016QXlNMTk4WHpReE4xOThYekkzWDN4Zk1GOThYekEvYUhSMGN=
+Eb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWtiM1ZqYUdVdGMyVmpkWEpw=
+YzJWbA=3D=3D" style=3D"text-decoration:none;" target=3D"_blank"><img src=3D=
+"http://app.eventteam.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNv=
+bS9tYWlsaW5nL2RvdWNoZS1zZWN1cmlzZWUxL2ltYWdlcy9sb2dvLnBuZw=3D=3D" alt=3D"=
+logoDouche" height=3D"50" widt
+ h=3D"200"></a>         </td> 		<td style=3D"color:#FFFFFF; text-align:ri=
+ght; font-family:'Century Gothic', Arial, Helvetica, sans-serif; font-siz=
+e:24px; text-transform:uppercase; padding:10px;" bgcolor=3D"#003366" widt=
+h=3D"300"><a href=3D"http://app.eventteam.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1b=
+ml2LXJlbm5lczEuZnI=3D&c=3D408806_19&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1k=
+ZXZpcy5jb20vYWYvY2xjL016QXlNMTk4WHpReE4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb=
+3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWtiM1ZqYUdVdGMyVmpkWEpwYz=
+JWbA=3D=3D" style=3D"text-decoration:none; color:#FFFFFF;" target=3D"_bla=
+nk">Douche s&eacute;curis&eacute;e<br></a></td> 	</tr> 	<tr> 		<td colspa=
+n=3D"2" bgcolor=3D"#003366"> 			<a href=3D"http://app.eventteam.fr/r/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D408806_19&rc=3DaHR0cDovL2F=
+mZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXlNMTk4WHpReE4xOThYekkzWDN4=
+Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWtiM=
+1ZqYUdVdGMyVmpkWEpwYzJWbA=3D=3D" style=3D"text-decoration:none;" target=3D=
+"_blank"><img src=3D"htt
+ p://app.eventteam.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9=
+tYWlsaW5nL2RvdWNoZS1zZWN1cmlzZWUxL2ltYWdlcy9pbWdQcmluY2lwYWxlLmpwZw=3D=3D=
+" alt=3D"imgDouche" height=3D"398"></a></td> 	</tr> 	<tr> 		<td colspan=3D=
+"2" style=3D"color:#333333; font-family:'Century Gothic', Arial, Helvetic=
+a, sans-serif; font-size:24px; text-align:center; padding:10px 0;" bgcolo=
+r=3D"#efefef" width=3D"600"><a href=3D"http://app.eventteam.fr/r/?m=3DcmV=
+zcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D408806_19&rc=3DaHR0cDovL2FmZm=
+lsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXlNMTk4WHpReE4xOThYekkzWDN4Zk1=
+GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWtiM1Zq=
+YUdVdGMyVmpkWEpwYzJWbA=3D=3D" style=3D"text-decoration:none;color:#333333=
+;" target=3D"_blank">Pourquoi choisir une douche s&eacute;curis&eacute;e =
+?</a></td> 	</tr> 	<tr> 		<td colspan=3D"2" style=3D"padding:10px;" bgcol=
+or=3D"#efefef" width=3D"600"><hr color=3D"#003366" width=3D"20px"></td> 	=
+</tr> 	<tr> 		<td colspan=3D"2" style=3D"color:#333333; font-family:Arial=
+, Helvetica, sans-serif; fo
+ nt-size:16px; padding:10px; text-align:center;" bgcolor=3D"#efefef" widt=
+h=3D"600"><a href=3D"http://app.eventteam.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1b=
+ml2LXJlbm5lczEuZnI=3D&c=3D408806_19&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1k=
+ZXZpcy5jb20vYWYvY2xjL016QXlNMTk4WHpReE4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb=
+3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWtiM1ZqYUdVdGMyVmpkWEpwYz=
+JWbA=3D=3D" style=3D"text-decoration:none;color:#333333;" target=3D"_blan=
+k">Pour les personnes &agrave; mobilit&eacute; r&eacute;duite et les s&ea=
+cute;niors,  il est indispensable d&rsquo;adapter sa salle de bains. En c=
+hangeant votre baignoire par une douche s&eacute;curis&eacute;e, vous pr&=
+eacute;server  votre autonomie et diminuer les risques de d&eacute;pendan=
+ce.</a></td> 	</tr> 	<tr> 		<td colspan=3D"2" style=3D"color:#333333; fon=
+t-family:Arial, Helvetica, sans-serif; font-size:16px; padding:10px;" bgc=
+olor=3D"#efefef" width=3D"600"><a href=3D"http://app.eventteam.fr/r/?m=3D=
+cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D408806_19&rc=3DaHR0cDovL2F=
+mZmlsaWF0aW9uLm5
+ lby1kZXZpcy5jb20vYWYvY2xjL016QXlNMTk4WHpReE4xOThYekkzWDN4Zk1GOThYekEvYUh=
+SMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWtiM1ZqYUdVdGMyVmpk=
+WEpwYzJWbA=3D=3D" style=3D"text-decoration:none;color:#333333;" target=3D=
+"_blank">Avec la douche s&eacute;curis&eacute;e, obtenez de nombreux avan=
+tage :</a></td> 	</tr> 	<tr> 		<td colspan=3D"2"> 			<a href=3D"http://ap=
+p.eventteam.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D4088=
+06_19&rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXlNMT=
+k4WHpReE4xOThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1l=
+XSnBkR0YwTG1OdmJTOWtiM1ZqYUdVdGMyVmpkWEpwYzJWbA=3D=3D" style=3D"text-deco=
+ration:none;" target=3D"_blank"><img src=3D"http://app.eventteam.fr/r/?rc=
+=3DaHR0cDovL3d3dy5yZWFjdGlvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL2RvdWNoZS1zZWN1cm=
+lzZWUxL2ltYWdlcy9pY29uLmpwZw=3D=3D" alt=3D"iconDouche" height=3D"223" wid=
+th=3D"600"></a></td> 	</tr> 	<tr> 		<td colspan=3D"2"> 			<a href=3D"http=
+://app.eventteam.fr/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D=
+408806_19&rc=3DaHR0cDovL2FmZm
+ lsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL016QXlNMTk4WHpReE4xOThYekkzWDN4Zk=
+1GOThYekEvYUhSMGNEb3ZMM2QzZHk1eVpXRmpkR2x2Ymkxb1lXSnBkR0YwTG1OdmJTOWtiM1Z=
+qYUdVdGMyVmpkWEpwYzJWbA=3D=3D" style=3D"text-decoration:none;" target=3D"=
+_blank"><img src=3D"http://app.eventteam.fr/r/?rc=3DaHR0cDovL3d3dy5yZWFjd=
+Glvbi1oYWJpdGF0LmNvbS9tYWlsaW5nL2RvdWNoZS1zZWN1cmlzZWUxL2ltYWdlcy9wcm9jZW=
+R1cmUuanBn" alt=3D"procedureDouche" height=3D"347" width=3D"600"></a></td=
+> 	</tr> </tbody></table> </center>                   <img src=3D"http://=
+app.eventteam.fr/t/?i=3D408806_19&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczE=
+uZnI=3D&url=3Dhttp://app.eventteam.fr/images/blank.jpg" alt=3D"_pspacer4"=
+  /><p>
+<a href=3D"http://app.eventteam.fr/d/?camp=3D408806_19&ms=3DcmVzcC1tMi1ta=
+WFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne plus recevoi=
+r d'informations de notre part" style=3D"color:#00F; font-family:'Arial';=
+ font-size:12px; text-decoration:underline;">Pour se d&eacute;sabonner : =
+Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelconque =
+d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_379e6a581be24d0a8adaa66c461c4681--
+

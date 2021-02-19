@@ -1,0 +1,150 @@
+Return-Path: <bounce-id=D352=U4214.cluster021.ovh.net=1481911288.78-QXQ9E@114-prod.mail-out.ovh.net>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sat, 17 Dec 2016 00:20:58 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id D948F47
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D6DFF6006B
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id PUwO1NQYl7bd for <resp-m2-miage@univ-rennes1.fr>;
+	Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id B89AD60051
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id B265C20033
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+Received: from 4.mo164.mail-out.ovh.net (4.mo164.mail-out.ovh.net [46.105.40.156])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id 83C6D6000B4
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+Received: from 114.mail-out.ovh.net (unknown [10.108.19.184])
+	by mo164.mail-out.ovh.net (Postfix) with ESMTP id 5BDDE35A9D
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+Received: from 114.mail-out.ovh.net (localhost [127.0.0.1])
+	by 114.mail-out.ovh.net (Postfix) with ESMTP id 549BB2C
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Dec 2016 00:20:58 +0100 (CET)
+Received: from cluster021.hosting.ovh.net (gwc.cluster021.hosting.ovh.net
+ [91.134.248.245])
+ by 114.mail-out.ovh.net (Postfix) with ESMTP id 3568F29
+ for <resp-m2-miage@univ-rennes1.fr>; Fri, 16 Dec 2016 19:01:28 +0100 (CET)
+Received: from localhost.localdomain (localhost.localdomain [127.0.0.1])
+ by localhost.domain.tld (Postfix) with ESMTP id 328B45FF62
+ for <resp-m2-miage@univ-rennes1.fr>; Fri, 16 Dec 2016 19:01:28 +0100 (CET)
+Received: by cluster021.hosting.ovh.net (Postfix, from userid 4214)
+ id 23FB060019; Fri, 16 Dec 2016 19:01:28 +0100 (CET)
+To: resp-m2-miage@univ-rennes1.fr
+Subject: Ingenieurs et Developpeurs confirmes a partir de 1490 e par mois
+Date: Fri, 16 Dec 2016 19:01:28 +0100
+From: Itek4you Tunisie <laure@rujujabu.ovh>
+Message-ID: <101e0f527cf81597398bd78580378ea3@www.rujujabu.ovh>
+X-Mailer: PHPMailer 
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="b1_101e0f527cf81597398bd78580378ea3"
+Content-Transfer-Encoding: 8bit
+X-Ovh-Tracer-Id: 3168282338630135303
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: 0
+X-VR-SPAMCAUSE: gggruggvucftvghtrhhoucdtuddrfeelfedrjedvgddufecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucfqggfjpdevjffgvefmvefgnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmd
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 46.105.40.156
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrjedvgdduiecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefvufffhffkofggtgfgsegrkehjphehtddunecuhfhrohhmpefkthgvkheghihouhcuvfhunhhishhivgcuoehlrghurhgvsehruhhjuhhjrggsuhdrohhvhheqnecuffhomhgrihhnpehruhhjuhhjrggsuhdrohhvhhdpsghmihhqphhpjhgtsghishgrkhhpqhihrdgtohhmnecukfhppeegiedruddthedrgedtrdduheeipdeluddrudefgedrvdegkedrvdegheenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepgedrmhhoudeigedrmhgrihhlqdhouhhtrdhovhhhrdhnvghtpdhinhgvthepgeeirddutdehrdegtddrudehiedpmhgrihhlfhhrohhmpegsohhunhgtvgdqihgupefffeehvdepfgegvddugedrtghluhhsthgvrhdtvddurdhovhhhrdhnvghtpedugeekudeludduvdekkedrjeekqdfsigfslefgseduudegqdhprhhougdrmhgrihhlqdhouhhtrdhovhhhrdhnvghtpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+This is a multi-part message in MIME format.
+
+--b1_101e0f527cf81597398bd78580378ea3
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+                                                                           =
+                                                Voir la version en ligne   =
+                                                                           =
+                                                                        <br=
+/><br/>                                                                    =
+                                                                           =
+                                     Vous cherchez des D&eacute;veloppeurs,=
+ des Int&eacute;grateurs Html, ou des Hotliners ?<br>Vous voulez cr&eacute;=
+er une &eacute;quipe informatique cl&eacute; en main au Maroc ou en Tunisie=
+ ?<br><br>Nous avons les profils que vous recherchez !<br>Pour obtenir des =
+profils qualifi&eacute;s, cliquez ici<br>Nous sommes &agrave; votre disposi=
+tion pour parler de vos projets.<br><br>Tr&egrave;s cordialement.<br>      =
+                                                                           =
+                                           Directeur ITEK4YOU<br>Ing&eacute=
+;nieur Civil N87<br>T&eacute;l. +33 1 799 740 24<br><br>                   =
+                              <br>                                         =
+                                                                     <br/><=
+br/>                                                                       =
+                                                                           =
+                  Se d&eacute;sinscrire                                    =
+                                          
+
+--b1_101e0f527cf81597398bd78580378ea3
+Content-Type: text/html; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+
+<html>  <head>  <meta http-equiv=3D"Content-Type" content=3D"text/html; cha=
+rset=3Diso-8859-1">     <meta name=3D"viewport" content=3D"width=3Ddevice-w=
+idth" />    <link href=3D'https://fonts.googleapis.com/css?family=3DSource+=
+Sans+Pro' rel=3D'stylesheet' type=3D'text/css'>  </head>            <body s=
+tyle=3D"margin: 0; padding: 0; font-family: 'Source Sans Pro', sans-serif;"=
+>          <table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=
+=3D"background-color:#525252;">              <tr>                      <td =
+style=3D"color:#fff; padding:10px;">                                       =
+           <center><span><a style=3D"color:#fff;" href=3D"http://rujujabu.o=
+vh/cls/rapp/itekn116122016/depiji.php?email=3Drfu5t%253fta%253wtmts%252a40e=
+%253c0ab3is%2518l">Voir la version en ligne</a></span></center>            =
+                                </td>              </tr>              <tabl=
+e cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"background-co=
+lor:rgb(107,194,227);">                      <tr>                          =
+<td>                              <br/><br/>                              <=
+table align=3D"center" cellpadding=3D"0" cellspacing=3D"0"  style=3D "max-w=
+idth:600px;border-collapse: collapse; color:#7f5050; background-color:#fff;=
+ border-radius: 12px;color:rgb(100,100,100);">                             =
+        <tr>                                         <td style=3D"text-alig=
+n: center;">                                                               =
+         <div style=3D"text-align:center; margin-left:15px; margin-right:15=
+px;"><p style=3D"text-align:justify; line-height: 1.6;">Vous cherchez des <=
+strong>D&eacute;veloppeurs</strong>, des <strong>Int&eacute;grateurs Html</=
+strong>, ou des <strong>Hotliners</strong> ?<br>Vous voulez cr&eacute;er un=
+e &eacute;quipe informatique cl&eacute; en main au Maroc ou en Tunisie ?<br=
+><br>Nous avons les profils que vous recherchez !<br>Pour obtenir des profi=
+ls qualifi&eacute;s, <a href=3D"http://rujujabu.ovh/cls/rapp/itekn116122016=
+/vageky.php?email=3Drfu5t%253fta%253wtmts%252a40e%253c0ab3is%2518l" style=
+=3D"color:rgb(76,94,166);"><strong>cliquez ici</strong></a><br>Nous sommes =
+&agrave; votre disposition pour parler de vos projets.<br><br>Tr&egrave;s c=
+ordialement.<br>                                                 </p></div>=
+                                                                           =
+<div style=3D"text-align:left; margin-left:15px;">Directeur ITEK4YOU<br>Ing=
+&eacute;nieur Civil N87<br>T&eacute;l. +33 1 799 740 24<br><br><a href=3D"h=
+ttp://rujujabu.ovh/cls/rapp/itekn116122016/vageky.php?email=3Drfu5t%253fta%=
+253wtmts%252a40e%253c0ab3is%2518l"><img src=3D"http://rujujabu.ovh/2518/rap=
+p/itekn116122016/hinisy/png" alt=3D"Logo ITEK4YOU"></a>                    =
+                             </div><br>                                    =
+     </td>                                      </tr>                      =
+         </table><br/><br/>                            </td>               =
+        </tr>                            </table>              <table cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"100%" style=3D"background-color:#52=
+5252;">                   <tr>                        <td style=3D"padding:=
+10px;">                            <center><span><a style=3D"color:#fff;" h=
+ref=3D"http://rujujabu.ovh/cls/rapp/itekn116122016/tyzyne.php?email=3Drfu5t=
+%253fta%253wtmts%252a40e%253c0ab3is%2518l">Se d&eacute;sinscrire</a></span>=
+</center>                        </td>                   </tr>             =
+ </table>         </table>        <a href=3D'http://bmiqppjcbisakpqy.com'><=
+/a></body>  </html>  
+
+
+--b1_101e0f527cf81597398bd78580378ea3--
+

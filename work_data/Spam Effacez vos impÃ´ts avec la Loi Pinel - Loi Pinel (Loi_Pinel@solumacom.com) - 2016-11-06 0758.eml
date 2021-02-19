@@ -1,0 +1,282 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@solumacom.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sun, 06 Nov 2016 07:58:51 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id E348F47
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 07:58:51 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id E177660168
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 07:58:51 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id kUCC3hozcwpt for <resp-m2-miage@univ-rennes1.fr>;
+	Sun,  6 Nov 2016 07:58:51 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id CB90160008
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 07:58:51 +0100 (CET)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id C3FC620033
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 07:58:51 +0100 (CET)
+Received: from smtp-b81.directonlus.com (smtp-b81.directonlus.com [82.97.39.168])
+	by mxb2-1.relay.renater.fr (asm) with ESMTP id 8CAA660003C
+	for <resp-m2-miage@univ-rennes1.fr>; Sun,  6 Nov 2016 07:58:51 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=solumacom.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp6; bh=2B39yiEvpuRC2IAlZ84QJLK8
+	YlPxSGxws+d9t3KQ57E=; b=ROEzcpFISOvfIHKD1kNFMJkDKNhgaWOrlR1lEQb8
+	MyXC8jmjKrFQ98UT6kTHTmdH0O/KZDcHrcsB7lZ52qw8Y/tnCunj4526c0sys3pW
+	1iPe4UVZGoWXTcsSgC6qcjQkepc6b+Ccmo70U6x7lqAbjsllam9beGxsSRCTVGgF
+	6rw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=solumacom.com; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp6; b=olGn1pCyMHTxqLwWM5eYNk/2GHyai0I
+	IPLQyMhaIzxcQMns77zi4FDevSnOFWOdRk4b5W6/Enz0dCoHEwh0aFSxjsCVtOjT
+	aHPFoKjJUvbnMMeMeOhyN7mTVNPPKA8cwJwMR8QzrQjmiuaAqC8c1OAIkgf4lSkD
+	Sj0aBOosaZPI=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Effacez_vos_imp=C3=B4ts_avec_la_Loi_Pinel?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Sun, 6 Nov 2016 07:58:50 +0100
+From: Loi Pinel <Loi_Pinel@solumacom.com>
+Reply-to: Loi Pinel <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@solumacom.com>
+X-campaign_id: 732348730383_6
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==327
+List-Unsubscribe: <http://app.solumacom.com/d/?camp=732348730383_6&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <5be671c2337781ba4dd3b8fa2f9f1656@solumacom.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_5be671c2337781ba4dd3b8fa2f9f1656"
+X-Original-Source-IP: 82.97.39.168
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelvddrledvgddutdeiucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucftohhuthgvrhdqqdfrmfgjucdluddtjedmnecujfgurhepvffufffhrhfjkfggtgesrgdtjhertddtjeenucfhrhhomhepnfhoihcurfhinhgvlhcuoefnohhipgfrihhnvghlsehsohhluhhmrggtohhmrdgtohhmqeenucffohhmrghinhepshholhhumhgrtghomhdrtghomhenucfkphepkedvrdeljedrfeelrdduieeknecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphdqsgekuddrughirhgvtghtohhnlhhushdrtghomhdpihhnvghtpeekvddrleejrdefledrudeikedpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsehsohhluhhmrggtohhmrdgtohhmpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+--Part1_5be671c2337781ba4dd3b8fa2f9f1656
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.solumacom.com/v/?camp=3D732348730383_6&ms=3DcmVzcC1tMi1taWFnZU=
+B1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_5be671c2337781ba4dd3b8fa2f9f1656
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Effacez vos imp=C3=B4ts avec la Loi Pinel</title>
+</head><body marginwidth=3D"0" marginheight=3D"0" leftmargin=3D"0" topmar=
+gin=3D"0" style=3D"-ms-text-size-adjust:none; -moz-text-size-adjust:none;=
+ text-size-adjust:none; margin:0px; -webkit-text-size-adjust:none; paddin=
+g:0px;">
+<center><p>
+<a href=3D"http://app.solumacom.com/v/?camp=3D732348730383_6&ms=3DcmVzcC1=
+tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si cet e-=
+mail ne s'affiche pas correctement, suivez ce lien." style=3D"color:#00F;=
+ font-family:'Arial'; font-size:12px; text-decoration:underline;">Si cet =
+email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p>       =
+                                          Loi Pinel   <img src=3D"http://=
+app.solumacom.com/r/?rc=3DaHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWY=
+vcHgvTVRZM09GOThYek01TjE5OFh6STNYM3hmTUY5OFh6QS9hSFIwY0RvdkwzQnBibVZzTG1a=
+cGMyTmhiR2w0TG1aeUx3" width=3D"1" height=3D"1" border=3D"0"> <style type=3D=
+"text/css">     .button-td:hover {         background: #555555 !important=
+; border-color: #555555 !important;     }     .button-a:hover {         b=
+ackground: #555555 !important; border-color: #555555 !important;     }   =
+  @media screen and (max-width: 480px) {         .fluid {             wid=
+th: 100% !important; max-width: 100% !important; height: auto !im
+ portant; margin-left: auto !important; margin-right: auto !important;   =
+      }         .fluid-centered {             width: 100% !important; max=
+-width: 100% !important; height: auto !important; margin-left: auto !impo=
+rtant; margin-right: auto !important;         }         .fluid-centered {=
+             margin-left: auto !important; margin-right: auto !important;=
+         }         .stack-column {             display: block !important;=
+ width: 100% !important; max-width: 100% !important; direction: ltr !impo=
+rtant;         }         .stack-column-center {             display: bloc=
+k !important; width: 100% !important; max-width: 100% !important; directi=
+on: ltr !important;         }         .stack-column-center {             =
+text-align: center !important;         }         .center-on-narrow {     =
+        text-align: center !important; display: block !important; margin-=
+left: auto !important; margin-right: auto !important; float: none !import=
+ant;         }         table.center-on-na
+ rrow {             display: inline-block !important;         }     } </s=
+tyle> <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" height=3D"1=
+00%" width=3D"100%" bgcolor=3D"#E6E6E6" style=3D"border-collapse: collaps=
+e !important; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; bord=
+er-spacing: 0 !important; table-layout: fixed !important; margin: 0 auto;=
+"><tbody><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjus=
+t: 100%;"><td height=3D"30" style=3D"font-size: 30px; line-height: 30px; =
+-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lsp=
+ace: 0pt !important; mso-table-rspace: 0pt !important;">     &nbsp; </td>=
+ </tr><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%;"><td valign=3D"top" style=3D"-ms-text-size-adjust: 100%; -webkit-te=
+xt-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace:=
+ 0pt !important;">     <center style=3D"width: 100%; -ms-text-size-ad
+ just: 100%; -webkit-text-size-adjust: 100%;">                   <div sty=
+le=3D"display: none; font-size: 1px; line-height: 1px; max-height: 0px; m=
+ax-width: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: =
+sans-serif; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;">=
+             Loi Pinel 2016         </div>                   <div style=3D=
+"max-width: 680px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: =
+100%;">                          <table cellspacing=3D"0" cellpadding=3D"=
+0" border=3D"0" width=3D"680" align=3D"center">                 <tbody><t=
+r>                     <td>                                          <tab=
+le cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center" bgco=
+lor=3D"#ffffff" width=3D"100%" style=3D"max-width: 680px; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !impor=
+tant; mso-table-rspace: 0pt !important; border-spacing: 0 !important; bor=
+der-collapse: collapse !important; table-layout: fixed !important; m
+ argin: 0 auto;"><tbody><tr style=3D"-ms-text-size-adjust: 100%; -webkit-=
+text-size-adjust: 100%;"><td style=3D"-ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspa=
+ce: 0pt !important;">                 <a href=3D"http://app.solumacom.com=
+/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D732348730383_6&rc=3D=
+aHR0cDovL2FmZmlsaWF0aW9uLm5lby1kZXZpcy5jb20vYWYvY2xjL01UWTNPRjk4WHpNNU4xO=
+ThYekkzWDN4Zk1GOThYekEvYUhSMGNEb3ZMM0JwYm1Wc0xtWnBjMk5oYkdsNExtWnlMdw=3D=3D=
+" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;" t=
+arget=3D"_blank"><img src=3D"http://app.solumacom.com/r/?rc=3DaHR0cDovL3d=
+3dy5maXNjYWxpeC5mci9tYWlsaW5nL3BpbmVsL2ltYWdlcy9iYW5uZXIuanBn" width=3D"6=
+80" alt=3D"Loi Pinel" border=3D"0" align=3D"center" style=3D"width: 100%;=
+ max-width: 680px; height: auto; -ms-text-size-adjust: 100%; -webkit-text=
+-size-adjust: 100%; -ms-interpolation-mode: bicubic;"></a>             </=
+td>             </tr><tr style=3D"-ms-text-size-adjust: 100%; -webkit-tex=
+t-
+ size-adjust: 100%;"><td style=3D"-ms-text-size-adjust: 100%; -webkit-tex=
+t-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: =
+0pt !important;">                 <table cellspacing=3D"0" cellpadding=3D=
+"0" border=3D"0" width=3D"100%" style=3D"-ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-r=
+space: 0pt !important; border-spacing: 0 !important; border-collapse: col=
+lapse !important; table-layout: fixed !important; margin: 0 auto;"><tbody=
+><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+"><td height=3D"30" style=3D"font-size: 30px; line-height: 30px; -ms-text=
+-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt=
+ !important; mso-table-rspace: 0pt !important;">                     &nbs=
+p;                 </td>                 </tr><tr style=3D"-ms-text-size-=
+adjust: 100%; -webkit-text-size-adjust: 100%;"><td style=3D"-ms-text-size=
+-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace
+ : 0pt !important; mso-table-rspace: 0pt !important;">                   =
+                       <table cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0" align=3D"center" style=3D"-ms-text-size-adjust: 100%; -webkit-text-si=
+ze-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt =
+!important; border-spacing: 0 !important; border-collapse: collapse !impo=
+rtant; table-layout: fixed !important; margin: 0 auto;"><tbody><tr style=3D=
+"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><td style=3D=
+"border-radius: 3px; text-align: center; -ms-text-size-adjust: 100%; -web=
+kit-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-r=
+space: 0pt !important; transition: all 100ms ease-in; background: #222222=
+;" class=3D"button-td" align=3D"center" bgcolor=3D"#222222">             =
+            <a href=3D"http://app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZU=
+B1bml2LXJlbm5lczEuZnI=3D&c=3D732348730383_6&rc=3DaHR0cDovL2FmZmlsaWF0aW9u=
+Lm5lby1kZXZpcy5jb20vYWYvY2xjL01UWTNPRjk4WHpNNU4xOThYekkzWDN4Zk1GOT
+ hYekEvYUhSMGNEb3ZMM0JwYm1Wc0xtWnBjMk5oYkdsNExtWnlMdw=3D=3D" style=3D"col=
+or: #ffffff; font-family: sans-serif; font-size: 22px; line-height: 1.1; =
+text-align: center; text-decoration: none; display: block; border-radius:=
+ 3px; font-weight: bold; -ms-text-size-adjust: 100%; -webkit-text-size-ad=
+just: 100%; transition: all 100ms ease-in; background: #CB2634; padding: =
+0 20px; border: 15px solid #cb2634;" class=3D"button-a" target=3D"_blank"=
+>                             &nbsp;&nbsp;&nbsp;&nbsp;OBTENIR MON &Eacute=
+;TUDE &nbsp;&nbsp;&nbsp;&nbsp;                         </a>              =
+       </td>                     </tr></tbody></table></td>              =
+   </tr><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%;"><td height=3D"30" style=3D"font-size: 30px; line-height: 30px; -=
+ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspa=
+ce: 0pt !important; mso-table-rspace: 0pt !important;">                  =
+   &nbsp;                 </td>                 </tr><tr=20
+ style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><t=
+d align=3D"center" style=3D"font-family: sans-serif; font-size: 18px; mso=
+-height-rule: exactly; line-height: 24px; color: #124689; -ms-text-size-a=
+djust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspace: 0pt !impor=
+tant; mso-table-rspace: 0pt !important; padding: 0 20px;">               =
+      <strong style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adju=
+st: 100%;">C'est gratuit et sans engagement !</strong>                 </=
+td>                 </tr><tr style=3D"-ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%;"><td height=3D"40" style=3D"font-size: 40px; lin=
+e-height: 40px; -ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100=
+%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important;"> =
+                    &nbsp;                 </td>                 </tr></t=
+body></table></td>             </tr><tr style=3D"-ms-text-size-adjust: 10=
+0%; -webkit-text-size-adjust: 100%;"><td dir=3D"ltr" bgcolo
+ r=3D"#254485" align=3D"center" height=3D"100%" valign=3D"top" width=3D"1=
+00%" style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;=
+ mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !important; padd=
+ing: 10px 0;">                 <table cellspacing=3D"0" cellpadding=3D"0"=
+ border=3D"0" width=3D"100%" style=3D"-ms-text-size-adjust: 100%; -webkit=
+-text-size-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspa=
+ce: 0pt !important; border-spacing: 0 !important; border-collapse: collap=
+se !important; table-layout: fixed !important; margin: 0 auto;"><tbody><t=
+r style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%;"><=
+td dir=3D"ltr" style=3D"font-family: sans-serif; font-size: 15px; mso-hei=
+ght-rule: exactly; line-height: 22px; color: #123a6d; text-align: left; -=
+ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspa=
+ce: 0pt !important; mso-table-rspace: 0pt !important; padding: 15px;" cla=
+ss=3D"center-on-narrow" align=3D"left">                     <p align=3D"c=
+en
+ ter" style=3D"color: #ffffff; -ms-text-size-adjust: 100%; -webkit-text-s=
+ize-adjust: 100%; margin: 0; padding: 0;"> La loi Pinel est avant tout un=
+ dispositif de d&eacute;fiscalisation et &agrave; ce titre elle offre un =
+avantage fiscal &agrave; chaque contribuable fran&ccedil;ais qui souhaite=
+ investir dans un bien immobilier neuf et qui s&rsquo;engage &agrave; le =
+louer pour une p&eacute;riode de 6 ans minimum avec possibilit&eacute; de=
+ l'allonger de deux fois 3 ans, soit une dur&eacute;e de 9 ans puis une d=
+ur&eacute;e maximum de 12 ans.</p>                 </td>                 =
+</tr></tbody></table></td>             </tr></tbody></table><table cellsp=
+acing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center" width=3D"100%=
+" style=3D"max-width: 680px; -ms-text-size-adjust: 100%; -webkit-text-siz=
+e-adjust: 100%; mso-table-lspace: 0pt !important; mso-table-rspace: 0pt !=
+important; border-spacing: 0 !important; border-collapse: collapse !impor=
+tant; table-layout: fixed !important; margin: 0 auto;">
+ <tbody><tr style=3D"-ms-text-size-adjust: 100%; -webkit-text-size-adjust=
+: 100%;"><td height=3D"30" style=3D"font-size: 30px; line-height: 30px; -=
+ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; mso-table-lspa=
+ce: 0pt !important; mso-table-rspace: 0pt !important;">             &nbsp=
+;         </td>         </tr></tbody></table>             </td>          =
+   </tr>             </tbody></table>             </div>     </center> </=
+td> </tr></tbody></table>                 <img src=3D"http://app.solumaco=
+m.com/t/?i=3D732348730383_6&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D=
+&url=3Dhttp://app.solumacom.com/images/blank.jpg" alt=3D"_pspacer5"  /><p=
+>
+<a href=3D"http://app.solumacom.com/d/?camp=3D732348730383_6&ms=3DcmVzcC1=
+tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne plus r=
+ecevoir d'informations de notre part" style=3D"color:#00F; font-family:'A=
+rial'; font-size:12px; text-decoration:underline;">Pour se d&eacute;sabon=
+ner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un quelc=
+onque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_5be671c2337781ba4dd3b8fa2f9f1656--
+

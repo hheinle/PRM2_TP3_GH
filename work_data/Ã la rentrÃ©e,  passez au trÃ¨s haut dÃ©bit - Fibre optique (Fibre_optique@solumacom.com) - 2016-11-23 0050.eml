@@ -1,0 +1,294 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@solumacom.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Wed, 23 Nov 2016 00:50:03 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 1D6CF25E
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 00:50:03 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 1AC9E60094
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 00:50:03 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id tkA6fZwd-j7g for <resp-m2-miage@univ-rennes1.fr>;
+	Wed, 23 Nov 2016 00:50:02 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id EBD8660017
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 00:50:02 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id E381020033
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 00:50:02 +0100 (CET)
+Received: from smtp-b68.directonlus.com (smtp-b68.directonlus.com [82.97.39.162])
+	by mxb1-2.relay.renater.fr (asm) with ESMTP id E52D42800CC
+	for <resp-m2-miage@univ-rennes1.fr>; Wed, 23 Nov 2016 00:50:01 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=solumacom.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp5; bh=QT737p9/vDQXEKuWijJCpb34
+	9wzamuDtOUzzszPbZCQ=; b=v4gY8rguGPmR/ykU9wbYQzSuU+rjqXCyroyJdTPv
+	ssDK9X4gEkXfj7/XXO2hbJVlh23EmtHR60Xoi/VOg6kxmQPnT0MvhU10Di8oI5+y
+	jSYqNufLipLWhlxU4IcoeFkRMelnGinPzeG9+9+rC3Og2xbK35gI7fbOtU6g8Nr6
+	V+M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=solumacom.com; h=to:subject
+	:date:from:reply-to:list-unsubscribe:message-id:mime-version
+	:content-type; q=dns; s=smtp5; b=bBCcKf6uB0sVcfPgUwSMg4WPRuHXOwM
+	b1Y+vq3SGCXImMNIJvDU1LKmWgtTf7hIkTeXMUPVHm6ZiX42VUHz/uzG4rzbloEd
+	U++yJ7BfWxcDu7JX9BNGn3Uo8yGz01ZY0BQyTs9UUsVXTNJh8KL1tko5blBi4q5a
+	KhK2HiZH2TEg=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?=C3=80_la_rentr=C3=A9e,__passez_au_tr=C3=A8s_haut_d=C3=A9bit?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Wed, 23 Nov 2016 00:50:02 +0100
+From: Fibre optique <Fibre_optique@solumacom.com>
+Reply-to: Fibre optique <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@solumacom.com>
+X-campaign_id: 243945595970661282900175_9
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==657
+List-Unsubscribe: <http://app.solumacom.com/d/?camp=243945595970661282900175_9&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <2c550bec31498ad1729620c05826e2ca@solumacom.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_2c550bec31498ad1729620c05826e2ca"
+X-Original-Source-IP: 82.97.39.162
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelfedrvdeigddvtdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpefhihgsrhgvuchophhtihhquhgvuceohfhisghrvggpohhpthhiqhhuvgesshholhhumhgrtghomhdrtghomheqnecuffhomhgrihhnpehsohhluhhmrggtohhmrdgtohhmnecukfhppeekvddrleejrdefledrudeivdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgsieekrdguihhrvggtthhonhhluhhsrdgtohhmpdhinhgvthepkedvrdeljedrfeelrdduiedvpdhmrghilhhfrhhomhepfihjgihuqdhrjedqrhhnfhhljhgpjhgtjehkqdhgfegttgefhhhqrdegghesshholhhumhgrtghomhdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+--Part1_2c550bec31498ad1729620c05826e2ca
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.solumacom.com/v/?camp=3D243945595970661282900175_9&ms=3DcmVzcC=
+1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_2c550bec31498ad1729620c05826e2ca
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>=C3=80 la rentr=C3=A9e,  passez au tr=C3=A8s haut d=C3=A9bit</titl=
+e>
+</head><body leftmargin=3D"0" style=3D"padding:0px; -moz-text-size-adjust=
+:none; -ms-text-size-adjust:none; text-size-adjust:none; margin:0px; -web=
+kit-text-size-adjust:none;" topmargin=3D"0" marginwidth=3D"0" marginheigh=
+t=3D"0">
+<center><p>
+<a href=3D"http://app.solumacom.com/v/?camp=3D243945595970661282900175_9&=
+ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Si cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"c=
+olor:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline=
+;">Si cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a><=
+/p>   Internet Fibre Optique           <table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"600" align=3D"center" style=3D"margin:0 au=
+to;"><tbody> <tr> <td width=3D"600" height=3D"25" align=3D"center"><span =
+style=3D" font-family:Arial, Helvetica, sans-serif; font-size:11px ; font=
+-weight: normal; color:#ffffff;">Acc&egrave;s internet : changez pour la =
+puissance de la fibre !&nbsp;</span></td>                 </tr> <tr> <td>=
+                     <table align=3D"left" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" width=3D"600"><tbody><tr> <td width=3D"342" height=3D"=
+33" bgcolor=3D"#000000" valign=3D"top"><img style=3D"display:block" name=3D=
+"index_r1_c1" src=3D"h
+ ttp://app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZy=
+LzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjFfYzEuanBn" width=3D"342" height=3D"33"=
+ border=3D"0" id=3D"index_r1_c1" alt=3D""></td>                          =
+       <td><img style=3D"display:block" name=3D"index_r1_c5" src=3D"http:=
+//app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1N=
+TJfTUJfMDgxNi9pbWcvaW5kZXhfcjFfYzUuanBn" width=3D"258" height=3D"33" bord=
+er=3D"0" id=3D"index_r1_c5" alt=3D""></td>                             </=
+tr></tbody></table> </td>                 </tr> <tr> <td>                =
+     <table align=3D"left" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"600"><tbody><tr> <td><img style=3D"display:block" name=3D"ind=
+ex_r2_c1" src=3D"http://app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZ=
+pc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjJfYzEuanBn" width=3D"3=
+5" height=3D"43" border=3D"0" id=3D"index_r2_c1" alt=3D""></td>          =
+                       <td width=3D"307" height=3D"43" bgcolor=3D"#000000=
+" valign=3D"top" style=3D"vertical-a
+ lign:top;"><a href=3D"http://app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZU=
+B1bml2LXJlbm5lczEuZnI=3D&c=3D243945595970661282900175_9&rc=3DaHR0cDovL2Vs=
+Yi5uc296cGdsYmUuY29tL3IvY2xpYy02MzItMjk5LTY1NDktdXJsLWFIUjBjRG92TDNkM2R5N=
+XRaWE5rWlhacGMyZHlZWFIxYVhSekxtWnlMelExTlRKZlRVSmZNRGd4Tmo5eFkzQTlORFUxTW=
+w5TlFsOHdPREUySm5WMGJWOXpiM1Z5WTJVOWJpWjFkRzFmYldWa2FYVnRQV1V0YldGcGJDWjF=
+kRzFmWTJGdGNHRnBaMjQ5Ym1WM2MyTW1kWFJ0WDI1dmIzWmxjbkpwWkdVOU1RP3RyYWNrYWZm=
+PSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNDgxNw=3D=3D" style=3D"font-family:Ar=
+ial, Helvetica, sans-serif; color:#000000;text-decoration:none" target=3D=
+"_blank"><span style=3D"font-family:Arial, Helvetica, sans-serif; font-si=
+ze:34px; font-weight:normal; color:#ffffff;"><strong>FIBRE</strong> OPTIQ=
+UE</span></a></td>                                 <td><a href=3D"http://=
+app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D2=
+43945595970661282900175_9&rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL3IvY2xpYy=
+02MzItMjk5LTY1NDktdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacGMyZHlZWFIxYVhSe
+ kxtWnlMelExTlRKZlRVSmZNRGd4Tmo5eFkzQTlORFUxTWw5TlFsOHdPREUySm5WMGJWOXpiM=
+1Z5WTJVOWJpWjFkRzFmYldWa2FYVnRQV1V0YldGcGJDWjFkRzFmWTJGdGNHRnBaMjQ5Ym1WM2=
+MyTW1kWFJ0WDI1dmIzWmxjbkpwWkdVOU1RP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3J=
+vdXA9cF8xNDgxNw=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif;=
+ color:#000000;text-decoration:none" target=3D"_blank"><img style=3D"disp=
+lay:block" name=3D"index_r2_c5" src=3D"http://app.solumacom.com/r/?rc=3Da=
+HR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcj=
+JfYzUuanBn" width=3D"258" height=3D"43" border=3D"0" id=3D"index_r2_c5" a=
+lt=3D""></a></td>                             </tr></tbody></table> </td>=
+                 </tr> <tr> <td>                     <table align=3D"left=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tbody><=
+tr> <td><img style=3D"display:block" name=3D"index_r3_c1" src=3D"http://a=
+pp.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1NTJf=
+TUJfMDgxNi9pbWcvaW5kZXhfcjNfYzEuanBn" width=3D"35" height=3D"87" border=3D=
+"0" id=3D"index_r3_
+ c1" alt=3D""></td>                                 <td width=3D"307" hei=
+ght=3D"87" bgcolor=3D"#000000" valign=3D"top" style=3D"vertical-align:top=
+;"><a href=3D"http://app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJ=
+lbm5lczEuZnI=3D&c=3D243945595970661282900175_9&rc=3DaHR0cDovL2VsYi5uc296c=
+GdsYmUuY29tL3IvY2xpYy02MzItMjk5LTY1NDktdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWl=
+hacGMyZHlZWFIxYVhSekxtWnlMelExTlRKZlRVSmZNRGd4Tmo5eFkzQTlORFUxTWw5TlFsOHd=
+PREUySm5WMGJWOXpiM1Z5WTJVOWJpWjFkRzFmYldWa2FYVnRQV1V0YldGcGJDWjFkRzFmWTJG=
+dGNHRnBaMjQ5Ym1WM2MyTW1kWFJ0WDI1dmIzWmxjbkpwWkdVOU1RP3RyYWNrYWZmPSZhbXA7Z=
+3JvdXA9JmFtcDtyZ3JvdXA9cF8xNDgxNw=3D=3D" style=3D"font-family:Arial, Helv=
+etica, sans-serif; color:#000000;text-decoration:none" target=3D"_blank">=
+<span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:24px; =
+font-weight:normal; color:#ffffff;">&Agrave; la rentr&eacute;e,</span> <b=
+r><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:24px=
+; font-weight:normal; color:#00c8ff;">passez au tr&egrave;s haut d&eacute=
+;b
+ it !</span></a></td>                                 <td><a href=3D"http=
+://app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D=
+243945595970661282900175_9&rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL3IvY2xpY=
+y02MzItMjk5LTY1NDktdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacGMyZHlZWFIxYVhSek=
+xtWnlMelExTlRKZlRVSmZNRGd4Tmo5eFkzQTlORFUxTWw5TlFsOHdPREUySm5WMGJWOXpiM1Z=
+5WTJVOWJpWjFkRzFmYldWa2FYVnRQV1V0YldGcGJDWjFkRzFmWTJGdGNHRnBaMjQ5Ym1WM2My=
+TW1kWFJ0WDI1dmIzWmxjbkpwWkdVOU1RP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3Jvd=
+XA9cF8xNDgxNw=3D=3D" style=3D"font-family:Arial, Helvetica, sans-serif; c=
+olor:#000000;text-decoration:none" target=3D"_blank"><img style=3D"displa=
+y:block" name=3D"index_r3_c5" src=3D"http://app.solumacom.com/r/?rc=3DaHR=
+0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjNf=
+YzUuanBn" width=3D"258" height=3D"87" border=3D"0" id=3D"index_r3_c5" alt=
+=3D""></a></td>                             </tr></tbody></table> </td>  =
+               </tr> <tr> <td>                     <table align=3D"left" =
+bord
+ er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr> <=
+td><img style=3D"display:block" name=3D"index_r4_c1" src=3D"http://app.so=
+lumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1NTJfTUJfM=
+DgxNi9pbWcvaW5kZXhfcjRfYzEuanBn" width=3D"35" height=3D"82" border=3D"0" =
+id=3D"index_r4_c1" alt=3D""></td>                                 <td wid=
+th=3D"307" height=3D"82" bgcolor=3D"#000000" valign=3D"top" style=3D"vert=
+ical-align:top;"><span style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:18px; font-weight:normal; color:#ffffff;"><strong>La meilleure=
+ solution</strong><br>                                 pour votre entrepr=
+ise et vos salari&eacute;s</span></td>                                 <t=
+d><a href=3D"http://app.solumacom.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJl=
+bm5lczEuZnI=3D&c=3D243945595970661282900175_9&rc=3DaHR0cDovL2VsYi5uc296cG=
+dsYmUuY29tL3IvY2xpYy02MzItMjk5LTY1NDktdXJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlh=
+acGMyZHlZWFIxYVhSekxtWnlMelExTlRKZlRVSmZNRGd4Tmo5eFkzQTlORFUxTWw5TlFsOHdP=
+REUySm5WMGJWOXpi
+ M1Z5WTJVOWJpWjFkRzFmYldWa2FYVnRQV1V0YldGcGJDWjFkRzFmWTJGdGNHRnBaMjQ5Ym1W=
+M2MyTW1kWFJ0WDI1dmIzWmxjbkpwWkdVOU1RP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ=
+3JvdXA9cF8xNDgxNw=3D=3D" style=3D"font-family:Arial, Helvetica, sans-seri=
+f; color:#000000;text-decoration:none" target=3D"_blank"><img style=3D"di=
+splay:block" name=3D"index_r4_c5" src=3D"http://app.solumacom.com/r/?rc=3D=
+aHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfc=
+jRfYzUuanBn" width=3D"258" height=3D"82" border=3D"0" id=3D"index_r4_c5" =
+alt=3D""></a></td>                             </tr></tbody></table> </td=
+>                 </tr> <tr> <td><img style=3D"display:block" name=3D"ind=
+ex_r5_c1" src=3D"http://app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZ=
+pc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjVfYzEuanBn" width=3D"6=
+00" height=3D"42" border=3D"0" id=3D"index_r5_c1" alt=3D""></td>         =
+        </tr> <tr> <td>                     <table align=3D"left" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr> <td><im=
+g style=3D"display:bl
+ ock" name=3D"index_r6_c1" src=3D"http://app.solumacom.com/r/?rc=3DaHR0cD=
+ovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjZfYzE=
+uanBn" width=3D"81" height=3D"45" border=3D"0" id=3D"index_r6_c1" alt=3D"=
+"></td>                                 <td width=3D"227" height=3D"45" b=
+gcolor=3D"#141414" valign=3D"top" style=3D"vertical-align:top;"><span sty=
+le=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px; font-weig=
+ht:normal; color:#ffffff;">Des forfaits fiables et performants<br>       =
+                          pour gagner en efficacit&eacute;</span></td>   =
+                              <td><img style=3D"display:block" name=3D"in=
+dex_r6_c4" src=3D"http://app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZX=
+Zpc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjZfYzQuanBn" width=3D"=
+34" height=3D"45" border=3D"0" id=3D"index_r6_c4" alt=3D""></td>         =
+                        <td width=3D"258" height=3D"45" bgcolor=3D"#14141=
+4" valign=3D"top" style=3D"vertical-align:top;"><span style=3D"font-famil=
+y:Arial, Helvetica, sans-s
+ erif; font-size:14px; font-weight:normal; color:#ffffff;">Un d&eacute;bi=
+t jusqu&rsquo;&agrave; <strong>10 fois sup&eacute;rieur</strong><br>     =
+                            &agrave; celui de l&rsquo;ADSL</span></td>   =
+                          </tr></tbody></table> </td>                 </t=
+r> <tr> <td>                     <table align=3D"left" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"600"><tbody><tr> <td><img style=3D=
+"display:block" name=3D"index_r7_c1" src=3D"http://app.solumacom.com/r/?r=
+c=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZ=
+XhfcjdfYzEuanBn" width=3D"81" height=3D"45" border=3D"0" id=3D"index_r7_c=
+1" alt=3D""></td>                                 <td width=3D"227" heigh=
+t=3D"45" bgcolor=3D"#141414" valign=3D"top" style=3D"vertical-align:top;"=
+><span style=3D"font-family:Arial, Helvetica, sans-serif; font-size:14px;=
+ font-weight:normal; color:#ffffff;">De nombreux prestataires <br>       =
+                          en Fibre Optique</span></td>                   =
+      =20
+        <td><img style=3D"display:block" name=3D"index_r7_c4" src=3D"http=
+://app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1aXRzLmZyLzQ1=
+NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjdfYzQuanBn" width=3D"34" height=3D"45" bord=
+er=3D"0" id=3D"index_r7_c4" alt=3D""></td>                               =
+  <td width=3D"258" height=3D"45" bgcolor=3D"#141414" valign=3D"top" styl=
+e=3D"vertical-align:top;"><span style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:14px; font-weight:normal; color:#ffffff;">Votre abonn=
+ement &agrave; partir de <br>                                 100 euros p=
+ar mois !</span></td>                             </tr></tbody></table> <=
+/td>                 </tr> <tr> <td><a href=3D"http://app.solumacom.com/r=
+/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D24394559597066128290=
+0175_9&rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL3IvY2xpYy02MzItMjk5LTY1NDktd=
+XJsLWFIUjBjRG92TDNkM2R5NXRaWE5rWlhacGMyZHlZWFIxYVhSekxtWnlMelExTlRKZlRVSm=
+ZNRGd4Tmo5eFkzQTlORFUxTWw5TlFsOHdPREUySm5WMGJWOXpiM1Z5WTJVOWJpWjFkRzFmYld=
+Wa2FYVnR
+ QV1V0YldGcGJDWjFkRzFmWTJGdGNHRnBaMjQ5Ym1WM2MyTW1kWFJ0WDI1dmIzWmxjbkpwWkd=
+VOU1RP3RyYWNrYWZmPSZhbXA7Z3JvdXA9JmFtcDtyZ3JvdXA9cF8xNDgxNw=3D=3D" style=3D=
+"font-family:Arial, Helvetica, sans-serif; color:#000000;text-decoration:=
+none" target=3D"_blank"><img style=3D"display:block" name=3D"index_r8_c1"=
+ src=3D"http://app.solumacom.com/r/?rc=3DaHR0cDovL3d3dy5tZXNkZXZpc2dyYXR1=
+aXRzLmZyLzQ1NTJfTUJfMDgxNi9pbWcvaW5kZXhfcjhfYzEuanBn" width=3D"600" heigh=
+t=3D"121" border=3D"0" id=3D"index_r8_c1" alt=3D""></a></td>             =
+    </tr> </tbody></table> <img alt=3D"" src=3D"http://app.solumacom.com/=
+r/?rc=3DaHR0cDovL2VsYi5uc296cGdsYmUuY29tL21haWxpbmctNjMyLTI5OS02NTQ5P3Jnc=
+m91cD1wXzE0ODE3JmFtcDtncm91cD0=3D" border=3D"0" height=3D"1" width=3D"1">=
+   <img src=3D"http://app.solumacom.com/t/?i=3D243945595970661282900175_9=
+&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dhttp://app.solumaco=
+m.com/images/blank.jpg" alt=3D"_pspacer5"  /><p>
+<a href=3D"http://app.solumacom.com/d/?camp=3D243945595970661282900175_9&=
+ms=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D=
+"Ne plus recevoir d'informations de notre part" style=3D"color:#00F; font=
+-family:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&ea=
+cute;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute=
+; un quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_2c550bec31498ad1729620c05826e2ca--
+

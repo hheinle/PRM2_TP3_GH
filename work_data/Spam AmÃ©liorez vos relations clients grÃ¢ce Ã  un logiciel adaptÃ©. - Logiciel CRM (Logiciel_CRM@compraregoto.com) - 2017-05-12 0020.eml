@@ -1,0 +1,285 @@
+Return-Path: <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@compraregoto.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Fri, 12 May 2017 00:54:39 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id AB4BD12E
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 00:54:39 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id A6F116004D
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 00:54:39 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id rKUBBvG4R1Gj for <resp-m2-miage@univ-rennes1.fr>;
+	Fri, 12 May 2017 00:54:39 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 868A860023
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 00:54:39 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 7EFDC20033
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 00:54:39 +0200 (CEST)
+Received: from smtp-a15.easyvu.com (smtp-a15.easyvu.com [185.52.34.72])
+	by mxb2-2.relay.renater.fr (asm) with ESMTP id DCD7360A2D
+	for <resp-m2-miage@univ-rennes1.fr>; Fri, 12 May 2017 00:54:42 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=compraregoto.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; s=smtp2; bh=FbYxrM8a9hj0DQM92xb02Bfw
+	aMpbZhN0IaVTwRdfwG8=; b=LABbrpVs+W8m5cRUZUceNd5MCUskEz8tlmtQoSZU
+	4vLCQc0AorJSCsnKK73TB/neOK0QxxC3ocSUCkEtw522yK+4ULGpPaVx08OGC881
+	jU9uvsZVnsfiwI4ChqjqLsDaEfRIDjfQ6pcQufPR0gVa35wYIiZA5rnpFcrxJ2fk
+	yss=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=compraregoto.com; h=to
+	:subject:date:from:reply-to:list-unsubscribe:message-id
+	:mime-version:content-type; q=dns; s=smtp2; b=M56W9U0zSj0lDHgjfK
+	hJXPXgwMchLh881BLoNu+jgQLWbrQUKygkhWE89tS/d7L9f63iR7zXwm+ZWUyJTg
+	lJAvFMcBRTcNE7bb+AejTroh8ZBeGQ32UL4rQ3yNgJcMF4KIn9RmrKQ8gBw67zxC
+	bRPRod2ZqjPy4+TYL5vRQQPI0=
+To: resp-m2-miage <resp-m2-miage@univ-rennes1.fr>
+Subject: *****Spam*****=?utf-8?Q?Am=C3=A9liorez_vos_relations_clients_gr=C3=A2ce_=C3=A0_un_logic?=  =?utf-8?Q?iel_adapt=C3=A9.?=
+X-PHP-Originating-Script: 1002:class.phpmailer.php
+Date: Fri, 12 May 2017 00:20:04 +0200
+From: Logiciel CRM <Logiciel_CRM@compraregoto.com>
+Reply-to: Logiciel CRM <wjxu-r7-rnflj_jc7k-g3cc3hq.4g@compraregoto.com>
+X-campaign_id: 152227888778792_3
+X-uid_id_m: cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI==772
+List-Unsubscribe: <http://app.compraregoto.com/d/?camp=152227888778792_3&ms=cmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=>
+Message-ID: <6b3454c45db978bc4a201fc522544122@compraregoto.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="Part1_6b3454c45db978bc4a201fc522544122"
+X-Original-Source-IP: 185.52.34.72
+X-Renater-Spam-Status: Yes
+X-VR-SPAM-SCORE: 107
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 12
+X-Renater-SpamScore: 107
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrtdeigddvvdcutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecutfhouhhtvghrqddqrffmjgculddutdejmdenucfjughrpefvufffhfhrjffkgggtsegrtdhjredttdejnecuhfhrohhmpefnohhgihgtihgvlhcuveftofcuoefnohhgihgtihgvlhgpveftofestghomhhprhgrrhgvghhothhordgtohhmqeenucffohhmrghinheptghomhhprhgrrhgvghhothhordgtohhmnecukfhppedukeehrdehvddrfeegrdejvdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepshhmthhpqdgrudehrdgvrghshihvuhdrtghomhdpihhnvghtpedukeehrdehvddrfeegrdejvddpmhgrihhlfhhrohhmpeifjhiguhdqrhejqdhrnhhflhhjpghjtgejkhdqgheftggtfehhqhdrgehgsegtohhmphhrrghrvghgohhtohdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+--Part1_6b3454c45db978bc4a201fc522544122
+Content-Type: text/plain; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pour visualiser et se d=C3=A9sabonner ce message,
+=20
+Veuillez, copier puis coller, l'adresse URL compl=C3=A8te ci-dessous dans=
+ la
+barre d'adresse de votre navigateur et appuyer sur la touche "Entr=C3=A9e=
+" de
+votre clavier.
+
+
+
+- - - - - - - - - - - - - - - - -=20
+
+http://app.compraregoto.com/v/?camp=3D152227888778792_3&ms=3DcmVzcC1tMi1t=
+aWFnZUB1bml2LXJlbm5lczEuZnI=3D
+
+- - - - - - - - - - - - - - - - -=20
+
+
+
+
+--Part1_6b3454c45db978bc4a201fc522544122
+Content-Type: text/html; charset = "utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://ww=
+w.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xml:lang=3D"fr" lang=3D"fr">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D=
+1.0" />
+<title>Am=C3=A9liorez vos relations clients gr=C3=A2ce =C3=A0 un logiciel=
+ adapt=C3=A9.</title>
+</head><body topmargin=3D"0" leftmargin=3D"0" marginwidth=3D"0" style=3D"=
+-ms-text-size-adjust:none; margin:0px; padding:0px; -webkit-text-size-adj=
+ust:none; -moz-text-size-adjust:none; text-size-adjust:none;" marginheigh=
+t=3D"0">
+<center><p>
+<a href=3D"http://app.compraregoto.com/v/?camp=3D152227888778792_3&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Si =
+cet e-mail ne s'affiche pas correctement, suivez ce lien." style=3D"color=
+:#00F; font-family:'Arial'; font-size:12px; text-decoration:underline;">S=
+i cet email ne s&rsquo;affiche pas correctement, suivez ce lien.</a></p> =
+&nbsp;<base target=3D"_blank">  <center> <!--[if (gte mso 9)|(IE)]> <tabl=
+e id=3D"tableForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0" =
+cellspacing=3D"0" width=3D"600"><tr><td width=3D"600"> <![endif]-->  <!--=
+[if gte mso 9]> <table id=3D"tableForOutlook" align=3D"center" border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><tr><td width=3D"600=
+"> <![endif]-->  <!--[if gte mso 8]> <table id=3D"tableForOutlook" align=3D=
+"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600"><=
+tr><td width=3D"600"> <![endif]-->  <!--[if gte mso 7]> <table id=3D"tabl=
+eForOutlook" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"600"><tr><td width=3D"6
+ 00"> <![endif]--> <table align=3D"center" style=3D"border-spacing:0;font=
+-family:sans-serif;color:#333333;Margin:0 auto;max-width:600px;" border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">    <tbody><tr>     <td height=3D=
+"30" style=3D"text-align:center"> <font style=3D"font-family:Arial, Helve=
+tica, sans-serif; font-size:12px"> Am&eacute;liorez vos relations clients=
+ gr&acirc;ce &agrave; un logiciel adapt&eacute;.  <a href=3D"http://app.c=
+ompraregoto.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D152=
+227888778792_3&rc=3DTGllbnZlcnNsYW5ld3M=3D" target=3D"_blank" style=3D"co=
+lor:#0194ce">Saisir l'opportunit&eacute;</a></font> </td>   </tr>  <tr> <=
+td background=3D"http://app.compraregoto.com/r/?rc=3DaHR0cDovL3ZodC50cmFk=
+ZWRvdWJsZXIuY29tL2ZpbGUvMjc3ODczL2ltYWdlcy9CZ18xMTU2LmpwZw=3D=3D" bgcolor=
+=3D"#444444" width=3D"600" height=3D"580" valign=3D"top" style=3D"backgro=
+und-repeat:no-repeat">   <!--[if gte mso 9]>                <![endif]--> =
+  <table align=3D"center" style=3D"border-spacing:0;font-family:sans-seri=
+f;color:#333333;Margi
+ n:0 auto;max-width:600px;" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0">   <tbody><tr><td height=3D"20"></td></tr>   <tr>   <td>     <table a=
+lign=3D"center" style=3D"border-spacing:0;font-family:sans-serif;color:#3=
+33333;Margin:0 auto;max-width:400px;" border=3D"0" cellpadding=3D"0" cell=
+spacing=3D"0">     <tbody><tr>   <td align=3D"center" style=3D"max-width:=
+400px; width:100%"><a href=3D"http://app.compraregoto.com/r/?m=3DcmVzcC1t=
+Mi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D152227888778792_3&rc=3DaHR0cDovL2N=
+say50cmFkZWRvdWJsZXIuY29tL2NsaWNrP3A9Mjc3ODczJmFtcDthPTI5MzkwMTQmYW1wO2c9=
+MjM3NzQ0MzQmYW1wO3VybD1odHRwOi8vZW50cmVwcmlzZS1kZXZpcy5uZXQvMTE1Nl9NQl9OR=
+U9QP3FjcD0xMTU2X01CX05FT1AmYW1wO3V0bV9zb3VyY2U9biZhbXA7dXRtX21lZGl1bT1lLW=
+1haWwmYW1wO3V0bV9jYW1wYWlnbj1uZXdzYyZhbXA7dXRtX25vb3ZlcnJpZGU9MQ=3D=3D" s=
+tyle=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none ; =
+color:#FFFFFF" target=3D"_blank">   <span style=3D"font-family:Arial, Hel=
+vetica, sans-serif; font-size:26px; color:#ffffff; "><span style=3D"color=
+:#28e6fa">Fi
+ d&eacute;lisez</span> et <span style=3D"color:#28e6fa">offrez un meilleu=
+r service &agrave; vos clients,</span> en mettant la main sur <strong>un =
+logiciel de CRM</strong></span></a>      </td>   </tr>   </tbody></table>=
+   </td>   </tr>   <tr>   <td align=3D"center" height=3D"90">     <a href=
+=3D"http://app.compraregoto.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lcz=
+EuZnI=3D&c=3D152227888778792_3&rc=3DaHR0cDovL2Nsay50cmFkZWRvdWJsZXIuY29tL=
+2NsaWNrP3A9Mjc3ODczJmFtcDthPTI5MzkwMTQmYW1wO2c9MjM3NzQ0MzQmYW1wO3VybD1odH=
+RwOi8vZW50cmVwcmlzZS1kZXZpcy5uZXQvMTE1Nl9NQl9ORU9QP3FjcD0xMTU2X01CX05FT1A=
+mYW1wO3V0bV9zb3VyY2U9biZhbXA7dXRtX21lZGl1bT1lLW1haWwmYW1wO3V0bV9jYW1wYWln=
+bj1uZXdzYyZhbXA7dXRtX25vb3ZlcnJpZGU9MQ=3D=3D" style=3D"font-family:Arial,=
+ Helvetica, sans-serif; text-decoration:none ; color:#FFCC00" target=3D"_=
+blank"><img src=3D"http://app.compraregoto.com/r/?rc=3DaHR0cDovL3ZodC50cm=
+FkZWRvdWJsZXIuY29tL2ZpbGUvMjc3ODczL2ltYWdlcy8xMTU2X01CX05FT1AucG5n" width=
+=3D"261" height=3D"70" style=3D"display:block; border:0" alt=3D"en savoir=
+ plu
+ s"></a></td></tr>          <tr>     <td class=3D"two-column" style=3D"te=
+xt-align:center;font-size:0; width: 100%; max-width: 600px"><!--[if (gte =
+mso 9)|(IE)]>                         <table width=3D"100%" style=3D"bord=
+er-spacing:0;font-family:sans-serif;color:#333333;" border=3D"0"  cellpad=
+ding=3D"0" cellspacing=3D"0" >                         <tr>              =
+           <td width=3D"350" valign=3D"top" style=3D"padding-top:0;paddin=
+g-bottom:0;padding-right:0;padding-left:0;" >       <![endif]-->         =
+     <table class=3D"column" style=3D"border-spacing:0;font-family:sans-s=
+erif;color:#333333;text-align:center;max-width:300px;display:inline-block=
+;vertical-align:top;margin-top:0;margin-bottom:0;" border=3D"0" cellpaddi=
+ng=3D"0" cellspacing=3D"0">         <tbody><tr>           <td style=3D"pa=
+dding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><table cell=
+padding=3D"0" cellspacing=3D"0" class=3D"contents" style=3D"border-spacin=
+g:0;font-family:sans-serif;color:#333333;font-size:14px;text-align:center=
+;" borde
+ r=3D"0" width=3D"300">               <tbody><tr>                 <td sty=
+le=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" hei=
+ght=3D"223"></td>               </tr>             </tbody></table></td>  =
+       </tr>       </tbody></table>              <!--[if (gte mso 9)|(IE)=
+]>                         </td><td width=3D"300" valign=3D"top" style=3D=
+"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;" >       =
+<![endif]-->       <table class=3D"column" style=3D"border-spacing:0;font=
+-family:sans-serif;color:#333333;text-align:center;max-width:300px;displa=
+y:inline-block;vertical-align:top;margin-top:0;margin-bottom:0; " border=3D=
+"0" cellpadding=3D"0" cellspacing=3D"0">       <tbody><tr>       <td>    =
+   <table class=3D"column" style=3D"border-spacing:0;font-family:sans-ser=
+if;color:#333333;text-align:center;display:inline-block;vertical-align:to=
+p;margin-top:0;margin-bottom:0; background-color:rgba(17,25,31,0.8)" bord=
+er=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"250">       <tbody>=
+<t
+ r>       <td height=3D"20" width=3D"250"></td></tr>         <tr>        =
+   <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-le=
+ft:0;"><table cellpadding=3D"0" cellspacing=3D"0" class=3D"contents" styl=
+e=3D"border-spacing:0;font-family:sans-serif;color:#333333;font-size:14px=
+;text-align:center;" border=3D"0" width=3D"250">               <tbody><tr=
+>               <td width=3D"5"></td>               <td valign=3D"top"><i=
+mg src=3D"http://app.compraregoto.com/r/?rc=3DaHR0cDovL3ZodC50cmFkZWRvdWJ=
+sZXIuY29tL2ZpbGUvMjc3ODczL2ltYWdlcy9idWxsZXQucG5n" width=3D"22" height=3D=
+"44" style=3D"display:block; border:0"></td>                 <td valign=3D=
+"top" style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-lef=
+t:0;" align=3D"left" height=3D"60"><a href=3D"http://app.compraregoto.com=
+/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D152227888778792_3&=
+rc=3DaHR0cDovL2Nsay50cmFkZWRvdWJsZXIuY29tL2NsaWNrP3A9Mjc3ODczJmFtcDthPTI5=
+MzkwMTQmYW1wO2c9MjM3NzQ0MzQmYW1wO3VybD1odHRwOi8vZW50cmVwcmlzZS1kZXZpcy5uZ=
+XQvMTE1Nl9NQl9ORU
+ 9QP3FjcD0xMTU2X01CX05FT1AmYW1wO3V0bV9zb3VyY2U9biZhbXA7dXRtX21lZGl1bT1lLW=
+1haWwmYW1wO3V0bV9jYW1wYWlnbj1uZXdzYyZhbXA7dXRtX25vb3ZlcnJpZGU9MQ=3D=3D" s=
+tyle=3D"font-family:Arial, Helvetica, sans-serif; text-decoration:none ; =
+color:#FFFFFF" target=3D"_blank"><span style=3D"font-family:Arial, Helvet=
+ica, sans-serif; font-size:18px; color:#ffffff; ">G&eacute;rez mieux vos =
+ventes, <br> devis et SAV </span></a></td> <td width=3D"5"></td>         =
+      </tr>             </tbody></table></td>         </tr>              =
+    <tr>           <td style=3D"padding-top:0;padding-bottom:0;padding-ri=
+ght:0;padding-left:0;"><table cellpadding=3D"0" cellspacing=3D"0" class=3D=
+"contents" style=3D"border-spacing:0;font-family:sans-serif;color:#333333=
+;font-size:14px;text-align:center;" border=3D"0" width=3D"250">          =
+     <tbody><tr>               <td width=3D"5"></td>               <td va=
+lign=3D"top"><img src=3D"http://app.compraregoto.com/r/?rc=3DaHR0cDovL3Zo=
+dC50cmFkZWRvdWJsZXIuY29tL2ZpbGUvMjc3ODczL2ltYWdlcy9idWxsZXQucG5n" width=3D=
+"2
+ 2" height=3D"44" style=3D"display:block; border:0"></td>                =
+ <td style=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left=
+:0;" align=3D"left" valign=3D"top" height=3D"60"><a href=3D"http://app.co=
+mpraregoto.com/r/?m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D1522=
+27888778792_3&rc=3DaHR0cDovL2Nsay50cmFkZWRvdWJsZXIuY29tL2NsaWNrP3A9Mjc3OD=
+czJmFtcDthPTI5MzkwMTQmYW1wO2c9MjM3NzQ0MzQmYW1wO3VybD1odHRwOi8vZW50cmVwcml=
+zZS1kZXZpcy5uZXQvMTE1Nl9NQl9ORU9QP3FjcD0xMTU2X01CX05FT1AmYW1wO3V0bV9zb3Vy=
+Y2U9biZhbXA7dXRtX21lZGl1bT1lLW1haWwmYW1wO3V0bV9jYW1wYWlnbj1uZXdzYyZhbXA7d=
+XRtX25vb3ZlcnJpZGU9MQ=3D=3D" style=3D"font-family:Arial, Helvetica, sans-=
+serif; text-decoration:none ; color:#FFFFFF" target=3D"_blank"><span styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:18px; color:#fff=
+fff; ">Am&eacute;liorez votre strat&eacute;gie commerciale</span></a></td=
+>                 <td width=3D"5"></td>               </tr>             <=
+/tbody></table></td>         </tr>                  <tr>           <td st=
+yl
+ e=3D"padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><ta=
+ble cellpadding=3D"0" cellspacing=3D"0" class=3D"contents" style=3D"borde=
+r-spacing:0;font-family:sans-serif;color:#333333;font-size:14px;text-alig=
+n:center;" border=3D"0" width=3D"250">               <tbody><tr>         =
+      <td width=3D"5"></td>               <td valign=3D"top"><img src=3D"=
+http://app.compraregoto.com/r/?rc=3DaHR0cDovL3ZodC50cmFkZWRvdWJsZXIuY29tL=
+2ZpbGUvMjc3ODczL2ltYWdlcy9idWxsZXQucG5n" width=3D"22" height=3D"44" style=
+=3D"display:block; border:0"></td>                 <td valign=3D"top" hei=
+ght=3D"60" style=3D"padding-top:0;padding-bottom:0;padding-right:0;paddin=
+g-left:0;" align=3D"left"><a href=3D"http://app.compraregoto.com/r/?m=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&c=3D152227888778792_3&rc=3DaHR0=
+cDovL2Nsay50cmFkZWRvdWJsZXIuY29tL2NsaWNrP3A9Mjc3ODczJmFtcDthPTI5MzkwMTQmY=
+W1wO2c9MjM3NzQ0MzQmYW1wO3VybD1odHRwOi8vZW50cmVwcmlzZS1kZXZpcy5uZXQvMTE1Nl=
+9NQl9ORU9QP3FjcD0xMTU2X01CX05FT1AmYW1wO3V0bV9zb3VyY2U9biZhbXA7dXRtX21lZGl=
+1bT1lLW1haWwmY
+ W1wO3V0bV9jYW1wYWlnbj1uZXdzYyZhbXA7dXRtX25vb3ZlcnJpZGU9MQ=3D=3D" style=3D=
+"font-family:Arial, Helvetica, sans-serif; text-decoration:none ; color:#=
+FFFFFF" target=3D"_blank"><span style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:18px; color:#ffffff; ">Contr&ocirc;lez les performanc=
+es <br> de vos commerciaux</span></a></td> <td width=3D"5"></td>         =
+      </tr>             </tbody></table></td>         </tr>              =
+        <tr>       <td height=3D"20"></td></tr>       </tbody></table>   =
+    </td>       </tr>       <tr>       <td height=3D"30"></td></tr>      =
+ </tbody></table>              <!--[if (gte mso 9)|(IE)]>                =
+         </td>                         </tr>                         </ta=
+ble>       <![endif]--></td>   </tr>               </tbody></table>     <=
+!--[if gte mso 9]>           <![endif]--> </td> </tr>  </tbody></table> <=
+!--[if gte mso 7]> </td></tr></table> <![endif]-->  <!--[if gte mso 8]> <=
+/td></tr></table> <![endif]-->  <!--[if gte mso 9]> </td
+ ></tr></table> <![endif]-->  <!--[if (gte mso 9)|(IE)]> </td></tr></tabl=
+e> <![endif]--> </center>  <img src=3D"http://app.compraregoto.com/t/?i=3D=
+152227888778792_3&m=3DcmVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D&url=3Dht=
+tp://app.compraregoto.com/images/blank.jpg" alt=3D"_pspacer6"  /><p>
+<a href=3D"http://app.compraregoto.com/d/?camp=3D152227888778792_3&ms=3Dc=
+mVzcC1tMi1taWFnZUB1bml2LXJlbm5lczEuZnI=3D" target=3D"_blank" title=3D"Ne =
+plus recevoir d'informations de notre part" style=3D"color:#00F; font-fam=
+ily:'Arial'; font-size:12px; text-decoration:underline;">Pour se d&eacute=
+;sabonner : Suivez ce lien.</a><br />Si ce message vous a caus&eacute; un=
+ quelconque d&eacute;rangement, nous vous prions de nous en excuser.
+</p><center>
+</body>
+</html>
+
+
+
+--Part1_6b3454c45db978bc4a201fc522544122--
+

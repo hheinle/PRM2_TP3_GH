@@ -1,0 +1,303 @@
+Return-Path: <jis_1776_icicee_cbeccd@actudushop.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Mon, 27 Feb 2017 10:28:34 +0100
+X-Sieve: CMU Sieve 2.3
+Received: from mailout2.univ-rennes1.fr (mailout2.univ-rennes1.fr [129.20.129.120])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 09B5A2D3
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 27 Feb 2017 10:28:34 +0100 (CET)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 05A9A60412
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 27 Feb 2017 10:28:34 +0100 (CET)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout2.univ-rennes1.fr ([129.20.129.120])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id bzN2HfaUqm3P for <resp-m2-miage@univ-rennes1.fr>;
+	Mon, 27 Feb 2017 10:28:33 +0100 (CET)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id D6C786020E
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 27 Feb 2017 10:28:33 +0100 (CET)
+Received: from mxb1-2.relay.renater.fr (mxb1-2.relay.renater.fr [194.214.201.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id CE87320033
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 27 Feb 2017 10:28:33 +0100 (CET)
+Received: from mail105.actudushop.fr (mail105.actudushop.fr [82.97.29.80])
+	(using TLSv1.2 with cipher ADH-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb1-2.relay.renater.fr (asm) with ESMTPS id 9B30F2802A4
+	for <resp-m2-miage@univ-rennes1.fr>; Mon, 27 Feb 2017 10:27:52 +0100 (CET)
+From: "=?utf-8?B?UGhvdG9ib3g=?=" <aline@actudushop.fr>
+To: resp-m2-miage@univ-rennes1.fr
+Reply-To: "=?utf-8?B?UGhvdG9ib3g=?=" <newsletter@actudushop.fr>
+Subject: =?utf-8?B?MTAwIHRpcmFnZXMgcGhvdG8gb2Zm?=
+ =?utf-8?B?ZXJ0cywgcHJvZml0ZXotZW4gIQ==?=
+Date: Mon, 27 Feb 2017 10:28:10 +0100
+Message-ID: <20170227-092810-13460085480@actudushop.fr>
+List-Unsubscribe: <mailto:abuse@actudushop.fr?subject=13460085480>, <http://stats.actudushop.fr/ur/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm>
+List-Abuse: <mailto:abuse@actudushop.fr?subject=13460085480>, <http://stats.actudushop.fr/ur/a/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm>
+X-Mailer: EmailStrategie
+X-1776-Campaign-ID: 828244
+X-1776-Message-ID: 13460085480
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+	d=actudushop.fr; s=mail;
+	h=From:To:Subject:Date:Message-ID:MIME-Version:Content-Type;
+	bh=HOWuOxrikSSJVxTG034mIiQnqspldyQL1TCheELRaA0=;
+	b=ZskiKMf2AEsazS6uermZt3xW1UNjy8Y23Xud+Nciz2wxXZWOoPOnTJZp4lP+YUmr
+		rgkw/GLm8e+PFUllPyKagWvwuls7qJL3COF/PaBjPHe0dgJYk7UXP9Xjbbv/Rg4a
+		QhgdOAvRFB2mfNv9i6lLpjgUxUjqwhsFLtU7s64haL4=
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="--=172b844d_ab0c_4b7b_a0d9_e5fede2d728a"
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 82.97.29.80
+X-Bizanga: IMP - mxb1-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeelhedrvdeigddthecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefhvfhrufffkffjofggtgesmhdtreerredtjeenucfhrhhomhepfdfrhhhothhosghogidfuceorghlihhnvgesrggtthhuughushhhohhprdhfrheqnecuffhomhgrihhnpegrtghtuhguuhhshhhophdrfhhrnecukfhppeekvddrleejrddvledrkedtnecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehmrghilhdutdehrdgrtghtuhguuhhshhhophdrfhhrpdhinhgvthepkedvrdeljedrvdelrdektddpmhgrihhlfhhrohhmpehjihhspgdujeejiegpihgtihgtvggvpggtsggvtggtugesrggtthhuughushhhohhprdhfrhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb1-2.relay.renater.fr
+
+----=172b844d_ab0c_4b7b_a0d9_e5fede2d728a
+Content-Type: multipart/alternative;
+	boundary="--=6498b752_5b73_4e29_a077_ddbe608222dd"
+
+----=6498b752_5b73_4e29_a077_ddbe608222dd
+Content-Type: text/plain;charset="utf-8"
+Content-Transfer-Encoding: Quoted-Printable
+
+http://stats.actudushop.fr/m/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q=
+_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm
+
+----=6498b752_5b73_4e29_a077_ddbe608222dd
+Content-Type: text/html;charset="utf-8"
+Content-Transfer-Encoding: Quoted-Printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://=
+www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">=0A<html xmlns=3D"htt=
+p://www.w3.org/1999/xhtml">=0A<head><meta http-equiv=3D"Content-Type" c=
+ontent=3D"text/html; charset=3Dutf-8" /><meta name=3D"viewport" content=
+=3D"width=3Ddevice-width, initial-scale=3D1.0">=0A	<style type=3D"text/=
+css">* {line-height:normal;} /* Reset line-height pour outlook.com */=0A=
+     td {vertical-align:middle;} /* Reset td vertical-align pour orange=
+.fr */=0A	</style>=0A	<title>100 tirages OFFERTS - PhotoBox</title>=0A	=
+<!--Don t remove the next meta--><meta name=3D"pdlbat1tkn" content=3D"X=
+yaGd2ZT" />=0A</head>=0A<body style=3D"background-color:#e6e6e6;"><tabl=
+e width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"  >=20=
+
+<tr>  <td  align=3D"center" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000" >
+Si vous ne parvenez pas &agrave; lire ce message,=20
+<a style=3D"text-decoration:underline" href=3D"http://stats.actudushop.=
+fr/m/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw=
+_2blBmOIENbNBcwbw_3d/i.htm" target=3D"_blank" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000">
+suivez ce lien</font></a>
+</font></td>  </tr>
+</table><img  border=3D"0" height=3D"1" hspace=3D"0" src=3D"http://stat=
+s.actudushop.fr//o/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuA=
+GjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/o.gif" vspace=3D"0" width=3D"1" /> <=
+balise_tag>=0A<table align=3D"center" border=3D"0" cellpadding=3D"0" ce=
+llspacing=3D"0" style=3D"background-color:#e6e6e6;" width=3D"100%">=0A	=
+<tbody>=0A		<tr>=0A			<td style=3D"table-layout:fixed;" width=3D"100%">=
+=0A			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacin=
+g=3D"0" style=3D"background-color:#e6e6e6; margin:0 auto; width:630px !=
+important;" width=3D"630">=0A				<tbody>=0A					<tr>=0A						<td><img b=
+order=3D"0" height=3D"1" src=3D"http://pbox.photobox.fr/dynview/photobo=
+x-fr/pix.gif?ept-publisher=3Dpublic_idees&amp;ept-name=3Demailexternal_=
+public_idees_EMD_Print_1702_01&amp;eseg-name=3Dediteur&amp;eseg-item=3D=
+4645" width=3D"1" />=0A						<table align=3D"center" border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" id=3D"preHeader" width=3D"100%">=0A					=
+		<tbody>=0A								<tr>=0A									<td style=3D"border:solid 1px #d8d8=
+d8;">=0A									<table align=3D"center" border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0" id=3D"header" width=3D"100%">=0A										<tbody>=0A=
+											<tr>=0A												<td style=3D"padding:10px 10px 0px 10px; =
+background-color:#ffffff;">=0A												<table align=3D"center" borde=
+r=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A									=
+				<tbody>=0A														<tr>=0A															<td>=0A														=
+	<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0" width=3D"100%">=0A																<tbody>=0A																	<tr>=0A=
+																		<td style=3D"padding-left:8px; padding-bottom:10px;">=
+<a href=3D"http://stats.actudushop.fr/l/62289434/Gr9Ed9z9yPnp5G_2fPMtl6=
+WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm"=
+ target=3D"_blank"><img alt=3D"photobox PHOTO" border=3D"0" height=3D"5=
+5" src=3D"http://assets.photobox.com/assets/content_graphics/files/V4/B=
+OX/_commom_files/img/logos-fr/photobox.jpg" style=3D"display:block;" wi=
+dth=3D"220" /></a></td>=0A																		<td style=3D"text-align:rig=
+ht; font-size:11px; color:#646871; font-family:Arial, Helvetica, sans-s=
+erif; padding-right: 5px;"></td>=0A																	</tr>=0A											=
+					</tbody>=0A															</table>=0A															</td>=0A						=
+								</tr>=0A														<tr>=0A															<td>=0A												=
+			<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"100%">=0A																<tbody>=0A																	<tr>=0A=
+																		<td style=3D"background-color:#968d93; color:#FFFFFF;=
+ font-size:12px; padding-left:15px; font-family:Arial, Helvetica, sans-=
+serif;"><a href=3D"http://stats.actudushop.fr/l/62289435/Gr9Ed9z9yPnp5G=
+_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3=
+d/i.htm" style=3D"text-decoration:none; color:#FFFFFF;" target=3D"_blan=
+k">OFFRE ECXLUSIVE</a></td>=0A																		<td style=3D"background=
+-color:#968d93; font-size:0px; width:1px;"><img border=3D"0" height=3D"=
+25" src=3D"http://assets.photobox.com/assets/content_graphics/files/mai=
+ling/newsletters/box/_commom_files/img/spacer.png" width=3D"1" /></td>=0A=
+																	</tr>=0A																	<tr height=3D"20px">=0A						=
+											</tr>=0A																</tbody>=0A															</table>=0A=
+															</td>=0A														</tr>=0A													</tbody>=0A		=
+										</table>=0A												</td>=0A											</tr>=0A										<=
+/tbody>=0A									</table>=0A=0A									<table align=3D"center" bgcol=
+or=3D"#ffffff" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" id=3D"c=
+ontent" width=3D"630">=0A										<tbody>=0A											<tr border=3D"0=
+" style=3D"background-color: #fff;">=0A												<td>=0A												<=
+table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"100%">=0A													<tbody>=0A														<tr>=0A								=
+							<td><a href=3D"http://stats.actudushop.fr/l/62289436/Gr9Ed9z9yPn=
+p5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwb=
+w_3d/i.htm" target=3D"_blank"><img  border=3D"0" height=3D"355" src=3D"=
+http://assets.photobox.com/assets/content_graphics/files/V5/operationne=
+l/newsletters-irregulieres/2017/_commun/170131/befr/img/img_03.jpg" sty=
+le=3D"display:block;" width=3D"630" /> </a> <a href=3D"http://stats.act=
+udushop.fr/l/62289437/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUK=
+vuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" target=3D"_blank"> <img  b=
+order=3D"0" height=3D"443" src=3D"http://assets.photobox.com/assets/con=
+tent_graphics/files/V5/operationnel/newsletters-irregulieres/2017/_comm=
+un/170131/befr/img/img_05.jpg" style=3D"display:block;" width=3D"630" /=
+> </a></td>=0A														</tr>=0A													</tbody>=0A											=
+	</table>=0A												</td>=0A											</tr>=0A											<tr>=0A		=
+										<td style=3D"padding:10px;">=0A												<table align=3D"ce=
+nter" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A=
+													<tbody>=0A														<tr>=0A															<td>=0A					=
+										<table align=3D"center" border=3D"0" cellpadding=3D"0" cellsp=
+acing=3D"0" width=3D"100%">=0A																<tbody>=0A															=
+		<tr>=0A																		<td style=3D"background-color:#968d93; color=
+:#ffffff; font-size:9px; padding-left:15px; font-family:Arial, Helvetic=
+a, sans-serif; font-weight:bold;"><a href=3D"http://stats.actudushop.fr=
+/l/62289438/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA=
+4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" style=3D"text-decoration:none; color=
+:#FFFFFF;" target=3D"_blank">Leader europ&eacute;en du d&eacute;veloppe=
+ment num&eacute;rique avec plus de 30 millions de membres</a></td>=0A		=
+																<td style=3D"background-color:#968d93; text-align:right=
+; font-size:0px; padding-right:7px; width:30px;"><img  border=3D"0" hei=
+ght=3D"16" src=3D"http://assets.photobox.com/assets/content_graphics/fi=
+les/mailing/newsletters/box/_commom_files/img/box_star_little_white.png=
+" width=3D"17" /></td>=0A																		<td style=3D"background-colo=
+r:#968d93; font-size:0px; width:1px;"><a href=3D"http://stats.actudusho=
+p.fr/l/62289439/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjy=
+rkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" target=3D"_blank"><img border=3D=
+"0" height=3D"25px" src=3D"http://assets.photobox.com/assets/content_gr=
+aphics/files/mailing/newsletters/box/_commom_files/img/spacer.gif" widt=
+h=3D"1px" /></a></td>=0A																	</tr>=0A																</tbod=
+y>=0A															</table>=0A															</td>=0A														</t=
+r>=0A														<tr>=0A															<td>=0A															<table a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"100%">=0A																<tbody>=0A																	<tr style=3D"backg=
+round-color:#f3f3f3;">=0A																		<td style=3D"padding:10px 15=
+px 10px 20px;" width=3D"33%">=0A																		<table align=3D"cente=
+r" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">=0A	=
+																		<tbody>=0A																				<tr>=0A																=
+					<td>=0A																					<table align=3D"center" border=3D"0" c=
+ellpadding=3D"0" cellspacing=3D"0">=0A																						<tbody>=0A	=
+																						<tr>=0A																								<td style=3D"text-=
+align:right; padding-right:2px;"><a href=3D"http://stats.actudushop.fr/=
+l/62289440/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4=
+BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" target=3D"_blank"><img  border=3D"0" =
+height=3D"10" src=3D"http://assets.photobox.com/assets/content_graphics=
+/files/mailing/newsletters/box/_commom_files/img/footer_icon_people.png=
+" style=3D"display:block;" width=3D"13" /></a></td>=0A																	=
+							<td style=3D"color:#b5b6b9; font-family:Arial, Helvetica, sans-s=
+erif; font-size:10px;">UN SERVICE CLIENT</td>=0A																							=
+</tr>=0A																						</tbody>=0A																					</table>=0A=
+																					</td>=0A																				</tr>=0A														=
+						<tr>=0A																					<td style=3D"text-align:center; color=
+:#b5b6b9; font-family:Arial, Helvetica, sans-serif; font-size:10px;">&a=
+grave; votre &eacute;coute 7J/7</td>=0A																				</tr>=0A				=
+															</tbody>=0A																		</table>=0A																=
+		</td>=0A																		<td style=3D"background-color:#f3f3f3;"><a =
+href=3D"http://stats.actudushop.fr/l/62289441/Gr9Ed9z9yPnp5G_2fPMtl6WAK=
+K1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" ta=
+rget=3D"_blank"><img  border=3D"0" height=3D"22px" src=3D"http://assets=
+.photobox.com/assets/content_graphics/files/mailing/newsletters/box/_co=
+mmom_files/img/separator.gif" style=3D"display:block;" width=3D"1" /></=
+a></td>=0A																		<td style=3D"padding:10px;" width=3D"34%">=0A=
+																		<table align=3D"center" border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"100%">=0A																			<tbody>=0A				=
+																<tr>=0A																					<td>=0A																				=
+	<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"=
+0">=0A																						<tbody>=0A																							<tr>=0A			=
+																					<td style=3D"text-align:right; padding-right:2px;"=
+><a href=3D"http://stats.actudushop.fr/l/62289442/Gr9Ed9z9yPnp5G_2fPMtl=
+6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm=
+" target=3D"_blank"><img  border=3D"0" height=3D"10" src=3D"http://asse=
+ts.photobox.com/assets/content_graphics/files/mailing/newsletters/box/_=
+commom_files/img/footer_icon_lock.png" style=3D"display:block;" width=3D=
+"13" /></a></td>=0A																								<td style=3D"color:#b5b6b9; =
+font-family:Arial, Helvetica, sans-serif; font-size:10px;">PAIEMENT S&E=
+acute;CURIS&Eacute;</td>=0A																							</tr>=0A													=
+									</tbody>=0A																					</table>=0A																			=
+		</td>=0A																				</tr>=0A																				<tr>=0A						=
+															<td style=3D"text-align:center; color:#b5b6b9; font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:10px;">sur toutes nos platef=
+ormes de paiement</td>=0A																				</tr>=0A																		=
+	</tbody>=0A																		</table>=0A																		</td>=0A				=
+														<td style=3D"background-color:#f3f3f3;"><a href=3D"http:/=
+/stats.actudushop.fr/l/62289443/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f=
+76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" target=3D"_blank=
+"><img  border=3D"0" height=3D"22px" src=3D"http://assets.photobox.com/=
+assets/content_graphics/files/mailing/newsletters/box/_commom_files/img=
+/separator.gif" style=3D"display:block;" width=3D"1" /></a></td>=0A				=
+														<td style=3D"padding:10px 20px;" width=3D"33%">=0A							=
+											<table align=3D"center" border=3D"0" cellpadding=3D"0" cells=
+pacing=3D"0" width=3D"100%">=0A																			<tbody>=0A											=
+									<tr>=0A																					<td>=0A																					<table=
+ align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0">=0A	=
+																					<tbody>=0A																							<tr>=0A										=
+														<td style=3D"text-align:right; padding-right:2px;"><a hre=
+f=3D"http://stats.actudushop.fr/l/62289444/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1h=
+D1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" targe=
+t=3D"_blank"><img  border=3D"0" height=3D"10" src=3D"http://assets.phot=
+obox.com/assets/content_graphics/files/mailing/newsletters/box/_commom_=
+files/img/footer_icon_people.png" style=3D"display:block;" width=3D"13"=
+ /></a></td>=0A																								<td style=3D"color:#b5b6b9; font=
+-family:Arial, Helvetica, sans-serif; font-size:10px;">EXP&Eacute;DITIO=
+N EN 48H</td>=0A																							</tr>=0A																						</=
+tbody>=0A																					</table>=0A																					</td>=0A	=
+																			</tr>=0A																				<tr>=0A																	=
+				<td style=3D"text-align:center; color:#b5b6b9; font-family:Arial, H=
+elvetica, sans-serif; font-size:10px;">sur des dizaines d&#39;articles<=
+/td>=0A																				</tr>=0A																			</tbody>=0A						=
+												</table>=0A																		</td>=0A																	</tr>=
+=0A																</tbody>=0A															</table>=0A															=
+</td>=0A														</tr>=0A													</tbody>=0A												</tab=
+le>=0A=0A												<table align=3D"center" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" id=3D"postFooter" width=3D"100%">=0A													=
+<tbody>=0A														<tr>=0A															<td align=3D"left"></td>=0A=
+															<td style=3D"text-align:center; color:#b5b6b9; font-fami=
+ly:Arial, Helvetica, sans-serif; font-size:10px;"><a href=3D"http://sta=
+ts.actudushop.fr/l/62289445/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_=
+2fapUKvuAGjyrkUA4BlJhfw_2blBmOIENbNBcwbw_3d/i.htm" style=3D"text-decora=
+tion:none; color:#000000;" target=3D"_blank"><span style=3D"font-family=
+:Arial, Helvetica, sans-serif; font-size:10px;"><br />=0A														=
+	<br />=0A															*CONDTIONS : Offre de bienvenue r&eacute;serv&=
+eacute;e aux nouveaux membres Offre valable une seule fois par foyer (m=
+&ecirc;me nom, m&ecirc;me adresse postale), applicable pour l&#39;achat=
+ de 100 Tirages Photo Classic, format 10x15 ou 11x15cms. Les tirages su=
+ppl&eacute;mentaires, options &eacute;ventuelles et frais d&#39;envoi s=
+eront factur&eacute;s au tarif en vigueur. Offre non cumulable avec d&#=
+39;autres offres promotionnelles. ** Envoy&eacute;s le jour mC*me si le=
+s tirages sont command&eacute;s avant midi. </span> </a></td>=0A							=
+							</tr>=0A													</tbody>=0A												</table>=0A									=
+			</td>=0A											</tr>=0A										</tbody>=0A									</table>=0A=
+									</td>=0A								</tr>=0A							</tbody>=0A						</table>=0A			=
+			</td>=0A					</tr>=0A				</tbody>=0A			</table>=0A			</td>=0A		</tr>=
+=0A	</tbody>=0A</table>=0A</balise_tag><table width=3D"100%" border=3D"=
+0" cellspacing=3D"0" cellpadding=3D"0"  >=20
+<tr>  <td  align=3D"center" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000" >
+Pour vous d&eacute;sinscrire,=20
+<a style=3D"text-decoration:underline" href=3D"http://stats.actudushop.=
+fr/ur/Gr9Ed9z9yPnp5G_2fPMtl6WAKK1hD1SHL2eG_2f76q_2fapUKvuAGjyrkUA4BlJhf=
+w_2blBmOIENbNBcwbw_3d/i.htm" target=3D"_blank" >
+<font face=3D"Verdana" style=3D"font-size:10px" color=3D"#000000">
+suivez ce lien</font></a>
+</font></td>  </tr>
+</table></body>=0A</html>=0A
+
+----=6498b752_5b73_4e29_a077_ddbe608222dd--
+
+----=172b844d_ab0c_4b7b_a0d9_e5fede2d728a--

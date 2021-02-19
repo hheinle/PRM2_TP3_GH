@@ -1,0 +1,245 @@
+Return-Path: <suite5@xpressus.emsmtp.com>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Tue, 13 Jun 2017 14:00:56 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 713D23D1
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 13 Jun 2017 13:59:44 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 696A460309
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 13 Jun 2017 13:59:44 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id dcfg3T5MXpBr for <resp-m2-miage@univ-rennes1.fr>;
+	Tue, 13 Jun 2017 13:59:44 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 440D760304
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 13 Jun 2017 13:59:44 +0200 (CEST)
+Received: from mxb2-1.relay.renater.fr (mxb2-1.relay.renater.fr [194.214.200.8])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id 3C91A2003A
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 13 Jun 2017 13:59:44 +0200 (CEST)
+Received: from uspmta121022.emsmtp.com (uspmta121022.emsmtp.com [185.4.121.22])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-1.relay.renater.fr (asm) with ESMTPS id BFF1260766
+	for <resp-m2-miage@univ-rennes1.fr>; Tue, 13 Jun 2017 14:00:05 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=key2; d=send.tosamail.com;
+ h=To:Subject:From:MIME-Version:List-Id:List-Unsubscribe:Content-Type:Message-ID:Date; i=marie@send.tosamail.com;
+ bh=BejxJDTbhOWCUvMx+pVYWl/VpJ5iaKMZ4elZtJX3XPs=;
+ b=OKS3PuNxSozq9wiNJjN6s9Vziir91wzpfZ07WFGZ2tZYRLQp+aTw816w1a2KcYO0LqrDrPHBawoI
+   9r9KB0fofAyM0uuK0n/18SndXBlP3P69Od9kgtSC3ErOu64GABTDU7s6XtkYRuxpiBsoE4jXOD3x
+   qt3K4MRn95MHAwxrnec=
+Received: from (10.33.0.181) by uspmta121022.emsmtp.com id h7v9qu16nmce for <resp-m2-miage@univ-rennes1.fr>; Tue, 13 Jun 2017 13:59:43 +0200 (envelope-from <suite5@xpressus.emsmtp.com>)
+To: resp-m2-miage@univ-rennes1.fr
+Subject: LA certification TOSA Photoshop pour vos =?UTF-8?Q?=C3=A9tudiants=20?=
+X-Mailer: class SMTPMail
+From: "Marie Civade" <marie@send.tosamail.com>
+MIME-Version: 1.0
+List-Id: 289526873 <Marie Civade>
+X-EMarSys-Identify: 289526873_819260_587
+X-EMarSys-Environment: suite5
+X-Report-Abuse: Please report abuse here: abuse-report@emarsys.com
+X-CSA-Complaints: whitelist-complaints@eco.de
+List-Unsubscribe: <mailto:list-unsubscribe+289526873_819260_587_5c7wWl4jlo@emarsys.net>, <https://list-unsubscribe.eservice.emarsys.net/api/unsubscribe/289526873_819260_587_5c7wWl4jlo>
+Content-Type: multipart/alternative;
+ boundary="--=_---NextPart--=_-l00NrSnrV6"
+Message-ID: <0.1.35.1D3.1D2E43C8B6E345A.0@uspmta121022.emsmtp.com>
+Date: Tue, 13 Jun 2017 13:59:43 +0200
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 185.4.121.22
+X-Bizanga: IMP - mxb2-1.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrjeefgdegjecutefuodetggdotefrodftvfcurfhrohhfihhlvgemucftgffptefvgfftpdggtfgfnhhsuhgsshgtrhhisggvnecuuegrihhlohhuthemuceftddtnecundfotefknffkpffiucdludejmdenucfjughrpefvuffohfggjefjtgesrgdttderredtjeenucfhrhhomhepfdforghrihgvucevihhvrgguvgdfuceomhgrrhhivgesshgvnhgurdhtohhsrghmrghilhdrtghomheqnecuffhomhgrihhnpehishhoghhrrggurdgtohhmpdhtohhsrghmrghilhdrtghomhdpmhhonhgtohhmphhtvghfohhrmhgrthhiohhnrdhgohhuvhdrfhhrnecukfhppedukeehrdegrdduvddurddvvdenucfrrghrrghmpehmohguvgepshhmthhppdhhvghlohepuhhsphhmthgruddvuddtvddvrdgvmhhsmhhtphdrtghomhdpihhnvghtpedukeehrdegrdduvddurddvvddpmhgrihhlfhhrohhmpehsuhhithgvheesgihprhgvshhsuhhsrdgvmhhsmhhtphdrtghomhdprhgtphhtthhopehrvghsphdqmhdvqdhmihgrghgvsehunhhivhdqrhgvnhhnvghsuddrfhhr 
+X-Renater-ServerName: mxb2-1.relay.renater.fr
+
+
+----=_---NextPart--=_-l00NrSnrV6
+Content-Type: text/plain; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+Pour afficher la version graphique (HTML) de cet email, cliquez sur
+l'url suivant ou copiez-le dans votre navigateur :
+http://tracking.tosamail.com/u/gm.php?prm=3D5c7wWl4jlo_289526873_819260_587
+
+Si vous ne souhaitez plus recevoir d'emails de notre part et vous
+d=C3=A9sinscrire de notre liste de diffusion, cliquez ici SVP
+http://tracking.tosamail.com/u/un.php?par=3D5c7wWl4jlo_819260_587_$sid$
+----=_---NextPart--=_-l00NrSnrV6
+Content-Type: text/html; charset=utf-8
+Content-transfer-encoding: quoted-printable
+
+<html><head>
+<title>ISOGRAD</title>
+<meta content=3D"text/html; charset=3DUTF-8" http-equiv=3D"Content-Type" />
+<style type=3D"text/css">
+a:link {=09color: #eb5f69;=09text-decoration: none;
+}
+a:visited {=09text-decoration: none;=09color: #666666;
+}
+a:hover {=09text-decoration: none;=09color: #eb5f69;=09cursor:pointer;
+}
+a:active {=09text-decoration: none;=09color: #eb5f69;
+}
+</style>
+</head>
+<body bgcolor=3D"#FFFFFF"><table width=3D"100%" cellpadding=3D"0" cellspaci=
+ng=3D"0" border=3D"0"><tr><td align=3D"center"><font face=3D"Arial, Helveti=
+ca" size=3D"1" style=3D"font-size:9px;color:#6d6d6d">Si vous n=E2=80=99arri=
+vez pas =C3=A0 lire cet e-mail, reportez-vous au lien suivant. <br> <a href=
+=3D"http://tracking.tosamail.com/u/gm.php?prm=3D5c7wWl4jlo_289526873_819260=
+_587" target=3D"_blank"><font face=3D"Arial, Helvetica" size=3D"1" style=3D=
+"font-size:9px;color:#6d6d6d; text-decoration: none;">http://tracking.tosam=
+ail.com/u/gm.php?prm=3D5c7wWl4jlo_289526873_819260_587</font></a><br></font=
+></td></tr></table>
+<br />
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" border=3D"0" wi=
+dth=3D"675"> <tr> <td align=3D"center"><font color=3D"#666666" size=3D"1" f=
+ace=3D"Arial, Helvetica, sans-serif">Pour =C3=AAtre s=C3=BBr(e) de ne pas m=
+anquer nos offres, ajoutez <a href=3D"#">noreply@isograd.com</a> =C3=A0 vot=
+re carnet d'adresses.<br /> </font></td></tr> </table>
+<br />
+<table id=3D"Tableau_01" cellspacing=3D"0" cellpadding=3D"0" align=3D"cente=
+r" border=3D"0" height=3D"476" width=3D"675"> <tr style=3D"width: 100%;">=
+=09<td colspan=3D"3">=09<a href=3D"http://tracking.tosamail.com/u/nrd.php?p=
+=3D5c7wWl4jlo_587_819260_1_17&ems_l=3D831961"><img height=3D"165" width=3D"=
+675" src=3D"https://www.isograd.com/mailimage/mailing/education/header_educ=
+ation.png" /></a></td>=09</tr>=09<tr style=3D"width: 100%;">=09<td valign=
+=3D"top">=09<img height=3D"305" width=3D"5" src=3D"https://s3-eu-west-1.ama=
+zonaws.com/isograd-code-newrelease/common_files/mailimage/template/ombre_g.=
+jpg" /></td>=09<td valign=3D"top" align=3D"left" width=3D"665"> <p> </p> <t=
+able cellspacing=3D"0" cellpadding=3D"0" align=3D"center" border=3D"0" widt=
+h=3D"665"> <tr style=3D"background-color: rgb(255, 255, 255);"> <td align=
+=3D"center">=09<br />=09<font color=3D"#666666" size=3D"5" face=3D"Arial, H=
+elvetica, sans-serif">=09<strong><span style=3D"color: rgb(45, 85, 110);">N=
+ouvelle certification TOSA PHOTOSHOP </span></strong>=09<br />=09</font>=09=
+</td> </tr> <tr> <td align=3D"center">=09<br />=09<font color=3D"#666" size=
+=3D"3" face=3D"Arial, Helvetica, sans-serif">=09<span style=3D"color: rgb(9=
+7, 198, 242);"><strong>Vos =C3=A9tudiants ma=C3=AEtrisent-ils leur futur ou=
+til de travail?<br /></strong></span>=09<br />=09<a style=3D"text-decoratio=
+n: none;" href=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587=
+_819260_1_18&ems_l=3D831961">=09<img width=3D"90" src=3D"https://s3-eu-west=
+-1.amazonaws.com/isograd-code-newrelease/common_files/mailimage/mailing/new=
+sletter_03_17/photoshop.jpg" />=09</a><br /><br /><br /><br />=09</font> </=
+td> </tr> <tr>=09<td style=3D"vertical-align: top;" width=3D"455px;" align=
+=3D"justify"><blockquote>=09<font color=3D"#666" size=3D"3" face=3D"Arial, =
+Helvetica, sans-serif">=09<p>=09Dans un march=C3=A9 professionnel toujours =
+plus concurrentiel, il est essentiel pour les =C3=A9tudiants d'attester pr=
+=C3=A9cis=C3=A9ment de leur niveau de comp=C3=A9tences sur leur <strong>CV<=
+/strong>.=09<br /><br />
+Le <a style=3D"text-decoration: none; color: rgb(235, 95, 105);" href=3D"ht=
+tp://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_2&ems_l=3D=
+831961">TOSA</a>, certification informatique la plus utilis=C3=A9e en Franc=
+e*, d=C3=A9termine pr=C3=A9cis=C3=A9ment les aptitudes informatiques sur un=
+ logiciel donn=C3=A9**. Elle est aujourd'hui une r=C3=A9f=C3=A9rence pour l=
+es recruteurs.
+<br /><br />=09Donnez <strong>une longueur d=E2=80=99avance</strong> =C3=A0=
+ vos =C3=A9tudiants en <strong>certifiant</strong> leur maitrise des techni=
+ques de traitement d'images sur le logiciel <strong>Photoshop d'Adobe Syste=
+ms</strong>.=09</p>=09</font>=09</blockquote></td> </tr> <tr style=3D"backg=
+round-color: rgb(245, 245, 245);">=09<td style=3D"vertical-align: top;" wid=
+th=3D"455px;" align=3D"justify"><blockquote>=09<font color=3D"#666" size=3D=
+"3" face=3D"Arial, Helvetica, sans-serif">=09<p>=09<br />=09La certificatio=
+n=09<a style=3D"text-decoration: none; color: rgb(235, 95, 105);" href=3D"h=
+ttp://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_3&ems_l=
+=3D831961">TOSA Photoshop</a>=09couvre <strong>4</strong> domaines de comp=
+=C3=A9tences :=09<br />=09</p>=09<p style=3D"margin-left: 80px; line-height=
+: 25px;">=09<img width=3D"14" src=3D"https://s3-eu-west-1.amazonaws.com/iso=
+grad-code-newrelease/common_files/mailimage/mailing/newsletter_03_17/photos=
+hop_1.png" /> Interface, espace de travail et bases fondamentales <br />=09=
+<img width=3D"14" src=3D"https://s3-eu-west-1.amazonaws.com/isograd-code-ne=
+wrelease/common_files/mailimage/mailing/newsletter_03_17/photoshop_2.png" /=
+> G=C3=A9om=C3=A9trie et corrections de l'image<br />=09<img width=3D"14" s=
+rc=3D"https://s3-eu-west-1.amazonaws.com/isograd-code-newrelease/common_fil=
+es/mailimage/mailing/newsletter_03_17/photoshop_3.png" /> D=C3=A9tourages, =
+masques et photomontage<br />=09<img width=3D"14" src=3D"https://s3-eu-west=
+-1.amazonaws.com/isograd-code-newrelease/common_files/mailimage/mailing/new=
+sletter_03_17/photoshop_4.png" /> Fonctions graphiques et effets, exportati=
+ons et automatisations<br />=09</p>=09<p style=3D"margin-bottom: 0px;">=09E=
+n r=C3=A9sum=C3=A9 :=09</p>=09<p style=3D"margin-left: 80px; margin-top: 0p=
+x; line-height: 25px;">=09<img width=3D"10" src=3D"https://s3-eu-west-1.ama=
+zonaws.com/isograd-code-newrelease/common_files/mailimage/chevron_bleu.png"=
+ /> Questions <strong>interactives</strong><br />=09<img width=3D"10" src=
+=3D"https://s3-eu-west-1.amazonaws.com/isograd-code-newrelease/common_files=
+/mailimage/chevron_bleu.png" /> Test accessible en ligne sans aucune instal=
+lation<br />=09<img width=3D"10" src=3D"https://s3-eu-west-1.amazonaws.com/=
+isograd-code-newrelease/common_files/mailimage/chevron_bleu.png" /> S=E2=80=
+=99adapte au niveau de l=E2=80=99=C3=A9tudiant<br />=09<img width=3D"10" sr=
+c=3D"https://s3-eu-west-1.amazonaws.com/isograd-code-newrelease/common_file=
+s/mailimage/chevron_bleu.png" /> Score de <strong>1 =C3=A0 1000</strong> =
+=C3=A0 reporter sur son CV<br />=09<img width=3D"10" src=3D"https://s3-eu-w=
+est-1.amazonaws.com/isograd-code-newrelease/common_files/mailimage/chevron_=
+bleu.png" /> Obtention d=E2=80=99une certification TOSA officielle=09</p>=
+=09</font>=09</blockquote></td> </tr>=09<tr>=09<td>=09<br />=09<table> <tr>=
+=09<td width=3D"80px"></td>=09<td width=3D"380px">=09<font color=3D"#666" s=
+ize=3D"3" face=3D"Arial, Helvetica, sans-serif">=09<a style=3D"text-decorat=
+ion: none; color: rgb(235, 95, 105);" href=3D"http://tracking.tosamail.com/=
+u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_20&ems_l=3D831961">=09<img width=3D"7=
+0" src=3D"https://s3-eu-west-1.amazonaws.com/isograd-code-newrelease/common=
+_files/mailimage/mailing/newsletter_03_17/photoshop.jpg" />=09</a>=09</font=
+>=09</td>=09<td width=3D"230px">=09<a style=3D"text-decoration: none;" href=
+=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_21&e=
+ms_l=3D831961">=09<img width=3D"230" src=3D"https://www.isograd.com/mailima=
+ge/mailing/education/linkedIn_ajout.png" />=09</a>=09</td>=09</tr> </table>=
+=09<br />=09</td>=09</tr>=09<tr>=09<td width=3D"455px;" align=3D"left"><blo=
+ckquote>=09<font color=3D"#666" size=3D"3" face=3D"Arial, Helvetica, sans-s=
+erif">=09<p>=09<br />=09Pour plus d=E2=80=99informations, contactez-nous au=
+ <strong>01 42 66 28 88</strong> ou via <strong>contact@isograd.com</strong=
+>=09<br /><br />=09=C3=80 bient=C3=B4t,=09<br />=09Marie.=09</p><p>=09<font=
+ face=3D"Arial, Helvetica, sans-serif" size=3D"2" color=3D"#666"><br /> *So=
+urce : <a style=3D"text-decoration: none; color: rgb(235, 95, 105);" href=
+=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_4&em=
+s_l=3D831961">MonCompteFormation.gouv.fr</a> au 1er juin 2017.<br /><br /> =
+**Sujets disponibles : Excel, VBA, Word, PowerPoint, Outlook, Access, TOSA =
+Digital (ma=C3=AEtrise de l=E2=80=99environnement num=C3=A9rique), Photosho=
+p, PHP, Java, C# et HTML.<br /></font> <br /> </p>=09</font>=09</blockquote=
+></td> </tr> </table>=09</td>=09<td valign=3D"top">=09<img height=3D"305" w=
+idth=3D"5" src=3D"https://s3-eu-west-1.amazonaws.com/isograd-code-newreleas=
+e/common_files/mailimage/template/ombre_d.jpg" /></td> </tr> </table>
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" style=3D"backgr=
+ound-color: rgb(116, 117, 117);" border=3D"0" width=3D"675"> <tr> <td width=
+=3D"600"><img usemap=3D"#Map" height=3D"145" width=3D"600" src=3D"http://ww=
+w.isograd.com/mailimage/template/footer_tosa.png" style=3D"margin-left: 40p=
+x;" /></td> </tr> </table>
+<br />
+<table cellspacing=3D"0" cellpadding=3D"0" align=3D"center" border=3D"0" wi=
+dth=3D"675"> <tr> <td align=3D"center"><p><font color=3D"#666666" size=3D"1=
+" face=3D"Arial, Helvetica, sans-serif"><a href=3D"http://tracking.tosamail=
+.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_22&ems_l=3D831961" style=3D"text=
+-decoration: none;">=C2=A9 TOSA 2017 =E2=80=A2 Isograd.com</a><br /></font>=
+</p> <p><font color=3D"#666666" size=3D"1" face=3D"Arial, Helvetica, sans-s=
+erif"> <a href=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587=
+_819260_1_23&ems_l=3D831961" style=3D"text-decoration: none;"><strong>Menti=
+ons l=C3=A9gales</strong></a></font></p></td></tr> </table>
+<map>=09<area href=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo=
+_587_819260_1_24&ems_l=3D831961" coords=3D"524,63,10" shape=3D"circle" />=
+=09<area href=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_=
+819260_1_25&ems_l=3D831961" coords=3D"499,63,10" shape=3D"circle" />=09<are=
+a href=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_=
+1_26&ems_l=3D831961" coords=3D"474,63,10" shape=3D"circle" />=09<area href=
+=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_27&e=
+ms_l=3D831961" coords=3D"449,63,10" shape=3D"circle" />=09<area href=3D"htt=
+p://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_28&ems_l=3D=
+831961" coords=3D"424,63,10" shape=3D"circle" />=09<area href=3D"http://tra=
+cking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_819260_1_29&ems_l=3D831961"=
+ style=3D"cursor: pointer;" coords=3D"378,95,475,110" shape=3D"rect" />=09<=
+area href=3D"http://tracking.tosamail.com/u/nrd.php?p=3D5c7wWl4jlo_587_8192=
+60_1_30&ems_l=3D831961" style=3D"cursor: pointer;" coords=3D"20,40,250,110"=
+ shape=3D"rect" />
+</map>
+<table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr>=
+<td align=3D"center"><font face=3D"Arial, Helvetica" size=3D"1" style=3D"fo=
+nt-size:9px;color:#6d6d6d"><br>Si vous ne souhaitez plus recevoir d'emails =
+de notre part et vous d=C3=A9sinscrire de notre liste de diffusion, cliquez=
+ <a href=3D"http://tracking.tosamail.com/u/un.php?par=3D5c7wWl4jlo_819260_5=
+87_$sid$" target=3D"_blank">ici</a> SVP <br><a href=3D"http://tracking.tosa=
+mail.com/u/un.php?par=3D5c7wWl4jlo_819260_587_$sid$" target=3D"_blank"><fon=
+t face=3D"Arial, Helvetica" size=3D"1" style=3D"font-size:9px;color:#6d6d6d=
+; text-decoration: none;">http://tracking.tosamail.com/u/un.php?par=3D5c7wW=
+l4jlo_819260_587_$sid$</font></a></td></tr></table><img src=3D"http://track=
+ing.tosamail.com/mo/5c7wWl4jlo_289526873_819260_587_831961.gif" height=3D"2=
+" width=3D"2" border=3D"0"></body></html>
+----=_---NextPart--=_-l00NrSnrV6--

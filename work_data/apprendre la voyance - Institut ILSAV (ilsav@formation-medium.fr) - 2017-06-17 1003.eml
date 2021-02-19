@@ -1,0 +1,731 @@
+Return-Path: <ilsav@formation-medium.fr>
+Received: from mailimailo.univ-rennes1.fr ([unix socket])
+	 by mailimailo.univ-rennes1.fr (Cyrus v2.3.16-Fedora-RPM-2.3.16-6.el6_2.5) with LMTPA;
+	 Sat, 17 Jun 2017 10:03:26 +0200
+X-Sieve: CMU Sieve 2.3
+Received: from mailout3.univ-rennes1.fr (mailout3.univ-rennes1.fr [129.20.131.133])
+	by mailimailo.univ-rennes1.fr (Postfix) with ESMTP id 04F21298
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Jun 2017 10:03:26 +0200 (CEST)
+Received: from localhost (vmscanmail.univ-rennes1.fr [129.20.128.134])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id 02B4E603F5
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Jun 2017 10:03:26 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at univ-rennes1.fr
+Received: from mailout3.univ-rennes1.fr ([129.20.131.133])
+	by localhost (vmscanmail.univ-rennes1.fr [129.20.128.134]) (amavisd-new, port 10026)
+	with ESMTP id O7HILTvNreMh for <resp-m2-miage@univ-rennes1.fr>;
+	Sat, 17 Jun 2017 10:03:25 +0200 (CEST)
+Received: from vmmailin.univ-rennes1.fr (vmmailin.univ-rennes1.fr [129.20.128.133])
+	by vmrelais.univ-rennes1.fr (Postfix) with ESMTP id DD64F60071
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Jun 2017 10:03:25 +0200 (CEST)
+Received: from mxb2-2.relay.renater.fr (mxb2-2.relay.renater.fr [194.214.200.9])
+	by vmmailin.univ-rennes1.fr (Postfix) with ESMTP id D26AC20033
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Jun 2017 10:03:25 +0200 (CEST)
+Received: from smtp3-g21.free.fr (smtp3-g21.free.fr [IPv6:2a01:e0c:1:1599::12])
+	(using TLSv1.2 with cipher DHE-RSA-CAMELLIA256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mxb2-2.relay.renater.fr (asm) with ESMTPS id 9EF2760725
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Jun 2017 10:03:49 +0200 (CEST)
+Received: from moi-PC (unknown [37.165.245.168])
+	by smtp3-g21.free.fr (Postfix) with ESMTP id A01F313F8AE
+	for <resp-m2-miage@univ-rennes1.fr>; Sat, 17 Jun 2017 10:03:23 +0200 (CEST)
+Date: Sat, 17 Jun 2017 08:03:19 +0000
+To: resp-m2-miage@univ-rennes1.fr
+From: Institut ILSAV <ilsav@formation-medium.fr>
+Reply-To: ilsav@formation-medium.fr
+Subject: apprendre la voyance
+Message-ID: <7be5e374aba522d1c0be6cc2b61bd565@moi-PC>
+X-Priority: 3
+X-Mailer: PHPMailer 5.2.9 (https://github.com/PHPMailer/PHPMailer/)
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+X-Antivirus: Avast (VPS 170616-2, 16/06/2017), Outbound message
+X-Antivirus-Status: Clean
+X-UCE-Status: YES
+X-UCE-Type: MCE
+X-Original-Source-IP: 2a01:e0c:1:1599::12
+X-Bizanga: IMP - mxb2-2.relay.renater.fr
+X-Renater-SpamState: 11
+X-Renater-SpamScore: 17
+X-Renater-SpamCause: gggruggvucftvghtrhhoucdtuddrfeeljedrkeduucetufdoteggodetrfdotffvucfrrhhofhhilhgvmecutffgpfetvffgtfdpggftfghnshhusghstghrihgsvgenuceurghilhhouhhtmecufedttdenucdnofetkffnkffpifculddujedmnecujfgurhepfffvhfhruffkrffogggtgfeshhekjhdthedtjeenucfhrhhomhepkfhnshhtihhtuhhtucfknffutegguceoihhlshgrvhesfhhorhhmrghtihhonhdqmhgvughiuhhmrdhfrheqnecuffhomhgrihhnpehmjhhtrdhluhdprghvrghsthdrtghomhenucfkphepvdgrtddumegvtdgtmedumeduheelleemmeduvddpfeejrdduieehrddvgeehrdduieeknecurfgrrhgrmhepmhhouggvpehsmhhtphdphhgvlhhopehsmhhtphefqdhgvddurdhfrhgvvgdrfhhrpdhinhgvthepvdgrtddumegvtdgtmedumeduheelleemmeduvddpmhgrihhlfhhrohhmpehilhhsrghvsehfohhrmhgrthhiohhnqdhmvgguihhumhdrfhhrpdhrtghpthhtoheprhgvshhpqdhmvddqmhhirghgvgesuhhnihhvqdhrvghnnhgvshdurdhfrh 
+X-Renater-ServerName: mxb2-2.relay.renater.fr
+
+<!doctype html>
+			                   <html>
+				               	<head>
+					            	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">			
+				                </head>
+				                <body>
+					            	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML lang=en-US><HEAD>
+<META charset=utf-8>
+<META name=GENERATOR content="MSHTML 11.00.9600.18666"></HEAD>
+<BODY>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" bgColor=#343c56>
+  <TBODY>
+  <TR>
+    <TD style="FONT-SIZE: 0px; HEIGHT: 20px; LINE-HEIGHT: 0">&nbsp;</TD></TR>
+  <TR>
+    <TD vAlign=top>
+      <TABLE class=rtable style="WIDTH: 692px; MARGIN: 0px auto" cellSpacing=0 
+      cellPadding=0 width=692 align=center border=0>
+        <TBODY>
+        <TR>
+          <TD class=contenttd 
+          style="BORDER-TOP: #2d2d2d 5px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #0a1124">
+            <TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 align=left>
+              <TBODY>
+              <TR class=hiddentds>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 692px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD></TR>
+              <TR style="HEIGHT: 10px">
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 0px; TEXT-ALIGN: left; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #0a1124"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/1/b0BuiOyJcCgY-QwDWCDdXg/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/142BFA28-BBB7-7D44-6392-C29571158F45_Image_1.png" 
+                              width=643 
+                    height=238></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><STRONG><SPAN 
+                  style="FONT-SIZE: 26px; LINE-HEIGHT: 39px">I</SPAN></STRONG><SPAN 
+                  style="COLOR: #a7a7a7">nstitut</SPAN> <STRONG><SPAN 
+                  style="FONT-SIZE: 26px; LINE-HEIGHT: 39px">L</SPAN></STRONG><SPAN 
+                  style="COLOR: #a7a7a7">ibre</SPAN> <STRONG><SPAN 
+                  style="FONT-SIZE: 26px; LINE-HEIGHT: 39px">S</SPAN></STRONG><SPAN 
+                  style="COLOR: #a7a7a7">up&eacute;rieur</SPAN> <SPAN 
+                  style="COLOR: #a7a7a7">des</SPAN> <STRONG><SPAN 
+                  style="FONT-SIZE: 26px; LINE-HEIGHT: 39px">A</SPAN></STRONG><SPAN 
+                  style="COLOR: #a7a7a7">rts</SPAN> <SPAN 
+                  style="COLOR: #a7a7a7">di</SPAN><STRONG><SPAN 
+                  style="FONT-SIZE: 26px; LINE-HEIGHT: 39px">V</SPAN></STRONG><SPAN 
+                  style="COLOR: #a7a7a7">inatoires</SPAN></P></TH></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=contenttd 
+          style="PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #a75265">
+            <TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 align=left>
+              <TBODY>
+              <TR class=hiddentds>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 216px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 476px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD></TR>
+              <TR style="HEIGHT: 20px">
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 5px; TEXT-ALIGN: left; PADDING-TOP: 12px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-COLOR: #bb7484"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 2px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/2/kjUHyOkoOcuVBmUOFsnsuw/aHR0cDovL3d3dy5pbHNhdi5jb20vcHJhdGljaWVuLXZveWFuY2UuaHRtbA" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/B60DE901-3658-C93B-FC3D-E75A7FE1D100_Image_2.jpg" 
+                              width=177 
+                    height=196></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH>
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: middle; FONT-WEIGHT: normal; PADDING-BOTTOM: 8px; TEXT-ALIGN: left; PADDING-TOP: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BACKGROUND-COLOR: #a75265">
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=left><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/3/AJsT3zuqFgM7E38e3nSDTw/aHR0cDovL3d3dy5pbHNhdi5jb20vcHJhdGljaWVuLXZveWFuY2UuaHRtbA" 
+                  target=_blank>PRATICIEN EN PARAPSYCHOLOGIE</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 15px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 22px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=left><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/4/eQl1KJcYO6b6mRALGe43QA/aHR0cDovL3d3dy5pbHNhdi5jb20vcHJhdGljaWVuLXZveWFuY2UuaHRtbA" 
+                  target=_blank>15 jours de formation pour appr&eacute;hender l&#039;art de 
+                  la voyance et de la m&eacute;diumnit&eacute;. Nous vous garantissons que 
+                  vous serez capable de pr&eacute;dire des &eacute;v&eacute;nements dans le pass&eacute; et 
+                  le futur proche ou lointain avec beaucoup d&#039;efficacit&eacute; et de 
+                  bienveillance.</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="right">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: right; MARGIN-LEFT: auto; MARGIN-RIGHT: 0px" 
+                  cellSpacing=0 cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/5/NydfPLGrPLa4F5AdYQG6dA/aHR0cDovL3d3dy5pbHNhdi5jb20vcHJhdGljaWVuLXZveWFuY2UuaHRtbA" 
+                        target=_blank><IMG title="" border=none 
+                        alt="D&eacute;couvrir ce cursus unique en France" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/E56CAFD6-D22F-D801-F492-218232F815CB_Image_3.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=contenttd 
+          style="BORDER-TOP: #0a1124 5px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #0a1124">
+            <TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 align=left>
+              <TBODY>
+              <TR class=hiddentds>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD></TR>
+              <TR style="HEIGHT: 20px">
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #dac58e"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/6/i5GT5Sq8RPMOK2jKa_yGsA/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/7EBC52FA-B895-2AEF-6AD7-52C00C7C4FFE_Image_4.png" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #f6b21d" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/7/Xd9f-DrRDSZEGmddYt3YZQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank><SPAN 
+                  style="COLOR: #feffff">PENDULE</SPAN></A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/8/eIGkT9EYx-eTktp_WGsYcQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>Gr&acirc;ce au PENDULE, obtenez des r&eacute;ponses &agrave; des 
+                  questions de toute nature ...</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/9/hsfpNDWrJ7hRW_CyR1QmJQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/0A840642-6F70-CE4E-FE85-ED4A4EBEA31D_Image_5.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH>
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #bb7484"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/10/p0ScAd2aaBCTRWBtoAtGSw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/2E08DD94-50B6-11C3-4F18-3E3AB7883948_Image_6.png" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/11/kGp1Gqeavn3DZM4e2eVZ4g/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>TAROTS</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/12/eVbllZ1pnwlgkg3_eGCqrA/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>Lisez l&#039;avenir dans les Tarots et aidez vos 
+                  consultants &agrave; pr&eacute;parer leur futur ...</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/13/fOHNVJhPGBU9lvUIVHRwpg/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/B8D549D8-D29C-B41E-D229-75B532BD5B9B_Image_7.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH>
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #573856"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/14/Ou13JFlHaYjhN35JxB9dWQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/B41D0058-8605-CE22-AA93-BEA898B324D8_Image_8.jpg" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/15/crPTPb0UcBsjIptquW-1Yg/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>MÉDIUMNITÉ</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/16/3uyak3AZMWxNyyuLFV1vfw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>La m&eacute;diumnit&eacute; n&#039;est pas qu&#039;un don. La capacit&eacute; 
+                  de recevoir les informations</A> ...</P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/17/Jf4PFSuVC_3kF-9nYKmiAA/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/0CC2470B-4D0A-F785-D9F8-00B1A9065884_Image_9.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=contenttd 
+          style="BORDER-TOP: #0a1124 5px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #0a1124">
+            <TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 align=left>
+              <TBODY>
+              <TR class=hiddentds>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 230px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD></TR>
+              <TR style="HEIGHT: 423px">
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #dac58e"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/18/9bAkxWSp8Trbhtykyo04xQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/2F4C38CB-9448-C1AC-C5AD-2486333A0B9E_Image_10.jpg" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/19/3r1TU2ZPuN4m2Vwut2kQng/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>TÉLÉKINESIE</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/20/nv60eAf6xZZb2TihxPVH9Q/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>Apprenez &agrave; faire bouger des petits objets 
+                  uniquement par la force de la pens&eacute;e ...</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/21/uMaGzfYVraXEjCvgVT1Rjg/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/0EEE18C9-8190-8E01-8FDF-AFDBF8823AC2_Image_11.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH>
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #bb7484"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/22/9mq7oi705mh7cgaUqERw_Q/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/4D76628B-7F1D-EF3F-46F2-994D01B2DFA2_Image_12.jpg" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/23/RZPtcCcSwNZlyEePMz1F_w/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>Voyage ASTRAL</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center>V<A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/24/l0aPgu6LpsNZgt-Aztuzhw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>oyagez dans l&#039;Astral o&ugrave; vous voulez, selon vos 
+                  d&eacute;sirs et sans risque ...</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/25/i0KJOyWtIMBZp8Q7t4Jv-w/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/06B3FB18-6377-9CA9-82CE-B377F28B9B42_Image_13.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH>
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #573856"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/26/G5sxMhxlL7dnlq0guMQ9uA/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/88BA3EC9-893A-1231-0BA6-09959904C706_Image_14.jpg" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/27/wJNYPlUwz99hcjBmdITRsQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>LES AURAS</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center>V<A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/28/IMwBLW_ya0P1s8KknHAYnQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>oir et lire les auras. D&eacute;chiffrez les vibrations 
+                  de couleur...</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/29/YSU9rbO9V5OPXP2eZdkkGg/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/CD123A00-A509-0292-A133-2A6274C3FC01_Image_15.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=contenttd 
+          style="BORDER-TOP: #0a1124 5px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #0a1124">
+            <TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 align=left>
+              <TBODY>
+              <TR class=hiddentds>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 231px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD></TR>
+              <TR style="HEIGHT: 20px">
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #dac58e"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/30/2KVUirxS6SfBmzI7Sz952Q/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/350E99F9-80CD-E385-A194-2791A8852F69_Image_16.png" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #f6b21d" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/31/l8NlRRBF0619fzmN5UbIPw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank><SPAN 
+                  style="COLOR: #feffff">TÉLÉPATHIE</SPAN></A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/32/kR5uR8rxHLLq_MJQLPOMaw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>La t&eacute;l&eacute;pathie a &eacute;t&eacute; prouv&eacute;e en 2016. Mais vous 
+                  le saviez d&eacute;j&agrave; depuis longtemps ...</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/33/e-IsVpz1Bd9cRiS2OFZFdw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/A7DDACFC-492C-83A1-FD87-C3388134DE0F_Image_17.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH>
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #bb7484"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/34/7or0eD32ERfs9pcWZbSmHQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/16E7D509-F9EE-07C2-B90E-C28768C0D154_Image_18.jpg" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/35/2ycgkO0kM0QeVfQewRfLSw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>ASTROLOGIE</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/36/Rpm11qBlz6o4rk1L0CJyWA/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>Les bases de l&#039;Astrologie : Étudiez l&#039;impact de 
+                  chaque plan&egrave;te ..</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/37/xKYsiVbQTnNEeyPkc-I3hQ/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/768D6F9B-1F58-BC8D-233C-720C7897AC54_Image_19.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH>
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #573856"><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class=imgtable style="MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 align=center border=0>
+                    <TBODY>
+                    <TR>
+                      <TD 
+                      style="PADDING-BOTTOM: 15px; PADDING-TOP: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px" 
+                      align=center>
+                        <TABLE cellSpacing=0 cellPadding=0 border=0>
+                          <TBODY>
+                          <TR>
+                            <TD style="BACKGROUND-COLOR: transparent"><A 
+                              href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/38/W-nDGcMlJmnu7QZSq-ffWA/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                              target=_blank><IMG style="DISPLAY: block" hspace=0 
+                              alt="" 
+                              src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/85A90027-55A5-A792-A413-47D483EE5070_Image_20.jpg" 
+                              width=176 
+                    height=176></A></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]-->
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 24px; FONT-FAMILY: geneve, arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 36px; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/39/se8316MIRYsEyy8LAE8GLg/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                  target=_blank>AUTRES VIES</A></P>
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 14px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 21px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><A title="" 
+                  style="TEXT-DECORATION: none; COLOR: #feffff" 
+                  href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/40/1wTNBLWYq6mTCAp1o6w1XA/aHR0cDovL3d3dy5pbHNhdi5jb20v">Apprenez 
+                  &agrave; faire des r&eacute;gressions dans vos vies ant&eacute;rieures ...</A></P><!-- [if gte mso 12]>
+    <table cellspacing="0" cellpadding="0" border="0" width="100%"><tr><td align="center">
+<![endif]-->
+                  <TABLE class="imgtable btnset" 
+                  style="TEXT-ALIGN: center; MARGIN: 0px auto" cellSpacing=0 
+                  cellPadding=0 border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=contenttd 
+                      style="VERTICAL-ALIGN: middle; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px"><A 
+                        href="http://6kwy.mjt.lu/lnk/AEEALat7eTYAAAAAAAAAAGooaXgAARpfY7YAAAAAAAe35ABZNVChAXzyX1erSk6Ax38e2hgCogAHWaI/41/azr6S7Ydjf2U_2HxDCDAdw/aHR0cDovL3d3dy5pbHNhdi5jb20v" 
+                        target=_blank><IMG title="" border=none alt="En voir +" 
+                        src="https://mailchef.s3.amazonaws.com/uploads/mailstyler/images/30A10570-7053-0F16-01FF-E5075D7FD419_Image_21.png"> 
+                        </A></TD></TR></TBODY></TABLE><!-- [if gte mso 12]>
+    </td></tr></table>
+<![endif]--></TH></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=contenttd 
+          style="BORDER-TOP: #0a1124 5px solid; BORDER-RIGHT: medium none; BORDER-BOTTOM: medium none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 0px; BORDER-LEFT: medium none; PADDING-RIGHT: 0px; BACKGROUND-COLOR: #2d2d2d">
+            <TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 align=left>
+              <TBODY>
+              <TR class=hiddentds>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 692px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD></TR>
+              <TR style="HEIGHT: 10px">
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: middle; FONT-WEIGHT: normal; PADDING-BOTTOM: 20px; TEXT-ALIGN: left; PADDING-TOP: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: #0a1124">
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 12px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #feffff; MARGIN-TOP: 0px; LINE-HEIGHT: 14px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><SPAN style="COLOR: #feffff">&nbsp; 
+              </SPAN></P></TH></TR></TBODY></TABLE></TD></TR>
+        <TR>
+          <TD class=contenttd 
+          style="PADDING-BOTTOM: 1px; PADDING-TOP: 1px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-COLOR: transparent">
+            <TABLE style="WIDTH: 100%" cellSpacing=0 cellPadding=0 align=left>
+              <TBODY>
+              <TR class=hiddentds>
+                <TD 
+                style="FONT-SIZE: 0px; HEIGHT: 0px; WIDTH: 692px; LINE-HEIGHT: 0; mso-line-height-rule: exactly">&nbsp;</TD></TR>
+              <TR style="HEIGHT: 10px">
+                <TH class=contenttd 
+                style="VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-BOTTOM: 1px; TEXT-ALIGN: left; PADDING-TOP: 1px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND-COLOR: transparent">
+                  <P 
+                  style="MARGIN-BOTTOM: 1em; FONT-SIZE: 12px; FONT-FAMILY: arial, helvetica, sans-serif; COLOR: #7c7c7c; MARGIN-TOP: 0px; LINE-HEIGHT: 14px; BACKGROUND-COLOR: transparent; mso-line-height-rule: exactly" 
+                  align=center><SPAN style="COLOR: #feffff"><BR>Pour ne plus 
+                  recevoir de mails de notre part, r&eacute;pondez simplement &agrave; ce mail 
+                  en mettant&nbsp; STOP &nbsp;dans 
+              l&#039;objet.</SPAN></P></TH></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></TD></TR>
+  <TR>
+    <TD 
+  style="FONT-SIZE: 0px; HEIGHT: 8px; LINE-HEIGHT: 0">&nbsp;</TD></TR></TBODY></TABLE><div id="DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2"><br /> <table style="border-top: 1px solid #D3D4DE;">
+	<tr>
+      <td style="width: 55px; padding-top: 18px;"><a href="https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient" target="_blank"><img src="https://ipmcdn.avast.com/images/icons/icon-envelope-tick-round-orange-animated-no-repeat-v1.gif" alt="" width="46" height="29" style="width: 46px; height: 29px;" /></a></td>
+		<td style="width: 470px; padding-top: 17px; color: #41424e; font-size: 13px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Garanti sans virus. <a href="https://www.avast.com/sig-email?utm_medium=email&utm_source=link&utm_campaign=sig-email&utm_content=emailclient" target="_blank" style="color: #4453ea;">www.avast.com</a> 		</td>
+	</tr>
+</table>
+<a href="#DAB4FAD8-2DD7-40BB-A1B8-4E2AA1F9FDF2" width="1" height="1"> </a></div></BODY></HTML>
+
+				                </body>
+			                   </html>
+
