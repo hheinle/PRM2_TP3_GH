@@ -4,18 +4,22 @@ import com.itextpdf.text.pdf.parser.PdfReaderContentParser;
 import com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy;
 import com.itextpdf.text.pdf.parser.TextExtractionStrategy;
 import org.apache.commons.io.FileUtils;
+import org.apache.commons.mail.util.MimeMessageParser;
+import org.jsoup.Jsoup;
 
+
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStream;
 import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Optional;
+import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
+import javax.mail.*;
+import javax.mail.internet.MimeMessage;
 
 public class MailAnalyzer {
 
@@ -85,7 +89,7 @@ public class MailAnalyzer {
             int count = 0;
             for (Path aFile : stream) {
                 System.out.println("Analyse fichier n°: " + count++);
-                String fileString = this.parsePdf(aFile.toFile().toString());
+                String fileString = this.parseEmail(aFile.toFile().toString());
                 Map<String, Integer> map = fileString.lines()
                         .flatMap(line -> Stream.of(line.split("\\s+")))
                         .map(String::toLowerCase)
@@ -141,24 +145,36 @@ public class MailAnalyzer {
      * @param fileName PDF's file to parse.
      * @return String with file's content.
      */
-    private String parsePdf(String fileName) {
-        StringBuilder textFromPdf = new StringBuilder();
+    private String parseEmail(String fileName) {
+        Properties props = System.getProperties();
+        props.put("mail.host", "smtp.dummydomain.com");
+        props.put("mail.transport.protocol", "smtp");
+
+        String emailText = "";
         try {
-            PdfReader reader = new PdfReader(fileName);
-            PdfReaderContentParser parser = new PdfReaderContentParser(reader);
-            TextExtractionStrategy strategy;
-            for (int i = 1; i <= reader.getNumberOfPages(); i++) {
-                strategy = parser.processContent(i, new SimpleTextExtractionStrategy());
-                textFromPdf.append(" " + strategy.getResultantText());
+            Session mailSession = Session.getDefaultInstance(props, null);
+            InputStream source = new FileInputStream(fileName);
+            MimeMessage message = new MimeMessage(mailSession, source);
+            MimeMessageParser parser = new MimeMessageParser(message);
+            emailText = parser.parse().getHtmlContent();
+            if(emailText != null) {
+                emailText = Jsoup.parse(emailText).text();
             }
-            reader.close();
-        } catch (InvalidPdfException e) {
-            e.printStackTrace();
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
+            emailText+=parser.parse().getPlainContent();
+
+
+        }
+        catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        return textFromPdf.toString();
+        catch (MessagingException e) {
+            e.printStackTrace();
+        }
+        catch (IOException e) {
+            e.printStackTrace();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+        return emailText;
     }
 }
