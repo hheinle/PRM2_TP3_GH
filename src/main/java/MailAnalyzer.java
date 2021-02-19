@@ -11,52 +11,64 @@ import java.nio.charset.Charset;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Map;
-import java.util.Optional;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
+/**
+ * Analyse de mails pour déterminer
+ * ceux qui sont intéressants.
+ */
 public class MailAnalyzer {
 
-    public static final String PATH_EML_A_TRIER = "work_data";
-    public static final String PATH_MAILS_OK = "ok";
-    public static final String PATH_MAILS_KO = "ko";
+    public static final String PATH_EML_A_TRIER = "work_data_test";
     public static final String PATH_CORPUS_STAGE = "lexical_data/words";
     public static final String PATH_CORPUS_SPAM = "lexical_data/spam_words";
+    public static final String PATH_MAILS_OK = "ok";
+    public static final String PATH_MAILS_KO = "ko";
 
     /**
      * Vocabulaire de référence
      * sur les stages.
      */
     ArrayList<String> wordsList;
+    /**
+     * Vocabulaire de référence
+     * sur les mail spams.
+     */
     ArrayList<String> spamWordsList;
-    HashMap<String, HashMap<String, Integer>> fileScoresMap;
-    HashMap<String, HashMap<String, Integer>> ok;
-    HashMap<String, HashMap<String, Integer>> ko;
-    HashMap<String, HashMap<String, Integer>> cleanData;
+    /**
+     * Noms des fichiers .eml considérés
+     * comme "normaux"
+     */
+    ArrayList<String> ok;
+    /**
+     * Noms des fichiers .eml considérés
+     * comme "spams"
+     */
+    ArrayList<String> ko;
 
     /**
-     * Constructor.
+     * Constructeur.
      */
     public MailAnalyzer() {
         wordsList = new ArrayList<>();
-        fileScoresMap = new HashMap<>();
-        ok = new HashMap<>();
-        cleanData = new HashMap<>();
+        spamWordsList = new ArrayList<>();
+        ok = new ArrayList<>();
+        ko = new ArrayList<>();
     }
 
     /**
-     * Launch the analyse.
+     * Lancement de l'analyse.
      */
     public void launch() throws IOException {
         this.cleanOkKoDirectory();
         this.getReferenceWords();
-        this.browseFiles();
+        this.analyseMails();
     }
 
     /**
-     * Clear the directory that will contains the doubons.
+     * Nettoyage des répertoires.
      */
     private void cleanOkKoDirectory() throws IOException {
         FileUtils.cleanDirectory(Paths.get(PATH_MAILS_OK).toFile());
@@ -64,7 +76,7 @@ public class MailAnalyzer {
     }
 
     /**
-     * Get the list of words that will be the corpus.
+     * Récupération des corpus.
      */
     private void getReferenceWords() {
         try {
@@ -77,58 +89,56 @@ public class MailAnalyzer {
     }
 
     /**
-     * Dedoublonnage.
+     * Redirection des mails vers les dossiers
+     * "ok" ou "ko".
      */
-    private void browseFiles() {
+    private void analyseMails() {
         Path dir = Paths.get(PATH_EML_A_TRIER);
         try (DirectoryStream<Path> stream = Files.newDirectoryStream(dir)) {
             int count = 0;
             for (Path aFile : stream) {
-                System.out.println("Analyse fichier n°: " + count++);
+                System.out.println("Analyse mail n°: " + count++);
                 String fileString = this.parsePdf(aFile.toFile().toString());
-                Map<String, Integer> map = fileString.lines()
+
+                // calcul du score "stage"
+                Map<String, Integer> mapScoreStage = fileString.lines()
                         .flatMap(line -> Stream.of(line.split("\\s+")))
                         .map(String::toLowerCase)
                         .filter(wordsList::contains)
                         .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum));
 
-                Optional<Map.Entry<String, HashMap<String, Integer>>> optionalOriginal = fileScoresMap.entrySet().stream()
-                        .filter(stringIntegerHashMap -> (!map.isEmpty()) && (aFile.toFile().length() != 0))
-                        .filter(stringIntegerHashMap -> stringIntegerHashMap.getValue().equals(map))
-                        .findFirst();
+                // calcul du score "spam"
+                Map<String, Integer> mapScoreSpam = fileString.lines()
+                        .flatMap(line -> Stream.of(line.split("\\s+")))
+                        .map(String::toLowerCase)
+                        .filter(spamWordsList::contains)
+                        .collect(Collectors.toMap(word -> word, word -> 1, Integer::sum));
+                System.out.println("### Score Stage ###");
+                mapScoreStage.entrySet().forEach(entry -> {
+                    System.out.println(entry.getKey() + " " + entry.getValue());
+                });
+                System.out.println("### Score Spam ###");
+                mapScoreSpam.entrySet().forEach(entry -> {
+                    System.out.println(entry.getKey() + " " + entry.getValue());
+                });
 
-                if (optionalOriginal.isPresent()) {
-                    // putting the second file
-                    ok.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
-                    // putting the "original" file
-                    ok.put(optionalOriginal.get().getKey(), optionalOriginal.get().getValue());
-//                    Files.copy(aFile, Paths.get(PATH_DOUBLONS + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
-//                    Files.copy(Path.of(PATH_EML_A_TRIER + "/" + Path.of(optionalOriginal.get().getKey())),
-//                            Paths.get(PATH_DOUBLONS + "/" + Path.of(optionalOriginal.get().getKey())), StandardCopyOption.REPLACE_EXISTING);
+                if (mapScoreStage.isEmpty() || mapScoreSpam.size() > 0) {
+                    System.out.println("--> KO");
+                    ko.add(aFile.getFileName().toString());
+                    Files.copy(aFile, Paths.get(PATH_MAILS_KO + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
                 } else {
-                    cleanData.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
+                    System.out.println("--> OK");
+                    ok.add(aFile.getFileName().toString());
+                    Files.copy(aFile, Paths.get(PATH_MAILS_OK + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
                 }
-                fileScoresMap.put(aFile.getFileName().toString(), (HashMap<String, Integer>) map);
             }
 
-//            System.out.println("####### SCORES : #######");
-//            fileScoresMap.entrySet().forEach(entry -> {
-//                System.out.println(entry.getKey() + " " + entry.getValue());
-//            });
-//            System.out.println("####### FIN SCORES : #######");
-//
-//            System.out.println("####### CLEAN DATA : #######");
-//            cleanData.entrySet().forEach(entry -> {
-//                System.out.println(entry.getKey() + " " + entry.getValue());
-//            });
-//            System.out.println("####### FIN CLEAN DATA : #######");
-
-            System.out.println("####### DOUBLONS : #######");
-//            System.out.println("Taille liste " + PATH_DOUBLONS + " = " + doublons.size());
-            ok.entrySet().forEach(entry -> {
-                System.out.println(entry.getKey() + " " + entry.getValue());
-            });
-            System.out.println("####### FIN DOUBLONS : #######");
+            System.out.println("####### RESULTATS : #######");
+            System.out.println("### NB OK : ###");
+            System.out.println(ok.size());
+            System.out.println("### NB KO : ###");
+            System.out.println(ko.size());
+            System.out.println("####### FIN RESULTATS : #######");
 
         } catch (IOException e) {
             e.printStackTrace();
