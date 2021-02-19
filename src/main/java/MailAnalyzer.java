@@ -1,13 +1,10 @@
-import com.itextpdf.text.exceptions.InvalidPdfException;
-import com.itextpdf.text.pdf.PdfReader;
-import com.itextpdf.text.pdf.parser.PdfReaderContentParser;
-import com.itextpdf.text.pdf.parser.SimpleTextExtractionStrategy;
-import com.itextpdf.text.pdf.parser.TextExtractionStrategy;
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.mail.util.MimeMessageParser;
 import org.jsoup.Jsoup;
 
-
+import javax.mail.MessagingException;
+import javax.mail.Session;
+import javax.mail.internet.MimeMessage;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -20,8 +17,6 @@ import java.util.Map;
 import java.util.Properties;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
-import javax.mail.*;
-import javax.mail.internet.MimeMessage;
 
 /**
  * Analyse de mails pour déterminer
@@ -130,7 +125,10 @@ public class MailAnalyzer {
                     System.out.println(entry.getKey() + " " + entry.getValue());
                 });
 
-                if (mapScoreStage.isEmpty() || mapScoreSpam.size() > 0) {
+                int nbStageWords = mapScoreStage.values().stream().reduce(0, Integer::sum);
+                int nbSpamWords = mapScoreSpam.values().stream().reduce(0, Integer::sum);
+
+                if (nbStageWords < 5 || nbSpamWords > 6) {
                     System.out.println("--> KO");
                     ko.add(aFile.getFileName().toString());
                     Files.copy(aFile, Paths.get(PATH_MAILS_KO + "/" + aFile.getFileName().toString()), StandardCopyOption.REPLACE_EXISTING);
@@ -171,20 +169,17 @@ public class MailAnalyzer {
             MimeMessage message = new MimeMessage(mailSession, source);
             MimeMessageParser parser = new MimeMessageParser(message);
             emailText = parser.parse().getHtmlContent();
-            if(emailText != null) {
+            if (emailText != null) {
                 emailText = Jsoup.parse(emailText).text();
             }
-            emailText+=parser.parse().getPlainContent();
+            emailText += parser.parse().getPlainContent();
 
 
-        }
-        catch (FileNotFoundException e) {
+        } catch (FileNotFoundException e) {
             e.printStackTrace();
-        }
-        catch (MessagingException e) {
+        } catch (MessagingException e) {
             e.printStackTrace();
-        }
-        catch (IOException e) {
+        } catch (IOException e) {
             e.printStackTrace();
         } catch (Exception e) {
             e.printStackTrace();
